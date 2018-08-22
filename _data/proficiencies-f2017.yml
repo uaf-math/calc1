@@ -1,0 +1,58 @@
+semester: Fall 2017
+home: assets/proficiencies/Fall2017
+derivative:
+  versions:
+    - name: V1 
+      blank: Derivative_Proficiency_Fall_17_v1.pdf
+      solutions: Derivative_Proficiency_Fall_17_v1-Sols.pdf
+    - name: V2 
+      blank: Derivative_Proficiency_Fall_17_v2.pdf
+      solutions: Derivative_Proficiency_Fall_17_v2-Sols.pdf
+    - name: V3 
+      blank: Derivative_Proficiency_Fall_17_v3.pdf
+      solutions: Derivative_Proficiency_Fall_17_v3-Sols.pdf
+    - name: V4
+      blank: Derivative_Proficiency_Fall_17_v1-Retake1.pdf
+      solutions: Derivative_Proficiency_Fall_17_v1-Retake1-Sols.pdf
+    - name: V5
+      blank: Derivative_Proficiency_Fall_17_v2-Retake1.pdf
+      solutions: Derivative_Proficiency_Fall_17_v2-Retake1-Sols.pdf
+    - name: V6
+      blank: Derivative_Proficiency_Fall_17_v3-Retake1.pdf
+      solutions: Derivative_Proficiency_Fall_17_v3-Retake1-Sols.pdf
+    - name: V7
+      blank: Derivative_Proficiency_Fall_17_R2-v1.pdf
+      solutions: Derivative_Proficiency_Fall_17_R2-v1-Sols.pdf
+    - name: V8
+      blank: Derivative_Proficiency_Fall_17_R2-v2.pdf
+      solutions: Derivative_Proficiency_Fall_17_R2-v2-Sols.pdf
+    - name: V9
+      blank: Derivative_Proficiency_Fall_17_R2-v3.pdf
+      solutions: Derivative_Proficiency_Fall_17_R2-v3-Sols.pdf
+
+integral:
+  versions:
+    - name: V1 
+      blank: Integral_Proficiency_Fall_17_v1.pdf
+      solutions: Integral_Proficiency_Fall_17_v1-Sols.pdf
+    - name: V2
+      blank: Integral_Proficiency_Fall_17_v2.pdf
+      solutions: Integral_Proficiency_Fall_17_v2-Sols.pdf
+    - name: V3
+      blank: Integral_Proficiency_Fall_17_v3.pdf
+      solutions: Integral_Proficiency_Fall_17_v3-Sols.pdf
+    - name: V4
+      blank: Integral_Proficiency_Fall_17_v4.pdf
+      solutions: Integral_Proficiency_Fall_17_v4-Sols.pdf
+    - name: V5
+      blank: Integral_Proficiency_Fall_17_redo_v1.pdf
+      solutions: Integral_Proficiency_Fall_17_redo_v1-Sols.pdf
+    - name: V6
+      blank: Integral_Proficiency_Fall_17_redo_v2.pdf
+      solutions: Integral_Proficiency_Fall_17_redo_v2-Sols.pdf
+    - name: V7
+      blank: Integral_Proficiency_Fall_17_redo_v3.pdf
+      solutions: Integral_Proficiency_Fall_17_redo_v3-Sols.pdf
+    - name: V8
+      blank: Integral_Proficiency_Fall_17_redo_v4.pdf
+      solutions: Integral_Proficiency_Fall_17_redo_v4-Sols.pdf

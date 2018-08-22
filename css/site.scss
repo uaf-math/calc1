@@ -244,3 +244,21 @@ table.asst-table {
     }
 
 }
+
+table.inner {
+    border-collapse: collapse;
+    padding: 0px;
+
+    th, td {
+      white-space:nowrap;
+      word-break:break-all;
+      padding-top:0px; 
+      padding-right:4px; 
+      padding-bottom:0px; 
+      padding-left:0px;
+      text-align:left;
+      border: none;
+    }
+
+}
+

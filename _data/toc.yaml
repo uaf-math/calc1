@@ -18,13 +18,10 @@ docs:
   url: quizzes.html
 
 - title: Midterms
-  url: exams.html#midterms
+  url: exams.html
 
 - title: Proficiencies
   url: exams.html#proficiencies
 
 - title: Final Exams
   url: exams.html#finals
-
-- title: Lecture Notes
-  url: notes.html

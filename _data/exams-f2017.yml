@@ -1,0 +1,27 @@
+semester: Fall 2017
+home: assets/exams/Fall2017
+midterm1:
+  versions:
+    - name: V1 
+      blank: Midterm-1-v1.pdf
+      solutions: Midterm-1-v1-Sols.pdf
+    - name: V2
+      blank: Midterm-1-v2.pdf
+      solutions: Midterm-1-v2-Sols.pdf
+    - name: V3
+      blank: Midterm-1-v3.pdf
+      solutions: Midterm-1-v3-Sols.pdf
+midterm2:
+  versions:
+    - name: V1 
+      blank: Midterm-2-v1.pdf
+      solutions: Midterm-2-v1-Sols.pdf
+    - name: V2
+      blank: Midterm-2-v2.pdf
+      solutions: Midterm-2-v2-Sols.pdf
+    - name: V3
+      blank: Midterm-2-v3.pdf
+      solutions: Midterm-2-v3-Sols.pdf
+final: 
+  blank: M251_F17_Final_Exam.pdf
+  solutions: M251_F17_Final_Exam-Sols.pdf
