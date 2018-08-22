@@ -76,16 +76,28 @@ body {
   }
 }
 
+.main-body {
+  .page-header{
+    height: $header-height;
+    background-color: $pale-cornflower;
+    font-size: 120%;
+    font-weight: bold;
+    line-height: $header-height;
+    padding-left: $med-space;
 
 
-.page-header{
-  height: $header-height;
-  background-color: $pale-cornflower;
-  font-size: 120%;
-  font-weight: bold;
-  line-height: $header-height;
-  padding-left: $med-space;
+    a {
+      padding: 0;
+      color: red;
+      text-decoration: none;
+    }
+
+    a:visited {
+      color: black;  
+    }
+  }
 }
+
 .page-content{
   padding-left: $med-space;
   padding-bottom: 20px;
