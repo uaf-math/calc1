@@ -7,7 +7,7 @@ Midterms, proficiencies and final exams
 from past semesters (and the current semester, as we progress) 
 are available below. 
 
-### <a id="midterms"></a>Midterms
+<a id="midterms"></a>Midterms
 
 <table class="asst-table">
 <tr><th>Semester</th><th>Midterm I</th><th>Midterm II</th></tr>
