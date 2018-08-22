@@ -1,0 +1,30 @@
+sidenav_title: 'Math 251'
+
+docs:
+
+- title: Syllabus
+  url: assets/M251_Calculus-I_Syllabus_Spring_18.pdf
+
+- title: Schedule
+  url: assets/MATH251-Schedule-F2018.pdf
+
+- title: WebAssign
+  url: https://www.webassign.net/wa-auth/login
+
+- title: Written Homework
+  url: writtenhomework.html
+
+- title: Quizzes
+  url: quizzes.html
+
+- title: Midterms
+  url: exams.html#midterms
+
+- title: Proficiencies
+  url: exams.html#proficiencies
+
+- title: Final Exams
+  url: exams.html#finals
+
+- title: Lecture Notes
+  url: notes.html

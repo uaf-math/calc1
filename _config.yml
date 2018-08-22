@@ -1,0 +1,5 @@
+# Build settings
+
+keep_files: [ "Erlangen.mp4" ]
+
+markdown: kramdown
