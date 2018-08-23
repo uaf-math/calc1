@@ -1,3 +1,4 @@
+<div class="x-scroll">
 <table class="asst-table">
 <tr><th>Assignment</th><th>Due</th><th>Problems</th></tr>
 {% for asst in include.data %}
@@ -11,3 +12,4 @@
 </tr>
 {% endfor %}
 </table>
+</div>
