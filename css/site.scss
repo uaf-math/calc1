@@ -277,4 +277,16 @@ table.inner {
     }
 
 }
-
+ 
+a.button {
+  padding: 12px 12px 12px 12px;
+  color: black;
+  background-color: $pale-cornflower;
+  font: bold 20px;
+}
+a.button:visited {
+  color: black;  
+}
+a.button:hover {
+  background-color: $cornflower;
+}
