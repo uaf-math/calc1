@@ -7,12 +7,12 @@ Welcome to the central homepage for all sections of UAF Calculus I, Fall 2018.
 
 ### Important Links
 
-* Grades and written homework solutions are available at [BlackBoard](classes.uaf.edu).
-* Course communication (e.g announcements!) will use [Piazza](piazza.com/uaf/fall2018/math251/home).  You'll need
-   to [sign up](piazza.com/uaf/fall2018/math251) to start using the service.
+* Grades and written homework solutions are available at [BlackBoard](http://classes.uaf.edu).
+* Course communication (e.g announcements!) will use [Piazza](http://piazza.com/uaf/fall2018/math251/home).  You'll need
+   to [sign up](http://piazza.com/uaf/fall2018/math251) to start using the service.
 
 * Individual instructors may have resources specific to their sections on their web sites.
 	{: list-style-type: disc}
 	- Section F01: Ed Bueler
 	- Section F02: Caleb Jurkowski
-	- Section F03: [David Maxwell](damaxwell.github.io)
+	- Section F03: [David Maxwell](http://damaxwell.github.io)
