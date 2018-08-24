@@ -233,15 +233,16 @@ li {
 }
 
 
-.table-box{
-  overflow-x: scroll;
-  -webkit-overflow-scrolling: touch;  
-  margin-right: 5px;
-  margin-bottom: 5px;
+img {
+  white-space: nowrap;  
 }
+
 
 div.x-scroll{
   overflow-x: scroll;  
+  -webkit-overflow-scrolling: touch;  
+  width: 100%;
+  white-space: nowrap;
 }
 
 table.asst-table {

@@ -31,32 +31,33 @@ The first homework and quiz of the class use the online software ALEKS PPL to he
 2. Go to [ALEKS](https://www.aleks.com) and click on the yellow new
    student button.
 
-   ![login](assets/ALEKS/login.png){: width="250px"}
+   <div class='x-scroll'><p><img src="assets/ALEKS/login.png" alt="login" width="250px" /></p></div>
 
 3. Enter the class code **L39JV-4W9Q4** in the next screen.
 
-   ![class code](assets/ALEKS/classcode.png){: width="250px"}
+   <div class='x-scroll'><p><img src="assets/ALEKS/classcode.png" alt="class code" width="250px" /></p></div>
 
 4. After confirming that you are enrolling in our cohort, you will be asked
    if you already have an ALEKS login name or not.  If you do, and you remember
    its password, you are welcome to use it.  Otherwise, proceed as a new 
    user.
 
-   ![loginname](assets/ALEKS/loginname.png){: width="500px"}
+   <div class='x-scroll'><p><img src="assets/ALEKS/loginname.png" alt="login name" width="500px" /></p></div>
 
 5. In the following Course Access page, select the "I have non-ecommerce access to ALEKS" option (it's in small red letters!). 
 
-   ![registration](assets/ALEKS/registration.png){:width="500px"}
+   <div class='x-scroll'><p><img src="assets/ALEKS/registration.png" alt="registration" width="500px" /></p></div>
 
 5. Then enter your individual ALEKS access code.
 
-   ![access code](assets/ALEKS/access-code.png){:width="500px"}
+
+   <div class='x-scroll'><p><img src="assets/ALEKS/access-code.png" alt="access code" width="500px" /></p></div>
 
 6. You will be asked for student information at this point. It is essential
 that you enter your UAF student ID correctly on this page; this is how we
 will identify your score and give you credit for your work.
 
-   ![access code](assets/ALEKS/passwd-id.png){:width="500px"}
+   <div class='x-scroll'><p><img src="assets/ALEKS/passwd-id.png" alt="password/id" width="500px" /></p></div>
 
 ## Working with ALEKS PPL
 
@@ -68,7 +69,7 @@ future. When your assessment is done, you'll receive a score between 0 and 100.
 
 After your assessment is complete, you'll want to start working with the Prep and Learning Module.  There is only one choice for the learning, module, **Prep for Calculus**, and you'll want to be using it.
 
-   ![learning module](assets/ALEKS/learning-module.png){:width="300px"}
+   <div class='x-scroll'><p><img src="assets/ALEKS/learning-module.png" alt="learning-module" width="300px" /></p></div>
 
 You'll need to either spend at least 10 hours using the learning module, or complete 90% of your pie.  You can see your progress by clicking on Reports
 in the menu at the upper left-hand corner of the learning module screen.
