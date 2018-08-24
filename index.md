@@ -14,5 +14,5 @@ Welcome to the central homepage for all sections of UAF Calculus I, Fall 2018.
 * Individual instructors may have resources specific to their sections on their web sites.
 	{: list-style-type: disc}
 	- Section F01: Ed Bueler
-	- Section F02: [David Maxwell](damaxwell.github.io)
-	- Section F03: Caleb Jurkowski
+	- Section F02: Caleb Jurkowski
+	- Section F03: [David Maxwell](damaxwell.github.io)
