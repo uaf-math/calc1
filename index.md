@@ -18,7 +18,7 @@ Welcome to the central homepage for all sections of UAF Calculus I, Fall 2018.
 * Grades and written homework solutions are available at [BlackBoard](http://classes.uaf.edu).
 
 * Individual instructors may have resources specific to their sections on their web sites.  Here is the link if needed:
-	{: list-style-type: disc}
+
 	- Section F01: [Ed Bueler](http://bueler.github.io)
 	- Section F02: Caleb Jurkowski
 	- Section F03: [David Maxwell](http://damaxwell.github.io)
