@@ -1,6 +1,6 @@
 ---
 layout: course-page
-title: Exams
+title: WebAssign
 ---
 
 ## WebAssign
