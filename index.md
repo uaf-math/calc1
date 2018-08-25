@@ -9,7 +9,7 @@ Welcome to the central homepage for all sections of UAF Calculus I, Fall 2018.
 
 * See the [schedule](assets/general/Fall2018/MATH251-Schedule-F2018.pdf).  Go there often to find out what happens next.
 
-* Course communication (e.g announcements!) will use [Piazza](http://piazza.com/uaf/fall2018/math251/home).  [Sign up](http://piazza.com/uaf/fall2018/math251) to start using it.
+* Course communication (e.g announcements!) will use [Piazza](http://piazza.com/uaf/fall2018/math251/home).  Start by [signing up with Piazza](http://piazza.com/uaf/fall2018/math251).
 
 * See the [Week 1](week1) menu item to get started with the ALEKS PPL (placement, preparation, and learning) test.  You need to log in to ALEKS by Tuesday, August 28.  You will need to either complete 10 hours or 90% of your pie in ALEKS PPL's learning mode by the end of the day of Monday, September 3.
 
