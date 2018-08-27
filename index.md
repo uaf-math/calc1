@@ -3,7 +3,7 @@ layout: course-page
 title: Math F251 Calculus I
 ---
 
-Welcome to the central homepage for all sections of UAF Calculus I, Fall 2018.
+Welcome to the central homepage for all sections of UAF Calculus I in Fall 2018.
 
 ### Getting Started
 
@@ -23,3 +23,4 @@ Welcome to the central homepage for all sections of UAF Calculus I, Fall 2018.
 	- Section F02: Caleb Jurkowski
 	- Section F03: [David Maxwell](http://damaxwell.github.io)
 
+* We are in the [Dept. of Mathematics and Statistics (DMS)](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
