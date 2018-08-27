@@ -1,136 +1,128 @@
-- name: Quiz 1.5
-  home: assets/quizzes/Fall2017
-  versions:
-    - name: Version 1
-      blank: Quiz-1-5-v1.pdf
-      solutions: Quiz-1-5-v1-solns.pdf
-    - name: Version 2
-      blank: Quiz-1-5-v2.pdf
-      solutions: Quiz-1-5-v2-solns.pdf
-    - name: Version 3
-      blank: Quiz-1-5-v3.pdf
-      solutions: Quiz-1-5-v3-solns.pdf
+semester: Fall 2017
+home: assets/quizzes/Fall2017
+quizzes:
+  - name: Quiz 1.5
+    versions:
+      - name: Version 1
+        blank: Quiz-1-5-v1.pdf
+        solutions: Quiz-1-5-v1-solns.pdf
+      - name: Version 2
+        blank: Quiz-1-5-v2.pdf
+        solutions: Quiz-1-5-v2-solns.pdf
+      - name: Version 3
+        blank: Quiz-1-5-v3.pdf
+        solutions: Quiz-1-5-v3-solns.pdf
 
-- name: Quiz 2
-  home: assets/quizzes/Fall2017
-  versions:
-    - name: Version 1
-      blank: Quiz-2-v1.pdf
-      solutions: Quiz-2-v1-soln.pdf
-    - name: Version 2
-      blank: Quiz-2-v2.pdf
-      solutions: Quiz-2-v2-soln.pdf
-    - name: Version 3
-      blank: Quiz-2-v3.pdf
-      solutions: Quiz-2-v3-soln.pdf
+  - name: Quiz 2
+    versions:
+      - name: Version 1
+        blank: Quiz-2-v1.pdf
+        solutions: Quiz-2-v1-soln.pdf
+      - name: Version 2
+        blank: Quiz-2-v2.pdf
+        solutions: Quiz-2-v2-soln.pdf
+      - name: Version 3
+        blank: Quiz-2-v3.pdf
+        solutions: Quiz-2-v3-soln.pdf
 
-- name: Quiz 3 
-  home: assets/quizzes/Fall2017
-  versions:
-    - name: Version 1
-      blank: Quiz-3-v1.pdf
-      solutions: Quiz-3-v1 Solns.pdf
-    - name: Version 2
-      blank: Quiz-3-v2.pdf
-      solutions: Quiz-3-v2 Solns.pdf
-    - name: Version 3
-      blank: Quiz-3-v3.pdf
-      solutions: Quiz-3-v3 Solns.pdf
+  - name: Quiz 3 
+    versions:
+      - name: Version 1
+        blank: Quiz-3-v1.pdf
+        solutions: Quiz-3-v1 Solns.pdf
+      - name: Version 2
+        blank: Quiz-3-v2.pdf
+        solutions: Quiz-3-v2 Solns.pdf
+      - name: Version 3
+        blank: Quiz-3-v3.pdf
+        solutions: Quiz-3-v3 Solns.pdf
 
-- name: Quiz 4
-  home: assets/quizzes/Fall2017
-  versions:
-    - name: Version 1
-      blank: Quiz-4-v1.pdf
-      solutions: Quiz-4-v1-soln.pdf
-    - name: Version 2
-      blank: Quiz-4-v2.pdf
-      solutions: Quiz-4-v2-soln.pdf
-    - name: Version 3
-      blank: Quiz-4-v3.pdf
-      solutions: Quiz-4-v3-soln.pdf
+  - name: Quiz 4
+    versions:
+      - name: Version 1
+        blank: Quiz-4-v1.pdf
+        solutions: Quiz-4-v1-soln.pdf
+      - name: Version 2
+        blank: Quiz-4-v2.pdf
+        solutions: Quiz-4-v2-soln.pdf
+      - name: Version 3
+        blank: Quiz-4-v3.pdf
+        solutions: Quiz-4-v3-soln.pdf
 
-- name: Quiz 5
-  home: assets/quizzes/Fall2017
-  versions:
-    - name: Version 1
-      blank: Quiz-5-v1.pdf
-      solutions: Quiz-5-v1-solutions (1).pdf
-    - name: Version 2
-      blank: Quiz-5-v2.pdf
-      solutions: Quiz-5-v2-solutions (1).pdf
-    - name: Version 3
-      blank: Quiz-5-v3.pdf
-      solutions: Quiz-5-v3-solutions (2).pdf
+  - name: Quiz 5
+    versions:
+      - name: Version 1
+        blank: Quiz-5-v1.pdf
+        solutions: Quiz-5-v1-solutions (1).pdf
+      - name: Version 2
+        blank: Quiz-5-v2.pdf
+        solutions: Quiz-5-v2-solutions (1).pdf
+      - name: Version 3
+        blank: Quiz-5-v3.pdf
+        solutions: Quiz-5-v3-solutions (2).pdf
 
-- name: Quiz 6
-  home: assets/quizzes/Fall2017
-  versions:
-    - name: Version 1
-      blank: Quiz6-v1.pdf
-      solutions: Quiz6-v1-Solution.pdf
-    - name: Version 2
-      blank: Quiz6-v2.pdf
-      solutions: Quiz6-v2-Solution.pdf
-    - name: Version 3
-      blank: Quiz6-v2.pdf
-      solutions: Quiz6-v2-Solution.pdf
+  - name: Quiz 6
+    versions:
+      - name: Version 1
+        blank: Quiz6-v1.pdf
+        solutions: Quiz6-v1-Solution.pdf
+      - name: Version 2
+        blank: Quiz6-v2.pdf
+        solutions: Quiz6-v2-Solution.pdf
+      - name: Version 3
+        blank: Quiz6-v2.pdf
+        solutions: Quiz6-v2-Solution.pdf
 
-- name: Quiz 7
-  home: assets/quizzes/Fall2017
-  versions:
-    - name: Pretend
-      blank: Quiz-7-Pretend.pdf
-      solutions: Quiz-7-Pretend-Solutions.pdf
+  - name: Quiz 7
+    versions:
+      - name: Pretend
+        blank: Quiz-7-Pretend.pdf
+        solutions: Quiz-7-Pretend-Solutions.pdf
 
-- name: Quiz 8
-  home: assets/quizzes/Fall2017
-  versions:
-    - name: Version 1
-      blank: Quiz8-v1.pdf
-      solutions: Quiz8-v1-solution.pdf
-    - name: Version 2
-      blank: Quiz8-v2.pdf
-      solutions: Quiz8-v2-solution.pdf
-    - name: Version 3
-      blank: Quiz8-v3.pdf
-      solutions: Quiz8-v3-solution.pdf
+  - name: Quiz 8
+    versions:
+      - name: Version 1
+        blank: Quiz8-v1.pdf
+        solutions: Quiz8-v1-solution.pdf
+      - name: Version 2
+        blank: Quiz8-v2.pdf
+        solutions: Quiz8-v2-solution.pdf
+      - name: Version 3
+        blank: Quiz8-v3.pdf
+        solutions: Quiz8-v3-solution.pdf
 
-- name: Quiz 9
-  home: assets/quizzes/Fall2017
-  versions:
-    - name: Version 1
-      blank: Quiz9-v1.pdf
-      solutions: Quiz9-v1-soln.pdf
-    - name: Version 2
-      blank: Quiz9-v2.pdf
-      solutions: Quiz9-v2-soln.pdf
-    - name: Version 3
-      blank: Quiz9-v3.pdf
-      solutions: Quiz9-v3-soln.pdf
+  - name: Quiz 9
+    versions:
+      - name: Version 1
+        blank: Quiz9-v1.pdf
+        solutions: Quiz9-v1-soln.pdf
+      - name: Version 2
+        blank: Quiz9-v2.pdf
+        solutions: Quiz9-v2-soln.pdf
+      - name: Version 3
+        blank: Quiz9-v3.pdf
+        solutions: Quiz9-v3-soln.pdf
 
-- name: Quiz 10
-  home: assets/quizzes/Fall2017
-  versions:
-    - name: Version 1
-      blank: Quiz-10-v1.pdf
-      solutions: Quiz-10-v1-soln.pdf
-    - name: Version 2
-      blank: Quiz-10-v2.pdf
-      solutions: Quiz-10-v2-soln.pdf
-    - name: Version 3
-      blank: Quiz-10-v3.pdf
-      solutions: Quiz-10-v3-soln.pdf
+  - name: Quiz 10
+    versions:
+      - name: Version 1
+        blank: Quiz-10-v1.pdf
+        solutions: Quiz-10-v1-soln.pdf
+      - name: Version 2
+        blank: Quiz-10-v2.pdf
+        solutions: Quiz-10-v2-soln.pdf
+      - name: Version 3
+        blank: Quiz-10-v3.pdf
+        solutions: Quiz-10-v3-soln.pdf
 
-- name: Quiz 11
-  home: assets/quizzes/Fall2017
-  versions:
-    - name: Version 1
-      blank: Quiz-11-v1.pdf
-      solutions: Quiz-11-v1-Solutions-B.pdf
-    - name: Version 2
-      blank: Quiz-11-v2.pdf
-      solutions: Quiz-11-v2-Solutions-B.pdf
-    - name: Version 3
-      blank: Quiz-11-v3.pdf
-      solutions: Quiz-11-v3-Solutions-B.pdf
+  - name: Quiz 11
+    versions:
+      - name: Version 1
+        blank: Quiz-11-v1.pdf
+        solutions: Quiz-11-v1-Solutions-B.pdf
+      - name: Version 2
+        blank: Quiz-11-v2.pdf
+        solutions: Quiz-11-v2-Solutions-B.pdf
+      - name: Version 3
+        blank: Quiz-11-v3.pdf
+        solutions: Quiz-11-v3-Solutions-B.pdf
