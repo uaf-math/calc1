@@ -1,0 +1,20 @@
+semester: Older Samples
+home: assets/proficiencies/Fall2017/Samples
+derivative:
+  versions:
+    - name: V1 
+      blank: PublicExample1.pdf
+      solutions: PublicExample1-soln.pdf
+    - name: V2 
+      blank: PublicExample2.pdf
+      solutions: PublicExample2-soln.pdf
+integral:
+  versions:
+    - name: V1 
+      blank: Sample_Integral_Proficiency_Fall_17_v1.pdf
+      solutions: Sample_Integral_Proficiency_Fall_17_v1-soln.pdf
+    - name: V2
+      blank: Sample_Integral_Proficiency_Fall_17_v2.pdf
+      solutions: Sample_Integral_Proficiency_Fall_17_v2-soln.pdf
+
+

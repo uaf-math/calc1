@@ -24,6 +24,7 @@ are available below.
 <tr><th>Semester</th><th>Derivative</th><th>Integral</th></tr>
 	{% include proficiency-row.md data=site.data.proficiencies-s2018 %}
 	{% include proficiency-row.md data=site.data.proficiencies-f2017 %}
+	{% include proficiency-row.md data=site.data.proficiencies-sample %}
 </table>
 </div>
 
