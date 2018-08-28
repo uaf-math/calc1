@@ -24,6 +24,7 @@ On Wednesday, January 24 we will have a worksheet that uses a Google Docs spread
 ### Lecture Notes (Section F02: Faudree)
 {% assign data = site.data.materials-s2018.lecture-notes %}
 {% assign home = site.data.materials-s2018.lecture-notes.home %}
+<div class="x-scroll">
 <table class="asst-table">
 {% for item in data.items %}
 {% if item.special %}
@@ -59,3 +60,4 @@ On Wednesday, January 24 we will have a worksheet that uses a Google Docs spread
 {% endif %}
 {% endfor %}
 </table>
+</div>

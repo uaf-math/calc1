@@ -14,6 +14,7 @@ title: "Course Materials: Fall 2017"
 
 {% assign data = site.data.materials-f2017.recitations %}
 {% assign home = site.data.materials-f2017.recitations.home %}
+<div class="x-scroll">
 <table class="asst-table">
 <tr><th> Recitation</th><th>Topics</th><th>Worksheet</th></tr>
 {% for w in data.worksheets %}
@@ -28,11 +29,13 @@ title: "Course Materials: Fall 2017"
 </tr>
 {% endfor %}
 </table>
+</div>
 
 ### Lecture Notes
 
 {% assign data = site.data.materials-f2017.lecture-notes %}
 {% assign home = site.data.materials-f2017.lecture-notes.home %}
+<div class="x-scroll">
 <table class="asst-table">
 {% for item in data.items %}
 {% if item.special %}
@@ -68,3 +71,4 @@ title: "Course Materials: Fall 2017"
 {% endif %}
 {% endfor %}
 </table>
+</div>
