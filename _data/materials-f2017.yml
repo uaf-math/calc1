@@ -1,0 +1,227 @@
+lecture-notes:
+  home: assets/materials/Fall2017/lecture-notes
+  items:
+    - special: Day 1 Slides
+      file: Day1-attendance.pdf
+    - chapter: 1
+      subhome: "Chapter 1"
+      notes:
+        - topic: Section 1.1
+          filled: 1-1-Four-Ways-to-Represent-a-Function-Solutions.pdf
+          blank: 1-1-Four-Ways-to-Represent-a-Function.pdf
+        - topic: Section 1.3
+          filled: 1-3-New-Functions-from-Old-Functions-Solutions.pdf
+          blank: 1-3-New-Functions-from-Old-Functions.pdf
+        - topic: Section 1.4
+          filled: 1-4-Exponential-Functions-Solutions.pdf
+          blank: 1-4-Exponential-Functions.pdf
+        - topic: Section 1.5
+          filled: 1-5-Trigonometry-Review-and-Trig-Functions-Solutions.pdf
+          blank: 1-5-Trigonometry-Review-and-Trig-Functions.pdf
+    - chapter: 2
+      subhome: "Chapter 2"
+      notes:
+        - topic: Section 2.1
+          filled: 2-1-Tangent-and-Velocity-Problems-Solns.pdf
+          blank: 2-1-Tangent-and-Velocity-Problems-blank.pdf
+        - topic: Section 2.2
+          filled: 2-2-The-Limit-of-a-Function-Solutions-B.pdf
+          blank: 2-2-The-Limit-of-a-Function-cmp.pdf
+        - topic: Section 2.3
+          filled: 2-3-Calculating-Limits-Using-Limit-Laws-Completed-B.pdf
+          blank: 2-3-Calculating-Limits-Using-Limit-Laws.pdf
+        - topic: Section 2.4 (Day 1)
+          filled: 2-4-Precise-Definition-Limit-day1-cmplt.pdf
+          blank: 2-4-Precise-Definition-Limit-day1.pdf
+        - topic: Section 2.4 (Day 2)
+          filled: 2-4-Precise-Definition-Limit-day-2-cmplt.pdf
+          blank: 2-4-Precise-Definition-Limit-day-2.pdf
+        - topic: Section 2.5 (Day 1)
+          filled: 2-5-Continuity-(Day 1)-cmplt.pdf
+          blank:  2-5-Continuity-(Day 1).pdf
+        - topic: Section 2.5 (Day 2)
+          filled: 2-5-Continuity-(Day-2)-soln.pdf
+          blank: 2-5-Continuity-(Day-2).pdf
+        - topic: Section 2.6
+          filled: 2-6-Limits-at-Infinity-Solutions-B.pdf
+          blank: 2-6-Limits-at-Infinity.pdf
+        - topic: Section 2.7
+          filled: 2-7-Derivatives-and-Rates-of-Change-Solutions.pdf
+          blank: 2-7-Derivatives-and-Rates-of-Change.pdf
+        - topic: Section 2.8
+          filled: 2-8-The-Derivative-as-a-Function-Solutions.pdf
+          blank: 2-8-The-Derivative-as-a-Function.pdf
+    - special: Chapters 1 and 2 Review
+      filled: "Chapter 2/Chapters-1-and-2-Review-solutions.pdf"
+      blank: "Chapter 2/Chapters-1-and-2-Review.pdf"
+    - chapter: 3
+      subhome: "Chapter 3"
+      notes:
+        - topic: Section 3.1
+          filled: 3-1-Derivatives-of-Polynomials-and-Exponentials-Solutions.pdf
+          blank: 3-1-Derivatives-of-Polynomials-and-Exponentials.pdf
+        - topic: Section 3.2
+          filled: 3-2-The-Product-and-Quotient-Rules-Solutions.pdf
+          blank: 3-2-The-Product-and-Quotient-Rules.pdf
+        - topic: Section 3.3 
+          filled: 3-3-Derivatives-of-Trig-Functions-Solutions.pdf
+          blank: 3-3-Derivatives-of-Trig-Functions.pdf
+        - topic: Section 3.4
+          filled: 3-4-The-Chain-Rule-Solutions.pdf
+          blank:  3-4-The-Chain-Rule.pdf
+        - topic: Section 3.5
+          filled: 3-5-Implicit-Differentiation-1-Solutions.pdf
+          blank: 3-5-Implicit-Differentiation-1.pdf
+        - topic: Section 3.5 (Day 2)
+          filled: 3-5-Implicit-Differentiation-2-Solutions.pdf
+          blank: 3-5-Implicit-Differentiation-2.pdf
+        - topic: Section 3.6
+          filled: 3-6-Derivatives-of-Logarithmic-Functions-Solutions.pdf
+          blank: 3-6-Derivatives-of-Logarithmic-Functions.pdf
+        - topic: Section 3.7
+          filled: 3-7-Rates-of-Change-in-the-Natural-and-Social-Sciences-Solutions.pdf
+          blank: 3-7-Rates-of-Change-in-the-Natural-and-Social-Sciences.pdf
+        - topic: Section 3.8
+          filled: 3-8-Exponential-Growth-and-Decay-Solutions.pdf
+          blank: 3-8-Exponential-Growth-and-Decay.pdf
+        - topic: Section 3.9
+          filled: 3-9-Related-Rates-Solutions.pdf
+          blank: 3-9-Related-Rates.pdf    
+        - topic: Section 3.10
+          filled: 3-10-Linear-Approximation-Solutions.pdf
+          blank: 3-10-Linear-Approximation.pdf
+    - chapter: 4
+      subhome: "Chapter 4"
+      notes:
+        - topic: Section 4.1
+          filled: 4-1-Maximums-and-Minimums-part-1-solutions.pdf
+          blank: 4-1-Maximums-and-Minimums-part-1.pdf
+        - topic: Section 4.2
+          filled: 4-2-The-Mean-Value-Theorem-solutions.pdf
+          blank: 4-2-The-Mean-Value-Theorem.pdf
+        - topic: Section 4.2 (Day 2)
+          filled: 4-2-The-Mean-Value-Theorem-day-2-solutions.pdf
+          blank: 4-2-The-Mean-Value-Theorem-day-2.pdf
+        - topic: Section 4.3
+          filled: 4-3-How-Derivatives-Affect-the-Shape-of-a-Graph-part-1-soln.pdf
+          blank: 4-3-How-Derivatives-Affect-the-Shape-of-a-Graph-part-1.pdf
+        - topic: Section 4.4
+          filled: 4-4_Indeterminant-Forms-and-Lhospitals-Rule-(part 1)-soln.pdf
+          blank: 4-4_Indeterminant-Forms-and-Lhospitals-Rule-(part 1).pdf
+        - topic: Section 4.4 (Day 2)
+          filled: 4-4_Indeterminant-Forms-and-Lhospitals-Rule-(part-2)-soln.pdf
+          blank: 4-4_Indeterminant-Forms-and-Lhospitals-Rule-(part-2).pdf
+        - topic: Section 4.5
+          filled: 4-5-Curve-Sketching-part-1-soln.pdf
+          blank: 4-5-Curve-Sketching-part-1.pdf
+        - topic: Section 4.5 (Day 2)
+          filled: 4-5-Curve-Sketching-part-2-soln.pdf
+          blank: 4-5-Curve-Sketching-part-2.pdf
+        - topic: Section 4.7
+          filled: 4-7-Optimization-part-1-soln.pdf
+          blank: 4-7-Optimization-part-1.pdf
+        - topic: Section 4.8
+          filled: 4-8-Newtons-Method-part-1-soln.pdf
+          blank: 4-8-Newtons-Method-part-1.pdf
+        - topic: section 4.8 (Day 2)
+          filled: 4-8-Newtons-Method-part-2-soln.pdf
+          blank: 4-8-Newtons-Method-part-2.pdf
+        - topic: Section 4.9
+          filled: 4-9-Antiderivatives-soln.pdf
+          blank: 4-9-Antiderivatives.pdf
+    - special: "Chapters 3 and 4 Review"
+      filled: "Chapter 3/Ch_3-and-4_Review-soln.pdf"
+      blank: "Chapter 3/Ch_3-and-4_Review.pdf"
+    - chapter: 5
+      subhome: "Chapter 5"
+      notes:
+        - topic: Section 5.1
+          filled: 5-1-Areas-and-Distances-Solutions.pdf
+          blank: 5-1-Areas-and-Distances.pdf
+        - topic: Section 5.2
+          filled: 5-2-The-Definite-Integral-Solutions.pdf
+          blank: 5-2-The-Definite-Integral.pdf
+        - topic: Section 5.3
+          filled: 5-3-FTC-1-Solutions.pdf
+          blank: 5-3-FTC-1.pdf
+        - topic: Section 5.4
+          filled: 5-4-Indefinite-Integrals-Solutions.pdf
+          blank: 5-4-Indefinite-Integrals.pdf
+        - topic: Section 5.5
+          filled: 5-5-The-Substitution-Rule-1-Solutions.pdf
+          blank: 5-5-The-Substitution-Rule-1.pdf
+        - topic: Section 5.5 (Day 2)
+          filled: 5-5-The-Substitution-Rule-2-Solutions.pdf
+          blank: 5-5-The-Substitution-Rule-2.pdf
+        - topic: Section 5.5 (Day 3)
+          filled: 5-5-The-Substitution-Rule-3-Solutions.pdf
+          blank: 5-5-The-Substitution-Rule-3.pdf
+    - special: "Final Review: Chapter 2"
+      filled: Chapter-2-Final-Review-Limits-solutions.pdf
+      blank: Chapter-2-Final-Review-Limits.pdf
+    - special: "Final Review: Chapter 3"
+      filled: Chapter-3-Final-Review-Derivatives-solutions.pdf
+      blank: Chapter-3-Final-Review-Derivatives.pdf
+    - special: "Final Review Chapter 4"
+      filled: Chapter-4-Final-Review-Applications-soln.pdf
+      blank: Chapter-4-Final-Review-Applications.pdf
+    - special: "Final Review Chapter 5"
+      filled: Chapter-5-Final-Review-Antiderivatives-solns.pdf
+      blank: Chapter-5-Final-Review-Antiderivatives.pdf
+
+recitations:
+  home: assets/materials/Fall2017/recitations
+  worksheets:
+    - name: Recitation 1
+      topics: Section 1.2
+      blank: Recitation-1-Section-1-2-Mathematical-Models.pdf
+      filled: Recitation-1-Section-1-2-Mathematical-Models-Solutions.pdf
+    - name: Recitation 3
+      topics: Section 2.3
+      blank:  Recitation_3_Section_2-3_cont.pdf
+      filled: Recitation_3_Section_2-3_cont-solns.pdf
+    - name: Recitation 4
+      topics: Chapter 2 Review
+      filled: Recitation_4_Review_Ch2_sect2-6-soln.pdf
+      blank: Recitation_4_Review_Ch2_sect2-6.pdf
+    - name: Recitation 5
+      topics: Midterm I Review
+      filled: Recitation-5-Review-Midterm_I-solutions-Updated.pdf
+      blank: Recitation-5-Review-Midterm_I.pdf
+    - name: Recitation 6
+      topics: Sections 3.1-3.3
+      filled: Recitation-6-Section-3-1-to-3-3-Solutions.pdf
+      blank: Recitation-6-Section-3-1-to-3-3.pdf
+    - name: Recitation 7
+      topics: Sections 3.4-3.5
+      filled: Recitation-7-Section-3-4-to-3-5-Solutions.pdf
+      blank: Recitation-7-Section-3-4-to-3-5.pdf
+    - name: Recitation 8
+      topics: Section 3.9
+      filled: Recitation-8-Section-3-9-Related-Rates-Solutions-Fixed.pdf
+      blank: Recitation-8-Section-3-9-Related-Rates.pdf
+    - name: Recitation 9 
+      topics: Section 4.1
+      filled: Recitation-9-4-1-Maximums-and-Minimums-part-2-solutions.pdf
+      blank: Recitation-9-4-1-Maximums-and-Minimums-part-2.pdf
+    - name: Recitation 10
+      topics: Section 4.3
+      filled: Recitation-10-4-3-Derivative-and-Shape-part-2-soln.pdf
+      blank: Recitation-10-4-3-Derivative-and-Shape-part-2.pdf
+    - name: Recitation 11
+      topics: Section 4.7
+      filled: Recitation-11_4-7-Optimization-part-2-soln.pdf
+      blank: Recitation-11_4-7-Optimization-part-2.pdf
+    - name: Recitation 12
+      topics: Chapters 3-4 Review
+      filled: Recitation-12_Ch_3-and-4_Review-soln.pdf
+      blank: Recitation-12_Ch_3-and-4_Review.pdf
+    - name: Recitation 13
+      topics: Section 5.3
+      filled: Recitation-13-5-3-FTC-2-Solutions.pdf
+      blank: Recitation-13-Section-5-3-FTC-2.pdf
+    - name: Recitation 14
+      topics: Section 5.4
+      filled: Recitation-14-Section-5-4-Part-2-Solutions.pdf
+      blank: Recitation-14-Section-5-4-Part-2.pdf
+
