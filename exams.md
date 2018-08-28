@@ -14,6 +14,7 @@ are available below.
 <tr><th>Semester</th><th>Midterm I</th><th>Midterm II</th></tr>
 	{% include midterm-row.md data=site.data.exams-s2018 %}
 	{% include midterm-row.md data=site.data.exams-f2017 %}
+	{% include midterm-row.md data=site.data.sample-exams %}
 </table>
 </div>
 
@@ -33,5 +34,6 @@ are available below.
 <tr><th>Semester</th><th>Final Exam</th></tr>
 	{% include final-row.md data=site.data.exams-s2018 %}
 	{% include final-row.md data=site.data.exams-f2017 %}
+	{% include final-row.md data=site.data.sample-exams %}
 </table>
 </div>

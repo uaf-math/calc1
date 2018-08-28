@@ -1,0 +1,32 @@
+semester: Older Samples
+home: assets/exams/Fall2017/Samples
+midterm1:
+  versions:
+    - name: V1 
+      blank: M200MidtermI.pdf
+      solutions: M200MidtermI_Sol.pdf
+    - name: V2
+      blank: M251 Exam 1 Solutions.pdf
+      solutions: Math-251X-Exam-1-F2015.pdf
+midterm2:
+  versions:
+    - name: V1 
+      blank: M200Midterm2.pdf
+      solutions: M200Mid2_solns.pdf
+    - name: V2
+      blank: M200Midterm3.pdf
+      solutions: M200Midterm3-solns.pdf
+    - name: V3
+      blank: Math-251X-Exam-3-blank-Zirbes.pdf
+      solutions: Math-F251X-Midterm-3-Solutions-Zirbes.pdf
+final: 
+  versions:
+    - name: V1
+      blank: M200s12FinalExam_Gordon.pdf
+      solutions: M200s12FinalExam_Gordon_solutions.pdf
+    - name: V2
+      solutions: M200Final_Exam_Jill-solutions.pdf
+      blank: M200Final_Exam_Jill.pdf
+    - name: V3
+      solutions: Math-251X-Final-Summer-2016-Zirbes-Solutions.pdf
+      blank: Math-251X-Final-Summer-2016-Zirbes.pdf

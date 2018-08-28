@@ -1,0 +1,504 @@
+\documentclass[12pt]{article}
+\usepackage[margin=.8in]{geometry}
+\usepackage{amsmath,amssymb,amsthm, latexsym, mathrsfs, pdfsync, multicol,
+%setspace,
+%graphics,
+fancybox, fancyhdr,
+%pictex,
+graphicx, enumerate,
+subfig, tikz}
+
+%\singlespacing
+
+\newcommand{\blankbox}[2]{\fbox{\rule{#1}{0in}\rule{0in}{#2}}}
+%		Problem and Part
+\newcounter{problemnumber}
+\newcounter{partnumber}
+\newcommand{\Problem}{\stepcounter{problemnumber}\setcounter{partnumber}{0}
+       \item[\fbox{\parbox{.18in}{\hfil\theproblemnumber\hfil}}]}
+\newcommand{\Part}{\stepcounter{partnumber}\item[(\alph{partnumber})]}
+\newcommand{\Points}[1]{(#1 points) \quad}
+
+\newcommand{\ddx}[2]{\frac{d#1}{d#2}}
+\newcommand{\dx}[1]{\frac{d}{d#1}}
+\newcommand{\mc}[1]{\mathcal{#1}}
+
+%
+% Answerbox:
+%
+\newcommand\answerbox[3]{#3 \fbox{\rule{#1}{0cm}\rule{0cm}{#2}}}
+%
+%
+\newcommand{\testname}{Final Examination}
+\newcommand{\class}{Math F200X}
+\newcommand{\quarter}{Spring 2012}
+%
+%\setlength{\parindent}{0pt}
+%\pretolerance=4000
+%\setlength{\topmargin}{-.15in}
+%\setlength{\textheight}{9in}
+%\setlength{\textwidth}{7in}
+\setlength{\headheight}{22pt}
+\setlength{\headsep}{0pt}
+%\setlength{\headrulewidth}{0pt}
+%\setlength{\oddsidemargin}{-0.25in}
+%\setlength{\evensidemargin}{-0.25in}
+%\headrulewidth=0pt
+\lhead{\sc \class}
+\chead{\Large \sc \testname}
+\rhead{\sc \quarter}
+\cfoot{}
+\pagestyle{fancy}
+%
+\begin{document}
+\thispagestyle{fancy}
+
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\
+\vspace{.1in}
+
+\begin{tabular}{@{\extracolsep{.4in}} l l  l}%@{\hspace{2in}} @{\hspace{2in}} }
+Your Name & Your Instructor &Your Section\\
+\blankbox{3in}{.45in} & \blankbox{1.5in}{.45in} & \blankbox{.8in}{.45in}\\ [.2in]%\blankbox{2.9in}{.45in} \\[.2in]
+%Student ID \# \\
+%\blankbox{.25in}{.25in}%
+%\blankbox{.25in}{.25in}%
+%\blankbox{.25in}{.25in}%
+%\blankbox{.25in}{.25in}%
+%\blankbox{.25in}{.25in}%
+%\blankbox{.25in}{.25in}%
+%\blankbox{.25in}{.25in}
+%&
+\end{tabular}
+
+%\bigskip
+
+%\blankbox{.25in}{.25in} Initial here if you wish me to leave your exam outside my office (Padelford C8-G) for you to pick up. They will be available after Thursday, December 20, 2001.
+
+%\bigskip
+
+{
+\renewcommand{\baselinestretch}{1.8}
+\setlength{\tabcolsep}{.2in}
+\normalsize
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Problem&Total Points&\parbox{.8in}{\hfil Score\hfil}\\ \hline
+\hline
+1&9&\\
+\hline
+2&8&\\
+\hline
+3&6&\\
+\hline
+4&9&\\
+\hline
+5&9&\\
+\hline
+6&12&\\
+\hline
+7 & 6 & \\
+\hline
+8 & 8 & \\
+\hline
+9 & 10 & \\
+\hline
+10 & 15 & \\
+\hline
+Extra Credit &(8) & \\
+
+\hline
+%Extra Credit & (5) & \\
+%\hline
+\hline
+Total&92&\\
+\hline
+Percent&100 \% &\\
+%\hline
+\hline
+%Current Course Grade&\multicolumn{2}{c|  }{}\\
+%\hline
+\end{tabular}
+
+\end{center}
+}
+
+\bigskip
+
+\begin{center}
+\begin{Large}
+Instructions and information:
+\end{Large}
+\end{center}
+
+\begin{itemize}
+
+%\item
+%Calculators are not allowed on this exam.
+
+\item You may use one 3'' $\times$ 5'' notecard.
+\item
+In order to receive credit, you must show your work. % All lines must be drawn with a straightedge.
+
+%\item Unless instructions say otherwise, all graphing problems should be done carefully on a separate sheet of graph paper.
+
+Be wary of doing computations in your head. Instead, write out your
+computations on the exam paper.
+%
+% \item
+% \textbf{PLACE A BOX AROUND \fbox{YOUR FINAL ANSWER} to each question.}
+
+\item
+If you need more room, use the backs of the pages and indicate to the
+grader where to look.
+
+\item
+Raise your hand or come up to the front if you have a question.
+
+\item Calculators are NOT allowed.
+
+\item Failure to follow exam instructions may result in point reductions or exam disqualification.
+\end{itemize}
+
+%\setlength{\headsep}{0pt}
+
+\newpage
+%
+\begin{enumerate}
+
+
+	%%%%Graphical interpretation
+\Problem\Points{9}
+
+Using the graph of a function $g(x) $ given below, whose domain is $[-6, 8)$, determine the following. If you are asked to determine a limit, find the limit or one-sided limit as directed. Use $\infty$ and $-\infty$ where appropriate. If the limit does not exist and cannot be described using $\infty$ or $-\infty$, write ``DNE''.
+
+%\begin{figure}[ht]
+\begin{center}
+\begin{tikzpicture}
+\draw[help lines] (-6.1,-2) grid (7.9,3.1);%Grid lines
+\draw[<->] (-6.2,0) -- (8.2,0);%x-axis
+\draw[<->] (0,-2.1) -- (0,3.1);%y-axis
+\draw[dashed] (8,-2) -- (8,3);%asymptotes at edges
+%\draw[dashed] (5,-2)--(5,3);
+\draw [ultra thick] (-6, -2) to  (-4,2) to  (-3,1);
+\draw [ultra thick,->] (-3,2) to [out=-30, in=90] (-1,-1) to [out=90, in=200](1,1) to [out=30, in=180] (2,2) to [out=0, in=180]    (5,-1) to [out=0,in=180] (7,1) to [out=0,in=93] (7.9,-2);
+\draw[fill=black] (-6, -2) circle (1.2mm);%closed ball
+\draw[fill=white, thick] (-3,1) circle  (1.2 mm);%open ball
+\draw[fill=black] (-3, 2) circle (1.2mm);%closed ball
+\draw[fill=white] (1,1) circle (1.2mm);
+\draw[fill=black] (1,2.5) circle (1.2mm);
+\foreach \i in {-6,-5, ..., 8}
+{\draw (\i,0) node[below] {\i};}
+\foreach \i in {-6,-5, ..., 7}
+{\draw (\i+.5, -.1) -- (\i+.5, .1);%labels and little hatch marks
+}
+\foreach \i in { -2, -1,1,2, 3}
+{\draw (0,\i) node[left] {\i};}
+\foreach \i in { -2, -1,0,1,2}{
+\draw (-.1, \i+.5) -- (.1,\i+.5);}%y axis labels
+\end{tikzpicture}
+
+\end{center}
+%\end{figure}
+
+
+\be
+\begin{multicols}{2}
+\item $\displaystyle{\lim\limits_{x \to -4} g(x)}=$
+\vspace{.3in}
+\item  $\lim\limits_{x\to 1} g(x)=$
+\vspace{.3in}
+\item $\lim\limits_{x \to -3^+} g(x) = $
+\vspace{.3in}
+\item $\lim\limits_{x \to 8^-} g(x) = $
+\vspace{.3in}
+\end{multicols}
+\vspace{.3in}
+\item At what $x$-values in its domain is $g(x)$ NOT continuous? If $g$ is continuous everywhere on its domain, write ``none''.
+
+\hrulefill \vfill
+\item At what $x$-values in its domain is $g(x)$ NOT differentiable? If $g$ is differentiable everywhere on its domain, write ``none''.
+
+\hrulefill
+
+\vfill
+
+\item On the interval $[-6,4]$, what are the $x$-values corresponding to local maxima of $g(x)$? If there are no local maxima, write ``none''.
+
+\hrulefill
+
+\vfill
+\item On the interval $[-6,4]$, what are the $x$-values corresponding to local minima of $g(x)$? If there are no local minima, write ``none''.
+
+\hrulefill
+
+\vfill
+\item On the interval $[-6,4]$, what are the $x$-values corresponding to absolute maxima of $g(x)$? If there are no absolute maxima, write ``none''.
+
+\hrulefill
+
+\vfill
+\item On the interval $[-6,4]$, what are the $x$-values corresponding to absolute minima of $g(x)$? If there are no absolute minima, write ``none''.
+
+\hrulefill
+\vfill
+%\vfill
+%\item What are the local minima of $g(x)$? Why? \hrulefill
+
+%\hrulefill
+%\vfill
+
+\ee
+\newpage
+
+
+%	PROBLEM  limits and Asymptotes
+\Problem\Points{8}
+
+\Part Compute the following limit. Show your work. %s. Kindly show your work.
+
+%%\begin{multicols}{2}
+%\be[(i)]
+%\item 
+$\displaystyle{\lim\limits_{x \to 4} \frac{\sqrt{x+12}-4}{x-4}}$
+\vfill
+%\vspace{2in}
+%\vfill
+%
+%\item $\displaystyle{\lim\limits_{x \to -2} \frac{x^{2} -2 x - 8}{x^{2}-x -  6}}$
+%
+%%\vspace{2in}
+%\ee
+%%\end{multicols}
+%%\vspace{2in}
+%\vfill
+
+\Part Determine any removable discontinuities, horizontal and vertical asymptotes if they exist of the function
+\[ k(x) = \frac{2 x^2+12 x-54}{x^{2}+2x^{}-15}.\]
+Use {\bf limits} to justify your answers.
+\vfill
+\vfill
+\newpage
+%	PROBLEM Definition of the derivative
+\Problem\Points{6}
+
+Suppose $f(x) = x^2 -4x$
+
+\Part Use the DEFINITION of the derivative to calculate $f'(3)$. (You should be using limits!)
+\vfill
+\vfill
+\vfill
+
+%\item 
+\Part Write the equation for the tangent line to $f(x)$ at the point $(3, f(3))$.
+\vfill
+%\vfill
+%\ee
+
+\newpage
+
+
+
+%	PROBLEM VI --- derivatives
+\Problem\Points{9}
+Find $\ddx y x$ for the functions given below. Do not simplify.
+%\begin{multicols}{2}
+
+\Part $\displaystyle{y = x^4 +7\sqrt[7]{x^{4}} -\frac{2}{x^{3}}}$
+\vfill
+\Part $\displaystyle{y = 3\sin(e^{2x}+x) }$
+\vfill
+\Part $\displaystyle{y=\frac{1+\sin x}{\cos x} }$
+\vfill
+\newpage
+\Problem\Points{9}
+Find $\ddx y x$ for the functions given below. Do not simplify.
+%\item $\displaystyle{y = \sqrt[5]{x\sec(x)}}$
+%\vspace{2.5in}
+\Part $\displaystyle{y = 6x \arctan(5x) }$
+\vfill
+\Part $y = \displaystyle{\int_{1}^{2x^{2}} \tan(3-t) \ dt }$
+\vfill
+\Part $\displaystyle{ y = \sin(x)^{\sin(x)} }$
+\vfill
+%\ee
+%\end{multicols}
+%\vspace{2.5in}
+
+\newpage
+
+%%%%Find info given derivatives
+\Problem\Points{12}
+Below you are given data about some unknown function $f(x)$, its first derivative $f'(x)$, and its second derivative $f''(x)$. The indication `DNE' means a value is not defined. Using the information from the tables, determine the following. Note: not all categories need to have answers; if no values exist, write ``none''.
+
+
+
+\[\lim_{x \to 2^-}f(x) =\lim_{x \to 2^+}f(x) =\infty, \qquad \lim_{x \to \infty} f(x) =3, \qquad\lim_{x \to -\infty}f(x) =-\infty, \]
+%
+\[ f(-6) =0,\qquad f(-4) = 3, \qquad f(-1)=1, \qquad f(x) \text{ is undefined at } x =2\]
+
+\bigskip
+\begin{center}
+\begin{tabular}{|c || c | c | c | c | c | c | c | }
+\hline
+$x$ &  $x<-4$ & $-4$ & $-4< x < -1 $ & -1 & $-1 < x < 2$ & 2 & $2<x$ \\ \hline
+sign of $f'(x)$ &$+$ & 0& $-$ & 0 & $+$ &  DNE & $-$   \\
+\hline
+\end{tabular}
+
+\bigskip
+
+\begin{tabular}{|c||c|c|c|c|c|}
+\hline
+$x$ & $x < -3$ & -3 & $-3 < x < 2$ & 2 & $2 < x$ \\ \hline
+sign of $f''(x)$ & $-$ & 0 & $+$ & DNE & $+$ \\
+\hline
+\end{tabular}
+\end{center}
+\bigskip
+
+
+The following questions are about the behavior of the original function $f$.
+\be
+\item Critical numbers of $f$: $x = $ \hrulefill
+\vfill
+\item  interval(s) on which $f$ is increasing \hrulefill
+\vfill
+\item $x$-values at which $f$ attains a local maximum, if any \hrulefill
+\vfill
+Justification? \hrulefill
+\vfill
+\item $x$-values at which $f$ attains a local minimum, if any \hrulefill
+\vfill
+Justification? \hrulefill
+\vfill
+\item interval(s) on which $f$ is concave down \hrulefill
+\vfill
+\item inflection point(s) of $f$ \hrulefill
+\vfill
+Justification? \hrulefill
+\vfill
+\item Sketch the curve, labeling important points on the $x$-axis. Label on the graph any maxima, minima, inflection points, and asymptotes.
+\vfill
+
+\begin{tikzpicture}
+\draw[<->] (-8,0)--(8,0);
+\draw[<->] (0,-3) -- (0,3);
+\end{tikzpicture}
+\ee
+
+\newpage
+
+%%% Implicit differentiation
+
+\Problem\Points{6}
+
+The graph of the tilted ellipse shown below is given by the implicit equation
+\[x^2 - 3x y + 7 y^2 = 5.\] The point $(2, 1)$ lies as shown on the ellipse. Determine the equation of the tangent line to the ellipse that passes through the point $(2, 1)$.
+
+\hfill \includegraphics[height=2in]{Finalp6}
+
+
+\newpage
+%PROBLEM VII --- optimization story problem
+\Problem\Points{8}
+An open box (sides, bottom, no top) is to be made from a $6\times 6$ rectangular sheet of metal by cutting out squares of equal size from each corner and then folding up the sides. Find the size of the square cut that will yield the  maximum volume. What is this maximum volume, and what are the resulting dimensions of the box? Be sure to verify you have obtained the maximum.
+
+
+\newpage
+
+
+%	PROBLEM II --- Antiderivatives
+\Problem\Points{10} \
+
+\Part If $g'(x) = x^{2} + (\sec(x))^{2}$, what is the most general function $g(x)$?
+
+\vfill
+
+\Part Compute $\displaystyle{ \int_{1}^{8} (3x - \sqrt[3]{x}) \ dx}$
+
+\vfill
+
+%\Part Compute $\displaystyle{ \int_{0}^{\pi/3}4x+\frac{2}{\cos^{2}(x)}\ dx}$.
+%
+%\vfill
+
+
+
+\Part A particle is moving with acceleration
+\[a(t) = t+e^{-2t}.\]
+You measure that at time $t = 0$, its position is given by $s(0) = 0$ and its velocity is given by $v(0) = 8$.
+
+Determine the position function $s(t)$.
+
+\vfill
+
+\newpage
+
+
+%%	PROBLEM II --- Integration
+\Problem\Points{15} Compute the following integrals.
+
+
+\Part $\displaystyle{\int \frac{e^{4t}}{e^{4t}+2} \ dt}$
+\vfill
+
+\Part  $\displaystyle{ \int \frac{x+8}{\sqrt{x}} \ dx}$
+
+\vfill
+
+\Part  $\displaystyle{ \int_{-6}^{-3}x\sqrt{x+7}  \ dx}$
+\vfill
+
+\Part  $\displaystyle{\int \theta^{3}\sec(\theta^{4})\tan(\theta^{4})\ d\theta}$
+\vfill
+
+\Part  $\displaystyle{ \int \frac{7}{\sqrt{16-y^{2}}}\ dy}$
+
+\vfill
+
+
+
+\newpage
+
+\
+
+
+\Problem\Points{Extra Credit: 8}
+
+Recall that the error bound for Simpson's Rule is given by \[|E|\le \frac{(b-a)^{5}}{180n^{4}}\max_{a\le x\le b}|f^{(4)}(x)|.\]
+\Part Write out the terms in an estimate of $\displaystyle \int_{1}^{7}\frac{1}{x^{2}}\ dx$ using Simpson's rule and $n=6$ subintervals (do not simplify your answer).
+\vfill 
+\Part We wish to estimate the value of $\displaystyle \int_{0}^{2}\frac{1}{18}\sin(6t)\ dt$ to within $\frac{1}{20}$ of the correct answer. 
+
+(Hint: $\sin(t)$ is a bounded function.)
+\be[(i)]
+\item How many subintervals are required?
+\vfill
+\vfill
+\item How many parabolas are used in the estimate?\ee
+\bigskip
+
+%\begin{minipage}{.7\linewidth}
+%A water tank has the shape of an inverted circular cone (see diagram) with base radius 2 m and height 4 m. If water is being pumped into the tank at at rate of 2 cubic meters per minute, find the rate at which the water level is rising when the water is 3 m deep. Include units with your answer.
+%\end{minipage}\hfill
+%\begin{minipage}{.2\linewidth}
+%
+%\begin{tikzpicture}
+%\draw (0,0) ellipse (2 and .5);
+%\draw (2,0) -- (0,-4) -- (-2,0);
+%\draw[|-|] (0,0) -- (2,0) node[midway, above] {2 m};
+%\draw[|-|] (2.2,-4) -- (2.2,0) node[midway, right] {4 m};
+%\end{tikzpicture}
+%
+%\end{minipage}
+
+\ee
+
+\end{document}
+
+
