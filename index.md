@@ -19,8 +19,8 @@ Welcome to the central homepage for all sections of UAF Calculus I in Fall 2018.
 
 * Individual instructors may have resources specific to their sections on their web sites.  Here is the link if needed:
 
-	- Section F01 (CRN 73763): [Ed Bueler](http://bueler.github.io)
-	- Section F02 (CRN 73764): Caleb Jurkowski
-	- Section F03 (CRN 73765): [David Maxwell](http://damaxwell.github.io)
+	- [Bueler](http://bueler.github.io), section F01 (CRN 73763): [resources for F01](http://bueler.github.io/M251F18_F01/index.html)
+	- Jurkowski, section F02 (CRN 73764):
+	- [Maxwell](http://damaxwell.github.io), section F03 (CRN 73765): [resources for F03](http://damaxwell.github.io/math251/index.html)
 
 * We are in the [Dept. of Mathematics and Statistics (DMS)](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).  This page is a [github repository](https://github.com/uaf-math251/uaf-math251.github.io).
