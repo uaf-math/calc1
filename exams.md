@@ -3,9 +3,14 @@ layout: course-page
 title: Exams
 ---
 
-Midterms, proficiencies and final exams
-from past semesters (and the current semester, as we progress) 
-are available below. 
+Exams and solutions will be available here as they occur.  See the [schedule](assets/general/Fall2018/MATH251-Schedule-F2018.pdf) for dates.
+
+Exams from past semesters are available below.
+
+* [midterms](#midterms)
+* [proficiencies](#proficiencies)
+* [final exam](#finals)
+
 
 ## <a id="midterms"></a>Midterms
 
@@ -38,3 +43,4 @@ are available below.
 	{% include final-row.md data=site.data.sample-exams %}
 </table>
 </div>
+
