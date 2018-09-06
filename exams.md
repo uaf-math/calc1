@@ -3,13 +3,13 @@ layout: course-page
 title: Exams
 ---
 
-Exams and solutions will be available here as they occur.  See the [schedule](assets/general/Fall2018/MATH251-Schedule-F2018.pdf) for dates.
+Exams and solutions from this semester will be available here as they are completed.  See the [schedule](assets/general/Fall2018/MATH251-Schedule-F2018.pdf) for all exam dates.
 
 Exams from past semesters are available below.
 
 * [midterms](#midterms)
 * [proficiencies](#proficiencies)
-* [final exam](#finals)
+* [final exams](#finals)
 
 
 ## <a id="midterms"></a>Midterms
