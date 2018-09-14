@@ -15,3 +15,8 @@ You will find here the blank and filled in lecture notes/worksheets for the give
 * W 9/5: Velocity worksheet [blank](assets/caleb/ch2/Worksheet-2-1_blank.pdf)  /  [filled in](assets/caleb/ch2/Worksheet-2-1_comp.pdf)
 * R 9/6: Section 2.1 [blank](assets/caleb/ch2/2-1_blank.pdf)  /  [filled in](assets/caleb/ch2/2-1_comp.pdf)
 * F 9/7: Section 2.2 [blank](assets/caleb/ch2/2-2_blank.pdf)  /  [filled in](assets/caleb/ch2/2-2_comp.pdf)
+
+* M 9/10: Section 2.3 [blank](assets/caleb/ch2/2-3_blank.pdf)  /  [filled in](assets/caleb/ch2/2-3_comp.pdf)
+* W 9/12: Section 2.5 (part 1) [blank](assets/caleb/ch2/2-5-part1_blank.pdf)  /  [filled in](assets/caleb/ch2/2-5-part1_comp.pdf)
+* R 9/13: Section 2.5 (part 1) [blank](assets/caleb/ch2/2-5-part2_blank.pdf)  /  [filled in](assets/caleb/ch2/2-5-pqrt2_comp.pdf)
+* F 9/14: Section 2.6 (part 1) [blank](assets/caleb/ch2/2-6-part1_blank.pdf)  /  [filled in](assets/caleb/ch2/2-6-part1_comp.pdf)
