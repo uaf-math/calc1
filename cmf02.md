@@ -20,3 +20,8 @@ You will find here the blank and filled in lecture notes/worksheets for the give
 * W 9/12: Section 2.5 (part 1) [blank](assets/caleb/ch2/2-5-part1_blank.pdf)  /  [filled in](assets/caleb/ch2/2-5-part1_comp.pdf)
 * R 9/13: Section 2.5 (part 1) [blank](assets/caleb/ch2/2-5-part2_blank.pdf)  /  [filled in](assets/caleb/ch2/2-5-pqrt2_comp.pdf)
 * F 9/14: Section 2.6 (part 1) [blank](assets/caleb/ch2/2-6-part1_blank.pdf)  /  [filled in](assets/caleb/ch2/2-6-part1_comp.pdf)
+
+* M 9/17: Section 2.6 (part 2) [blank](assets/caleb/ch2/2-6-part2_blank.pdf)  /  [filled in](assets/caleb/ch2/2-6-part2_comp.pdf)
+* W 9/19 - R 9/20: Section 2.7 [blank](assets/caleb/ch2/2-7_blank.pdf)  /  [filled in](assets/caleb/ch2/2-7_comp.pdf)
+* F 9/21: Section 2.8 [blank](assets/caleb/ch2/2-8_blank.pdf)  /  [filled in](assets/caleb/ch2/2-8_comp.pdf)
+
