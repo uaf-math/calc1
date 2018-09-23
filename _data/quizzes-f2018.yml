@@ -1,4 +1,4 @@
-semester: Spring 2018
+semester: Fall 2018
 home: assets/quizzes/Fall2018
 quizzes:
   - name: Quiz 2
@@ -8,4 +8,11 @@ quizzes:
         solutions: Quiz-2-v1-Sols.pdf
       - name: Version 2
         blank: Quiz-2-v2.pdf
-        solutions: Quiz-2-v2-Sols.pdf
+  - name: Quiz 3
+    versions:
+      - name: Version 1
+        blank: Quiz-3-v1.pdf
+        solutions: Quiz-3-v1-Sols.pdf
+      - name: Version 2
+        blank: Quiz-3-v2.pdf
+        solutions: Quiz-3-v2-Sols.pdf
