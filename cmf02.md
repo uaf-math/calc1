@@ -25,3 +25,5 @@ You will find here the blank and filled in lecture notes/worksheets for the give
 * W 9/19 - R 9/20: Section 2.7 [blank](assets/caleb/ch2/2-7_blank.pdf)  /  [filled in](assets/caleb/ch2/2-7_comp.pdf)
 * F 9/21: Section 2.8 [blank](assets/caleb/ch2/2-8_blank.pdf)  /  [filled in](assets/caleb/ch2/2-8_comp.pdf)
 
+* M 9/24: Midterm review worksheet [blank](assets/caleb/ch2/Midterm1-Review.pdf)  /  [filled in](assets/caleb/ch2/Midterm1-Review_comp.pdf)
+
