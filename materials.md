@@ -5,7 +5,7 @@ title: Class Materials
 
 ## Fall 2018
 
-* Midterm 1 Recitation worksheet: [blank](assets/materials/Fall2018/Recitation-MT1-Review.pdf) [solutions](assets/materials/Fall2018/Recitation-MT1-Review-Sols.pdf)
+* Midterm 1 recitation worksheet: [blank](assets/materials/Fall2018/Recitation-MT1-Review.pdf) [solutions](assets/materials/Fall2018/Recitation-MT1-Review-Sols.pdf)
 
 * Recitation 1 worksheet: [blank](assets/materials/Fall2018/Recitation-1.pdf) [solutions](assets/materials/Fall2018/Recitation-1-Sols.pdf)
 
