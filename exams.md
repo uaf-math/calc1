@@ -17,6 +17,7 @@ Exams from past semesters are available below.
 <div class="x-scroll">
 <table class="asst-table">
 <tr><th>Semester</th><th>Midterm I</th><th>Midterm II</th></tr>
+	{% include midterm-row.md data=site.data.exams-f2018 %}
 	{% include midterm-row.md data=site.data.exams-s2018 %}
 	{% include midterm-row.md data=site.data.exams-f2017 %}
 	{% include midterm-row.md data=site.data.sample-exams %}
