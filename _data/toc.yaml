@@ -23,6 +23,9 @@ docs:
 - title: Quizzes
   url: quizzes.html
 
+- title: Proficiencies
+  url: exams.html#proficiencies
+
 - title: Exams
   url: exams.html
 
