@@ -57,7 +57,7 @@
       exercises: 12, 18
     - section: 3.9
       exercises: 15, 16, 22, 29, 30
-    - section: 3.10
+    - section: "3.10"
       exercises: 2, 23, 26, 32, 34
 
 - name: WRH 8 
