@@ -17,3 +17,10 @@ derivative:
     - name: V4
       blank: Derivative-v4.pdf
       solutions: Derivative-v4-Sols.pdf
+    - name: V5
+      blank: Derivative-v5.pdf
+      solutions: Derivative-v5-Sols.pdf
+    - name: V6
+      blank: Derivative-v6.pdf
+      solutions: Derivative-v6-Sols.pdf
+
