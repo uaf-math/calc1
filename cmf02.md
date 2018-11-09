@@ -36,3 +36,6 @@ You will find here the blank and filled in lecture notes/worksheets for the give
 
 * M 11/5: Section 4.7 (pt 1) [blank](assets/caleb/ch4/4-7-part1_blank.pdf)  /  filled in
 * W 11/7: Section 4.7 (pt 2) [blank](assets/caleb/ch4/4-7-part2_blank.pdf)  /  [filled in](assets/caleb/ch4/4-7-part2_comp.pdf)
+* R 11/8: Section 4.9 [blank](assets/caleb/ch4/4-9_blank.pdf)  /  [filled in](assets/caleb/ch4/4-9_comp.pdf)
+* F 11/9: Ch. 3 and 4 review [blank](assets/caleb/ch4/Ch_3-4_Review_blank.pdf)  /  [filled in](assets/caleb/ch4/Ch_3-4_Review_comp.pdf)
+
