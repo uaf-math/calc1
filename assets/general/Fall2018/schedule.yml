@@ -136,8 +136,7 @@ schedule:
   - class: "Section 5.3"
     homework:
     webassign: "5.2"
-  - recitation:
-    quiz: "5.1-5.2"
+  - recitation: "Activity on 5.1,5.2"
     webassign: "5.3 (part 1)"
   - holiday: "Thanksgiving"
   - holiday: "Thanksgiving"
@@ -146,7 +145,7 @@ schedule:
   - class: "Section 5.4"
     webassign: "5.3 (part 2)"
   - recitation:
-    quiz: "5.3"
+    quiz: "5.2-5.3"
   - class: "Section 5.4-5.5"
     homework:
   - class: "Section 5.5"
