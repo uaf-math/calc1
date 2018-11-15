@@ -1,0 +1,169 @@
+start: "8/27/2018"
+
+schedule:
+  - class: "Class Logistics, Section 1.1"
+  - recitation: "Section 1.2-1.3"
+    deadline: "Login to ALEKS"
+  - class: "Section 1.3"
+    deadline: "Complete ALEKS pretest (Quiz 1 practice)"
+  - class: "Section 1.4-1.5"
+  - class: "Section 1.5"
+    deadline: "Reserve ALEKS Quiz 1 timeslot"
+
+  - holiday: "Labor Day"
+  - special: 
+    aleks_quiz: 
+      location: "in \\textbf{Rasmuson Lab}"
+    deadline: "10 hours in ALEKS (or 90 percent of pie)"
+  - class: "Section 2.1 Activity"
+  - class: "Sections 2.1-2.2"
+  - class: "Section 2.2"
+    deadline: "Last day for add/drop."
+    webassign: "2.1"
+
+  - class: "Section 2.3"
+    homework:
+    webassign: "2.2"
+  - recitation: 
+    quiz: "2.1-2.2"
+  - class: "Sections 2.3-2.5" 
+  - class: "Section 2.5"
+    webassign: "2.3"
+  - class: "Section 2.6"
+    webassign: "2.5"
+
+  - class: "Section 2.6"
+    homework:
+  - recitation: 
+    quiz: "2.3-2.5"
+  - class: "Section 2.7"
+    webassign: "2.6"
+  - class: "Section 2.7-2.8"
+  - class: "Section 2.8"
+    webassign: "2.7"
+
+  - class: "Review: Chapters 1-2"
+    homework:
+    webassign: "2.8"
+  - recitation: "Review: Chapters 1-2"
+  - midterm: "Chapters 1-2"
+    exam-times: 
+      - "5-6pm"
+      - "6-7pm"
+  - class: "Section 3.1"
+  - class: "Section 3.2"
+    webassign: "3.1"
+
+  - class: "Sections 3.2-3.3"
+    note: "Early progress reports"
+    homework:
+    webassign: "3.2"
+  - recitation: 
+    quiz: "3.1-3.2"
+  - class: "Section 3.3"
+  - class: "Section 3.4"
+    webassign: "3.3"
+  - class: "Sections 3.4-3.5"
+
+  - class: "Section 3.5"
+    homework:
+    webassign: "3.4"
+  - recitation:
+    quiz: "3.3-3.4"
+  - class: "Section 3.6"
+    webassign: "3.5 (part 1)"
+  - class: "Section 3.6-3.7"
+    webassign: "3.5 (part 2)"
+  - class: "Section 3.7"
+    webassign: "3.6"
+
+  - class: "Section 3.8"
+    homework:
+    webassign: "3.7"
+  - recitation: "Derivative practice"
+  - class: "Section 3.9"
+    proficiency: "Derivative"
+    webassign: "3.8"
+  - class: "Sections 3.9-3.10"
+  - class: "Section 3.10"
+    webassign: "3.9"
+
+  - class: "Section 4.1"
+    homework:
+    webassign: "3.10"
+  - recitation:
+    quiz: "3.8-3.10"
+  - class: "Sections 4.1-4.2"
+  - class: "Section 4.2"
+    webassign: "4.1"
+  - class: "Section 4.3"
+    webassign: "4.2"
+
+  - class: "Section 4.3-4.4"
+    homework:
+  - recitation:
+    quiz: "4.1-4.2"
+    webassign: "4.3 (part 1)"
+  - class: "Section 4.4"
+    webassign: "4.3 (part 2)"
+  - class: "Section 4.5"
+    webassign: "4.4"
+  - class: "Section 4.5"
+    deadline: "Last day to withdraw"
+
+  - class: "Section 4.7"
+    homework:
+  - recitation:
+    quiz: "4.3-4.5"
+  - class: "Section 4.7"
+  - class: "Section 4.9"
+    webassign: "4.7"
+  - class: "Review Chapters 3-4"
+
+
+  - class: "Section 5.1"
+    homework:
+    webassign: "4.9"
+  - recitation: "Review Chapters 3-4"
+  - midterm: "Chapters 3-4"
+    exam-times: 
+      - "5-6pm"
+      - "6-7pm"
+  - class: "Sections 5.1-5.2"
+  - class: "Section 5.2"
+    webassign: "5.1"
+
+  - class: "Section 5.3"
+    homework:
+    webassign: "5.2"
+  - recitation:
+    quiz: "5.1-5.2"
+    webassign: "5.3 (part 1)"
+  - holiday: "Thanksgiving"
+  - holiday: "Thanksgiving"
+  - holiday: "Thanksgiving"
+
+  - class: "Section 5.4"
+    webassign: "5.3 (part 2)"
+  - recitation:
+    quiz: "5.3"
+  - class: "Section 5.4-5.5"
+    homework:
+  - class: "Section 5.5"
+    webassign: "5.4"
+  - class: "Section 5.5"
+
+  - class: "Section 4.8"
+    homework:
+    webassign: "5.5 (part 1)"
+  - recitation: "Integration Practice"
+    webassign: "5.5 (part 2)"
+  - special:
+    proficiency: "Integral"
+  - class: "Review Chapters 2-3"
+    webassign: "4.8"
+  - class: "Review Chapters 4-5"
+
+  - special:
+  - final:
+      time: "1-3pm"
