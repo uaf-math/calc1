@@ -39,3 +39,8 @@ You will find here the blank and filled in lecture notes/worksheets for the give
 * R 11/8: Section 4.9 [blank](assets/caleb/ch4/4-9_blank.pdf)  /  [filled in](assets/caleb/ch4/4-9_comp.pdf)
 * F 11/9: Ch. 3 and 4 review [blank](assets/caleb/ch4/Ch_3-4_Review_blank.pdf)  /  [filled in](assets/caleb/ch4/Ch_3-4_Review_comp.pdf)
 
+* M 11/12: Section 5.1 [blank](assets/caleb/ch5/5-1_blank.pdf)  /  [filled in](assets/caleb/ch5/5-1_comp.pdf)
+* R 11/15: Section 5.1 (continued)
+* F 11/16: Section 5.2 [blank](assets/caleb/ch5/5-2_blank.pdf)  /  [filled in](assets/caleb/ch5/5-2_comp.pdf)
+
+* M 11/19: Section 5.3 [blank](assets/caleb/ch5/5-3_blank.pdf)  /  [filled in](assets/caleb/ch5/5-3_comp.pdf)
