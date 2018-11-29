@@ -9,6 +9,7 @@ You will find here the blank and filled in lecture notes/worksheets for the give
 
 
 [September lecture notes/worksheets](cmf02s)
+
 [October lecture notes/worksheets](cmf02o)
 
 * R 11/1: Section 4.5 (pt 1) [blank](assets/caleb/ch4/4-5-part1_blank.pdf)  /  [filled in](assets/caleb/ch4/4-5-part1_comp.pdf)
