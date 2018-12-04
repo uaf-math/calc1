@@ -29,3 +29,5 @@ You will find here the blank and filled in lecture notes/worksheets for the give
 * M 11/26 / W 11/28: Section 5.4 [blank](assets/caleb/ch5/5-4_blank.pdf)  /  [filled in](assets/caleb/ch5/5-4_comp.pdf)
 * R 11/29: Section 5.5 (pt 1) [blank](assets/caleb/ch5/5-5-part1_blank.pdf)  /  [filled in](assets/caleb/ch5/5-5-part1_comp.pdf)
 * F 11/30: Section 5.5 (pt 2) [blank](assets/caleb/ch5/5-5-part2_blank.pdf)  /  [filled in](assets/caleb/ch5/5-5-part2_comp.pdf)
+
+* M 12/3: Section 4.8 [blank](assets/caleb/ch4/4-8_blank.pdf)  /  [filled in](assets/caleb/ch4/4-8_comp.pdf)
