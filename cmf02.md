@@ -31,3 +31,5 @@ You will find here the blank and filled in lecture notes/worksheets for the give
 * F 11/30: Section 5.5 (pt 2) [blank](assets/caleb/ch5/5-5-part2_blank.pdf)  /  [filled in](assets/caleb/ch5/5-5-part2_comp.pdf)
 
 * M 12/3: Section 4.8 [blank](assets/caleb/ch4/4-8_blank.pdf)  /  [filled in](assets/caleb/ch4/4-8_comp.pdf)
+* R 12/6: Chapters 2 & 3 review [blank](assets/caleb/review/Chapter-2-3.pdf)  /  [filled in](assets/caleb/review/Chapter-2-3_comp.pdf)
+* F 12/7: Chapters 4 & 5 review [blank](assets/calbe/review/Chapter-4-5.pdf)  /  filled in
