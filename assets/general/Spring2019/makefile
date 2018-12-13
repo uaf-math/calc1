@@ -1,8 +1,10 @@
-all: MATH251-Schedule.pdf
+all: MATH251-Schedule.pdf MATH251-Syllabus.pdf
 
 # see README-schedule.md
-MATH251-Schedule.pdf: schedule.yml MATH251-Schedule.tex
+schedule-auto.tex: schedule.yml
 	python schedule-yml-to-tex.py > schedule-auto.tex
+
+MATH251-Schedule.pdf: schedule-auto.tex MATH251-Schedule.tex
 	pdflatex MATH251-Schedule.tex
 
 MATH251-Syllabus.pdf: MATH251-Syllabus.tex
