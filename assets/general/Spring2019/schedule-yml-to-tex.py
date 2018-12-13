@@ -65,7 +65,7 @@ preamble = r"""
 \begin{document}
 
 \begin{itemize}
-\item \textbf{WebAssign} homework (\textcolor{red}{WAH}) is due by 10PM on the due date. \item \textbf{Written} homework (\textcolor{blue}{WRH}) is due at the beginning of Recitation.\end{itemize}
+\item \textbf{WebAssign} homework (\textcolor{red}{WA}) is due by 10PM on the due date. \item \textbf{Written} homework (\textcolor{blue}{WRH}) is due at the beginning of Recitation.\end{itemize}
 """
 trailer = r"""\end{document}"""
 
@@ -168,7 +168,7 @@ def deadline_row(week_start, days):
 			entry.addline(r"""\textcolor{blue}{WRH %d}""" % homework_number)
 			homework_number += 1
 		if 'webassign' in today:
-			entry.addline(r"""\textcolor{red}{WAH \S%s}""" % today['webassign'])
+			entry.addline(r"""\textcolor{red}{WA \S%s}""" % today['webassign'])
 		row += entry.value
 
 	row += r"""\\
