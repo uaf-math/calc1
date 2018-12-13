@@ -155,38 +155,31 @@ schedule:
   - class: "Section 5.3"
     homework:
     webassign: "5.2"
-  - recitation: "Activity on 5.1,5.2"
-    webassign: "5.3 (part 1)"
-#FIXME from here:  remove thanksgiving days to move stuff forward, and see how it comes out; note that SpringFest is a regular class day
-  - holiday: "Thanksgiving"
-  - holiday: "Thanksgiving"
-  - holiday: "Thanksgiving"
-
-  # week 14
-  - class: "Section 5.4"
-    webassign: "5.3 (part 2)"
   - recitation:
-    quiz: "5.2-5.3"
+    quiz: "5.1-5.2"
+#CHANGES START HERE
+  - class: "Section 5.4"
+    webassign: "5.3 (part 1)"
   - class: "Section 5.4-5.5"
     homework:
+    webassign: "5.3 (part 2)"
   - class: "Section 5.5"
     webassign: "5.4"
-  - class: "Section 5.5"
 
-  # week 15
-  - class: "Section 4.8"
-    homework:
+  # week 14
+  - class: "Section 5.5"
     webassign: "5.5 (part 1)"
   - recitation: "Integration Practice"
+    homework:
     webassign: "5.5 (part 2)"
   - special:
     proficiency: "Integral"
+  - class: "Section 4.8"
   - class: "Review Chapters 2-3"
     webassign: "4.8"
-  - class: "Review Chapters 4-5"
 
-  # week 16
-  - special:
+  # week 15
+  - class: "Review Chapters 4-5"
   - final:
-      time: "1-3pm"
+      time: "3:15-5:15pm"
 
