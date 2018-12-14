@@ -15,7 +15,7 @@ Welcome to the central homepage for all sections of UAF Calculus I in Fall 2018.
 
 ### Important Links
 
-* Grades and written homework solutions are available at [BlackBoard](http://classes.uaf.edu).
+* Grades and written homework solutions are available at [BlackBoard](https://classes.alaska.edu).
 
 * Individual instructors may have resources specific to their sections on their web sites.  Here is the link if needed:
 
