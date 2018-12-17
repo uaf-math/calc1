@@ -3,6 +3,8 @@ layout: course-page
 title: Class Materials
 ---
 
+Miscellaneous materials such as handouts and some worksheets appear here.  See also the [main course page](index.html#top) for resources specific to your section.
+
 ## Fall 2018
 
 * Recitation 11/20 worksheet: [blank](assets/materials/Fall2018/Recitation-5.1-5.2.pdf) [solutions](assets/materials/Fall2018/Recitation-5.1-5.2-Sols.pdf)

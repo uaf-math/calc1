@@ -5,6 +5,8 @@ title: Quizzes
 
 Quizzes (blank copies and solutions) will appear here.
 
+## Fall 2018
+
 {% include quiz_table.md  data=site.data.quizzes-f2018%}
 
 #### Past Semesters:
