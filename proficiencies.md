@@ -3,7 +3,7 @@ layout: course-page
 title: Derivative and Integral Proficiencies
 ---
 
-Derivative and Integral Proficiencies, and their solutions, will be available here as they are completed.  See the [schedule](assets/general/Spring2019/MATH251-Schedule.pdf) for all exam dates.
+Derivative and Integral Proficiencies, and their solutions, will be available here as they are completed.  See the [schedule](assets/general/Spring2019/MATH251-Schedule.pdf) for all dates.
 
 Proficiencies from past semesters are available below.
 
