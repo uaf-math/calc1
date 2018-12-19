@@ -17,9 +17,6 @@ docs:
 - title: Written Homework
   url: writtenhomework.html
 
-- title: Materials
-  url: materials.html
-
 - title: Quizzes
   url: quizzes.html
 
@@ -28,4 +25,7 @@ docs:
 
 - title: Exams
   url: exams.html
+
+- title: Other materials
+  url: materials.html
 
