@@ -20,7 +20,7 @@ Welcome to the central homepage for all sections of UAF Calculus I in Spring 201
 * Individual instructors may have resources specific to their sections on their web sites.  Here is the link if needed:
 
 	- [Rhodes](https://jarhodesuaf.github.io/), section F01 (CRN 33883): [TODO resources for F01]()
-	- [Bueler](http://bueler.github.io), section F02 (CRN 33884): [TODO resources for F02]()
+	- [Bueler](http://bueler.github.io), section F02 (CRN 33884): [resources for F02](http://bueler.github.io/M251S19_F02/index.html)
 
 * We are in the [Dept. of Mathematics and Statistics (DMS)](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).  This page is a [github repository](https://github.com/uaf-math251/uaf-math251.github.io).
 
