@@ -29,4 +29,18 @@
 	{% endif %}	
 	{% endif %}	
 	</td>
+	<td> 
+    {% if data.final %}
+	{% if data.final.versions %}
+		{% for exam in data.final.versions %}		
+		<table class="inner"><tr><td>{{ exam.name }}:</td><td><a href="{{ data.home }}/{{ exam.blank }}">blank</a></td></tr>
+			<tr><td></td><td><a href="{{ data.home }}/{{ exam.solutions }}">solutions</a></td></tr>
+		</table><br>
+		{% endfor %}
+	{% else %}
+		<a href="{{ data.home }}/{{ data.final.blank }}">blank</a><br>
+		<a href="{{ data.home }}/{{ data.final.solutions }}">solutions</a><br>
+	{% endif %}	
+	{% endif %}	
+	</td>
 </tr>

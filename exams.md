@@ -3,35 +3,19 @@ layout: course-page
 title: Exams
 ---
 
+## Exams
+
 Exams and solutions from this semester will be available here as they are completed.  See the [schedule](assets/general/Spring2019/MATH251-Schedule.pdf) for all exam dates.
 
-Exams from past semesters are available below.
-
-* [midterms](#midterms)
-* [final exams](#finals)
-
-
-## <a id="midterms"></a>Midterms
+Exams from past semesters are also available below.
 
 <div class="x-scroll">
 <table class="asst-table">
-<tr><th>Semester</th><th>Midterm I</th><th>Midterm II</th></tr>
-	{% include midterm-row.md data=site.data.exams-f2018 %}
-	{% include midterm-row.md data=site.data.exams-s2018 %}
-	{% include midterm-row.md data=site.data.exams-f2017 %}
-	{% include midterm-row.md data=site.data.sample-exams %}
-</table>
-</div>
-
-## <a id="finals"></a>Final Exams
-
-<div class="x-scroll">
-<table class="asst-table">
-<tr><th>Semester</th><th>Final Exam</th></tr>
-	{% include final-row.md data=site.data.exams-f2018 %}
-	{% include final-row.md data=site.data.exams-s2018 %}
-	{% include final-row.md data=site.data.exams-f2017 %}
-	{% include final-row.md data=site.data.sample-exams %}
+<tr><th>Semester</th><th>Midterm I</th><th>Midterm II</th><th>Final</th></tr>
+	{% include exam-row.md data=site.data.exams-f2018 %}
+	{% include exam-row.md data=site.data.exams-s2018 %}
+	{% include exam-row.md data=site.data.exams-f2017 %}
+	{% include exam-row.md data=site.data.sample-exams %}
 </table>
 </div>
 
