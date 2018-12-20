@@ -3,7 +3,7 @@ layout: course-page
 title: Math F251 Calculus I
 ---
 
-Welcome to the central homepage for all sections of UAF Calculus I in Spring 2019.
+Welcome to the central homepage for all sections of UAF Calculus I in Spring 2019.  We are in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
 
 ### Getting Started
 
@@ -22,5 +22,6 @@ Welcome to the central homepage for all sections of UAF Calculus I in Spring 201
 	- [Rhodes](https://jarhodesuaf.github.io/), section F01 (CRN 33883): [TODO resources for F01]()
 	- [Bueler](http://bueler.github.io), section F02 (CRN 33884): [resources for F02](http://bueler.github.io/M251S19_F02/index.html)
 
-* We are in the [Dept. of Mathematics and Statistics (DMS)](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).  This page is a [github repository](https://github.com/uaf-math251/uaf-math251.github.io).
+<br>
+[<img src="GitHub-Mark-32px.png" align="right">](https://github.com/uaf-math251/uaf-math251.github.io "This page is a github repo.")
 
