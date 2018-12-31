@@ -1,4 +1,6 @@
 /schedule-auto.tex
 *.log
 *.aux
+*.out
+*.synctex.gz
 
