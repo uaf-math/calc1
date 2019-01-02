@@ -13,10 +13,10 @@ schedule:
 
   # week 2
   - holiday: "Alaska Civil Rights Day"
-    deadline: "10 hours in ALEKS (or 90 percent of pie)"
+    deadline: "10 hours in ALEKS (or 90\\% of pie)"
   - special: 
     aleks_quiz: 
-      location: "in \\textbf{Rasmuson Lab}"
+      location: "in \\textbf{Rasmuson Lab} 10a--6p"
   - class: "Section 2.1 Activity"
   - class: "Sections 2.1-2.2"
   - class: "Section 2.2"
