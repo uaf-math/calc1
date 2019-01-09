@@ -3,7 +3,7 @@ layout: course-page
 title: Week 1 Logistics
 ---
 
-# FIXME: dates and course code are from Fall 2018
+# <span style="color:red">FIXME: dates and course code are from Fall 2018</span>
 
 ## Week 1 Logistics
 
