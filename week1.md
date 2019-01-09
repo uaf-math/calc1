@@ -3,8 +3,6 @@ layout: course-page
 title: Week 1 Logistics
 ---
 
-# <span style="color:red">FIXME: new course code needed</span>
-
 * [Week 1 Logistics](#week-1-logistics)
 * [How to first log into ALEKS PPL](#how-to-first-log-into-aleks-ppl)
 * [Working with ALEKS PPL](#working-with-aleks-ppl)
@@ -28,7 +26,7 @@ The first homework and quiz of the class use the online software ALEKS PPL to he
 ## How to first log into ALEKS PPL.
 
 1. You will need two codes before you begin
-	* The course code, FIXME <!--- **L39JV-4W9Q4**. -->
+	* The course code, **YKTTR-MYFNJ**.
 	* Your personal ALEKS access code, which you can access
 	  from within BlackBoard.  Go to our course and then `My Grades`.  Your
 	  ALEKS access code will be the first entry in the grade spreadsheet.
@@ -38,7 +36,7 @@ The first homework and quiz of the class use the online software ALEKS PPL to he
 
    <div class='x-scroll'><p><img src="assets/ALEKS/login.png" alt="login" width="250px" /></p></div>
 
-3. Enter the class code FIXME <!--- **L39JV-4W9Q4**. --> in the next screen.
+3. Enter the class code **YKTTR-MYFNJ** in the next screen.
 
    <div class='x-scroll'><p><img src="assets/ALEKS/classcode.png" alt="class code" width="250px" /></p></div>
 
