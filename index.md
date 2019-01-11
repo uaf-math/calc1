@@ -19,8 +19,8 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Sp
 
 * Individual instructors may have resources specific to their sections on their web sites.  Here is the link if needed:
 
-	- [Rhodes](https://jarhodesuaf.github.io/), section F01 (CRN 33883): [resources for F01](https://jarhodesuaf.github.io/M251.html)
-	- [Bueler](http://bueler.github.io), section F02 (CRN 33884): [resources for F02](http://bueler.github.io/M251S19_F02/index.html)
+	- [John Rhodes](https://jarhodesuaf.github.io/), section F01 (CRN 33883): [resources for F01](https://jarhodesuaf.github.io/M251.html)
+	- [Ed Bueler](http://bueler.github.io), section F02 (CRN 33884): [resources for F02](http://bueler.github.io/M251S19_F02/index.html)
 
 <br>
 [<img src="GitHub-Mark-32px.png" align="right">](https://github.com/uaf-math251/uaf-math251.github.io "This page is a github repo.")
