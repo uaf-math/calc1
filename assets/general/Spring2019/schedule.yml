@@ -33,6 +33,7 @@ schedule:
   - class: "Section 2.5"
     webassign: "2.3"
   - class: "Section 2.6"
+    deadline: "Last day for drop/swap to lower MATH"
     webassign: "2.5"
 
   # week 4
@@ -44,7 +45,6 @@ schedule:
     webassign: "2.6"
   - class: "Sections 2.7-2.8"
   - class: "Section 2.8"
-    deadline: "Last day for swap to M156"
     webassign: "2.7"
 
   # week 5
