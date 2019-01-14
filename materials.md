@@ -3,11 +3,11 @@ layout: course-page
 title: Class Materials
 ---
 
-Miscellaneous materials such as handouts and some worksheets will appear here.  See also the [main course page](index.html#top) for resources specific to your section.
+Miscellaneous materials such as handouts and some worksheets.  See also the [main course page](index.html) for resources specific to your section.
 
 ## Spring 2019
 
-* (no content yet)
+* Recitation 1 (15 January) worksheet: &nbsp;&nbsp; [blank](assets/materials/Spring2019/Recitation-1.pdf) &nbsp;&nbsp; solutions
 
 ### Past Semesters:
 
