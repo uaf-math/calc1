@@ -13,6 +13,8 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Sp
 
 * See the [Week 1](week1) menu item to get started with the ALEKS PPL (placement, preparation, and learning) test.  You need to log in to ALEKS by Tuesday, January 15.  You will need to either complete 10 hours or 90% of your pie in ALEKS PPL's learning mode by the end of the day of Monday, January 21.
 
+* Go to [the doodle poll](https://doodle.com/poll/cr28umftgm2be6f5) to choose a two-hour block for the proctored ALEKS assessment (= Quiz 1) on Tuesday 1/22.  The blocks are 10am-12, 12-2pm, 2-4pm, and 4-6pm; you can only choose one and space is limited.
+
 ### Important Links
 
 * Grades and written homework solutions are available at [BlackBoard](https://classes.alaska.edu).
