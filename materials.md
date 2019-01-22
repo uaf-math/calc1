@@ -8,6 +8,7 @@ Miscellaneous materials such as handouts and some worksheets.  See also the [mai
 ## Spring 2019
 
 * Recitation 1 (15 January) worksheet: &nbsp;&nbsp; [blank](assets/materials/Spring2019/Recitation-1.pdf) &nbsp;&nbsp; [solutions](assets/materials/Spring2019/Recitation-1-Sols.pdf)
+* [After Quiz 1 handout](assets/materials/Spring2019/After-Quiz-1.pdf)
 
 ### Past Semesters:
 

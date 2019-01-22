@@ -1,0 +1,106 @@
+\documentclass[12pt]{article}
+
+\usepackage{graphicx,color,enumerate,multicol}
+\usepackage[top=1in,bottom=0.5in,left=1in, right=1in]{geometry}
+
+\usepackage{tikz}
+
+%% Use Minion fonts if available.  Otherwise Times.
+\IfFileExists{MinionPro.sty}{\usepackage[lf]{MinionPro}}{}
+\usepackage{amsmath,amsthm,amsbsy}
+\IfFileExists{MinionPro.sty}{}{\usepackage{times,txfonts}}
+
+%% Setup aproblem environment, 
+%% aproblem items
+%% subproblems environment
+%% subproblem items
+\makeatletter
+\newcounter{probcount}
+\newcounter{subprobcount}
+\newlength\probsep
+\newlength\pshrinking
+\newif\iffirstprob
+\newenvironment{aproblems}%
+  {\ifhmode\unskip\par\fi\setcounter{probcount}{0}\probsep\parskip
+  \sbox\@tempboxa{\textbf{9.}}\pshrinking\wd\@tempboxa\advance\pshrinking\labelsep
+  \let\hproblem\aproblem
+  \advance\linewidth -\pshrinking
+  \advance\@totalleftmargin\pshrinking
+  \advance\leftskip\pshrinking}%
+  {\ifhmode\unskip \par\fi\advance\leftskip-\pshrinking}%
+
+\newcommand{\aproblem}{%
+  \setcounter{subprobcount}{0}%
+  \stepcounter{probcount}%
+  \def\@currentlabel{\arabic{probcount}}%
+  \ifhmode
+    \unskip \par
+  \fi
+%  \addpenalty{-4000}%
+  \iffirstprob\else\addvspace\probsep\fi
+  \firstprobfalse
+  \hskip -\labelwidth\hskip -\labelsep 
+  \hbox to\labelwidth{\hss\textbf{\arabic{probcount}.}}\hskip\labelsep
+}%
+
+\newcommand{\subprob}{\item\def\@currentlabel{\arabic{probcount}\alph{\thelistlabel}}}
+\newcommand{\skipproblem}{\stepcounter{probcount}}
+
+
+%% The following commands put defined left and right headers on the top, and a page number
+%% on the bottom of all pages beyond page 1
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyfoot[C]{\ifnum \value{page} > 1\relax\thepage\fi}
+\fancyhead[L]{\ifx\@doclabel\@empty\else\@doclabel\fi}
+\fancyhead[R]{\ifx\@docdate\@empty\else\@docdate\fi}
+\headheight 15pt
+\def\doclabel#1{\gdef\@doclabel{#1}}
+\def\docdate#1{\gdef\@docdate{#1}}
+\makeatother
+
+%% General formatting parameters
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+
+\doclabel{Math F251: After Quiz 1}
+\docdate{Spring 2019}
+
+\begin{document}
+\renewcommand{\d}{\displaystyle}
+
+\subsection*{Reminders}
+\begin{itemize}
+\item \textbf{Your first online homework using WebAssign ($=$ WA \S2.1 on the schedule) is due this Friday, 25 January.}  Please see the course web site for instructions on getting started in WebAssign.
+\item \textbf{Your first regular written homework assignment ($=$ WRH 1 on the schedule) is due on Monday, 28 January at the beginning of class.}  See the course web site for the assigned problems.
+\end{itemize}
+
+\subsection*{Frequently Asked Questions}
+\begin{itemize}
+\item \textbf{Q: When will I see my ALEKS homework grade ($=$ WRH 0) and Quiz 1 grade ($=$ ALEKS assessment score) in Blackboard?}
+
+A: These grades will appear on Blackboard by Friday afternoon.
+
+\item \textbf{Q: What does my ALEKS assessment score from Quiz 1 mean?}
+
+A: The standard for ``calculus readiness'' is a score of 78 or higher on this proctored test.  Your instructor may wish to contact you if they are concerned about your math placement.  If you scored below 78, there are steps that you can consider taking.
+    \begin{itemize}
+    \item A typical student is expected to spend about 10 hours per week on calculus outside of class.  You may want to set aside in your schedule more time than that.
+    \item You continue to have access to the ALEKS learning module, which can provide a structured way to continue to learn past material.
+    \item If you are worried about not being successful in calculus, UAF has made it easy for you to transfer into pre-calculus now.  You can do a drop-swap into a lower-number MATH course as late as 1 February.  Please talk to your instructor about placement, and go to the Registrar if you want to do a drop-swap.
+    \end{itemize}
+
+\item \textbf{Q: My proctored ALEKS assessment score was low.  Will I get dropped from the class?}
+
+A: No. If you have already met one of the UAF prerequisites for Calculus I, you will not be
+dropped for lack of prerequisite skills.
+
+\item \textbf{Q: Are we done with ALEKS now or will I need to keep using it?}
+
+A: We will not formally use ALEKS for the remainder of the class. However, you continue to
+have access to the ALEKS Calculus I module for 6 months and you may find it useful to use
+the learning module to strengthen your prerequisite skills.
+\end{itemize}
+
+\end{document}
