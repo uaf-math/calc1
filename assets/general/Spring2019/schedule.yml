@@ -17,7 +17,7 @@ schedule:
   - special: 
     aleks_quiz: 
       location: "in \\textbf{Rasmuson Lab} 10a--6p"
-  - class: "Section 2.1 Activity"
+  - class: "Section 2.1"
   - class: "Sections 2.1-2.2"
   - class: "Section 2.2"
     deadline: "Last day for add/drop."
