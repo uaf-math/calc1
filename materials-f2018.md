@@ -9,7 +9,7 @@ Miscellaneous materials such as handouts and some worksheets appear here.  See a
 
 * Recitation 11/20 worksheet: [blank](assets/materials/Fall2018/Recitation-5.1-5.2.pdf) [solutions](assets/materials/Fall2018/Recitation-5.1-5.2-Sols.pdf)
 
-* Midterm 1 recitation worksheet: [blank](assets/materials/Fall2018/Recitation-MT2-Review.pdf) [solutions](assets/materials/Fall2018/Recitation-MT2-Review-Sols.pdf)
+* Midterm 2 recitation worksheet: [blank](assets/materials/Fall2018/Recitation-MT2-Review.pdf) [solutions](assets/materials/Fall2018/Recitation-MT2-Review-Sols.pdf)
 
 * Midterm 1 recitation worksheet: [blank](assets/materials/Fall2018/Recitation-MT1-Review.pdf) [solutions](assets/materials/Fall2018/Recitation-MT1-Review-Sols.pdf)
 
