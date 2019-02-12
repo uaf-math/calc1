@@ -15,7 +15,7 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Sp
 
 * Check what problems are on the next [Written Homework](writtenhomework), and when it is due.
 
-* See the [schedule](assets/general/Spring2019/MATH251-Schedule.pdf) for when the next assessment will happen.  Find examples of previous assessments at the [Quiz](quizzes), [Proficiencies](proficiencies), and [Exams](exams) tabs at left.
+* See the [schedule](assets/general/Spring2019/MATH251-Schedule.pdf) for when the next assessment will happen.  Find examples of previous assessments at the [Quizzes](quizzes), [Proficiencies](proficiencies), and [Exams](exams) tabs at left.
 
 * Course communication (e.g announcements!) uses [Piazza](https://piazza.com/uaf/spring2019/math251/home).  You should already be [signed up on Piazza](https://piazza.com/uaf/spring2019/math251).  <!-- Start by [signing up with Piazza](https://piazza.com/uaf/spring2019/math251). -->
 
