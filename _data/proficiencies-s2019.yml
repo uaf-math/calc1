@@ -1,0 +1,8 @@
+semester: Spring 2019
+home: assets/proficiencies/Spring2019
+derivative:
+  versions:
+    - name: Sample
+      blank: Derivative-sample.pdf
+      solutions: solns-Derivative-sample.pdf
+
