@@ -5,10 +5,16 @@ derivative:
     - name: Sample
       blank: Derivative-sample.pdf
       solutions: solns-Derivative-sample.pdf
-    - name: V1 
+    - name: V1
       blank: Derivative-v1.pdf
       solutions: Derivative-v1-Sols.pdf
     - name: V2
       blank: Derivative-v2.pdf
       solutions: Derivative-v2-Sols.pdf
+    - name: V3
+      blank: Derivative-v3.pdf
+      solutions: Derivative-v3-Sols.pdf
+    - name: V4
+      blank: Derivative-v4.pdf
+      solutions: Derivative-v4-Sols.pdf
 
