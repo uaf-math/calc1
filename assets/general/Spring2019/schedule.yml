@@ -116,7 +116,7 @@ schedule:
   - class: "Section 4.3"
     webassign: "4.2"
 
-  # week 10
+  # week 11
   - class: "Sections 4.3-4.4"
     homework:
   - recitation:
@@ -129,7 +129,7 @@ schedule:
   - class: "Section 4.5"
     deadline: "Last day to withdraw"
 
-  # week 11
+  # week 12
   - class: "Section 4.7"
     homework:
   - recitation:
@@ -139,7 +139,7 @@ schedule:
     webassign: "4.7"
   - class: "Review Chapters 3-4"
 
-  # week 12
+  # week 13
   - class: "Section 5.1"
     homework:
     webassign: "4.9"
@@ -152,13 +152,12 @@ schedule:
   - class: "Section 5.2"
     webassign: "5.1"
 
-  # week 13
+  # week 14
   - class: "Section 5.3"
     homework:
     webassign: "5.2"
   - recitation:
-    quiz: "5.1-5.2"
-#CHANGES START HERE
+    quiz: "4.9,5.1,5.2"
   - class: "Section 5.4"
     webassign: "5.3 part 1"
   - class: "Sections 5.4-5.5"
@@ -167,7 +166,7 @@ schedule:
   - class: "Section 5.5"
     webassign: "5.4"
 
-  # week 14
+  # week 15
   - class: "Section 5.5"
     webassign: "5.5 part 1"
   - recitation: "Integration Practice"
@@ -179,7 +178,7 @@ schedule:
   - class: "Review Chapters 2-3"
     webassign: "4.8"
 
-  # week 15
+  # week 16
   - class: "Review Chapters 4-5"
   - final:
       time: "3:15-5:15pm"
