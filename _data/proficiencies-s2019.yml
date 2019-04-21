@@ -23,4 +23,9 @@ derivative:
     - name: V6
       blank: Derivative-v6.pdf
       solutions: Derivative-v6-Sols.pdf
+integral:
+  versions:
+    - name: Sample
+      blank: Integral-sample.pdf
+      solutions: solns-Integral-sample.pdf
 
