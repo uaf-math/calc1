@@ -1,0 +1,143 @@
+
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+\usepackage{framed}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{\baselineskip 30pt
+\emph{\@doctitle\hfill\@docdate}
+%\ifnum \value{page} > 1\relax\else\\
+%\emph{Name: \rule{3.5in}{1pt}\hfill \@docscoring}\fi
+}
+%\rfoot{\emph{\@docversion}}
+%\lfoot{\emph{\@doccourse}}
+%\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} to
+% start a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+
+
+\doctitle{Math 251: Integration Basics Worksheet}
+\docdate{23 April 2019}
+\doccourse{UAF Calculus I}
+%\docversion{v-sample}
+%\docscoring{\blank{0.8in} / 12}
+
+\begin{document}
+
+\small
+\begin{framed}
+  \textbf{Fill-in these indefinite integrals you (should) already know:}
+
+%\vspace*{-0.35in}
+  \begin{multicols}{2}
+    \begin{itemize}
+    \item $\d \int x^n\, dx = $
+    \item $\d \int \sin x\, dx =$
+    \item $\d \int \cos x\, dx = $
+    \item $\d \int \sec^2 x\, dx =$
+    \item $\d \int \sec x\, \tan x\, dx= $
+    \item $\d \int \csc^2 x\, dx =$
+\columnbreak
+%\vspace*{0.32in}
+    \item $\d \int \frac 1 x\, dx =$
+    \item $\d \int e^x\, dx =$
+    \item $\d \int a^x\, dx =$
+    \item $\d \int \frac{1}{\sqrt{1-x^2}}\, dx =$ \phantom{sdlfjk asdlfkj alsdkjf asdlfkj asldj}
+    \item $\d \int \frac{1}{1+x^2}\, dx =$
+    \item $\d \int \csc x\, \cot x\, dx= $
+    \end{itemize}
+  \end{multicols}
+\end{framed}
+\small
+
+\begin{itemize}
+\item \textbf{Question 1:} How do you check your answers when computing integrals? For example, suppose $\int f(x) dx = F(x) + C$. How do you know you are right?
+\vfill
+
+\item \textbf{Question 2:} For what value of $n$ does the reverse power rule for the antiderivative of $x^n$ not apply?  What is the antiderivative of $x^n$ for this value of $n$?
+\vfill
+
+\item \textbf{Question 3:} What is the $u$-substitution to use for the following integral?:
+    $$\int f\left(g(x)\right)\,g'(x)\,dx = \hspace{80mm}$$
+\vfill
+
+\item \textbf{Question 4:} When you check an indefinite integral which you did by substitution, what derivative rule will you always use?
+\vfill
+
+\end{itemize}
+\end{document}
