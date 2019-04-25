@@ -28,4 +28,10 @@ integral:
     - name: Sample
       blank: Integral-sample.pdf
       solutions: solns-Integral-sample.pdf
+    - name: V1
+      blank: Integral-v1.pdf
+      solutions: Integral-v1-sols.pdf
+    - name: V2
+      blank: Integral-v2.pdf
+      solutions: Integral-v2-sols.pdf
 
