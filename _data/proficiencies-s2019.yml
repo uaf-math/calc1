@@ -34,4 +34,7 @@ integral:
     - name: V2
       blank: Integral-v2.pdf
       solutions: Integral-v2-sols.pdf
+    - name: V3
+      blank: Integral-v3.pdf
+      solutions: Integral-v3-sols.pdf
 
