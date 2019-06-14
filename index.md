@@ -3,9 +3,17 @@ layout: course-page
 title: Math F251 Calculus I
 ---
 
+### <span style="color:orange">WEBPAGE UNDER CONSTRUCTION FOR FALL 2019</span>
+
+### ALL DATES ARE SUBJECT TO CHANGE (OR WRONG)
+
 Welcome to the central homepage for all in-person sections of Calculus I in **Spring 2019**.  We are in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
 
-<!-- ### Getting Started-->
+### Getting Started
+
+* See the [Week 1](week1) menu item to get started with the ALEKS PPL (placement, preparation, and learning) test.  You need to log in to ALEKS by Tuesday, January 15.  You will need to either complete 10 hours or 90% of your pie in ALEKS PPL's learning mode by the end of the day of Monday, January 21.
+
+* Go to [the doodle poll](https://doodle.com/poll/cr28umftgm2be6f5) to choose a two-hour block for the proctored ALEKS assessment (= Quiz 1) on Tuesday 1/22.  The blocks are 10am-12, 12-2pm, 2-4pm, and 4-6pm; you can only choose one and space is limited.
 
 ### Keeping up to date
 
@@ -19,11 +27,6 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Sp
 
 * Course communication (e.g announcements!) uses [Piazza](https://piazza.com/uaf/spring2019/math251/home).  You should already be [signed up on Piazza](https://piazza.com/uaf/spring2019/math251).  <!-- Start by [signing up with Piazza](https://piazza.com/uaf/spring2019/math251). -->
 
-<!--
-* See the [Week 1](week1) menu item to get started with the ALEKS PPL (placement, preparation, and learning) test.  You need to log in to ALEKS by Tuesday, January 15.  You will need to either complete 10 hours or 90% of your pie in ALEKS PPL's learning mode by the end of the day of Monday, January 21.
-
-* Go to [the doodle poll](https://doodle.com/poll/cr28umftgm2be6f5) to choose a two-hour block for the proctored ALEKS assessment (= Quiz 1) on Tuesday 1/22.  The blocks are 10am-12, 12-2pm, 2-4pm, and 4-6pm; you can only choose one and space is limited.
--->
 
 ### Important Links
 
