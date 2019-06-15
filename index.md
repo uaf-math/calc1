@@ -11,21 +11,21 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Fa
 
 ### Getting Started
 
-* See the [Week 1](week1) menu item to get started with the ALEKS PPL (placement, preparation, and learning) test.  You need to log in to ALEKS by Tuesday, August 27.  You will need to either complete 10 hours or 90% of your pie in ALEKS PPL's learning mode by the end of the day of Monday, January 21.
+* See the [Week 1](week1) menu item to get started with the ALEKS PPL (placement, preparation, and learning) test.  You need to log in to ALEKS by Tuesday, August 27.  You will need to either complete 10 hours or 90% of your pie in ALEKS PPL's learning mode by the end of the day of Monday, September 2.
 
-* Go to [the doodle poll](https://doodle.com/poll/cr28umftgm2be6f5) to choose a two-hour block for the proctored ALEKS assessment (= Quiz 1) on Tuesday 1/22.  The blocks are 10am-12, 12-2pm, 2-4pm, and 4-6pm; you can only choose one and space is limited.
+* Go to [the doodle poll](https://doodle.com/poll/cr28umftgm2be6f5) to choose a two-hour block for the proctored ALEKS assessment (= Quiz 1) on Tuesday September 3.  The blocks are 8am-10am, 10am-12, 12-2pm, and 4-6pm; you can only choose one and space is limited.
 
 ### Keeping up to date
 
-* See the [schedule](assets/general/Spring2019/MATH251-Schedule.pdf).  Go there often to find out what happens next.
+* See the [schedule](assets/general/Fall2019/MATH251-Schedule-F2019.pdf).  Go there often to find out what happens next.
 
 * You should already be signed up with [WebAssign](https://webassign.net/).  Make a little progress with those problems as often as you can, and don't lose track of when they are due.
 
 * Check what problems are on the next [Written Homework](writtenhomework), and when it is due.
 
-* See the [schedule](assets/general/Spring2019/MATH251-Schedule.pdf) for when the next assessment will happen.  Find examples of previous assessments at the [Quizzes](quizzes), [Proficiencies](proficiencies), and [Exams](exams) tabs at left.
+* See the [schedule](assets/general/Fall2019/MATH251-Schedule-F2019.pdf) for when the next assessment will happen.  Find examples of previous assessments at the [Quizzes](quizzes), [Proficiencies](proficiencies), and [Exams](exams) tabs at left.
 
-* Course communication (e.g announcements!) uses [Piazza](https://piazza.com/uaf/spring2019/math251/home).  You should already be [signed up on Piazza](https://piazza.com/uaf/spring2019/math251).  <!-- Start by [signing up with Piazza](https://piazza.com/uaf/spring2019/math251). -->
+* (tentative, not sure we will use this) Course communication (e.g announcements!) uses [Piazza](https://piazza.com/uaf/spring2019/math251/home).  You should already be [signed up on Piazza](https://piazza.com/uaf/spring2019/math251).  <!-- Start by [signing up with Piazza](https://piazza.com/uaf/spring2019/math251). -->
 
 
 ### Important Links
@@ -34,6 +34,7 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Fa
 
 * Individual instructors may have resources for their sections on their web sites:
 
+	- (TBA) We may want to link to blackboard (one link to F01-F02, one for UX1)
 	- [John Rhodes (office hours here)](https://jarhodesuaf.github.io/), section F01 (CRN 33883): [resources for F01](https://jarhodesuaf.github.io/M251.html)
 	- [Ed Bueler](http://bueler.github.io) ([office hours here](http://bueler.github.io/OffHrs.htm)), section F02 (CRN 33884): [resources for F02](http://bueler.github.io/M251S19_F02/index.html)
 
