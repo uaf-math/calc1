@@ -87,10 +87,10 @@
   problems:
     - section: 5.3 
       exercises: 12, 16, 28, 32, 36, 44, 46, 62
+   - section: 5.4
+      exercises: 32, 34, 36, 46, 62   
 
 - name: WRH 13
   problems:
-    - section: 5.4
-      exercises: 32, 34, 36, 46, 62
     - section: 5.5
       exercises: 14, 18, 20, 24, 42, 45, 48, 56, 60, 82
