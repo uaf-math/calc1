@@ -3,10 +3,13 @@ sidenav_title: 'Math 251'
 docs:
 
 - title: Syllabus
-  url: assets/general/Spring2019/MATH251-Syllabus.pdf
+  url: assets/general/Fall2019/MATH251-Syllabus-F2019-generic.pdf
 
 - title: Schedule
-  url: assets/general/Spring2019/MATH251-Schedule.pdf
+  url: assets/general/Fall2019/MATH251-Schedule-F2019.pdf
+
+- title: Instructor Info
+  url: assets/general/Fall2019/Calculus-I-Fall-2019-Instructor-Section-Info.pdf
 
 - title: Week 1
   url: week1.html
