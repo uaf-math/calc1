@@ -7,7 +7,7 @@ title: Math F251 Calculus I
 
 ### ALL DATES ARE SUBJECT TO CHANGE (OR WRONG)
 
-Welcome to the central homepage for all in-person sections of Calculus I in **Spring 2019**.  We are in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
+Welcome to the central homepage for all in-person sections of Calculus I in **Fall 2019**.  We are in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
 
 ### Getting Started
 
