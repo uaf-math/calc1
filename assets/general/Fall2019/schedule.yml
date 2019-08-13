@@ -7,9 +7,9 @@ schedule:
     webassign: "1.1"
   - class: "Section 1.4-1.5"
     webassign: "1.2"
+    homework:
   - class: "Section 1.5"
     homework: 
-    homework:
     webassign: "1.3"
 
   - holiday: "Labor Day"
