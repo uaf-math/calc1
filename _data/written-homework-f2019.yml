@@ -98,16 +98,16 @@
 
 - name: WRH 13  
   problems:
-  - section: 5.1
-    exercises: 8, 13, 18
-  - section: 5.2
-    exercises: 38, 40, 44, 51
+    - section: 5.1
+      exercises: 8, 13, 18
+    - section: 5.2
+      exercises: 38, 40, 44, 51
 
 - name: WRH 14  
   problems:
     - section: 5.3 
       exercises: 12, 16, 28, 32, 36, 44, 46, 62
-   - section: 5.4
+    - section: 5.4
       exercises: 32, 34, 36, 46, 62   
 
 - name: WRH 15
