@@ -39,6 +39,7 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Fa
 ### Important Links
 
 * Grades and written homework solutions are available at [BlackBoard](https://classes.alaska.edu).
+* [Math & Stat Tutoring Lab](https://uaf.edu/dms/mathlab/math-and-stat-lab-schedul-1/)
 
 <!-- * Individual instructors may have resources for their sections on their web sites:
 
