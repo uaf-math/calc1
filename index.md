@@ -3,7 +3,7 @@ layout: course-page
 title: Math F251 Calculus I
 ---
 
-### <span style="color:orange">WEBPAGE UNDER CONSTRUCTION FOR FALL 2019</span>
+<!-- ### <span style="color:orange">WEBPAGE UNDER CONSTRUCTION FOR FALL 2019</span> -->
 
 ### ALL DATES ARE SUBJECT TO CHANGE
 
@@ -33,7 +33,7 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Fa
 
 * Find examples of previous assessments at the [Quizzes](quizzes), [Proficiencies](proficiencies), and [Exams](exams) tabs at left.
 
-<!-- * (tentative, not sure we will use this) Course communication (e.g announcements!) uses [Piazza](https://piazza.com/uaf/spring2019/math251/home).  You should already be [signed up on Piazza](https://piazza.com/uaf/spring2019/math251).  <!-- Start by [signing up with Piazza](https://piazza.com/uaf/spring2019/math251). --> -->
+<!-- * (tentative, not sure we will use this) Course communication (e.g announcements!) uses [Piazza](https://piazza.com/uaf/spring2019/math251/home).  You should already be [signed up on Piazza](https://piazza.com/uaf/spring2019/math251).  <!-- Start by [signing up with Piazza](https://piazza.com/uaf/spring2019/math251). --> 
 
 
 ### Important Links
