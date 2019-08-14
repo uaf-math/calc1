@@ -7,8 +7,8 @@ title: In Class Materials
 
 | Date | Section | Notes | Worksheet |
 |--------------|-------|------------|--------------------|
-|Mon Aug 26|none|[blank](assets/materials/Spring2019/Recitation-1.pdf), [completed]()|
-|Tues Aug 27|none| [blank](assets/materials/Spring2019/Recitation-1.pdf), [completed]()|
+|Mon Aug 26|1.1|none|[blank](assets/materials/Spring2019/Recitation-1.pdf), [completed]()|
+|Tues Aug 27|1.2 - 1.3|none| [blank](assets/materials/Spring2019/Recitation-1.pdf), [completed]()|
 
 
 <!-- To start using WebAssign, you will need two codes: -->
