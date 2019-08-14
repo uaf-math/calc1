@@ -12,7 +12,7 @@ schedule:
     homework: 
     webassign: "1.3"
 
-  - holiday: "Labor Day!"
+  - holiday: "Labor Day"
     webassign: "1.4"
     webassign: "1.5"
   - recitation: 
@@ -50,6 +50,9 @@ schedule:
     webassign: "2.8"
   - recitation: "Review: Chapters 1-2"
   - midterm: "Chapters 1-2"
+    exam-times: 
+      - "5-6pm"
+      - "6-7pm"
   - class: "Section 3.1"
   - class: "Section 3.2"
     webassign: "3.1"
@@ -126,6 +129,9 @@ schedule:
     webassign: "4.9"
   - recitation: "Review Chapters 3-4"
   - midterm: "Chapters 3-4"
+    exam-times: 
+      - "5-6pm"
+      - "6-7pm"
   - class: "Sections 5.1-5.2"
   - class: "Section 5.2"
     webassign: "5.1"

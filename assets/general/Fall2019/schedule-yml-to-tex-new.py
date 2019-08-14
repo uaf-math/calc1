@@ -117,10 +117,6 @@ def topic_row(week_start, days):
 			entry.addline(r"\textbf{\textcolor{dcyan}{Midterm %d:}}" % midterm_number)
 			entry.addline(today['midterm'])
 			midterm_number += 1
-			slot = ord('A')
-			for t in today['exam-times']:
-				entry.addline(r"\textcolor{ddgreen}{Slot %s: %s}" % (chr(slot),t) )
-				slot += 1
 		elif 'final' in today:
 			entry.addline(r"\textcolor{dcyan}{FINAL EXAM}")
 			entry.addline(r"Time: %s" % today["final"]["time"])
