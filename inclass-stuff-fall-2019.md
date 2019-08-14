@@ -3,11 +3,13 @@ layout: course-page
 title: In Class Materials
 ---
 
-## In CLass Materials
+## In Class Materials
 
-Monday Aug 26
+| Date | Section | Notes | Worksheet |
+|--------------|-------|------------|--------------------|
+|Mon Aug 26|none|[blank](assets/materials/Spring2019/Recitation-1.pdf), [completed]()|
+|Tues Aug 27|none| [blank](assets/materials/Spring2019/Recitation-1.pdf), [completed]()|
 
-Section 1.1: [notes](assets/materials/Spring2019/Recitation-1.pdf) [blank worksheet]() [completed worksheet]()
 
 <!-- To start using WebAssign, you will need two codes: -->
 
