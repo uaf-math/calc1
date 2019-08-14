@@ -31,18 +31,18 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Fa
 
 * See the [schedule](assets/general/Fall2019/MATH251-Schedule-F2019.pdf) for when the next assessment will happen.  Find examples of previous assessments at the [Quizzes](quizzes), [Proficiencies](proficiencies), and [Exams](exams) tabs at left.
 
-* (tentative, not sure we will use this) Course communication (e.g announcements!) uses [Piazza](https://piazza.com/uaf/spring2019/math251/home).  You should already be [signed up on Piazza](https://piazza.com/uaf/spring2019/math251).  <!-- Start by [signing up with Piazza](https://piazza.com/uaf/spring2019/math251). -->
+<!-- * (tentative, not sure we will use this) Course communication (e.g announcements!) uses [Piazza](https://piazza.com/uaf/spring2019/math251/home).  You should already be [signed up on Piazza](https://piazza.com/uaf/spring2019/math251).  <!-- Start by [signing up with Piazza](https://piazza.com/uaf/spring2019/math251). --> -->
 
 
 ### Important Links
 
 * Grades and written homework solutions are available at [BlackBoard](https://classes.alaska.edu).
 
-* Individual instructors may have resources for their sections on their web sites:
+<!-- * Individual instructors may have resources for their sections on their web sites:
 
 	- (TBA) We may want to link to blackboard (one link to F01-F02, one for UX1)
 	- [John Rhodes (office hours here)](https://jarhodesuaf.github.io/), section F01 (CRN 33883): [resources for F01](https://jarhodesuaf.github.io/M251.html)
-	- [Ed Bueler](http://bueler.github.io) ([office hours here](http://bueler.github.io/OffHrs.htm)), section F02 (CRN 33884): [resources for F02](http://bueler.github.io/M251S19_F02/index.html)
+	- [Ed Bueler](http://bueler.github.io) ([office hours here](http://bueler.github.io/OffHrs.htm)), section F02 (CRN 33884): [resources for F02](http://bueler.github.io/M251S19_F02/index.html) -->
 
 <br>
 [<img src="GitHub-Mark-32px.png" align="right">](https://github.com/uaf-math251/uaf-math251.github.io "This page is a github repo.")
