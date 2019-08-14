@@ -26,4 +26,16 @@ The python script `schedule-yml-to-tex.py` converts the data in the `schedule.ym
 Just LaTeX it:
 
 	pdflatex MATH251-Syllabus.tex
+	
+# changes in Fall 2019
+
+Because we gave midterms in the usual classtimes and not in the evening, they python code was changed to omit the "slot A" and "slot B" items in the schedule. This file named:
+	
+	schedule-yml-to-tex-new.py
+	
+is the file used in Fall 2019.
+
+The .yml file with the "slot A" and "slot B" syntax is called 
+
+	schedule-with-evening-midterms.yml
 
