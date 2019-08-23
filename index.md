@@ -25,7 +25,7 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Fa
 
 * You will want to look at the [schedule](assets/general/Fall2019/MATH251-Schedule-F2019.pdf) regularly to be prepared for upcoming assignments and assessments.
 
-* The [In-Class Materials](inclass-stuff) menu link will hold any worksheets or other material handed out in class.
+* The [In-Class Materials](inclass-stuff-fall-2019) menu link will hold any worksheets or other material handed out in class.
 
 * Make a little progress on WebAssign problems as often as you can, and don't lose track of when they are due.
 
