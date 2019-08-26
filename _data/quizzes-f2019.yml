@@ -5,7 +5,7 @@ quizzes:
     versions:
       - name: Version 1
         blank: MATH251-Prerequisite-Quiz-SAMPLE1.pdf
-        solutions: MATH251-Prerequisite-Quiz-SAMPLE1-sols.pdf
+        solutions: MATH251-Prerequisite-Quiz-SAMPLE1-Sols.pdf
       - name: Version 2
         blank: PracticeQuiz-1-v2.pdf
         solutions: PractieQuiz-1-v2-Sols.pdf
