@@ -6,7 +6,7 @@ title: In Class Materials
 ## In Class Materials
 
 
-* (Mon Aug 26) **Section 1.1:** [worksheet](assets/materials/Fall2019/Worksheet_1-1.pdf), [solutions]()
+* (Mon Aug 26) **Section 1.1:** [worksheet](assets/materials/Fall2019/Worksheet_1-1.pdf), [solutions](assets/materials/Fall2019/Worksheet_1-1-solns.pdf)
 
 * (Tues Aug 27) **Section 1.2:**   [worksheet](assets/materials/Fall2019/M251_first_recitation_sect-1-2.pdf), [solutions]()
 
