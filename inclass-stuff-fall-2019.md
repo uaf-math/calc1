@@ -10,7 +10,7 @@ title: In Class Materials
 
 * (Tues Aug 27) **Section 1.2:**   [worksheet](assets/materials/Fall2019/M251_first_recitation_sect-1-2.pdf), [solutions](assets/materials/Fall2019/M251_first_recitation_sect-1-2solns.pdf)
 
-* (Wed Aug 28) **Section 1.3 + Trig Review:**   [worksheet](assets/materials/Fall2019/1-3-Transformations-and-Trig_review.pdf), [solutions]()
+* (Wed Aug 28) **Section 1.3 + Trig Review:**   [worksheet](assets/materials/Fall2019/1-3-Transformations-and-Trig_review.pdf), [solutions](assets/materials/Fall2019/1-3-Transformations-and-Trig_review-filled.pdf)
 
 
 <!-- To start using WebAssign, you will need two codes: -->
