@@ -12,6 +12,8 @@ title: In Class Materials
 
 * (Wed Aug 28) **Section 1.3 + Trig Review:**   [worksheet](assets/materials/Fall2019/1-3-Transformations-and-Trig_review.pdf), [solutions](assets/materials/Fall2019/1-3-Transformations-and-Trig_review-filled.pdf)
 
+* (Thurs Aug 29) **Section 1.4:**   [worksheet](assets/materials/Fall2019/Worksheet-1-4.pdf), [solutions](assets/materials/Fall2019/Worksheet-1-4-filled.pdf)
+
 
 <!-- To start using WebAssign, you will need two codes: -->
 
