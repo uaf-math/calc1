@@ -1,0 +1,115 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx,latexsym} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+\usepackage{pdfsync}
+\usepackage{enumerate, enumitem}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array,tikz,xcolor, pgfplots}
+\pagestyle{fancy} 
+\lfoot{UAF Calculus 1}
+\rfoot{\S 1.4 \& 1.5 }
+
+\usetikzlibrary{calc}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+
+\begin{document}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\renewcommand{\d}{\displaystyle}
+
+
+\vspace*{-0.7in}
+\begin{center}
+  \LARGE \sc{Lecture Notes: \S 1.4 }
+\end{center}
+\begin{enumerate}
+\item Use the Laws of Exponents to rewrite and simplify. Write down the rules that you are using to the side of your work.
+\begin{multicols}{2}
+\begin{enumerate}
+\item $(25^2)(5^{-3})$
+\item $\sqrt[3]{x^{-2}}$
+\end{enumerate} 
+\end{multicols}
+\vfill
+\begin{multicols}{2}
+\begin{enumerate}[label=\alph*.,start=3]
+\item $b^{(n-1)}(3b^2)^n$
+\item $\frac{6x^2y}{\sqrt{4xy^3}}$
+\end{enumerate} 
+\end{multicols}
+\vfill
+\item On the axes below, graph $f(x)=2^x,\: g(x)=e^x,\: h(x)=10^x,$ and $k(x)=\left(\frac{1}{2} \right)^x.$ Label any $x$- and $y$-intercepts.
+
+\begin{center}
+\tikz{ \draw[<->] (-7,0) -- (7,0); \draw [<->] (0,-2) -- (0,4);}\end{center}
+%\vspace{3in}
+%\item Are the two functions $f(x)=\left( \frac{1}{2} \right)^{x}$ and $g(x)=2^{-x}$ the same function or not? Justify your answer. (BONUS: Can you give both an algebraic justification and a geometric justification.)
+%\vfill
+\newpage
+\item Assume $a >0.$ What is the domain and range of $f(x)=a^x$? Asymptotes?
+\vspace{1in}
+
+\item Sketch the graph of each function below, using what you know about transformations of functions. Determine its domain and range, and label any $x$- and $y$-intercepts (use exact numbers) and horizontal or vertical asymptotes.
+\begin{enumerate}
+\begin{multicols}{2}
+\item $f(x)=1-2^{x}$
+\columnbreak
+\item $y=2e^{x-2}$
+\end{multicols}
+\end{enumerate}
+\vfill
+%\item Without the use of a calculator, compute the following:
+%\begin{enumerate}
+%\item $ \log_2 \frac{1}{16}=$\\
+%
+%\item $\ln e^{0.24}=$ \\
+%
+%\item $e^{5 \ln x}=$\\
+%
+%
+%\end{enumerate}
+%
+%\item On the same set of axes, graph $f(x)=e^x$ and $g(x)=\ln x.$
+%\vfill
+%\newpage
+%\item Solve the following equations for
+%  $x$.
+%
+%  \begin{multicols}{2}{
+%      % make sure you added \usepackage{enumerate}
+%      \vspace*{-0.35in}
+%      \begin{enumerate}[label=\alph*.]
+%      \item $ \ln (x+5) - 1 = 7$
+%      \item  $e^{2x-5} + 4 = 10$
+%      \end{enumerate}}
+%  \end{multicols}
+%\vfill
+
+\item Are the following statements true or false? If
+either case, explain why.  If possible, change the false statements so
+that they are a true statement. 
+
+
+  \begin{enumerate}[label=\alph*.]
+  \item $(a+b)^2 = a^2 + b^2$ \vskip0.25in
+  \item $\sqrt{x^2 + 4} = x + 2$ \vskip0.25in
+  \item $\d \frac{a+b}{c+d} = \frac a c + \frac b d$ \vskip0.25in
+  \item $\d \frac{a+b}{c} = \frac a c + \frac b c$ \vskip0.25in
+%  \item $\ln(x + y) = \ln x + \ln y$ \vskip0.25in
+%  \item $\d \frac{ \ln x}{\ln y} = \ln \left( \frac x y \right)$
+%    \vskip0.25in
+%  \item $\d \ln(x - y) = \ln \left( \frac x y \right)$ \vskip0.25in
+%  \item $f^{-1} (x) = \frac 1 {f(x)}$ \vskip0.25in
+%  \item $f^2(x) = (f(x))^2$ \vskip0.25in
+  \end{enumerate}
+
+
+\end{enumerate}
+\end{document}
