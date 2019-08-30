@@ -1,0 +1,90 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx,latexsym} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+\usepackage{pdfsync}
+\usepackage{enumerate, enumitem}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array,tikz,xcolor, pgfplots}
+\pagestyle{fancy} 
+\lfoot{UAF Calculus 1}
+\rfoot{\S 1.4 \& 1.5 }
+
+\usetikzlibrary{calc}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+
+\begin{document}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\renewcommand{\d}{\displaystyle}
+
+
+\vspace*{-0.7in}
+\begin{center}
+  \LARGE \sc{Lecture Notes: \S 1.5 }
+\end{center}
+\begin{enumerate}
+\item Without doing a bunch of algebra, find $f^{-1}(x)$ for each function below:
+\begin{multicols}{2}
+\begin{enumerate}
+	\item $f(x)=2x$
+	\item $f(x)= x^3$
+	\end{enumerate}
+	\end{multicols}
+	\vfill
+\item Without explicitly finding a formula for $f^{-1}(x)$, find $f^{-1}(1)$ for each function below:\\
+\begin{multicols}{3}
+\begin{enumerate}
+	\item $f(x)=x-20$
+	\item \begin{tabular}{|c||c|c|c|c|c|c|c|c|c|}
+$x$&0&0.25&0.5&0.75&1&1.25&1.5&1.75&2.0\\
+\hline
+$f(x)$&20&10&5&3&2.5&2&1.5&1&0.25\\
+\end{tabular}
+
+	\end{enumerate}
+	\end{multicols}
+	\vfill
+\item Evaluate $\sin^{-1}(1).$
+\vfill
+\item Find the exact value of each expression.
+\begin{multicols}{2}
+\begin{enumerate}
+	\item $\log_2 16$
+	\item $e^{\ln 5}$
+	\end{enumerate}
+	\end{multicols}
+	\vfill
+
+\newpage
+\item Solve each equation below for $x$.
+\begin{multicols}{2}
+\begin{enumerate}
+	\item $10=2e^{x+1}$
+	\item $\ln (x^2-1)=1$
+	\end{enumerate}
+	\end{multicols}
+	\vfill
+\item Sketch each function. Include domain, range, intercepts and asymptotes.\\
+\begin{multicols}{2}
+\begin{enumerate}
+	\item $f(x)=\ln(x+1)$
+	
+	\tikz{ \draw[<->] (-4,0) -- (4,0); \draw [<->] (0,-4) -- (0,4);}
+	
+	\item $f(x)=- \ln x$
+	
+	\tikz{ \draw[<->] (-4,0) -- (4,0); \draw [<->] (0,-4) -- (0,4);}
+	
+	\end{enumerate}
+	\end{multicols}
+	\vfill
+
+\end{enumerate}
+\end{document}
