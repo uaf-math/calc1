@@ -5,6 +5,10 @@ title: In Class Materials
 
 ## In Class Materials
 
+# Week 2
+
+* (Wed Sept 4) **Section 2.1:**   [worksheet](assets/materials/Fall2019/Worksheet-2-1.pdf), [solutions](assets/materials/Fall2019/Worksheet-2-1.pdf)
+
 #  Week 1
 
 * (Mon Aug 26) **Section 1.1:** [worksheet](assets/materials/Fall2019/Worksheet_1-1.pdf), [solutions](assets/materials/Fall2019/Worksheet_1-1-solns.pdf)
