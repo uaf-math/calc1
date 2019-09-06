@@ -13,10 +13,10 @@ quizzes:
     versions:
       - name: Version 1
         blank: MATH251-Prerequisite-Quiz-v1.pdf
-        solutions: Quiz-1-v1-Sols.pdf
+        solutions: MATH251-Prerequisite-Quiz-v1-soln.pdf
       - name: Version 2
         blank: MATH251-Prerequisite-Quiz-v2.pdf
-        solutions: Quiz-3-v2-Sols.pdf
+        solutions: MATH251-Prerequisite-Quiz-v2-soln.pdf
       - name: Version 3
         blank: MATH251-Prerequisite-Quiz-v3.pdf
         solutions: Quiz-3-v2-Sols.pdf
