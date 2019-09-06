@@ -7,7 +7,11 @@ title: In Class Materials
 
 # Week 2
 
-* (Wed Sept 4) **Section 2.1:**   [worksheet](assets/materials/Fall2019/Worksheet-2-1.pdf), [solutions](assets/materials/Fall2019/Worksheet-2-1.pdf)
+* (Wed Sept 4) **Section 2.1:**   [worksheet](assets/materials/Fall2019/Worksheet-2-1.pdf), [solutions](assets/materials/Fall2019/Worksheet-2-1-soln.pdf)
+
+* (Thurs Sept 5) **Section 2.2:**   [worksheet](assets/materials/Fall2019/Worksheet-2-2.pdf), [solutions](assets/materials/Fall2019/Worksheet-2-2-filled.pdf)
+
+* (Fri Sept 6) **Section 2.2:**   [worksheet](assets/materials/Fall2019/Worksheet-2-2-day-2.pdf), [solutions](assets/materials/Fall2019/Worksheet-2-2-day2.pdf)
 
 #  Week 1
 
