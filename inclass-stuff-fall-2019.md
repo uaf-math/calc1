@@ -7,7 +7,7 @@ title: In Class Materials
 
 # Week 3
 
-* (Mon Sept 9) **Section 2.3** [worksheet](assets/materials/Fall2019/Worksheet-2-3.pdf), [solutions](assets/materials/Fall2019/Worksheet-2-3-soln.pdf)
+* (Mon Sept 9) **Section 2.3** [worksheet](assets/materials/Fall2019/Worksheet_2-3.pdf), [solutions](assets/materials/Fall2019/Worksheet_2-3-soln.pdf)
 
 # Week 2
 
