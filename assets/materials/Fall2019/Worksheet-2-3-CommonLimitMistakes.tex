@@ -1,0 +1,119 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+%\usepackage{pdfsync}
+\usepackage[parfill]{parskip}
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array,tikz,pgfplots}
+\usepackage{multicol, cancel}
+
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=black,only marks,mark=*}} \pgfplotsset{holdot/.style={color=black,fill=white,only marks,mark=*}}
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\pagestyle{fancy} 
+\lfoot{UAF Calculus 1}
+\rfoot{2-3}
+\begin{document}
+\begin{center}
+  \LARGE \sc{\S 2-3: Common Limit Mistakes}
+\end{center}
+
+\noindent Each of the following limits has some common mistake. Identify the mistakes! 
+
+Hint: Most of the mistakes are mistakes in notation. In particular: are you \emph{saying} you're taking the limit after you've evaluated it? Alternately, are you still working on a limit but there's no limit notation? When things are equal, are using an $=$ to say so?
+
+\be
+\item
+\[ \lim_{x\to -2}(2x^{2} - 10x +1)  = \lim_{x\to -2} (2(-2)^{2}-10(-2)+1) = \lim_{x \to -2}( 8+20+1)
+ = 29\]
+ 
+ \item \[ 
+ \lim_{x \to 1} \frac{4 - 4x^{2}}{5x-5} = \frac{4(1-x^{2})}{5(x-1)}=\frac{-4(x^{2}-1)}{5(x-1)} =\frac{-4{\cancel{(x-1)}}(x+1)}{5\cancel{(x-1)}} = \frac{-4(x+1)}{5} = \frac{-8}{5}\]
+ 
+\item \begin{align*} 
+\lim_{x\to 2} \frac{2x^{2} - 8x+8}{x^{2} - 4} &= \lim_{x\to 2} \frac{2(x^{2} - 4x + 4)}{x^{2 } - 4}\\
+&= \lim_{x \to 2} \frac{2(x-2)\cancel{(x-2)}}{(x+2)\cancel{(x-2)}}\\
+&= \lim_{x\to 2}\frac{2(x-2)}{x+2}\\
+&= \lim_{x\to 2} 0\\
+&=0
+\end{align*}
+
+ \item \[ 
+ \lim_{x \to 1} \frac{4 - 4x^{2}}{5x-5} =  \lim_{x \to 1}\frac{4(1-x^{2})}{5(x-1)} = \lim_{x \to 1}\frac{4\cancel{(1-x)}(1+x)}{5\cancel{(x-1)}} = \lim_{x \to 1} \frac{4(x+1)}{5} = \frac{8}{5}\]
+
+
+\item 
+\begin{align*} 
+\lim_{x\to 2} \frac{2-\sqrt{x+2}}{x-2}  &=\left(\frac{2-\sqrt{x+2}}{x-2}\right)\left(\frac{2+\sqrt{x+2}}{2+\sqrt{x+2}}\right)
+\\
+&= \frac{4-x-2}{(x-2)(2+\sqrt{x+2})}\\
+&= \frac{2-x}{(x-2)(2+\sqrt{x+2})}\\
+&= \frac{-1}{2+\sqrt{x+2}}\\
+&= \frac{-1}{4}
+\end{align*}
+
+\item 
+\begin{align*}
+\lim_{x\to 2} \sqrt{2x^{2} - 2x +2}\\
+\sqrt{2(2)^{2}-2(2)+2}\\
+\sqrt{8-4+2}\\
+\sqrt{6}
+\end{align*}
+
+\item $\displaystyle{\lim_{x\to -2} (2^{x} -5x+1) \implies (2^{3}-5(3)+1) \implies 8=15+1 \implies -6}$
+
+\item 
+\begin{align*} 
+\lim_{x\to 2} \frac{2-\sqrt{x+2}}{x-2}  &= \lim_{x\to 2}\left(\frac{2-\sqrt{x+2}}{x-2}\right)\left(\frac{2+\sqrt{x+2}}{2+\sqrt{x+2}}\right)
+\\
+&= \lim_{x\to 2} \frac{4-\cancel{x-2}}{\cancel{(x-2)}(2+\sqrt{x+2})}\\
+&=\lim_{x\to 2} \frac{4}{2+\sqrt{x+2}}\\
+&= 1
+\end{align*}
+
+\item $\displaystyle{\lim_{x\to4}\frac{2x-8}{16-x^{2}}  \qquad \lim_{x\to 4} \frac{2(x-4)}{-(x-4)(x+4)} \qquad \lim_{x\to 4} \frac{2}{-8} = \frac{-1}{4}}$
+
+\item 
+\begin{align*}
+\lim_{x\to 2} \frac{2x^{2}-x-1}{4x^{2} -1}&= \frac{2(2)^{2} - 2 -1}{4(2)^{2}-1 }
+= \frac{2(4)-3}{4(2^{2}) - 1}= \frac{5}{15}\\
+\lim_{x\to 2}& = \frac{1}{3}
+\end{align*}
+\ee
+
+
+\vfill
+\rotatebox{180}{\parbox{\linewidth}{\begin{tiny} 
+\begin{enumerate}
+\item You continued to use $\displaystyle{\lim_{x\to ??}
+(}$blah) after you'd evaluated the limit. 
+\item You're still taking limits! Those things that you say are equal are not really equal. Need more limits. 
+\item Almost perfect---except for that extraneous last $\displaystyle{ \lim_{x \to 2} 0}$. 
+\item $(1-x)$ and $(x-1)$ aren't equal, so you can't cancel them. You need to pull a $-1$ out of one of them first.  ***Incorrect algebra; wrong limit.***
+\item You need to have the limits until you evaluate them. This is super-common and super-WRONG.
+\item  You need to say things are equal by using $=$. This really bugs me.
+\item If things are equal, indicate so by using $=$, not $\implies$. $\implies$ means something else (e.g., something logically follows from something).
+\item Algebra-foul. You just can't do that. ***Incorrect algebra; wrong limit.***
+\item If things are equal, say so with $=$, not just hoping I get it because the terms are in vague proximity. Also, there's an extra last limit.
+\item $\displaystyle_{\lim_{x\to2}( \ldots )}$ is a \emph{function} which eats other functions and spits out numbers, $\pm \infty$, or $DNE$. It has no meaning by itself.
+\ee
+\end{tiny}}
+} 
+
+
+ \end{document}
+ \end
+
+ 

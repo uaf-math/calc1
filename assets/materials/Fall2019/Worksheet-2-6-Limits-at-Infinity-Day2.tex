@@ -1,0 +1,233 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+\usepackage{pdfsync}
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace, adjustbox}
+\usepackage{array,tikz}
+\pagestyle{fancy} 
+\lfoot{UAF Calculus I}
+\rfoot{2-6 Limits at Infinity}
+
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\newcommand{\bi}{\begin{itemize}}
+\newcommand{\ei}{\end{itemize}}
+
+\begin{document}
+\setlength{\parindent}{0cm}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\renewcommand{\d}{\displaystyle}
+\vspace*{-0.7in}
+
+
+
+  \begin{center}
+  \large \sc{Section 2-6 Limits at Infinity (day 2): Sometimes we have to use tricks!}
+\end{center}
+
+\begin{enumerate}
+  
+  \item  Multiply the top and bottom by $\frac{1}{e^{x}}$, to help compute:\\
+  
+   $\d \lim_{x \to \infty} \frac{1 + 5e^x}{7 - e^x}$
+    
+\vfill    
+
+    \item This time we need two tricks: (1) rewrite the difference of natural logs as a quotient, and (2) use the continuity of natural log to pull it through the limit, to help compute:\\
+    
+    $\d \lim_{x \to \infty} [ \ln (2 + 3x) - \ln (1+x) ]$
+    
+    \vfill
+%    
+%    \item blah
+%    
+%    \vfill
+    
+
+    
+    \item  Even though the $x^{6}$ is part of a term in the square root, as $x$ blows up, $\sqrt{x^{6} + ...}$ ``looks like'' $x^{3}$. So try multiplying the top and bottom by $\frac{1}{x^{3}}$ (which in this case is the same as $\sqrt{\frac{1}{x^{6}}}$).\\
+    
+     $\d \lim_{x \to \infty} \frac{\sqrt{3x^6-x}}{x^3 + 1}$
+     
+     \vfill
+     Observe that the problem below looks just like the one above but with one small difference. Look and think carefully before you evaluate. \\
+     
+     $\d \lim_{x \to -\infty} \frac{\sqrt{3x^6-x}}{x^3 + 1}$
+     
+     \vfill
+     
+     \newpage
+     
+     \item If, when you think about a limit, it ``looks like'' $\infty - \infty$, that means you need to do more work.    Hint: The value of this limit is \emph{not} zero.\\
+     $\d \lim_{x \to \infty} (\sqrt{x^2+x} - x)$
+     
+     \vfill
+     
+     
+  \item We know that $-1 \leq \cos(x) \leq 1$. Use that fact plus the \emph{Squeeze Theorem} to evaluate the following:
+  
+    $\d \lim_{x \to \infty} e^{-2x} \cos x$
+    \vfill
+ 
+ \item Find any horizontal or vertical asymptotes of the curve below. If none exists, state that explicitly. On quizzes and tests, you will be asked to show your work, so practice that now!
+ 
+ $\d{y=\frac{2x^2-x-1}{3x^2-2x-1}}$   
+ \vfill
+ \item In a differential equations course, you can prove that the velocity of a falling raindrop at time $t$ is:
+ $$v(t)=k(1-e^{-gt/k})$$
+ where $k$ is the terminal velocity of the raindrop and $g$ is the acceleration due to gravity. (That is, $k$ and $g$ are positive fixed constants.)
+ \begin{enumerate}
+ \item Find $\d{\lim_{t \to \infty} v(t)}$
+\vspace{.25in}
+ \item Interpret your answer above in the context of the problem.
+ \vspace{.25in}
+ \end{enumerate}
+    
+%    \def\sp{1.5}
+%    \item Now compute these limits:
+%    \begin{multicols}{2}
+%    \be
+%    \item
+%    \vspace{\sp in}
+%    \item
+%     \vspace{\sp in}
+%    \item
+%    \columnbreak
+%     \vspace{\sp in}
+%    \item
+%     \vspace{\sp in}
+%    \ee
+%    \end{multicols}
+%
+%\vspace{1in}
+
+%\vskip2.5in
+%\textbf{Example 4:} Evaluate the following limits. 
+%
+%  \begin{multicols}{3}{
+%      % make sure you added \usepackage{enumerate}
+%      \vspace*{-0.45in}
+%      \begin{enumerate}[(a)]
+%     \item $\d \lim_{x \to \infty} \frac{2x^2+5}{3x^2 + 1}$
+%          \item $\d \lim_{x \to \infty} \frac{2x+5}{3x^2 + 1}$
+%     \item $\d \lim_{x \to \infty} \frac{2x^3+5}{3x^2 + 1}$
+%      \end{enumerate}}
+%  \end{multicols}
+%
+%
+%\vskip2.5in
+%\newpage
+%\vspace*{-1in}
+%\textbf{Example 5:} Find the following limits at infinity. 
+%
+%  \begin{multicols}{2}{
+%      % make sure you added \usepackage{enumerate}
+%      \vspace*{-0.45in}
+%      \begin{enumerate}[(a)]
+%      \item $\d \lim_{x \to \infty} \frac{1 + 5e^x}{7 - e^x}$
+%      \item $\d \lim_{x \to \infty} [ \ln (2 + x) - \ln (1+x) ]$
+%      \end{enumerate}}
+%  \end{multicols}
+%
+%\vskip2in
+%
+%\textbf{Example 6:} Find the limit. 
+%
+%  \begin{multicols}{2}{
+%      % make sure you added \usepackage{enumerate}
+%      \vspace*{-0.45in}
+%      \begin{enumerate}[(a)]
+%  \item[(a)] $\d \lim_{x \to \infty} \frac{x + 2}{\sqrt{9x^2+1}}$ 
+%  \item[(b)] $\d \lim_{x \to \infty} \frac{\sqrt{3x^6-x}}{x^3 + 1}$
+%      \end{enumerate}}
+%  \end{multicols}
+%
+%\vskip2.7in
+%
+%\begin{framed}
+%  \textbf{How do deal with limits as $x \to - \infty$}: Replace $x$ by
+%  $-x$ and take the limit as $x \to \infty$.
+%\end{framed}
+%
+%\textbf{Example 7:} Find the limit.
+%
+%  \begin{multicols}{2}{
+%      \vspace*{-0.45in}
+%    \begin{enumerate}
+%    \item[(a)] $\d \lim_{x \to -\infty} \frac{2x}{\sqrt{x^2 +2}}$ \vskip2in
+%    \item[(b)] $\d \lim_{x \to -\infty} (5 - 3 e^x)$
+%    \end{enumerate}}
+%  \end{multicols}
+%
+%\newpage
+%
+%\textbf{Example 8:} Evaluate the following limits. 
+%
+%
+%  \begin{multicols}{2}{
+%    \begin{enumerate}
+%      \vspace*{-0.45in}
+%    \item[(a)] $\d \lim_{x \to \infty} (\sqrt{x^4 + 6x^2} - x^2)$
+%      \vskip3in
+%    \item[(b)] $\d \lim_{x \to \infty} (\sqrt{x^2+1} - x)$
+%    \end{enumerate}}
+%  \end{multicols}
+%
+%\vskip4.2in
+%
+%\textbf{Example 9:} Evaluate the following limits. 
+%
+%  \begin{multicols}{2}{
+%      % make sure you added \usepackage{enumerate}
+%      \vspace*{-0.45in}
+%      \begin{enumerate}[(a)]
+%      \item $\d \lim_{x \to 0^-} e^{1/x}$
+%      \item $\d \lim_{x \to \infty} e^{-2x} \cos x$
+%      \end{enumerate}}
+%  \end{multicols}
+%
+%
+%\newpage
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%\textbf{Example 11:} Sketch the graph of $y = (x-2)^4 (x+1)^3 (x-1)$
+%by finding its intercepts and its limits as $x \to \pm \infty$. 
+%\vskip0.25in
+%
+%\begin{tikzpicture}[scale=0.95][>=latex]
+%%x axis
+%\draw[->] (-4 ,0) -- (4 ,0) node[below] {$x$};
+%\foreach \x in {-3,...,3}
+%\draw[shift={(\x,0)}] (0pt,2pt) -- (0pt,-2pt);
+%%y axis
+%\draw[->] (0,-4) -- (0,4) node[left] {$y$};
+%\foreach \y in {-3,...,3}
+%\draw[shift={(0,\y)}] (2pt,0pt) -- (-2pt,0pt);
+%% \node[below left] at (0,0) {\footnotesize $0$};
+%\end{tikzpicture}
+%
+%\vskip1.5in
+%
+%\textbf{Example 12:} Find the horizontal and vertical asymptotes of $\d f(x) = \frac{\sqrt{16x^2 + 1}}{2x - 8}$.
+
+\ee
+\end{document}
