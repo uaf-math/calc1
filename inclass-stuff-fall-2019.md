@@ -23,7 +23,7 @@ title: In Class Materials
 
 * (Thurs Sept 12) **Section 2.5** [worksheet](assets/materials/Fall2019/Worksheet_2-5.pdf), [solutions](assets/materials/Fall2019/Worksheet_2-5-filled.pdf)
 
-* (Fri Sept 13) **Section 2.3** [worksheet](assets/materials/Fall2019/Worksheet_2-6-Limits-at-Infinity.pdf), [solutions](assets/materials/Fall2019/Worksheet_2-6-Limits-at-Infinity-solutions.pdf)
+* (Fri Sept 13) **Section 2.6** [worksheet](assets/materials/Fall2019/Worksheet-2-6-Limits-at-Infinity.pdf), [solutions](assets/materials/Fall2019/Worksheet-2-6-Limits-at-Infinity-solutions.pdf)
 
 # Week 2
 
