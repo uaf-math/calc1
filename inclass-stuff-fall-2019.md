@@ -5,9 +5,25 @@ title: In Class Materials
 
 ## In Class Materials
 
+# Week 4
+
+* (Mon Sept 16) **Section 2.6** [worksheet](assets/materials/Fall2019/Worksheet_2-6-Limits-at-Infinity-Day2.pdf), [solutions](assets/materials/Fall2019/Worksheet_2-6-Limits-at-Infinity-Day2-filled.pdf)
+
+* (Wed Sept 18) **Section 2.6 and 2.7** [Jill's Notes from 2.7](assets/materials/Fall2019/Notes-2-7.pdf)
+
+* (Thurs Sept 19) **Section 2.7** [worksheet](assets/materials/Fall2019/Worksheet-2-7-derivatives-rates-of-change.pdf), [solutions](assets/materials/Fall2019/Worksheet-2-7-derivatives-rates-of-change-filled.pdf)
+
+* (Fri Sept 20) **Section 2.8** [worksheet](assets/materials/Fall2019/Worksheet_2-8.pdf), [solutions](assets/materials/Fall2019/Worksheet_2-8-filled.pdf)
+
 # Week 3
 
 * (Mon Sept 9) **Section 2.3** [worksheet](assets/materials/Fall2019/Worksheet_2-3.pdf), [solutions](assets/materials/Fall2019/Worksheet_2-3-soln.pdf)
+
+* (Wed Sept 11) **Section 2.3** [worksheet](assets/materials/Fall2019/Worksheet_2-3-CommonLimitMistakes.pdf), (Note that solutions are upside down at the bottom of this sheet.
+
+* (Thurs Sept 12) **Section 2.5** [worksheet](assets/materials/Fall2019/Worksheet_2-5.pdf), [solutions](assets/materials/Fall2019/Worksheet_2-5-filled.pdf)
+
+* (Fri Sept 13) **Section 2.3** [worksheet](assets/materials/Fall2019/Worksheet_2-6-Limits-at-Infinity.pdf), [solutions](assets/materials/Fall2019/Worksheet_2-6-Limits-at-Infinity-solutions.pdf)
 
 # Week 2
 
