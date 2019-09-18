@@ -19,7 +19,7 @@ title: In Class Materials
 
 * (Mon Sept 9) **Section 2.3** [worksheet](assets/materials/Fall2019/Worksheet_2-3.pdf), [solutions](assets/materials/Fall2019/Worksheet_2-3-soln.pdf)
 
-* (Wed Sept 11) **Section 2.3** [worksheet](assets/materials/Fall2019/Worksheet_2-3-CommonLimitMistakes.pdf), (Note that solutions are upside down at the bottom of this sheet.
+* (Wed Sept 11) **Section 2.3** [worksheet](assets/materials/Fall2019/Worksheet-2-3-CommonLimitMistakes.pdf), (Note that solutions are upside down at the bottom of this sheet.
 
 * (Thurs Sept 12) **Section 2.5** [worksheet](assets/materials/Fall2019/Worksheet_2-5.pdf), [solutions](assets/materials/Fall2019/Worksheet_2-5-filled.pdf)
 
