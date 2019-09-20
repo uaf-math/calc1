@@ -7,13 +7,13 @@ title: In Class Materials
 
 # Week 4
 
-* (Mon Sept 16) **Section 2.6** [worksheet](assets/materials/Fall2019/Worksheet_2-6-Limits-at-Infinity-Day2.pdf), [solutions](assets/materials/Fall2019/Worksheet_2-6-Limits-at-Infinity-Day2-filled.pdf)
+* (Mon Sept 16) **Section 2.6** [worksheet](assets/materials/Fall2019/Worksheet-2-6-Limits-at-Infinity-Day2.pdf), [solutions](assets/materials/Fall2019/Worksheet-2-6-Limits-at-Infinity-Day2-filled.pdf)
 
 * (Wed Sept 18) **Section 2.6 and 2.7** [Jill's Notes from 2.7](assets/materials/Fall2019/Notes-2-7.pdf)
 
 * (Thurs Sept 19) **Section 2.7** [worksheet](assets/materials/Fall2019/Worksheet-2-7-derivatives-rates-of-change.pdf), [solutions](assets/materials/Fall2019/Worksheet-2-7-derivatives-rates-of-change-filled.pdf)
 
-* (Fri Sept 20) **Section 2.8** [worksheet](assets/materials/Fall2019/Worksheet_2-8.pdf), [solutions](assets/materials/Fall2019/Worksheet_2-8-filled.pdf)
+* (Fri Sept 20) **Section 2.8** [worksheet](assets/materials/Fall2019/Worksheet-2-8-GraphicalDerivatives.pdf), [solutions](assets/materials/Fall2019/Worksheet-2-8-GraphicalDerivatives-Solutions.pdf)
 
 # Week 3
 
