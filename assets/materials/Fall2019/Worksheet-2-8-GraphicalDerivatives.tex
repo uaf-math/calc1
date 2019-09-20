@@ -1,0 +1,93 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+%\usepackage{pdfsync}
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array,tikz,pgfplots}
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=black,only marks,mark=*}} \pgfplotsset{holdot/.style={color=black,fill=white,only marks,mark=*}}
+
+\pagestyle{fancy} 
+\lfoot{UAF Calculus 1}
+\rfoot{2-8}
+
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+\newcommand{\bpm}{\begin{pmatrix}}
+\newcommand{\epm}{\end{pmatrix}}
+
+\theoremstyle{definition}
+\newtheorem{exercise}{Exercise}
+
+
+\begin{document}
+
+
+\renewcommand{\headrulewidth}{0pt}
+
+
+
+%version 1
+\begin{Large} 
+\begin{center}{\sc
+Worksheet \S2.8: Finding Derivatives Graphically }\end{center} \end{Large}
+
+\fbox{\parbox{\linewidth}{When you are asked to sketch the derivative on the provided axes, I am interested in the qualitative behavior of the derivative: Where does it cross the $x$-axis? Is it positive or negative? Is it a lot positive or a little positive? Are the slopes growing steeper or getting  less steep? (This is why the $y$-axis is unmarked on the answer graphs.)}}
+
+
+\bigskip
+\begin{exercise} Sketch the derivatives of graphs 1 and 2.\end{exercise}
+\begin{tabular}{c  c}
+Graph 1 & Graph 2 \\
+\includegraphics[width=.5\linewidth]{Graph1.pdf} &\includegraphics[width=.5\linewidth]{Graph2.pdf}\\
+\includegraphics[width=.5\linewidth]{EmptyGraph1.pdf} &\includegraphics[width=.5\linewidth]{EmptyGraph2.pdf}
+\end{tabular}
+\vfill
+
+\newpage
+
+\begin{exercise}
+The equation of Graph 1 is 
+\[f(x) = 2 x + \frac{x^2}{4}.\]
+Recall \[f'(x) := \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}.\]
+Use the definition of the derivative to compute the derivative $f'(x)$. (Attach a separate page if you need more room.) What kind of function is $f'(x)$? How does the graph of $f'(x)$ compare to the derivative you drew?
+\end{exercise}
+
+\vfill
+
+\begin{exercise} Sketch the derivatives of graphs 3 and 4.\end{exercise}
+
+\begin{tabular}{c  c}
+Graph 3 & Graph 4 \\
+\includegraphics[width=.45\linewidth]{Graph3.pdf} &\includegraphics[width=.5\linewidth]{Graph6.pdf}\\
+\includegraphics[width=.45\linewidth]{EmptyGraph3.pdf} &\includegraphics[width=.5\linewidth]{EmptyGraph6.pdf}
+\end{tabular}
+
+\begin{exercise}  What is an important difference between the derivative of graph 3 and the derivative of graph 4? Use terminology from calculus.\end{exercise}
+
+\vspace{.5in}
+
+\newpage
+%
+\begin{exercise} Sketch the derivatives of graphs 5 and 6.\end{exercise}
+
+\begin{tabular}{c  c}
+Graph 5 & Graph 6 \\
+\includegraphics[width=.5\linewidth]{Graph4.pdf} &\includegraphics[width=.5\linewidth]{Graph5.pdf}\\
+\includegraphics[width=.5\linewidth]{EmptyGraph4.pdf} &\includegraphics[width=.5\linewidth]{EmptyGraph5.pdf}
+\end{tabular}
+
+ \end{document}
+ \end
+
+ 

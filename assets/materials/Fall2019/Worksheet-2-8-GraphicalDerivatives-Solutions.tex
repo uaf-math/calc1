@@ -1,0 +1,104 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx} 
+\usepackage[all]{xy}
+\usepackage{polynom, cancel} 
+%\usepackage{pdfsync}
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array,tikz,pgfplots}
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=black,only marks,mark=*}} \pgfplotsset{holdot/.style={color=black,fill=white,only marks,mark=*}}
+
+\pagestyle{fancy} 
+\lfoot{UAF Calculus 1}
+\rfoot{2-8}
+
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+\newcommand{\bpm}{\begin{pmatrix}}
+\newcommand{\epm}{\end{pmatrix}}
+
+\theoremstyle{definition}
+\newtheorem{exercise}{Exercise}
+
+
+\begin{document}
+
+
+\renewcommand{\headrulewidth}{0pt}
+
+
+
+%version 1
+\begin{Large} 
+\begin{center}{\sc
+Worksheet \S2.8: Finding Derivatives Graphically - Solutions }\end{center} \end{Large}
+
+{\bf The original functions are shown dashed, and the derivatives are shown thick.}
+%This is due {\bf Tuesday, September 27, 2011, at the beginning of class.}
+
+\bigskip
+\begin{exercise} Sketch the derivatives of graphs 1 and 2.\end{exercise}
+\begin{tabular}{c  c}
+Graph 1 & Graph 2 \\
+\includegraphics[width=.5\linewidth]{Graph1Ans.pdf} &\includegraphics[width=.5\linewidth]{Graph2Ans.pdf}\\
+%\includegraphics[width=.5\linewidth]{EmptyGraph1.pdf} &\includegraphics[width=.5\linewidth]{EmptyGraph2.pdf}
+\end{tabular}
+\vfill
+
+%\newpage
+
+\begin{exercise}
+The equation of Graph 1 is 
+\[f(x) = 2 x + \frac{x^2}{4}.\]
+
+Use the definition of the derivative to compute the derivative $f'(x)$. (Attach a separate page if you need more room.) What kind of function is $f'(x)$? How does the graph of $f'(x)$ compare to the derivative you drew?
+\end{exercise}
+
+\begin{align*}
+f'(x) &= \lim_{h \to 0} \frac{\left( 2(x + h) + \frac{ (x +h)^{2}}{4} \right)  - \left(2 x + \frac{x^2}{4}\right)}{h} \\
+%
+&= \lim_{h \to 0} \frac{1}{h} \left(\cancel{2x} + 2h + \cancel{\frac{1}{4} x^{2} }+  \frac{1}{4}\cdot 2 x h +  \frac{1}{4}(h)^{2}  -\cancel{2x}  - \cancel{\frac{1}{4} x^{2}}\right)\\
+%
+&= \lim_{h \to 0} \frac{1}{\cancel{h}} \cdot \cancel{h} \left( 2+  \frac{1}{4}\cdot 2 x +  \frac{1}{4}(h)  \right)\\
+&= 2+ \frac{x}{2}
+\end{align*}
+ Look! The derivative is a line! And hopefully you sketched something line-like for Graph 1.
+\vfill
+\newpage
+\begin{exercise} Sketch the derivatives of graphs 3 and 4.\end{exercise}
+
+\begin{tabular}{c  c}
+Graph 3 & Graph 4 \\
+\includegraphics[width=.45\linewidth]{Graph3Ans.pdf} &\includegraphics[width=.5\linewidth]{Graph6Ans.pdf}\\
+%\includegraphics[width=.45\linewidth]{EmptyGraph3.pdf} &\includegraphics[width=.5\linewidth]{EmptyGraph6.pdf}
+\end{tabular}
+
+\begin{exercise}  What is an important difference between the derivative of graph 3 and the derivative of graph 4? Use terminology from calculus.\end{exercise}
+
+\emph{The derivative of Graph 4 is not continuous.}
+
+%\vspace{.5in}
+
+%\newpage
+%
+\begin{exercise} Sketch the derivatives of graphs 5 and 6.\end{exercise}
+
+\begin{tabular}{c  c}
+Graph 5 & Graph 6 \\
+\includegraphics[width=.5\linewidth]{Graph4Ans.pdf} &\includegraphics[width=.5\linewidth]{Graph5Ans.pdf}\\
+%\includegraphics[width=.5\linewidth]{EmptyGraph4.pdf} &\includegraphics[width=.5\linewidth]{EmptyGraph5.pdf}
+\end{tabular}
+
+ \end{document}
+ \end
+
+ 
