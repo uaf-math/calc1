@@ -11,9 +11,9 @@ title: In Class Materials
 
 * (Tues Sept 24) **Review for Midterm I**  [review problems ](assets/materials/Fall2019/Midterm-1-Recitation-Review.pdf), [solutions](assets/materials/Fall2019/Midterm-1-Recitation-Review-s.pdf)
 
-* (Wed Sept 25) **Midterm I ** 
+* (Wed Sept 25) **Midterm I** 
 
-* (Thurs Sept 26) **Section 3.1 ** [worksheet](), [solutions]()
+* (Thurs Sept 26) **Section 3.1** [worksheet](), [solutions]()
 
 * (Fri Sept 27) **Section 3.2** [worksheet](), [solutions]()
 
