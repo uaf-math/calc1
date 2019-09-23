@@ -5,6 +5,18 @@ title: In Class Materials
 
 ## In Class Materials
 
+# Week 5
+
+* (Mon Sept 23) **Review for Midterm I** [review sheet ](assets/materials/Fall2019/Midterm-1-in-lecture-Review.pdf), [review sheet with worked problems added ](assets/materials/Fall2019/Midterm-1-in-lecture-Review-s.pdf)
+
+* (Tues Sept 24) **Review for Midterm I**  [review problems ](assets/materials/Fall2019/Midterm-1-Recitation-Review.pdf), [solutions](assets/materials/Fall2019/Midterm-1-Recitation-Review-s.pdf)
+
+* (Wed Sept 25) **Midterm I ** 
+
+* (Thurs Sept 26) **Section 3.1 ** [worksheet](), [solutions]()
+
+* (Fri Sept 27) **Section 3.2** [worksheet](), [solutions]()
+
 # Week 4
 
 * (Mon Sept 16) **Section 2.6** [worksheet](assets/materials/Fall2019/Worksheet-2-6-Limits-at-Infinity-Day2.pdf), [solutions](assets/materials/Fall2019/Worksheet-2-6-Limits-at-Infinity-Day2-filled.pdf)
