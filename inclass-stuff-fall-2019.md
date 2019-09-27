@@ -13,7 +13,7 @@ title: In Class Materials
 
 * (Wed Sept 25) **Midterm I** 
 
-* (Thurs Sept 26) **Section 3.1** [worksheet](assets/materials/Fall2019/Worksheet-3-1-modified.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-1-s.pdf), Jill's rough notes from class (assets/materials/Fall2019/Worksheet-3-1-notes.pdf)
+* (Thurs Sept 26) **Section 3.1** [worksheet](assets/materials/Fall2019/Worksheet-3-1-modified.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-1-s.pdf), [Jill's rough notes from class](assets/materials/Fall2019/Worksheet-3-1-notes.pdf)
 
 * (Fri Sept 27) **Section 3.2** [worksheet](assets/materials/Fall2019/Worksheet-3-2.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-2-s.pdf)
 
