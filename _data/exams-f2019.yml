@@ -1,8 +1,13 @@
 semester: Fall 2019
 home: assets/exams/Fall2019
 midterm1:
-  blank: Midterm-1-fall-19-v1.pdf
-  solutions: Midterm-1-fall-19-v1-s.pdf
+versions:
+    - name: V1 
+      blank: Midterm-1-fall-19-v1.pdf
+      solutions: Midterm-1-fall-19-v1-s.pdf
+    - name: V2
+      blank: Midterm-1-fall-19-v2.pdf
+      solutions: Midterm-1-fall-19-v2-s.pdf
 midterm2:
   blank: MT2.pdf
   solutions: MT2-Sols.pdf
