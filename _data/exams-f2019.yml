@@ -1,7 +1,7 @@
 semester: Fall 2019
 home: assets/exams/Fall2019
 midterm1:
-versions:
+  versions:
     - name: V1 
       blank: Midterm-1-fall-19-v1.pdf
       solutions: Midterm-1-fall-19-v1-s.pdf
