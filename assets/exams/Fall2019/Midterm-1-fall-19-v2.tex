@@ -1,0 +1,465 @@
+% !TEX TS-program = pdflatexmk
+\documentclass[11pt]{article}
+\usepackage[margin=.8in]{geometry}
+\usepackage{amsmath,amssymb,amsthm, latexsym, mathrsfs, pdfsync, multicol,
+%setspace,
+%graphics, 
+fancybox, fancyhdr,
+graphicx, enumerate,
+subfig, tikz, pgfplots,array}
+
+%\singlespacing
+\def\RR{{\mathbb R}}
+\def\NN{{\mathbb N}}
+\def\ZZ{{\mathbb Z}}
+\def\QQ{{\mathbb Q}}
+\def\CC{{\mathbb C}}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+\def\be{\begin{enumerate}}
+\def\ee{\end{enumerate}}
+\def\bi{\begin{itemize}}
+\def\ei{\end{itemize}}
+\def\bs{\begin{slide}}
+\def\es{\end{slide}}
+\def\bx{\begin{exercise}}
+\def\ex{\end{exercise}}
+\def\t{\times}
+\newcommand{\ol}[1]{\overline{#1}}
+\newcommand{\oimp}[1]{\overset{#1}{\Longleftrightarrow}}
+\newcommand{\bv}[1]{\ensuremath{ \mathbf{\vec{#1}}} }
+\renewcommand{\d}{\displaystyle}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+
+\usetikzlibrary{calc}
+
+%for tikz pictures
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=black,only marks,mark=*}} \pgfplotsset{holdot/.style={color=black,fill=white,only marks,mark=*}}
+
+
+%
+% Answerbox:
+%
+%\newcommand\answerbox[3]{#3 \fbox{\rule{#1}{0cm}\rule{0cm}{#2}}}
+%
+%\setlength{\headsep}{2pt}
+
+\rhead{\sc{Math 251 Calculus I}}
+\chead{\large \sc Midterm I} 
+\lhead{\sc Fall 2019}
+\cfoot{}
+\pagestyle{fancy}
+%
+\begin{document}
+\thispagestyle{fancy}
+
+\vspace{.1in}
+\begin{tabular}{l@{\hspace{.4in}}l}
+Your Name & Your Signature\\
+\framebox(200,30){} & \framebox(200,30){} \\
+\end{tabular}
+
+%\bigskip
+
+\begin{tabular}{l@{\hspace{.4in}}l}
+Instructor Name & \\
+\framebox(200,30){}&  \\
+\end{tabular}
+{
+\renewcommand{\baselinestretch}{1.8}
+\setlength{\tabcolsep}{.2in}
+\normalsize
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Problem&Total Points&\parbox{.8in}{\hfil Score\hfil}\\
+\hline
+1&10&\\
+\hline
+2&12&\\
+\hline
+3&10&\\
+\hline
+4&10&\\
+\hline
+5&10&\\
+\hline
+6&8&\\
+\hline
+7&20&\\
+\hline
+8&10&\\
+\hline
+\hline
+Extra Credit & (5) & \\
+%\hline
+\hline
+Total&100&\\
+\hline
+%Current Course Grade&\multicolumn{2}{c|  }{}\\
+%\hline
+
+\end{tabular}
+
+\end{center}
+}
+\begin{itemize}
+\item 
+This test is closed notes and closed book.
+
+\item You may \textbf{not} use a calculator.
+
+\item
+In order to receive full credit, you must {\bf show your work.}  
+Be wary of doing computations in your head. Instead, write out your
+computations on the exam paper.
+
+%\item
+%\textbf{PLACE A BOX AROUND \fbox{YOUR FINAL ANSWER} to each question} where appropriate. 
+\item
+Raise your hand if you have a question.
+
+\end{itemize}
+
+\newpage
+\vspace*{-0.3in}
+\begin{enumerate}
+
+%%%%%Problem 1: Questions about a graph
+
+\item (10 points) The graphs of two functions $f(x)$, shown thick, and $g(x)$, shown dashed, are given below.  %whose domain is $(-6, 7
+Determine the following. If the value does not exist, write ``DNE''.
+%
+%\begin{figure}[ht]
+\begin{center}
+\begin{tikzpicture}[scale=.9]
+\draw[ultra thin] (-6.9,-3) grid (6.9,3.1);
+\draw[thick,<->] (-7.2,0) -- (7.2,0);
+\draw[thick,<->] (0,-3.1) -- (0,3.1);
+%\draw[dashed] (7,-2) -- (7,3);
+%\draw[dashed] (-6,-2)--(-6,3);
+
+%%%%% f(x) %%%%
+\draw [ultra thick] (-6, -2) parabola bend (-4,2)  (-3,1) to  (-2,-1) to (1,-1);
+\draw [ultra thick, ->] (1, -2)  parabola bend (2,-2) (3,-1)-- (4,1) -- (6.5,-3);
+\draw[fill=white, thick] (4,1) circle  (1.2 mm);
+\draw[fill=black] (1,-2) circle (1.2mm);
+\draw[fill=white] (1,-1) circle (1.2mm);
+\draw[fill=white] (-6,-2) circle (1.2mm);
+
+
+
+
+\draw (2.9, -1.5) node[right] {$f(x)$};
+\draw (3,2) node[above left] {$g(x)$};
+
+%%%%% g(x) %%%%%
+%\draw[ultra thick, dashed, <->](-6.8, -2.9)-- (-6, -2.9)  to[out = 5, in = 180+45](-3,-2) to[bend left = 30] (-1,0) to [out = 45, in = -90] (1.9,2.5)--(1.9,3);
+
+%\draw[ultra thick, dashed, <->] plot [smooth] coordinates { (-6.8, -2.9) (-5, -2.8) (-4, -2.6) (-3,-2) (0, .2) %(.5,0) 
+%(2.4,1) 
+%(2.95,3)};
+
+\draw[ultra thick, dashed, <->] plot [smooth] coordinates { (-6.8, 2.9) (-5, 2.8) (-4, 2.6) (-3,2) (0, -.2) %(.5,0) 
+(2.4,-1) 
+(2.95,-3)};
+
+\foreach \i in {-6, -5, ..., 6}
+{\draw (\i,0) node[below] {\i};
+%\draw (\i+.5, -.1) -- (\i+.5, .1);
+}
+\foreach \i in { -3, -2, -1,1,2, 3}
+{\draw (0,\i) node[left] {\i};}
+%\foreach \i in { -2, -1,0,1,2}{
+%\draw (-.1, \i+.5) -- (.1,\i+.5);}
+\end{tikzpicture}
+
+\end{center}
+%\end{figure}
+
+\newcommand{\ans}{\rule{1.5cm}{.5 pt}}
+
+\newlength{\mysep} 
+\setlength{\mysep}{0.3in}
+\begin{enumerate}
+\begin{multicols}{2}
+
+\item $\d\lim_{x\to -6^{+}} f(x) = \ans$
+\bigskip
+
+\item $ \d \lim_{x\to -3} f(x) = \ans$
+\bigskip
+
+\item $\d \lim_{x \to \infty} f(x) = \ans$
+\bigskip
+
+
+\item $\d \lim_{x\to 1} f(x) = \ans $
+\bigskip
+
+\item $f'(-4) = \ans $
+\bigskip
+
+\item $\d\lim_{x\to 3^{-}} g(x) = \ans$
+\bigskip
+
+\item $\d \lim_{x \to -\infty} g(x) = \ans$
+\bigskip
+
+
+
+
+
+\item $\d \lim_{x\to -3} f(g(x)) = \ans $
+\bigskip
+
+\vspace{\mysep}
+\end{multicols}
+
+\vspace{1cm}
+
+\item What is the domain of $f(x)$? Give your answer in interval form.\\
+
+\vfill
+
+\item Where in the domain of $f(x)$ is the function continuous? Give your answer in interval form.
+\vfill
+
+\vspace{\mysep}
+\end{enumerate}
+\newpage
+
+%%%%Question 2: Derivative using definition
+
+\item (12 points) Consider the function
+
+$$
+g(x) = 5 + 7x^2.
+$$
+
+Using the \textbf{definition of the derivative}, find $g'(a)$. No credit will be given if a different method is used. [It is recommended you start by writing the definition of the derivative.] 
+
+\newpage
+%%Continuity problem
+\item (10 points) Let $f$ be the piecewise defined function below.
+$$f(x)=\begin{cases} c-\cos (x) & x \not= \pi \\ 4 & x=\pi \\
+\end{cases}$$
+\begin{enumerate}
+	\item Determine a value for $c$ such that the function $f(x)$ is continuous at $x=\pi.$
+\vfill
+
+	\item Show that your choice for $c$ above is correct using the \emph{definition of continuity at a point}. (A correct answer will involve writing and computing an appropriate limit or limits.)
+\vfill
+\vfill
+\vfill
+
+\end{enumerate}
+
+%%%Tangent line problem
+\item (10 points) The function $f(x)=3+5x+e^{2x}$ has derivative $f'(x)=5+2e^{2x}.$ 
+\begin{enumerate}
+\item Find $f(0).$ 
+
+\vfill
+\hfill $f(0) = $ \ans %\framebox(100,30){}
+
+\bigskip
+
+\item Find $f'(0).$ 
+\vfill
+
+
+\hfill $f'(0) = $ \ans %\framebox(100,30){}
+
+\bigskip
+
+\item Write an equation of the line tangent to the graph of $f(x)$ when $x=0$ in slope-intercept form. (That is, in the form $y=mx+b$.) 
+\vfill
+
+\hfill Equation of Tangent Line: \ans\ans\ans%\framebox(150,30){}
+
+\bigskip
+
+\end{enumerate}
+\newpage
+
+%\item (5 points) Let $g(x)=\frac{1}{x+3}+2.$
+%\begin{enumerate}
+%
+%\item List all vertical asymptotes of $g(x)$: \hrulefill
+%
+%\item What equation(s) involving limits show(s) that the vertical asymptote(s) you found actually exist?
+%
+%\vfill
+%
+%\item List all horizontal asymptotes of $g(x)$: \hrulefill
+%
+%\item What equation(s) involving limits show(s) that the horizontal asymptote(s) you found actually exist?
+%
+%\vfill
+%
+%\end{enumerate}
+%
+
+
+%\item (5 points) Graph the function $q(x) = \cos(\pi x) + 2$ on the interval $[-1, 3]$, on the given axes.
+%
+%\begin{tikzpicture}[xscale=3, yscale=.9]
+%\draw[ultra thick , <->] (-1.1,0) -- (3.1,0);
+%\draw[ultra thick , <->] (0,-5.1) -- (0,5.1);
+%\draw[ultra thin] (-1, -5) grid[step=.5] (3, 5);
+%\draw[thick] (-1, -5) grid (3, 5);
+%\foreach \i in {-1,1,2,3}{\draw (\i-.07,0) node[below]{$\i$};}
+%\foreach \i in {-5,-4,-3,-2,-1,1,2,3,4}{\draw[ ] (-.1,\i) node[inner sep=1 pt, fill=white, left]{$\i$};}
+%%\foreach \i in {-1,0,1,2,3}{\draw[ ] (\i-.5, .1) -- (\i-.5, -.1);}
+%\coordinate (0, -.1) node [below left] {0};
+%
+%
+%\end{tikzpicture}
+
+%graphs and asymptotes and limits problem
+\item (10 points) Let $g(x)=\frac{1}{x-3}+2.$
+	\begin{enumerate}
+	
+
+		\item Evaluate the limit: $\d{\lim_{x \to 3^-} f(x)}.$  Show your work or justify your computation with a few words.	
+	\vfill
+	
+	\hfill $\d{\lim_{x \to 3^-} f(x)} = \ans$
+	
+	\bigskip
+	
+	\item What does your answer to part (a) tell you about the graph of $f(x)?$ (What feature does the graph have?)
+	\vspace{0.5in}
+	\item Evaluate the limit: $\d{\lim_{x \to - \infty} f(x)}.$  Show your work or justify your computation with a few words.
+	
+		\vfill
+		
+		\hfill$\d{\lim_{x \to - \infty} f(x)} = \ans$
+		
+		\bigskip
+	\item What does your answer to part (c) tell you about the graph of $f(x)?$ (What feature does the graph have?)
+	\vspace{0.5in}
+	
+	\item Sketch the graph of $f(x)$ on the axes below. If the graph has any asymptotes, draw them as dashed lines and label them with their equation. \\
+	
+\begin{tikzpicture}[xscale=1.25]
+\draw[ , <->] (-5.5,0) -- (5.5,0);
+\draw[ , <->] (0,4.5) -- (0,-4.5);
+%\foreach \i in {-5,-4,-3,-2,-1,1,2,3,4,5}{\draw[ ] (\i, .1) -- (\i, -.1) node[below]{$\i$};}
+%\foreach \i in {-4,-3,-2,-1,1,2,3,4}{\draw[ ] (0.1,\i) -- (-0.1,\i) node[left]{$\i$};}
+%\coordinate (0, -.1) node [below left] {0};
+\end{tikzpicture}
+\vspace{.25in}
+	
+	
+	\end{enumerate} 
+	\newpage
+	
+
+
+\newpage
+
+
+
+%%EASY
+%\item {\bf Easy version} Sketch the derivative of the following function, on the second set of axes.
+%
+%\begin{tikzpicture}
+%\draw[ thick, <->] (-6.5,0) -- (6.5,0);
+%\draw[ thick, <->] (0,3.5) -- (0,-3.5);\foreach \i in {-6, -5, -4,-3,-2,-1,1,2,3,4, 5}{\draw[ thick] (\i, .1) -- (\i, -.1) node[below]{$\i$};}
+%\coordinate (0, -.1) node [below left] {0};
+%\draw[ultra thin] (-6,-3) grid (5,3);
+%
+%\draw[ultra thick] (-5, 2) parabola bend (-3,-2)  (-2,-1) -- (1,-1) -- (4,2);
+%
+%
+%\end{tikzpicture}
+%
+%\begin{tikzpicture}
+%\draw[ , <->] (-6.5,0) -- (6.5,0);
+%\draw[ , <->] (0,3.5) -- (0,-3.5);\foreach \i in {-6, -5, -4,-3,-2,-1,1,2,3,4, 5}{\draw[ ] (\i, .1) -- (\i, -.1) node[below]{$\i$};}
+%\coordinate (0, -.1) node [below left] {0};
+%
+%\end{tikzpicture}
+%sketch the derivative
+\item (8 points) Sketch the derivative of the following function, on the second set of axes.
+\begin{center}
+\begin{tikzpicture}
+\draw[ thick, <->] (-6.5,0) -- (6.5,0);
+\draw[ thick, <->] (0,3.5) -- (0,-3.5);\foreach \i in {-6, -5, -4,-3,-2,-1,1,2,3,4, 5,6}{\draw[ thick] (\i, .1) -- (\i, -.1) node[below]{$\i$};}
+\coordinate (0, -.1) node [below left] {0};
+\draw[ultra thin] (-6,-3) grid (6,3);
+
+%\draw plot[smooth] coordinates{ (-5,-2) (-4,1) (-3,-1) (-2,-2) (-1,1)}
+\draw[ultra thick] (-6, -1) parabola bend (-4.5,1) (-3,-1) parabola bend (-2,-2)  
+%(-1,-1) -- (1,-1) -- (4,2);
+(-1,-1) -- (3,1) --(5,1);
+
+
+\end{tikzpicture}
+\end{center}
+
+\begin{center}
+\begin{tikzpicture}
+\draw[ , <->] (-6.5,0) -- (6.5,0);
+\draw[ , <->] (0,3.5) -- (0,-3.5);\foreach \i in {-6, -5, -4,-3,-2,-1,1,2,3,4, 5,6}{\draw[ ] (\i, .1) -- (\i, -.1) node[below]{$\i$};}
+\coordinate (0, -.1) node [below left] {0};
+
+\end{tikzpicture}
+\end{center}
+
+\newpage
+ %%Limit problems
+\item (20 points) Find the limit or show it doesn't exist. Use proper limit notation for full credit. If a limit is positive or negative infinity, state that explicitly instead of writing ``does not exist." Answers with little work will be accepted here but the wrong answer with no work will receive no partial credit.
+
+\begin{enumerate}
+	%	\item $\d \lim_{\theta\to\pi}\frac{\theta^2}{\cos\theta}$
+%	\vfill
+	%2.5 # 36
+%	\item $\d \lim_{x\to\infty}\frac{2x^2 + x}{\sqrt{16 + x^4}}$
+%	\vfill
+	\item $\d \lim_{x\to -2}\frac{x^2+3x+2}{x^2-x-6}$\hfill answer: \ans\ans %\framebox(100,30){}
+	\vfill
+	%
+	\item $\d \lim_{t\to-2^+} \frac{t - 2}{2 + t}$\hfill answer: \ans\ans%\framebox(100,30){}
+	\vfill
+	%
+		\item $\d \lim_{x\to\infty}\left[\ln{(2x)} - \ln(5x + 2)\right]$\hfill answer: \ans\ans %\framebox(100,30){}
+	\vfill
+	%
+	\item $\d \lim_{x\to4}\frac{\frac{1}{x^2} - \frac{1}{16}}{x - 4}$\hfill answer: \ans\ans %\framebox(100,30){}
+	\vfill
+	%2.7 #34
+
+	%2.6 #42
+\end{enumerate}
+
+\newpage
+%interpretataion of the derivative
+\item (10 points) The temperature $C$, in degrees Celsius, was measured $t$ seconds after a hot water faucet was turned on.
+	\begin{enumerate}
+	\item It is found that $C(2)=10.$ Interpret this fact in the context of the problem. (That is, what does $C(2)=10$ mean?)  Include units in your answer.
+	\vspace{1in}	
+	\item It is found that $C'(2)=3.$ Interpret this fact in the context of the problem. (That is, what does $C'(2)=3$ mean?) Include units in your answer.
+	\vspace{1in}
+	\item It is found that $\displaystyle{\lim_{t \to \infty} C(t)=40}.$ Interpret this fact in the context of the problem. (That is, what does $\displaystyle{\lim_{t \to \infty} C(t)=40}$ mean?)  Include units in your answer.
+	\vspace{1in}
+	\end{enumerate}
+
+
+\end{enumerate}
+
+
+\textbf{Extra Credit (5 points)} \textbf{Use the Intermediate Value Theorem} to prove that there exists some $x$-value in the interval $(0,100)$ such that the function $g(x)=15e^{-x}-\sqrt{x}+3$ takes the value $y=10.$
+\vfill
+
+\end{document}
+
+%%%%%%%%%%
+%%%%%%%%%%
+End Document
+
+
