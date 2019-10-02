@@ -4,10 +4,10 @@ midterm1:
   versions:
     - name: V1 
       blank: Midterm-1-fall-19-v1.pdf
-      solutions: Midterm-1-fall-19-v1-s.pdf
+      solutions: Midterm-1-fall-19-v1-s.pd
     - name: V2
       blank: Midterm-1-fall-19-v2.pdf
-      solutions: Midterm-1-fall-19-v2-s.pdf
+      solutions: Midterm-1-fall-19-v2-s.pd
 midterm2:
   blank: MT2.pdf
   solutions: MT2-Sols.pdf
