@@ -1,0 +1,107 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+\usepackage{pdfsync}
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace, adjustbox}
+\usepackage{array%,tikz, pgfplots
+}
+
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+%\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+%middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+%
+\pagestyle{fancy} 
+\lfoot{UAF Calculus I}
+\rfoot{3-3 Derivatives of Trig Functions}
+
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\newcommand{\bi}{\begin{itemize}}
+\newcommand{\ei}{\end{itemize}}
+
+\begin{document}
+\setlength{\parindent}{0cm}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\renewcommand{\d}{\displaystyle}
+\vspace*{-0.7in}
+\begin{center}
+ {\large{ \sc{Section 3.3 Derivatives of Trigonometric Functions (Day 2)}}}
+\end{center}
+\begin{enumerate}
+
+\item Fill in the table below. \\
+
+\begin{framed}
+  \textbf{Derivatives of Trigonometric Functions:}
+
+\begin{multicols}{2}{
+\vspace{-0.3in}
+  \begin{itemize}
+  \item $\frac{d}{dx} (\sin x) =$ \blank{0.85in}
+  \item $\frac{d}{dx} (\cos x) = $ \blank{0.85in}
+  \item $\frac{d}{dx} (\tan x) = $ \blank{0.85in}
+\columnbreak
+  \item $\frac{d}{dx} (\csc x) = $ \blank{0.85in}
+  \item $\frac{d}{dx} (\sec x) = $ \blank{0.85in}
+  \item $\frac{d}{dx} (\cot x) = $ \blank{0.85in}
+  \end{itemize}}
+\end{multicols}
+\end{framed}
+
+\item Derive the formula for $\frac{d}{dx}\left[ \tan (x) \right].$
+\vfill
+\item Find the derivative of $\displaystyle{y=\frac{\sec x}{1-x\tan x}}.$
+\vfill
+\newpage
+%\item For what values of $x$ does the graph of $f(x) = x
+%+ 2 \sin x$ have a horizontal tangent?
+%\vfill
+\item If $f(\theta) = e^{\theta} \cos(\theta)$, find $f '' (\theta).$ Simplify your answers here. 
+\vfill
+\item Find $\displaystyle{\frac{d}{dt}\left[t \sin t \cos t\right]}$. 
+\vfill 
+\newpage
+\item An elastic band is hung on a hook and a mass is hung on the lower end of the band. When the mass is pulled down 2 cm past its rest position and then released, it vibrates vertically. The equation of motion is $$s=2 \cos t +3 \sin t, \text{\: for\:} t \geq 0,$$ where $s$ is measured in centimeters and $t$ is measured in seconds. (We are taking the positive direction to be downward.)
+\begin{enumerate}
+\item Why might you expect to use sines and cosines to model this particular problem?\\
+\vspace{.4in}
+\item Sketch a cartoon of what this problem is describing.\\
+\vfill
+\item Find $s(0), s'(0),$ and $s''(0)$ including units.
+\vfill
+\item What does $s(0)$ tell you about the mass in the context of the problem?\\
+\vfill
+\item What does $s'(0)$ tell you about the mass in the context of the problem?\\
+\vfill
+\item What does $s''(0)$ tell you about the mass in the context of the problem?\\
+\vfill
+\end{enumerate}
+\newpage
+\item A 12 foot ladder rests against a wall. Let $\theta$ be the angle between the ladder and the wall and let $x$ be the distance from the base of the ladder and the wall.
+\begin{enumerate}
+\item Compute $x$ as a function of $\theta$. (Drawing a picture will help.)
+\vfill
+
+\item How fast does $x$ change with respect to $\theta$ when $\theta = \pi/6$? (Get an exact answer and a decimal approximation.)
+\vfill
+\item Interpret your answer from part (b) in the context of the problem. (Units will help you here.)
+\vfill
+\item Determine how far the ladder is from the wall when $\theta = \pi/6.$
+\vfill
+\item If the angle $\theta$ was \emph{decreased} from $\pi/6$ radians to $\frac{\pi}{6} - \frac{1}{100}$ radians, estimate how the distance to the wall would change. Try to answer this question using only your answer from part b.
+\vfill
+\end{enumerate}
+
+\end{enumerate}
+\end{document}

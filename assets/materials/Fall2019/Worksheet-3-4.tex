@@ -1,0 +1,88 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+\usepackage{pdfsync}
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace, adjustbox}
+\usepackage{array%,tikz, pgfplots
+}
+
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+%\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+%middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+%
+\pagestyle{fancy} 
+\lfoot{UAF Calculus I}
+\rfoot{3-4 The Chain Rule}
+
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\newcommand{\bi}{\begin{itemize}}
+\newcommand{\ei}{\end{itemize}}
+
+\begin{document}
+\setlength{\parindent}{0cm}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\renewcommand{\d}{\displaystyle}
+\vspace*{-0.7in}
+\begin{center}
+ {\large{ \sc{Section 3.4 The Chain Rule}}}
+\end{center}
+\begin{enumerate}
+\item For each function $H(x)$ below, write it as a (nontrivial) composition of functions in the form $f(g(x)).$
+	\begin{multicols}{2}
+	\begin{enumerate}
+	\item $H(x)=\tan ( 2-x^4)$
+	\item $H(x)=e^{2-2x}$
+	\end{enumerate}
+	\end{multicols}
+\vspace{1in}
+\item Complete the Chain Rule (using both types of notation)
+	\begin{multicols}{2}
+	\begin{itemize}
+	\item If $F(x)=f(g(x)),$\\ 
+	
+	then $F'(x)=$\\
+	
+	\item If $y=f(u)$ and $u=g(x),$\\ 
+	
+	then $\frac{dy}{dx}=$\\
+	\end{itemize}
+	\end{multicols}
+\item Find the derivative of the function. You do not need to simplify your answer.
+	\begin{enumerate}
+	\item $\d{y=\sqrt[3]{4-2x}}$
+	\vfill
+	\item $\d{f(x)=0.04 \sin(3x+e^x)}$
+	\vfill
+	\newpage
+	\item $\d{x(t)=\frac{e^{-\pi t^2/10}}{100}}$  (\textbf{Don't} use the quotient rule here!)
+\vfill
+	
+	\item $\d{g(x)=\frac{50\sqrt{2}}{x+\tan x}}$ (\textbf{Don't} use the quotient rule here!)
+	\vfill
+	\end{enumerate}
+\item Suppose that $f(x)=x^3,\: g(x)=\cos(x)$ and $h(x)=7+e^x.$
+	\begin{enumerate}
+	\item Find $\d{F(x)=f(x) \left( g(h(x)) \right),}$ then find its derivative.	
+	\vfill
+	\item Find $\d{G(x)=f(\:g(x) h(x)\:),}$ then find its derivative.
+	\vfill
+	\newpage
+	\item Find $\d{K(x)=\frac{g(x)}{h(f(x))},}$ then find its derivative.
+	\vfill
+	\item Find $\d{G(x)=f(g( h(x))),}$ then find its derivative.
+	\vfill
+	\end{enumerate}
+\end{enumerate}
+\end{document}
