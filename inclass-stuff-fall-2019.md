@@ -5,6 +5,16 @@ title: In Class Materials
 
 ## In Class Materials
 
+# Week 6
+
+* (Mon Sept 30) **Section 3.2 & 3.3** [worksheet](assets/materials/Fall2019/Worksheet-3-3.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-3-s.pdf)
+
+* (Wed Oct 2) **Section 3.3**  [worksheet](assets/materials/Fall2019/Worksheet-3-3-day-2.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-3-day-2-filled.pdf)
+
+* (Thurs Oct 3) **Section 3.4** [worksheet](assets/materials/Fall2019/Worksheet-3-4.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-4-s.pdf)
+
+* (Fri Oct 4) **Section 3.4 & 3.5**
+
 # Week 5
 
 * (Mon Sept 23) **Review for Midterm I** [review sheet ](assets/materials/Fall2019/Midterm-1-in-lecture-Review.pdf), [review sheet with worked problems added ](assets/materials/Fall2019/Midterm-1-in-lecture-Review-s.pdf)
