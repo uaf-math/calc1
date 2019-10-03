@@ -1,0 +1,112 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+\usepackage{pdfsync}
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace, adjustbox}
+\usepackage{array%,tikz, pgfplots
+}
+
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+%\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+%middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+%
+\pagestyle{fancy} 
+\lfoot{UAF Calculus I}
+\rfoot{3-3 Derivatives of Trig Functions}
+
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\newcommand{\bi}{\begin{itemize}}
+\newcommand{\ei}{\end{itemize}}
+
+\begin{document}
+\setlength{\parindent}{0cm}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\renewcommand{\d}{\displaystyle}
+\vspace*{-0.7in}
+\begin{center}
+ {\large{ \sc{Section 3.3 Derivatives of Trigonometric Functions}}}
+\end{center}
+\begin{enumerate}
+
+\item Pull out a calculator and complete the charts below:
+
+\begin{enumerate}
+	\item The variable $\theta$ is in \textbf{degrees}.
+	\begin{tabular}{|c||c|c|c|c|}
+	\hline
+	$\theta$ &\quad 0 \quad\quad& 0.001 \quad\quad&\quad 0.01 \quad\quad&\quad 0.1 \quad\quad\\
+	\hline
+	&&&&\\
+	$\large{\frac{\sin(\theta)}{\theta}}$&&&&\\
+	&&&&\\
+	\hline
+	\end{tabular}
+	
+	\item The variable $\theta$ is in \textbf{radians}.
+	\begin{tabular}{|c||c|c|c|c|}
+	\hline
+	$\theta$ &\quad 0 \quad\quad& 0.001 \quad\quad&\quad 0.01 \quad\quad&\quad 0.1 \quad\quad\\
+	\hline
+	&&&&\\
+	$\large{\frac{\sin(\theta)}{\theta}}$&&&&\\
+	&&&&\\
+	\hline
+	\end{tabular}
+	
+	\item The variable $\theta$ is in \textbf{radians}.
+	\begin{tabular}{|c||c|c|c|c|}
+	\hline
+	$\theta$ &\quad 0 \quad\quad& 0.001 \quad\quad&\quad 0.01 \quad\quad&\quad 0.1 \quad\quad\\
+	\hline
+	&&&&\\
+	$\large{\frac{1-\cos(\theta)}{\theta}}$&&&&\\
+	&&&&\\
+	\hline
+	\end{tabular}
+\end{enumerate}
+
+\item Based on the tables above, what would you conclude about:\\
+	\begin{enumerate}
+	\item $\d{\lim_{\theta \to 0} \frac{\sin ( \theta)}{\theta}}$\\
+	
+	\item $\d{\lim_{\theta \to 0} \frac{1-\cos (\theta)}{\theta}}$
+	\end{enumerate}
+	
+\item Use the definition of the derivative to find the derivative of $y=\sin(x)$ assuming $x$ is measured in radians.\\
+\newpage
+\item Use the graph of $y = \sin x$ to sketch a graph of
+$y'$. Does this fit with our calculation on the previous page? Why?
+
+\begin{flushleft}
+  \includegraphics[width=5in]{sinx}
+\end{flushleft}
+\vskip0.25in
+
+\item Use the graph of $y = \cos x$ to sketch a graph of
+$y'$. What would you guess $y'$ to be and why?
+
+\begin{flushleft}
+  \includegraphics[width=5in]{cosx}
+\end{flushleft}
+\vskip0.25in
+\item Use what we learned in 4. and 5. above to find the derivative of:
+	\begin{enumerate}
+	\item $y=3x^4 \cos(x)$
+	\vfill
+	\item $y=\csc(x)$ (Use the Quotient Rule.)
+	\vfill
+	\end{enumerate}
+\end{enumerate}
+\end{document}
