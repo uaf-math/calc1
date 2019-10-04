@@ -13,7 +13,7 @@ title: In Class Materials
 
 * (Thurs Oct 3) **Section 3.4** [worksheet](assets/materials/Fall2019/Worksheet-3-4.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-4-s.pdf)
 
-* (Fri Oct 4) **Section 3.4 & 3.5**
+* (Fri Oct 4) **Section 3.4 & Clean-up** [worksheet](assets/materials/Fall2019/Worksheet-3.1-3.4-cleanup(sampleDerivProf).pdf), [solutions]()
 
 # Week 5
 
