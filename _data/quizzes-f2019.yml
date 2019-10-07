@@ -36,4 +36,12 @@ quizzes:
       - name: Version 2
         blank: M251F19_Quiz-3-v2.pdf
         solutions: M251F19_Quiz-3-v2-solutions.pdf
+  - name: Quiz 4
+    versions:
+      -name: Version 1
+       blank: M251F19_Quiz-4.pdf
+       solutions: M251F19_Quiz-4-s.pdf
+      -name: Version 2
+       blank: M251F19_Quiz-4-v2.pdf
+       solutions: M251F19_Quiz-4-v2-s.pdf
   
