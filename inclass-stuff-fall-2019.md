@@ -5,6 +5,16 @@ title: In Class Materials
 
 ## In Class Materials
 
+# Week 7
+
+* (Mon Sept 30) **Section 3.5** [worksheet](assets/materials/Fall2019/Worksheet-3-5.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-5-s-j-notes.pdf) (Jill's class notes are attached to the end.)
+
+* (Wed Oct 2) **Section 3.6**  [worksheet](assets/materials/Fall2019/Worksheet-3-6.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-6.pdf)
+
+* (Thurs Oct 3) **Section 3.6 & 3.7** [worksheet](assets/materials/Fall2019/Worksheet-??.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-??.pdf)
+
+* (Fri Oct 4) **Section 3.7** [worksheet](assets/materials/Fall2019/Worksheet-3.??.pdf), [solutions]()
+
 # Week 6
 
 * (Mon Sept 30) **Section 3.2 & 3.3** [worksheet](assets/materials/Fall2019/Worksheet-3-3.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-3-s.pdf)
@@ -13,7 +23,7 @@ title: In Class Materials
 
 * (Thurs Oct 3) **Section 3.4** [worksheet](assets/materials/Fall2019/Worksheet-3-4.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-4-s.pdf)
 
-* (Fri Oct 4) **Section 3.4 & Clean-up** [worksheet](assets/materials/Fall2019/Worksheet-3.1-3.4-cleanup(sampleDerivProf).pdf), [solutions]()
+* (Fri Oct 4) **Section 3.4 & Clean-up** [worksheet](assets/materials/Fall2019/Worksheet-3.1-3.4-cleanup(sampleDerivProf).pdf), [solutions](Worksheet-3.1-3.4-cleanup(sampleDerivProf)-s) NOTE: This Sample Derivative Proficiency is EASIER and LESS COMPREHENSIVE than the one you will next Wednesday 16 October.
 
 # Week 5
 
