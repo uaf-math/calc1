@@ -5,15 +5,23 @@ title: In Class Materials
 
 ## In Class Materials
 
+# Week 8
+
+* (Mon Oct 14) **Section 3.8** [worksheet](), [solutions]()
+
+* (Wed Oct 16) **Section 3.9** [worksheet](), [solutions]() + Derivative Proficiency
+
+* (Thurs Oct 17) **Section 3.9 & 3.10** [worksheet](), [solutions]()
+
+* (Fri Oct 18) **Section 3.10** [worksheet](), [solutions]()
+
 # Week 7
 
 * (Mon Sept 30) **Section 3.5** [worksheet](assets/materials/Fall2019/Worksheet-3-5.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-5-s-j-notes.pdf) (Jill's class notes are attached to the end.)
 
 * (Wed Oct 2) **Section 3.6**  [worksheet](assets/materials/Fall2019/Worksheet-3-6.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-6-s.pdf), [extra problems](assets/materials/Fall2019/W-3-6-extra.pdf), [solutions](assets/materials/Fall2019/W-3-6-extra-s.pdf)
 
-* (Thurs Oct 3) **Section 3.6 & 3.7** [worksheet](assets/materials/Fall2019/Worksheet-??.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-??.pdf)
-
-* (Fri Oct 4) **Section 3.7** [worksheet](assets/materials/Fall2019/Worksheet-3.??.pdf), [solutions]()
+* (Thurs Oct 3 & Fri Oct 4 ) **Section 3.6 & 3.7** [worksheet](assets/materials/Fall2019/Worksheet-3-6-and-3.7.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-6-and-3.7-s.pdf)
 
 # Week 6
 
