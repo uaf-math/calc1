@@ -44,7 +44,7 @@ quizzes:
       - name: Version 2
         blank: M251F19_Quiz-4-v2.pdf
         solutions: M251F19_Quiz-4-v2-s.pdf
-   - name: Quiz 5
+  - name: Quiz 5
     versions:
       - name: Version 1
         blank: M251F19_Quiz-5.pdf
