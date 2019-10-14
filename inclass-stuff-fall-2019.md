@@ -7,7 +7,7 @@ title: In Class Materials
 
 # Week 8
 
-* (Mon Oct 14) **Section 3.8** [worksheet](), [solutions]()
+* (Mon Oct 14) **Section 3.8** [worksheet](assets/materials/Fall2019/Worksheet-3-8.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-8-s.pdf)
 
 * (Wed Oct 16) **Section 3.9** [worksheet](), [solutions]() + Derivative Proficiency
 
