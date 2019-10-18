@@ -1,0 +1,74 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+\usepackage{pdfsync}
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace, adjustbox}
+\usepackage{array%,tikz, pgfplots
+}
+
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+%\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+%middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+%
+\pagestyle{fancy} 
+\lfoot{UAF Calculus I}
+\rfoot{3-9}
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\newcommand{\bi}{\begin{itemize}}
+\newcommand{\ei}{\end{itemize}}
+
+\begin{document}
+\setlength{\parindent}{0cm}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\renewcommand{\d}{\displaystyle}
+\vspace*{-0.7in}
+\begin{center}
+ {\large{ \sc{Section 3.10: Linearization \& Differentials}}}
+\end{center}
+
+\begin{enumerate}
+\item Use the linear approximation of $f(x)=\sqrt{x}$ at $x=4$
+to approxmiate $\sqrt{4.1}$ and compare your result to its approximation
+computed by your calculator.
+\vfill
+
+\item  Use the linear approximation to approximate the cosine of $29^\circ=\frac{29}{30}\frac{\pi}{6}$ radians.
+\vfill
+
+\item  Find the linear approximation of $f(x)=\ln(x)$ at $a=1$ and use it to approxmate $\ln(0.5)$ and $\ln(0.9)$.  Compare your approximation with your calculator's.
+Sketch both the curve $y=\ln(x)$ and $y=L(x)$ and label the points $A=(0.5,\ln(0.5))$ and $B=(0.5,L(0.5))$
+\vfill
+\newpage
+%\aproblem Find the linear approximation of $f(x)=e^x$ at $a=0$ and use 
+%it to approximate $e^{0.05}$ and $e^1$  Compare your approximations with your calculator's.
+%\vfill
+%% \aproblem Find the linear approximation of $f(x)=\sin(\theta)$ at $\theta=0$ and use  it to approximate $\sin(-0.2)$  Compare your approximation with your calculator's.
+%\newpage
+
+\item A tree is growing and the radius of its trunk in centemeters
+is $r(t)=2\sqrt{t}$ where $t$ is measured in years.  Use the differential
+to estimate the change in radius of the tree from 4 years to  
+4 years and one month.
+\vfill
+
+\item  A coat of paint of thinkness $0.05$cm is being added 
+to a hemispherical dome of radius 25m.  Estimate the volume
+of paint needed to accomplish this task. [Challenge: will this be an underestimate or an overestimate? Thinking geometrically or thinking algebraically will both give you the same answer.]
+\vfill
+\item  The radius of a disc is 24cm with an error of $\pm 0.5$cm.
+Estimate the error in the area of the disc as an absolute and
+as a relative error.
+\end{enumerate}
+\end{document}
