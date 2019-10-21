@@ -7,7 +7,7 @@ derivative:
       solutions: DerivativeProf-2019-v1-s.pdf
     - name: V2
       blank: DerivativeProf-2019-v2.pdf
-      solutions: DerivativeProf-2019-v1-s.pdf
+      solutions: DerivativeProf-2019-v2-s.pdf
     - name: V3
       blank: Derivative-v3.pdf
       solutions: Derivative-v3-Sols.pdf
