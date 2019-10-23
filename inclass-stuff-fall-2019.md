@@ -5,6 +5,16 @@ title: In Class Materials
 
 ## In Class Materials
 
+# Week 9
+
+* (Mon Oct 21) **Section 4.1** [worksheet](assets/materials/Fall2019/Worksheet-4-1.pdf), [solutions](assets/materials/Fall2019/Worksheet-4-1-s.pdf)
+
+* (Wed Oct 23) **Section 4.1** [worksheet](assets/materials/Fall2019/Worksheet-4-1-day-2.pdf), [solutions](assets/materials/Fall2019/Worksheet-4-1-day-2-s.pdf)
+
+* (Thurs Oct 24) **Section 4.2** [worksheet](), [solutions]()
+
+* (Fri Oct 25) **Section 4.3** [worksheet](), [solutions]()
+
 # Week 8
 
 * (Mon Oct 14) **Section 3.8** [worksheet](assets/materials/Fall2019/Worksheet-3-8.pdf), [solutions](assets/materials/Fall2019/Worksheet-3-8-s.pdf)
