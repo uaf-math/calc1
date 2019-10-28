@@ -1,0 +1,106 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx, pgfplots} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+%\usepackage{pdfsync} %% I don't know why this messes up tabular column widths
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+
+\usetikzlibrary{calc}
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=blue,only marks,mark=*}} \pgfplotsset{holdot/.style={color=blue,fill=white,only marks,mark=*}}
+
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\newcommand{\ds}{\displaystyle}
+
+
+
+\pagestyle{fancy} 
+%\lfoot{Uses a calculator}
+\rfoot{4-3 Routine Problems}
+
+\begin{document}
+\begin{center}
+  \large
+  \sc{4-3 Derivatives and the Shape of the Graph (Day 2)}\\
+\end{center}
+\begin{enumerate}
+\item Suppose $f(x)=x^5-5x^3.$ 
+	\begin{enumerate}
+	\item Find all critical points of $f(x).$
+	\vspace{1in}
+	\item Determine the open  intervals on which $f$ is increasing or decreasing.
+	\vspace{1.5in}
+	\item Use the First Derivative Test to classify each critical point as a local minimum, a local maximum, or neither.
+	\vspace{1.5in}
+	\end{enumerate}
+\item Draw pictures of graphs that are:
+\begin{multicols}{2}
+concave up \\
+
+\columnbreak
+concave down \\
+\end{multicols}
+\vfill
+\item What can you conclude about the derivatives of the graphs above?
+\newpage
+\item \textbf{Concavity Test \& Inflection Points}
+\vfill
+\item Use the Concavity Test to find the intervals of concavity and the inflection points of the function $f(x)=x^5-5x^3.$
+\vfill
+\item Put the information from problems 1 and 5 together to sketch the shape of the graph.
+\vfill
+\newpage
+\item \textbf{The Second Derivative Test of Local Extrema}
+\vspace{2in}
+
+\item Use the Second Derivative Test to classify the only critical point of $f(x)=xe^x.$ Note $f'(x)=(x+1)e^x$ and $f''(x)=(x+2)e^x.$
+\vfill
+\item Sketch a possible graph of a function $f$ that
+satisfies the following conditions:
+  \begin{enumerate}
+  \item $f$ is continuous and differentiable on $(-\infty,\infty).$
+  \item $f(0) = 2$, $f(2) = 3$, $f(4) = 2$
+  \item $f'(2) =0$
+  \item $f'(x) > 0$ for $ x < 2$ and $f'(x) < 0$ for $2 < x$
+     \item $f''(x) > 0$ for $4<x$ and $f''(x) < 0$ for $x <4$. 
+  \end{enumerate}
+  \vspace{3in}
+  \newpage
+\item Given the function $f(x) = \ln(x^2 + 4)$ find the
+following. 
+\begin{enumerate}
+\item Determine the domain of $f(x).$\\
+
+    \item Find the intervals of increase or decrease. 
+\vfill
+  \item Find the local maximum and minimum values. 
+\vfill
+  \item Find the intervals of concavity and inflection points.
+\vfill
+  \item Use the information to sketch the graph. 
+  \vfill
+  \end{enumerate}
+\newpage
+
+
+
+\end{enumerate}
+\end{document}
