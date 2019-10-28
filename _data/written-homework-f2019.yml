@@ -85,11 +85,13 @@
   problems:
     - section: 4.3
       exercises: 12, 16, 21, 22, 28, 52, 70
+    - section: "Note"
+      exercises: Problem 72 was removed from this list.
     - section: 4.4
       exercises: 10, 16, 24, 34, 53, 58
     - section: 4.5
       exercises: 13, 15, 22, 28, 42
-    - section: "NOTE:"
+    - section: "Note"
       exercises: See Blackboard for help on Section 4.5.
 
 - name: WRH 13  
