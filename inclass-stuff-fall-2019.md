@@ -8,11 +8,11 @@ title: In Class Materials
 
 * (Mon Oct 28) **Section 4.3** [worksheet A ](assets/materials/Fall2019/Worksheet-4-3b.pdf), [solutions A](assets/materials/Fall2019/Worksheet-4-3b-s.pdf), and  [worksheet B ](assets/materials/Fall2019/Worksheet-4-3c.pdf), [solutions B](assets/materials/Fall2019/Worksheet-4-3c-s.pdf)
 
-* (Wed Oct 30) **Section 4.4** [worksheet](), [solutions]()
+* (Wed Oct 30) **Section 4.4** [worksheet](assets/materials/Fall2019/worksheet-4-4_Indeterminant-Forms-and-Lhospitals-Rule.pdf), [solutions](assets/materials/Fall2019/worksheet-4-4_Indeterminant-Forms-and-Lhospitals-Rule-s.pdf)
 
-* (Thurs Oct 31) **Section 4.5** [worksheet](), [solutions]()
+* (Thurs Oct 31) **Section 4.5** [worksheet](assets/materials/Fall2019/worksheet-4-5-day1.pdf), [solutions](assets/materials/Fall2019/worksheet-4-5-day1-s.pdf)
 
-* (Fri Nov 1) **Section 4.5** [worksheet](), [solutions]()
+* (Fri Nov 1) **Section 4.5** [worksheet](assets/materials/Fall2019/worksheet-4-5-day2.pdf), [solutions]()
 
 
 # Week 9
