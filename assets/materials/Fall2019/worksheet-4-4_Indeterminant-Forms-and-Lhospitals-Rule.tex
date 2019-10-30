@@ -1,0 +1,368 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx, pgfplots} 
+\usepackage[all]{xy}
+\usepackage{polynom,tabularx} 
+%\usepackage{pdfsync} %% I don't know why this messes up tabular column widths
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+
+\usepackage[parfill]{parskip}
+\usetikzlibrary{arrows}
+
+\usetikzlibrary{calc}
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=blue,only marks,mark=*}} \pgfplotsset{holdot/.style={color=blue,fill=white,only marks,mark=*}}
+
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\renewcommand{\d}{\displaystyle}
+
+\newcommand{\ans}[1][2]{ \ \rule{#1 in}{.5 pt} \ }
+
+
+\pagestyle{fancy} 
+%\lfoot{Uses a calculator}
+\rfoot{Section 4-4}
+
+\begin{document}
+
+\vspace*{-0.7in}
+
+\begin{center}
+  \Large
+  \sc{Section 4.4 Indeterminate Forms and l'Hospital's Rule}\\
+\end{center}
+
+{\sc Warm up:} Consider the limit  $\d \lim_{x \to 2} \frac{x^2 - 4}{x^2 - 5x + 6}$. 
+
+If you plug in 2 for $x$, what does the limit ``look like''? \ans
+
+Evaluate the limit, using algebraic techniques from Chapter 2, and justifying each step.\\
+
+%\smallskip
+%\begin{multicols}{2}{
+      % make sure you added \usepackage{enumerate}
+   %   \vspace*{-0.45in}
+%      \begin{enumerate}[a)]
+     % \item 
+     $\d \lim_{x \to 2} \frac{x^2 - 4}{x^2 - 5x + 6} = $
+%      \item $\d \lim_{x \to 0} \frac{\sin x}{x}$
+%      \end{enumerate}}
+%  \end{multicols}
+\vspace{1.5in}
+
+
+ A limit is of \emph{indeterminate type} (or `type' for short) if we can't just ``plug in $a$'' to find the limit, or if different ways to write the same expression produce different limits! We describe indeterminate types by evaluating the limit of ``pieces'' by ``plugging in $a$'' and writing the resulting symbols, for example, $\frac{\infty}{\infty}, \frac{0}{0}$, or $\infty - \infty$. We can use \emph{L'Hopital's rule} to help evaluate certain limits of indeterminate type.
+
+\begin{framed}
+  \textbf{L'Hospital's Rule:} If a limit has the form (indeterminate type) of \ans[.75] or \ans[.75]
+  then $$\d \lim_{x \to a} \frac{f(x)}{g(x)} \overset{L'H}{=} \phantom{\d \lim_{x \to a} \frac{f(x)}{g(x)}}$$
+  
+%  \vspace{0.2in}
+  
+  \emph{provided} 
+  
+%  \vspace{0.3in}
+  
+   \end{framed} 
+
+ \be
+
+ 
+\item   Determine whether or not l'Hospital's Rule applies to the following examples, and if it does, apply it, and determine the limit. 
+
+\begin{multicols}{2}{
+      % make sure you added \usepackage{enumerate}
+      \vspace*{-0.45in}
+      \begin{enumerate}[a)]
+      \item $\d \lim_{x \to 2} \frac{x^2 - 4}{x^2 - 5x + 6}$ \ \ \hspace{1cm}(type \ans[.5])
+      \item $\d \lim_{x \to 0} \frac{\sin x}{x}$  \hspace{1cm}(type \ans[.5])
+      \end{enumerate}}
+  \end{multicols}
+  \vfill
+ \noindent{\fbox{\sc{Question}}} Why does l'Hospital's Rule work?
+ \vfill
+ \newpage
+ 
+ 
+\emph{ Evaluate the following limits. Use L'Hopital's rule only when necessary!}
+
+ \begin{multicols}{2}
+ \item $\d \lim_{x \to 0} \frac{\tan (5x)}{ \sin(3x)}$ \hspace{1cm}(type \ans[.5])
+ 
+ \vspace{.4\textheight}
+ 
+ \item $\d \lim_{u \to \infty} \frac{e^{u/10}}{ u^2}$ \hspace{1cm}(type \ans[.5])
+ 
+ \vspace{.4\textheight}
+ 
+ \columnbreak
+ 
+ \item $\d \lim_{x \to 0} \frac{\cos(4x)}{e^{2x}} $ \hspace{1cm}(type \ans[.5])
+ 
+  \vspace{.4\textheight}
+  
+ \item $\d \lim_{x \to 0} \frac{xe^x}{2^x-1} $ \hspace{1cm}(type \ans[.5])
+ 
+  \vspace{.4\textheight}
+\end{multicols}
+
+  \vspace{.4\textheight}
+
+%%% trickier ones
+% \newpage
+ 
+ \subsection*{Trickier applications of L'Hopital's rule}
+ 
+
+
+{\renewcommand{\arraystretch}{1.7}
+\begin{tabular}{ |l | l || l  | l|}
+\hline \hline
+{\bf Indeterminate form} & technique &  {\bf NOT indeterminate forms}  & limit \\ \hline
+$\frac{0}{0}$ & Algebra; L'H if necessary &  $\infty + \infty$ & %$\infty$ 
+\\ \hline
+$\frac{\infty}{\infty}$ & Algebra; L'H if necessary &  $1^{0}$ & %1  
+\\ \hline
+% $0^{\infty}$  \\
+$\infty - \infty$ & algebra to rewrite as $\frac{0}{0}$ or$\frac{\infty}{\infty}$&  $\frac{1}{\infty}$ & %0
+\\ \hline
+$0\cdot \infty$ &algebra to rewrite as $\frac{0}{0}$  &  $\infty \cdot \infty$ and $\infty^{\infty}$ & %$\infty$
+\\ \hline
+$1^{\infty}$ & Use logs to transform &  $\frac{1}{0}$ & %$\infty$ 
+\\ \hline
+$0^{0}$ & Use logs to transform &  $0^{\infty}$ & %$0$ 
+\\ \hline
+$\infty^{0}$ & Use logs to transform &  $\infty^{\infty}$ & \\ 
+\hline \hline
+ \end{tabular}
+ }
+%$\frac{0}{0}$, $\frac{\infty}{\infty}$, $\infty - \infty$, $1^{\infty}$, $0^{0}$, $0\cdot \infty$ & $\infty + \infty$
+ 
+ \bigskip
+ 
+\emph{ Transform the following expressions into a form where you can use L'Hopital's rule to evaluate the limit, and then evaluate the limit.}
+ 
+ \item $\d \lim_{x \to 1^+} \left( \ln (x^4-1) - \ln(x^9-1) \right)$ \hspace{1cm}(type \ans[1])
+\vfill
+ 
+% \newpage
+ 
+ \item  $\d \lim_{x \to \infty} \sqrt{x}e^{-x/2}$ \hspace{1cm}(type \ans[1])
+ \vfill
+ 
+ %{\color{red} DO A THING}
+
+ 
+ \newpage
+ 
+ {\bf Using logarithms to deal with limits of the form $1^{\infty}$ or $0^{0}$ or $\infty^{0}$}
+ 
+ \bigskip
+ 
+ \item Simplify the expressions below:\\
+
+(a) If $y=a^b,$ then $\ln y = $\ans[3]
+
+(b) If $\d{\lim_{x\to a}\ln [f(x)] =L},$ then $\d{\lim_{x\to a} f(x)= }$ \ans[2] 
+
+\vspace{.75in}
+%\newpage
+
+\item Now find the limit of the functions below by first taking the natural logarithm of the expression in the limit (like part(a) above). Then evaluate the limit of this transformed expression. Finally, use the answer of the transformed expression to obtain the limit of the original expression (like part (b) above).\\
+\be
+\item $\d \lim_{x \to \infty} x^{2/x}$ \hspace{1cm}(type \ans[.5])
+\vfill
+\item $\d \lim_{x \to 0^+} (1 + \sin(2x))^{1/x}$ \hspace{1cm}(type \ans[.5])
+\vfill
+\ee
+
+\ee
+
+% $\bigstar$ Articulate explicitly what \emph{trick} was used to evaluate the last limit and state precisely what sort of limits this trick will apply to in general.\\
+% \vspace{0.5in}
+ \end{document}
+%%%%%%%%%%%
+%%%%%%%%%%%
+%%%%%%%%%%%%
+% \begin{multicols}{2}
+% %%pic1
+% \includegraphics[scale=1.5]{4-3-pic1.png}
+
+% $f(x)$ is increasing: \\
+
+% $f(x)$ is decreasing: \\
+% \columnbreak
+
+% %%pic2
+% \includegraphics[scale=.8]{4-3-pic2.png}
+
+% $f(x)$ is increasing: \\
+
+% $f(x)$ is decreasing: \\
+
+% \end{multicols}
+% \noindent{\fbox{\sc{Question 1:}}} Using language a middle school kid could understand, how would you explain what it means to say a function is \emph{increasing} or \emph{decreasing}?
+% \vfill
+
+
+% \noindent{\fbox{\sc{Question 2:}}} Draw a few sample tangent lines to each graph above. What is the relationship between the slope of the tangent lines and whether the graph is increasing or decreasing?
+% \vfill
+
+% \begin{framed} \textbf{Increasing/Decreasing Test} \\
+
+% (a) If \underline{\hspace{1.2in}} on an interval, then the function $f(x)$ is \textbf{increasing} on this interval.\\
+
+% (b) If \underline{\hspace{1.2in}} on an interval, then the function $f(x)$ is \textbf{decreasing} on this interval.
+% \end{framed}
+% \newpage
+% \noindent{\fbox{\sc{Practice Problem 1:}}} Let $g(x)=3x^4-4x^3-12x^2+5.$
+% \be
+% \item Use the Increasing/Decreasing Test to find the intervals where $g(x)$ is increasing and decreasing.
+% \vspace{3in}
+% \item Sketch the graph on your calculator to check that your answer above is correct.
+% \vspace{1.5in}
+% \item What do you observe about the relationship between \emph{local maximums, local minimums} and intervals of \emph{increase} and \emph{decrease}? Make an explicit conjecture.
+% \vfill
+% \item Go back and look at the examples at the top of page 1 and see if you need to amend your conjecture above.
+% \ee
+% \newpage
+% \noindent{\fbox{\sc{Question 3:}}} What is a critical number again?\\
+% \vspace{0.5in}
+
+% \begin{framed}
+%   \textbf{The First Derivative Test:} Suppose that $c$ is a critical
+%   number of a continuous function $f(x)$.
+
+%   \begin{quote}
+%     \begin{enumerate}
+%     \item [a)] If \underline{\hspace{4.5in}} at $c$, then
+%       $f$ has a \textbf{local maximum} at $c$.\\
+      
+%     \item [b)] If \underline{\hspace{4.5in}} at $c$, then
+%       $f$ has a \textbf{local minimum} at $c$.\\
+      
+%     \item [c)] If \underline{\hspace{4.5in}} at $c$, then $f$ has no
+%       local maximum or minimum at $c$.
+%     \end{enumerate}
+%   \end{quote}
+% \end{framed}
+% \vspace{0.25in}
+
+% Using the work from the previous \fbox{\sc{Practice Problem 1}}, fill in the blanks below for $g(x)=3x^4-4x^3-12x^2+5.$\\
+
+% (a) \underline{\hspace{1.5in}} is a local minimum of $g(x)$ that occurs at  \underline{\hspace{1.5in}}\\
+
+% (b) \underline{\hspace{1.5in}} is a local minimum of $g(x)$ that occurs at  \underline{\hspace{1.5in}}\\
+
+% (c) \underline{\hspace{1.5in}} is a local maximum of $g(x)$ that occurs at  \underline{\hspace{1.5in}}\\
+ 
+%  \vfill
+%  \noindent \fbox{\sc{Practice Problem 2:}} Sketch the graph of a function $h(x)$ satisfying all the properties below:\\
+%  \be
+%  \item domain $(-\infty, \infty)$
+%  \item $h'(x) >0$ on $(-\infty,0) \cup (2, \infty)$
+%  \item $h'(x) <0$ on $(0,2)$
+%  \item $h'(0)$ is undefined, $h'(2)=0$
+%  \ee
+%  \newpage
+%  \noindent{\fbox{\sc{Motivating Examples:}}} On the sample graphs below, sketch some rough tangent lines. Sketch multiple tangents on each graph. Make rough approximations of the slopes of these tangents.\\
+ 
+ 
+%  \begin{tabularx}{\textwidth}{XXXX}
+%  concave up &
+%  \begin{tikzpicture}
+%  \draw[scale=2,ultra thick, domain=-1:1, smooth, variable=\x,blue] plot ({\x},{\x*\x});
+%  \end{tikzpicture}
+%  &
+%  \begin{tikzpicture}
+%  \draw[scale=1,ultra thick, domain=0:2, smooth, variable=\x,blue] plot ({\x},{0.5*\x*\x});
+%  \end{tikzpicture}&
+%  \begin{tikzpicture}
+%  \draw[scale=2,ultra thick, domain=0:2, smooth, variable=\x,blue] plot ({\x},{0.5^\x});
+%  \end{tikzpicture}\\
+%  pictures &&&\\
+%  &&&\\
+%  &&&\\
+%  concavedown &
+%  \begin{tikzpicture}
+%  \draw[scale=2,ultra thick, domain=-1:1, smooth, variable=\x,blue] plot ({\x},{-\x*\x});
+%  \end{tikzpicture}
+%  &
+%  \begin{tikzpicture}
+%  \draw[scale=1.5,ultra thick, domain=0:2, smooth, variable=\x,blue] plot ({\x},{-0.5*\x*\x});
+%  \end{tikzpicture}&
+%  \begin{tikzpicture}
+%  \draw[scale=2,ultra thick, domain=0:2, smooth, variable=\x,blue] plot ({\x},{-{0.4}^\x});
+%  \end{tikzpicture}\\
+%  pictures &&&\\
+%  \end{tabularx}
+% \noindent{\fbox{\sc{Question 4:}}} How does the relationship between the tangent line and the graph to which it is tangent differ depending on whether the graph is concave up or concave down?
+% \vfill
+% \noindent{\fbox{\sc{Question 5:}}} If the graphs above are of a function, say $f(x)$, what can you say about its derivative $f'(x)$?
+% \vfill
+% \noindent{\fbox{\sc{Question 6:}}} Estimate the intervals where each function below is concave up and concave down:
+% \begin{multicols}{2}
+% %%pic1
+% \includegraphics[scale=1.5]{4-3-pic1.png}
+
+% $f(x)$ is concave up: \\
+
+% $f(x)$ is concave down: \\
+% \columnbreak
+
+% %%pic2
+% \includegraphics[scale=.8]{4-3-pic2.png}
+
+% $f(x)$ is concave up: \\
+
+% $f(x)$ is concave down: \\
+
+% \end{multicols}
+% \newpage
+% \begin{framed}
+%   {\sc{Definition:}} 
+% A point $P$ on a curve $y = f(x)$ is called an \textbf{inflection
+%   point} if $f$ is continuous there and the curve changes from concave
+% upward to concave downward or vice versa at $P$. 
+% \end{framed}
+% \noindent{\fbox{\sc{Question 6:}}} Do the graphs on the previous page have any inflection points?
+% \vspace{1in}
+% \begin{framed}
+% { \sc{Concavity Test \& Inflection Points:}} Let $f(x)$ be a function defined on an interval $I$.
+
+%  \begin{quote}
+%    \begin{enumerate}
+%    \item [a)] If  \underline{\hspace{1.5in}} (that is:  \underline{\hspace{2in}}) for all $x$ in $I$, then the graph of
+%      $f$ is concave upward on $I$.
+%    \item [b)] If  \underline{\hspace{1.5in}} (that is:  \underline{\hspace{2in}}) for all $x$ in $I$, then the graph of
+%      $f$ is concave downward on $I$. 
+%    \end{enumerate}
+%  \end{quote}
+% \end{framed}
+
+% \noindent{\fbox{\sc{Practice Problem 3:}}} Let $f(x) = 2x^3 - 3x^2 - 12x$.  Find the intervals of concavity and the inflection points. 
+%   \vfill
+% \end{document}
+
+%%%%END%%%%
+%%%%%%%%%%
+
+
+
+
