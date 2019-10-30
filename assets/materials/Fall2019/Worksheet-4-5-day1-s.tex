@@ -1,0 +1,203 @@
+\documentclass[10pt]{amsart}
+\usepackage[margin=.8in]{geometry}
+\usepackage{graphicx}
+\usepackage{amssymb, amsmath, amsthm}
+
+\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+
+
+
+
+%defines a few theorem-type environments
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem*{exercise}{Exercise}
+\newtheorem{axiom}{Axiom}
+\theoremstyle{remark}
+\newtheorem*{remark}{Remark}
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\newcommand{\zz}{\mathbb{Z}}
+\begin{document}
+
+%\begin{large} {Calcu} \end{large}
+
+%\hrulefill
+
+\begin{Large}
+\begin{center}Curve Sketching Example for Worksheet 4.4 (Day 1)\end{center}\end{Large}
+
+Let $k(x) = \frac{x^{3} - 1}{x^{3}+1}$. To carefully sketch $k$, we need to clearly  indicate all the important features of the function, including: its domain, the $y$-intercept ($x$-intercepts if they're easy to compute), intervals on which the function is increasing and decreasing, local maxima and minima, intervals where the function is concave up and concave down, inflection points, horizontal asymptotes and vertical asymptotes.
+
+\begin{description}
+\item[Domain of $k(x)$]
+
+We need to determine if there are any $x$-values where $k(x)$ is not defined. In particular, are there any values where the denominator is zero? Note that 
+\begin{align*}
+x^{3}+1 &= 0 &\implies\\
+x^{3} &= -1 & \implies \\
+x &= -1.
+\end{align*}
+So $x = -1$ is not in the domain, so the domain is $(-\infty, -1) \cup (-1, \infty)$.
+
+\item[$x$-intercept]
+
+We need to find the $x$-value where $k(x) = 0$. So we solve
+\begin{align*}
+\frac{x^{3} - 1}{x^{3}+1} &= 0 & \implies \\
+x^{3} - 1 &= 0 & \implies \\
+x &= 1
+\end{align*}
+%
+\item[$y$-intercept] 
+
+We need to find the $y$-value when $x = 0$. So, we need $k(0)$. But $$k(0) = \frac{0^{3} - 1}{0^{3}+1} = -1.$$
+
+\item[Vertical Asymptotes]
+
+We are interested in whether there are any numbers $a$ where $\lim\limits_{x\to a}k(x) = \pm \infty$. The places where this might happen are places where the denominator goes to 0. So we can check the behavior, from the left and the right, as $x \to -1$:
+%
+\begin{align*}
+\lim\limits_{x\to -1^{-}} k(x) &= \infty \\
+\lim\limits_{x\to -1^{+}} k(x) &= -\infty
+\end{align*}
+So $x = -1$ is a vertical asymptote, and we know how the function behaves near it.
+
+(Check: $k(-1.01) = 667$, $k(-.999) = -666.334$)
+
+\item[Critical Points/Maxima/Minima/Increasing/Decreasing]
+
+We need to consider information about the first derivative. 
+
+$$k'(x)=\frac{6 x^2}{\left(x^3+1\right)^2}.$$
+
+To find the critical points, solve 
+\begin{align*}
+k'(x) &= 0 & \implies \\
+\frac{6 x^2}{\left(x^3+1\right)^2} & = 0 & \implies
+6 x^{2} & = 0 & \implies
+x &= 0.
+\end{align*}
+So $x = 0$ is a critical point. Also, since $k'(x)$ is not defined at $-1$, $-1$ is also a critical point.
+
+We need to fill in a chart. The computations are below.
+\begin{center}
+\begin{tabular}{c | c | c | c |c}
+$x < -1$ & -1 & $-1 < x < 0$ & 0 & $x > 0$ \\
+\hline
++& undefined &+ &0 & +
+\end{tabular}
+\end{center}
+%
+\begin{align*}
+k'(-2) &=  \frac{24}{49} >0 \\
+k'(-\frac{1}{2}) &= \frac{96}{49} >0\\
+k'(1) &= \frac{3}{2} >0 \\
+\end{align*}
+%
+So our conclusion is $k$ is always increasing and has no local maxima or minima.
+
+\item[Concave Up/Concave Down/Inflection Points]
+
+We need to consider information about the second derivative:
+$$k''(x) = \frac{12 x-24 x^4}{\left(x^3+1\right)^3}.$$
+
+Critical points for the second derivative (possible inflection points and points to consider): we need where $k''(x) = 0$ and where $k''(x)$ is undefined. So we solve:
+%
+\begin{align*}
+k''(x)&=0 & \implies \\
+\frac{12 x-24 x^4}{\left(x^3+1\right)^3} &=0 & \implies\\
+12 x-24 x^4 &= 0 & \implies \\
+12x(1 - 2x^{3}) &= 0 & \implies \\
+x = 0 \qquad  &\text{or} \qquad x=\sqrt[3]{\frac{1}{2}} \approx .79
+\end{align*}
+%
+So the critical points for the second derivative are $x = -1$, $x = 0$, $x = \sqrt[3]{\frac{1}{2}}$.
+
+Again, we fill in a chart (supporting calculations below):
+\begin{center}
+\begin{tabular}{c | c | c | c | c | c | c | c}
+$x < -1$ & $-1$ & $-1 < x < 0$ & 0 & $0 < x < \sqrt[3]{\frac{1}{2}}$ &$\sqrt[3]{\frac{1}{2}}$ & $x > \sqrt[3]{\frac{1}{2}}$ \\ \hline
+ + & undefined & $-$ & 0 & + & 0 &$ -$\\
+  \end{tabular}
+  \end{center}
+
+\begin{align*}
+k''(-2) &= \frac{408}{343} >0 \\
+k''(-\frac{1}{2})&= -\frac{3840}{343} <0 \\
+k''(\frac{1}{2})&=\frac{256}{81} >0\\
+k''(1) &=  -\frac{3}{2} < 0\\
+\end{align*}  
+%  
+  Therefore, $k$ is concave up on $(-\infty, -1)$ and $(0, \sqrt[3]{\frac{1}{2}})$ and concave down on $(-1, 0)$ and $(\sqrt[3]{\frac{1}{2}}, \infty)$. Since we define an inflection point to be a place where $k$ changes concavity, $x = -1$, $x = 0$, and $x = \sqrt[3]{\frac{1}{2}}$ are all inflection points. But $x = -1$ is not in the domain, so we won't list it as an inflection point. So our inflection points are $x= 0$ and $x = \sqrt[3]{\frac{1}{2}}$.
+  
+  \item[Horizontal asymptotes]
+  
+  We need to consider the behavior of the function as $x \to \infty$, $x \to -\infty$.
+  %
+  \begin{align*}
+  \lim\limits_{x\to \infty} k(x) &=  \lim\limits_{x\to \infty}  \frac{x^{3} - 1}{x^{3}+1}\\
+  &= \lim\limits_{x\to \infty }\frac{1 - \frac{1}{x^{3}}}{1+\frac{1}{x^{3}}} \\
+  &= 1.
+  \end{align*}
+  %
+  Similarly, $$\lim\limits_{x\to -\infty} k(x) = 1.$$
+  
+  So $y = 1$ is a horizontal asymptote.
+  
+  \end{description}
+ % \newpage
+  
+  
+   We now can sketch. 
+    
+  Summary of info:
+  \begin{itemize}
+  \item Domain: $(-\infty, -1) \cup (-1, \infty)$.
+  \item $x$-intercept: $x = 1$
+  \item $y$-intercept: $y = -1$
+\item Vertical Asymptotes: the line $x = -1$; as $x \to -1^{-}$, $k(x)\to \infty$; as $x \to -1^{+}$, $k(x) \to -\infty$ 
+\item No maxima, minima
+\item Always increasing
+\item Concave Up: $(-\infty, -1)$ and $(0, \sqrt[3]{\frac{1}{2}})$
+\item concave down on $(-1, 0)$ and $(\sqrt[3]{\frac{1}{2}}, \infty)$
+\item Inflection points: $x = 0$, and $x = \sqrt[3]{\frac{1}{2}}$ (and concavity change at $x = -1$).
+\item Horizontal asymptote: $y = 1$
+\end{itemize}
+
+\begin{center}
+\includegraphics{ExampleSketch.pdf}
+\end{center}
+
+% \begin{tikzpicture}
+%\begin{axis}[scale=1.1, my style, xtick={-1,0,...,8}, ytick={-1,0,...,6},
+%xmin=0, xmax=7, ymin=-1, ymax=7, grid=both, minor y tick num=1,
+%        minor x tick num=1, mark size=3.0pt]
+%\addplot[domain=0:2,ultra thick] { (6-2)/(0-2)*(x-0)+6};
+%\addplot[domain=2:4, ultra thick] {-2*(x-2)*(x-4)+2};
+%%\addplot[domain=4:6, ultra thick] {2.+(x-4)^{2}};
+%\addplot[domain=4:6, ultra thick] {2+.75*(x-4)^2};
+%\addplot[domain=6:8, ultra thick] {(5-3)/(6-8)*(x-6)+5};
+%\addplot[mark=*,only marks] coordinates {(0,6)(8,3)(6,3.5)};
+%\addplot[mark=*,fill=white,only marks] coordinates {(6,5)};
+%\end{axis}
+%\end{tikzpicture}
+
+
+
+ \end{document} 

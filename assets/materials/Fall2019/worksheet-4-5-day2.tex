@@ -1,0 +1,171 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx, pgfplots} 
+\usepackage[all]{xy}
+\usepackage{polynom,tabularx} 
+%\usepackage{pdfsync} %% I don't know why this messes up tabular column widths
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+
+\usepackage[parfill]{parskip}
+\usetikzlibrary{arrows}
+
+\usetikzlibrary{calc}
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=blue,only marks,mark=*}} \pgfplotsset{holdot/.style={color=blue,fill=white,only marks,mark=*}}
+
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\renewcommand{\d}{\displaystyle}
+
+\newcommand{\ans}[1][2]{ \ \rule{#1 in}{.5 pt} \ }
+
+
+\pagestyle{fancy} 
+%\lfoot{Uses a calculator}
+\rfoot{Section 4-5 (day 2)}
+
+\begin{document}
+\begin{center}
+  \Large\sc{Section 4.5 Curve Sketching (Day 2)}\\
+\end{center}
+
+\begin{enumerate}
+\item Follow the guidelines from the previous worksheet
+ to sketch the graph of
+\[
+f(x)= \frac{2}{x}+\ln(x). \hfill (\text{Note: } f'(x)=\frac{x-2}{x^2} \text{  and } f''(x)=\frac{4-x}{x^3})
+\]
+
+\begin{enumerate}
+\item What is the function's domain?
+\vfill
+\item Does this function have any symmetry?
+\vfill
+\item Find a few choice values of $x$ to evaluate the function at.
+\vfill
+\item What behaviour occurs for this function at $\pm \infty$?
+\vfill
+\item Does the function have any vertical asymptotes?  Where?
+\vfill
+\item Find intervals where $f$ is increasing/decreasing and 
+identify critical points.
+\vskip 0pt plus 3fill
+\newpage
+\item Classify each critical point as a local min/max/neither.
+\vskip 1in
+\item Find intervals where $f$ is concave up/concave down and identify
+points of inflection
+\vfill
+\item Sketch the graph of the function
+\vfill
+\newpage
+\end{enumerate}
+
+\newpage
+\item Follow the guidelines from the previous worksheet
+ to sketch the graph of
+\[
+f(x)=x\sqrt{4-x^2}.  \hfill (\text{Note: } f'(x)=\frac{2(2-x^2)}{\sqrt{4-x^2}} \text{  and } f''(x)=\frac{-2x^3}{(4-x^2)^{3/2}})
+\]
+\begin{enumerate}
+\item What is the function's domain?
+\vfill
+\item Does this function have any symmetry?
+\vfill
+\item Find a few choice values of $x$ to evaluate the function at.
+\vfill
+\item What behaviour occurs for this function at $\pm \infty$?
+\vfill
+\item Does the function have any vertical asymptotes?  Where?
+\vfill
+\item Find intervals where $f$ is increasing/decreasing and 
+identify critical points.
+\vskip 0pt plus 3fill
+\newpage
+\item Classify each critical point as a local min/max/neither.
+\vskip 1in
+\item Find intervals where $f$ is concave up/concave down and identify
+points of inflection
+\vfill
+\item Sketch the graph of the function
+\vfill
+\newpage
+\end{enumerate}
+
+%\newpage
+%\item Follow the guidelines from the previous worksheet
+% to sketch the graph of
+%\[
+%f(x)=\sin^3(x).
+%\]
+%\begin{enumerate}
+%\item What is the function's domain?
+%\vfill
+%\item Does this function have any symmetry?
+%\vfill
+%\item Find a few choice values of $x$ to evaluate the function at.
+%\vfill
+%\item What behaviour occurs for this function at $\pm \infty$?
+%\vfill
+%\item Does the function have any vertical asymptotes?  Where?
+%\vfill
+%\item Find intervals where $f$ is increasing/decreasing and 
+%identify critical points.
+%\vskip 0pt plus 3fill
+%\newpage
+%\item Classify each critical point as a local min/max/neither.
+%\vskip 1in
+%\item Find intervals where $f$ is concave up/concave down and identify
+%points of inflection
+%\vfill
+%\item Sketch the graph of the function
+%\vfill
+%\newpage
+%\end{enumerate}
+
+\newpage
+\item Follow the guidelines from the previous worksheet
+ to sketch the graph of
+\[
+f(x)=\frac x{\sqrt{9+x^2}}.  \hfill (\text{Note: } f'(x)=\frac{9}{(9+x^2)^{3/2}} \text{  and } f''(x)=\frac{-27x}{(9+x^2)^{5/2}})
+\]
+\begin{enumerate}
+\item What is the function's domain?
+\vfill
+\item Does this function have any symmetry?
+\vfill
+\item Find a few choice values of $x$ to evaluate the function at.
+\vfill
+\item What behaviour occurs for this function at $\pm \infty$?
+\vfill
+\item Does the function have any vertical asymptotes?  Where?
+\vfill
+\item Find intervals where $f$ is increasing/decreasing and 
+identify critical points.
+\vskip 0pt plus 3fill
+\newpage
+\item Classify each critical point as a local min/max/neither.
+\vskip 1in
+\item Find intervals where $f$ is concave up/concave down and identify
+points of inflection
+\vfill
+\item Sketch the graph of the function
+\vfill
+\end{enumerate}
+\end{enumerate}
+\end{document}
