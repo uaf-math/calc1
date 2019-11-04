@@ -4,6 +4,16 @@ title: In Class Materials
 ---
 
 ## In Class Materials
+# Week 11
+
+* (Mon Nov 4) **Section 4.7** [worksheet](assets/materials/Fall2019/worksheet-4-7-day1.pdf), [solutions](assets/materials/Fall2019/worksheet-4-7-day1-s.pdf)
+
+* (Wed Nov 6) **Section 4.7** [worksheet](assets/materials/Fall2019/worksheet-4-7-day2.pdf), [solutions](assets/materials/Fall2019/worksheet-4-7-day2-s.pdf)
+
+* (Thurs Nov 7) **Section 4.9** [worksheet](assets/materials/Fall2019/worksheet-4-9.pdf), [solutions](assets/materials/Fall2019/worksheet-4-9-s.pdf)
+
+* (Fri Nov 8) **Review for Midterm II** [worksheet](assets/materials/Fall2019/worksheet-Ch-3-4-Review.pdf), [solutions](assets/materials/Fall2019/worksheet-Ch-3-4-Review-s.pdf)
+
 # Week 10
 
 * (Mon Oct 28) **Section 4.3** [worksheet A ](assets/materials/Fall2019/Worksheet-4-3b.pdf), [solutions A](assets/materials/Fall2019/Worksheet-4-3b-s.pdf), and  [worksheet B ](assets/materials/Fall2019/Worksheet-4-3c.pdf), [solutions B](assets/materials/Fall2019/Worksheet-4-3c-s.pdf)
@@ -12,7 +22,7 @@ title: In Class Materials
 
 * (Thurs Oct 31) **Section 4.5** [worksheet](assets/materials/Fall2019/worksheet-4-5-day1.pdf), [solutions](assets/materials/Fall2019/worksheet-4-5-day1-s.pdf)
 
-* (Fri Nov 1) **Section 4.5** [worksheet](assets/materials/Fall2019/worksheet-4-5-day2.pdf), [solutions](assets/materials/Fall2019/worksheet-4-5b-Sols.pdf)
+* (Fri Nov 1) **Section 4.5** [worksheet day 1 wrap up](assets/materials/Fall2019/worksheet-4-5-day1wrapup.pdf), and [worksheet](assets/materials/Fall2019/worksheet-4-5-day2.pdf), [solutions](assets/materials/Fall2019/Worksheet-4-5b-Sols.pdf)
 
 
 # Week 9
