@@ -22,7 +22,7 @@ title: In Class Materials
 
 * (Thurs Oct 31) **Section 4.5** [worksheet](assets/materials/Fall2019/worksheet-4-5-day1.pdf), [solutions](assets/materials/Fall2019/worksheet-4-5-day1-s.pdf)
 
-* (Fri Nov 1) **Section 4.5** [worksheet day 1 wrap up](assets/materials/Fall2019/worksheet-4-5-day1wrapup.pdf), and [worksheet](assets/materials/Fall2019/worksheet-4-5-day2.pdf), [solutions](assets/materials/Fall2019/Worksheet-4-5b-Sols.pdf)
+* (Fri Nov 1) **Section 4.5** [worksheet day 1 wrap up](assets/materials/Fall2019/worksheet-4-5-day1-wrapup.pdf), and [worksheet](assets/materials/Fall2019/worksheet-4-5-day2.pdf), [solutions](assets/materials/Fall2019/Worksheet-4-5b-Sols.pdf)
 
 
 # Week 9
