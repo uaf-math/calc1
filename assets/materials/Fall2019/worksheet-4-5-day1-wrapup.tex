@@ -1,0 +1,109 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx, pgfplots} 
+\usepackage[all]{xy}
+\usepackage{polynom,tabularx} 
+%\usepackage{pdfsync} %% I don't know why this messes up tabular column widths
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+
+\usepackage[parfill]{parskip}
+\usetikzlibrary{arrows}
+
+\usetikzlibrary{calc}
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=blue,only marks,mark=*}} \pgfplotsset{holdot/.style={color=blue,fill=white,only marks,mark=*}}
+
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\renewcommand{\d}{\displaystyle}
+
+\newcommand{\ans}[1][2]{ \ \rule{#1 in}{.5 pt} \ }
+
+
+\pagestyle{fancy} 
+%\lfoot{Uses a calculator}
+\rfoot{Section 4-5 (day 1)--wrapup}
+
+\begin{document}
+
+\vspace*{-0.7in}
+
+\begin{center}
+  \Large\sc{Section 4.5 Curve Sketching (Day 1)--wrapup}\\
+\end{center}
+%\begin{center}Techniques for carefully sketching functions\end{center}
+
+
+Yesterday's Practice Example: $\d k(x) = \frac{x^{3} - 1}{x^{3}+1}$\\
+
+%NOTE:  \hspace{.5in} $\displaystyle{k'(x) = \frac{6 x^2}{\left(x^3+1\right)^2}}$ and   \hspace{.5in} $\displaystyle{k''(x) = \frac{12 x-24 x^4}{\left(x^3+1\right)^3}}$.\\
+
+ Summary of info:
+  \begin{itemize}
+  \item Domain: $(-\infty, -1) \cup (-1, \infty)$.
+  \item $x$-intercept: $x = 1$
+  \item $y$-intercept: $y = -1$
+\item Vertical Asymptotes: the line $x = -1$; as $x \to -1^{-}$, $k(x)\to \infty$; as $x \to -1^{+}$, $k(x) \to -\infty$ 
+\item No maxima, minima, but the slope of the tangent line to the curve at x = 0 is 0.
+\item Always increasing
+\item concave up on $(-\infty, -1)$ and $(0, \sqrt[3]{\frac{1}{2}})$
+\item concave down on $(-1, 0)$ and $(\sqrt[3]{\frac{1}{2}}, \infty)$
+\item Inflection points: $x = 0$, and $x = \sqrt[3]{\frac{1}{2}}$ (and concavity change at $x = -1$).
+\item Horizontal behavior: %$y = 1$
+
+We need to compute the following (you technically may use L'H, but you do not have to...):
+
+$\d \lim_{x\to \infty} \frac{x^{3} - 1}{x^{3}+1}$ =  \hfill  $\d \lim_{x\to -\infty} \frac{x^{3} - 1}{x^{3}+1}$ = \hspace{.3\textwidth}
+
+\vfill
+We conclude that \hrulefill.
+\end{itemize}
+
+%\begin{center}
+%\includegraphics{ExampleSketch.pdf}
+%\end{center}
+Now sketch. Label all asymptotes with their kind and their equation. Label all maxima, minima (there are none in this case) and inflection points. Label all areas of concave up (CU) and concave down (CD).
+%\vfill
+
+\bigskip
+
+\begin{center}
+ \begin{tikzpicture}[xscale=2.7]
+%\begin{axis}[scale=1.1, my style, xtick={-1,0,...,8}, ytick={-1,0,...,6},
+%xmin=0, xmax=7, ymin=-1, ymax=7, grid=both, minor y tick num=1,
+ %       minor x tick num=1, mark size=3.0pt]
+%\addplot[domain=0:2,ultra thick] { (6-2)/(0-2)*(x-0)+6};
+%\addplot[domain=2:4, ultra thick] {-2*(x-2)*(x-4)+2};
+%\addplot[domain=4:6, ultra thick] {2.+(x-4)^{2}};
+%\addplot[domain=4:6, ultra thick] {2+.75*(x-4)^2};
+%\addplot[domain=6:8, ultra thick] {(5-3)/(6-8)*(x-6)+5};
+%\addplot[mark=*,only marks] coordinates {(0,6)(8,3)(6,3.5)};
+%\addplot[mark=*,fill=white,only marks] coordinates {(6,5)};
+%\end{axis}
+\draw[<->](-3,0) -- (3,0);
+\draw[<->] (0,-3.5) -- (0,2.5);
+\foreach \i in {-1,1}{\draw (\i, .1) -- (\i,-.1) node[below]{$\i$};};
+%\draw (0,0) node[below left]{0};
+\draw (.79, -.1) -- (.79, .1) node[above]{$\sqrt[3]{\frac{1}{2}}$};
+\draw (-.05,-1) -- (.05,-1) node[ right]{-1};
+\draw (-.05,1) -- (.05,1) node[ right]{1};
+
+\end{tikzpicture}
+\end{center}
+
+\end{document}
