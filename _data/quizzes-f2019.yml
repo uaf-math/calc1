@@ -52,4 +52,20 @@ quizzes:
       - name: Version 2
         blank: M251F19_Quiz-5-v2.pdf
         solutions: M251F19_Quiz-5-v2-s.pdf
+  - name: Quiz 6
+    versions:
+      - name: Version 1
+        blank: M251F19_Quiz-6.pdf
+        solutions: M251F19_Quiz-6-s.pdf
+      - name: Version 2
+        blank: M251F19_Quiz-6-v2.pdf
+        solutions: M251F19_Quiz-6-v2-s.pdf
+  - name: Quiz 7
+    versions:
+      - name: Version 1
+        blank: M251F19_Quiz-7-v1.pdf
+        solutions: M251F19_Quiz-7-v1-s.pdf
+      - name: Version 2
+        blank: M251F19_Quiz-7-v2.pdf
+        solutions: M251F19_Quiz-7-v2-s.pdf
   
