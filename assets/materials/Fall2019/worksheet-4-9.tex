@@ -1,0 +1,101 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx, pgfplots} 
+\usepackage[all]{xy}
+\usepackage{polynom,tabularx, setspace} 
+%\usepackage{pdfsync} %% I don't know why this messes up tabular column widths
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+
+\usepackage[parfill]{parskip}
+\usetikzlibrary{arrows}
+\def\ds{\displaystyle}
+\usetikzlibrary{calc}
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=blue,only marks,mark=*}} \pgfplotsset{holdot/.style={color=blue,fill=white,only marks,mark=*}}
+
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\renewcommand{\d}{\displaystyle}
+
+\newcommand{\ans}[1][2]{ \ \rule{#1 in}{.5 pt} \ }
+
+
+\pagestyle{fancy} 
+%\lfoot{Uses a calculator}
+\rfoot{Section 4-9}
+
+\begin{document}
+
+\begin{center}
+  \Large\sc{Section 4.9 Antiderivatives}\\
+\end{center}
+
+%\vspace*{-0.7in}
+
+\begin{enumerate}
+\item Find a particular antiderivative of $f(x)=9+x-x^2.$
+\vfill
+\item Find all antiderivatives of $f(x)=9+x-x^2.$
+\vfill
+\item Find an antiderivative of $f(x)=\frac{1}{x^2}.$
+\vfill
+\item To find \emph{all} antiderivatives of a function $f(x)$, do you always just add a $+C$?
+\vfill
+\item For each of the following functions, find a particular antiderivative.
+
+\doublespacing
+\begin{tabular}{|c|c|}\hline
+Function & Antiderivative \\ \hline
+$\ds x$ & \\ \hline
+$\ds x^2$ &\\ \hline
+$\ds x^3$ &\\ \hline
+$\ds x^k$ ($k\neq -1$) &\\  \hline
+$\ds x^{-1}$ for $x>0$&\\ \hline
+$\ds x^{-1}$ for $x<0$&\\ \hline
+$\ds x^{-1}$ for all $x$&\\ \hline
+\end{tabular}
+\quad
+\begin{tabular}{|c|c|}\hline
+Function & Antiderivative \\ \hline
+$\ds \sin(x)$ & \\ \hline
+$\ds \cos(x)$ &\\ \hline
+$\ds e^x$ &\\ \hline
+$\ds 1/(1+x^2)$  &\\ \hline
+$\ds \sec^2(x)$ &\\ \hline
+$\ds \sec(x)\tan(x)$ &\\ \hline
+$\ds 1$ &\\ \hline
+\end{tabular}
+\singlespacing
+\newpage
+\item Compute an antiderivative of $f(x) = 15 x^{20} + 44 x^{10} + 8$
+\vfill
+\item Compute an antiderivative of $\ds f(t) = \frac{5\sec t \tan t}{3} - 4 \sin t -\frac{1}{t}+e^2$
+\vfill
+
+\item Compute an antiderivative of $f(x)=\cos(3x)$.
+\vfill
+
+
+\item Compute the antiderivative of $f(t)=t^2$ that equals $5$ when $t=2$.
+\vfill
+
+
+\end{enumerate}
+
+
+\end{document}
