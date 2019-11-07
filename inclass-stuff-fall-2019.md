@@ -8,7 +8,7 @@ title: In Class Materials
 
 * (Mon Nov 4) **Section 4.7** [worksheet](assets/materials/Fall2019/worksheet-4-7-day1.pdf), [solutions](assets/materials/Fall2019/worksheet-4-7-day1-s.pdf)
 
-* (Wed Nov 6) **Section 4.7** [worksheet](assets/materials/Fall2019/worksheet-4-7-day2.pdf), [solutions](assets/materials/Fall2019/worksheet-4-7-day2-s.pdf)
+* (Wed Nov 6) **Section 4.7** [worksheet](assets/materials/Fall2019/worksheet-4-7-day2-moreSpace.pdf), [solutions](assets/materials/Fall2019/worksheet-4-7-day2-s.pdf)
 
 * (Thurs Nov 7) **Section 4.9** [worksheet](assets/materials/Fall2019/worksheet-4-9.pdf), [solutions](assets/materials/Fall2019/worksheet-4-9-s.pdf)
 
