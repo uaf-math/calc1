@@ -12,7 +12,7 @@ title: In Class Materials
 
 * (Thurs Nov 7) **Section 4.9** [worksheet](assets/materials/Fall2019/worksheet-4-9.pdf), [solutions](assets/materials/Fall2019/worksheet-4-9-s.pdf)
 
-* (Fri Nov 8) **Review for Midterm II** [worksheet](assets/materials/Fall2019/worksheet-Ch-3-4-Review.pdf), [solutions](assets/materials/Fall2019/worksheet-Ch-3-4-Review-s.pdf)
+* (Fri Nov 8) **Review for Midterm II** [worksheet](assets/materials/Fall2019/Ch_3-and-4_Review-in-class.pdf), [solutions](assets/materials/Fall2019/Ch_3-and-4_Review-in-class-s.pdf)
 
 # Week 10
 
