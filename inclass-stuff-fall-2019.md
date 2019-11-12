@@ -10,11 +10,11 @@ title: In Class Materials
 
 * (Tues Nov 12) **Recitation** [worksheet](assets/materials/Fall2019/Worksheet-Ch3-Ch4-review-recitation.pdf), [solutions](assets/materials/Fall2019/Worksheet-Ch3-Ch4-review-recitation-s.pdf)
 
-* (Wed Nov 6) **Midterm II** 
+* (Wed Nov 13) **Midterm II** 
 
-* (Thurs Nov 7) **Section 5.1 & 5.2** [worksheet](), [solutions]()
+* (Thurs Nov 14) **Section 5.1 & 5.2** [worksheet](), [solutions]()
 
-* (Fri Nov 8) **Section 5.2** [worksheet](), [solutions]()
+* (Fri Nov 15) **Section 5.2** [worksheet](), [solutions]()
 
 # Week 11
 
