@@ -4,6 +4,18 @@ title: In Class Materials
 ---
 
 ## In Class Materials
+# Week 12
+
+* (Mon Nov 11) **Section 5.1** [worksheet (Berman)](assets/materials/Fall2019/Worksheet-5-1.pdf), [solutions (Berman)](assets/materials/Fall2019/Worksheet-5-1-s.pdf);  [worksheet (Faudree)](assets/materials/Fall2019/Worksheet-5-1-alt.pdf), [solutions (Faudree)](assets/materials/Fall2019/Worksheet-5-1-s-alt.pdf)
+
+* (Tues Nov 12) **Recitation** [worksheet] (assets/materials/Fall2019/Ch_3-and-4_Review-in-class.pdf), [solutions](assets/materials/Fall2019/Ch_3-and-4_Review-in-class-s.pdf)
+
+* (Wed Nov 6) **Midterm II** 
+
+* (Thurs Nov 7) **Section 5.1 & 5.2** [worksheet](), [solutions]()
+
+* (Fri Nov 8) **Section 5.2** [worksheet](), [solutions]()
+
 # Week 11
 
 * (Mon Nov 4) **Section 4.7** [worksheet](assets/materials/Fall2019/worksheet-4-7-day1.pdf), [solutions](assets/materials/Fall2019/worksheet-4-7-day1-s.pdf)
