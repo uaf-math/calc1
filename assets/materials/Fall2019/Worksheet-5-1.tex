@@ -1,0 +1,225 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+\usepackage{pdfsync}
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace, adjustbox}
+\usepackage{array%,tikz, pgfplots
+}
+
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+%\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+%middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+%
+\pagestyle{fancy} 
+\lfoot{UAF Calculus I}
+\rfoot{5-1}
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\newcommand{\bi}{\begin{itemize}}
+\newcommand{\ei}{\end{itemize}}
+\def\ds{\displaystyle}
+\begin{document}
+\setlength{\parindent}{0cm}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\renewcommand{\d}{\displaystyle}
+\vspace*{-0.7in}
+\begin{center}
+ {\large{ \sc{Section 5.1: Area under a Curve}}}
+ \end{center}
+
+\begin{center}
+\fbox{{\large {\bf Approximating the area under a curve}}}
+\end{center}
+
+Below is a piece of the graph of $y=x^2$. We wish to estimate the area under the curve bounded between the $x$-axis, $x = 0$, $x = 1$, and the curve.
+
+\begin{center}
+ \begin{tikzpicture}
+\begin{axis}[scale=1,  xtick={.125, .25, ..., 1}, ytick={0,.2, .4, .6, .8, 1},xticklabels={$\frac{1}{8}$, $\frac{1}{4}$, $\frac{3}{8}$, $\frac{1}{2}$, $\frac{5}{8}$, $\frac{3}{4}$, $\frac{7}{8}$, $1$}, 
+xmin=0, xmax=1, ymin=0, ymax=1, grid=both, minor y tick num=0,
+        minor x tick num=0, mark size=3.0pt,  major grid style={line width=.5pt,draw=black}]
+\addplot[domain=0:1,ultra thick]{x*x};
+\end{axis}
+\end{tikzpicture}
+%
+\hspace{2cm} 
+%
+\begin{tikzpicture}[scale = 4]
+\draw[fill = gray!50] (0,0) rectangle (.25, .25*.25);
+\draw[fill = gray!50] (.25,0) rectangle (.5, .5*.5);
+\draw[fill = gray!50] (.5,0) rectangle (.75, .75*.75);
+\draw[fill = gray!50] (.75,0) rectangle (1, 1);
+\draw[step = .125] (0,0) grid (1,1);
+\draw[ultra thick] (0,0) parabola (1,1);
+\end{tikzpicture}
+\end{center}
+%
+
+
+\be
+\item Slice up the axis between $x = 0$ and $x = 1$ into 4 evenly spaced slices. Use the right-hand edge of the slice to construct rectangles whose height is the height of the function at the right-hand edge (i.e., you are using the {\sc right-hand endpoint} of the slice to construct the rectangle). Actually draw the rectangles on the above graph! Your picture should look something like the right hand smaller figure.
+%\begin{figure}[ht]
+%\begin{center}
+%\includegraphics{AreaUnderCurveGraph2}
+%\end{center}
+%\end{figure}
+%
+Compute the area of each rectangle: {\bf Make sure to use the height of the rectangle determined from the function:} don't estimate it from the graph! (For example, the height of the first rectangle is $(1/4)^2 = 1/16$)
+
+Area of rectangle 1:
+\vfill
+
+Area of rectangle 2:
+\vfill
+
+Area of rectangle 3:
+\vfill
+
+Area of rectangle 4:
+\vfill
+
+Total area of the rectangles: 
+\vfill
+
+Is your estimated area bigger or smaller than the total area under the curve? Why?
+\vfill
+
+\newpage
+\begin{adjustbox}{valign=t,minipage={.45\textwidth}}
+
+\item Now slice up the area under the curve into four equally-spaced slices. Draw in 4 rectangles and use the {\sc left-hand endpoint} of each slice to determine the height of the rectangle. Compute the area of each rectangle.
+
+\end{adjustbox}
+\begin{adjustbox}{valign=t,minipage={.45\textwidth}}
+
+\begin{center}
+ \begin{tikzpicture}
+\begin{axis}[scale=.9,  xtick={.125, .25, ..., 1}, ytick={0,.2, .4, .6, .8, 1},xticklabels={$\frac{1}{8}$, $\frac{1}{4}$, $\frac{3}{8}$, $\frac{1}{2}$, $\frac{5}{8}$, $\frac{3}{4}$, $\frac{7}{8}$, $1$}, 
+xmin=0, xmax=1, ymin=0, ymax=1, grid=both, minor y tick num=0,
+        minor x tick num=0, mark size=3.0pt,  major grid style={line width=.5pt,draw=black}]
+\addplot[domain=0:1,ultra thick]{x*x};
+\end{axis}
+\end{tikzpicture}
+\end{center}
+%\begin{figure}[ht]
+%\begin{center}
+%\includegraphics{AreaUnderCurveGraph}
+%\end{center}
+%\end{figure}
+\end{adjustbox}
+
+Determine the total area of the rectangles (use the function to determine the height, not the graph!):
+
+\vspace{1in}
+
+Is this an overestimation or an underestimation? Why?
+\vfill
+
+%\newpage
+\begin{adjustbox}{valign=t,minipage={.45\textwidth}}
+
+\item Now slice up the segment between $x = 0$ and $x = 1$ into four equal pieces. Using the {\sc midpoint} of each piece to determine the height of each rectangle, draw in four rectangles, and determine the area of each rectangle (use the function to determine the heights, not the picture!).
+\end{adjustbox}
+%\begin{figure}[ht]
+%\begin{center}
+%\includegraphics{AreaUnderCurveGraph}
+%\end{center}
+%\end{figure}
+\begin{adjustbox}{valign=t,minipage={.45\textwidth}}
+\begin{center}
+ \begin{tikzpicture}
+\begin{axis}[scale=.9,  xtick={.125, .25, ..., 1}, ytick={0,.2, .4, .6, .8, 1},xticklabels={$\frac{1}{8}$, $\frac{1}{4}$, $\frac{3}{8}$, $\frac{1}{2}$, $\frac{5}{8}$, $\frac{3}{4}$, $\frac{7}{8}$, $1$}, 
+xmin=0, xmax=1, ymin=0, ymax=1, grid=both, minor y tick num=0,
+        minor x tick num=0, mark size=3.0pt,  major grid style={line width=.5pt,draw=black}]
+\addplot[domain=0:1,ultra thick]{x*x};
+\end{axis}
+\end{tikzpicture}
+\end{center}
+\end{adjustbox}
+
+Determine the total area of the rectangles (use the function to determine the heights, not the picture!):
+
+\vspace{.75in}
+
+What do you think: based on your rectangles, is this an overestimation or an underestimation? (The other two rectangle types should have been obvious; this one is considerably more subtle. Make some sort of argument in favor of one choice or the other.)
+%\vfill
+\vspace{.75in}
+
+\newpage
+
+\begin{center}
+\fbox{{\bf Better area approximations}}
+\end{center}
+
+\begin{adjustbox}{valign=t,minipage={.45\textwidth}}
+
+\item Now we want to try to get a better estimation for the area. This time draw in 8 rectangles, using the {\sc right-hand endpoint} to construct each rectangle.
+
+\end{adjustbox}
+\begin{adjustbox}{valign=t,minipage={.45\textwidth}}
+\begin{center}
+ \begin{tikzpicture}
+\begin{axis}[scale=.8,  xtick={.125, .25, ..., 1}, ytick={0,.2, .4, .6, .8, 1},xticklabels={$\frac{1}{8}$, $\frac{1}{4}$, $\frac{3}{8}$, $\frac{1}{2}$, $\frac{5}{8}$, $\frac{3}{4}$, $\frac{7}{8}$, $1$}, 
+xmin=0, xmax=1, ymin=0, ymax=1, grid=both, minor y tick num=0,
+        minor x tick num=0, mark size=3.0pt,  major grid style={line width=.5pt,draw=black}]
+\addplot[domain=0:1,ultra thick]{x*x};
+\end{axis}
+\end{tikzpicture}
+\end{center}
+\end{adjustbox}
+
+Write down a calculation (you don't have to actually do the computation) to determine the area of the 8 rectangles. Is this area a more accurate estimation of the area under the curve than when you used 4 rectangles? Why?
+\vfill
+
+\item Suppose you had $n$ equally-spaced rectangles, labelled $1, 2, \ldots, i, \ldots, n$, constructed between $x = 0$ and $x = 1$ (like the 8 above, only this time with $n$).  If they were constructed using the right-hand endpoint, what is the height of rectangle $i$? What is the width?
+\bigskip
+
+width of rectangle $i$ \hrulefill
+
+
+
+\bigskip
+
+height of rectangle $i$ \hrulefill
+
+\bigskip
+
+
+area of rectangle $i$ \hrulefill
+
+\bigskip
+
+Write down a computation giving the total area of the $n$ rectangles, and simplify it as much as possible. (Since you don't know what $n$ is, you can't write all $n$ terms, so use $\ldots$ to indicate the ones you don't write down.)
+\vfill
+\vfill
+
+\newpage
+\item It is a fact that \(1^2 + 2^2 + 3^2 + \ldots + (n-1)^2 + n^2 = \frac{n(n+1)(2n+1)}{6}.\) Use this fact to rewrite the total area of $n$ rectangles. Simplify your answer.
+
+\vfill
+
+\vfill
+\item Write down a statement involving limits which uses right-hand rectangles and gives ``the best'' approximation of the area under the curve (you should use what you have previously figured out!) (You will get better and better approximations as $n$ gets bigger and bigger (so you have more, skinnier, rectangles). How can you translate this into a statement about limits?)
+\vfill
+
+\item Compute the limit. We are actually going to define the area under the curve to {\bf be} that limit, so the value you have computed \emph{is} the area under the curve. Of the three approximations of the area under the curve using 4 rectangles (left-hand endpoint, right-hand endpoint, midpoint), which gave the best approximation?
+\vfill 
+\vfill
+\vfill
+
+\end{enumerate}
+
+\end{document}
+ \end
+
