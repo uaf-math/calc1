@@ -1,0 +1,161 @@
+
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1.0in, bottom=0.75in, left=1in, right=1in, headheight=1.0in, headsep=0pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{adjustbox}
+
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{\emph{\@doctitle\hfill\@docdate}
+\ifnum \value{page} > 1\relax\else\\
+\emph{Name: \rule{3.5in}{1pt}\hfill \@docscoring}
+\\
+%\emph{Circle one: \quad Rhodes (F01) \hskip 1ex\rule{1pt}{9pt}\hskip 1ex Bueler (F02)}
+\fi}
+
+\rfoot{\emph{\@docversion}}
+\lfoot{\emph{\@doccourse}}
+\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} to
+% start a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+
+\newcommand{\ans}[1][2]{ \ \rule{#1 in}{.5 pt} \ }
+
+
+\doctitle{Math 251: Quiz 8}
+\docdate{November 5, 2019}
+\doccourse{UAF Calculus I}
+\docversion{v-2}
+\docscoring{{\Large \strut}\blank{0.8in} / 25}
+
+\begin{document}
+25 points possible.  No aids (book, calculator, etc.) are permitted.  You need not simplify, but show all work and use proper notation for full credit.
+
+% Typical 4.3 or 4.5 problem
+\problem{9}  The function $j(x)$ and its first two derivatives are given below. Use them to answer parts (a)-(d).\\
+$$\ds{j(x)=\frac{(x+1)^2}{x^2+2}, \hspace{.5in}j'(x)=\frac{-2(x-2)(x+1)}{(x^2+2)^2}, \hspace{.5in}j''(x)=\frac{2(2x^3-3x^2-12x+2)}{(x^2+2)^3}}$$ 
+\begin{subproblems}
+	
+	\item Does $j(x)$ have any vertical asymptotes? Justify your answer.
+	\vfill
+	\item Does $j(x)$ have any horizontal asymptotes? Justify your answer.
+	\vfill
+	\item Determine the intervals on which $j(x)$ is increasing or decreasing. Show your work to receive credit.
+	\vspace{1.5in}
+	\item Identify where $j(x)$ has any local minimums or local maximums.
+	\vfill
+\end{subproblems}
+
+% like 4.1 #48
+\problem{8} Find the limit.
+	\begin{subproblems}
+	\item $\ds{\lim_{t \to 0}\frac{e^{13t}-1}{\sin(4t)}}$
+	\vfill
+	\newpage
+	\item $\ds{\lim_{x \to 0^+}\left(\frac{1}{x}-\frac{1}{e^{x}-1}\right)}$
+	\vfill
+	\end{subproblems}
+    
+
+
+\problem{8} On the axes below, sketch the graph of a function that satisfies \emph{all} of the given conditions. Label on your sketch any local maximums, any local minimums, and any inflection points.
+	\begin{subproblems}
+	\item $k(x)$ is continuous and differentiable for all real numbers.
+	\item $k(0)=2$
+	\item The table below gives information about the sign of first derivative of $k(x).$
+	\begin{center}
+	\begin{tabular}{c || c | c | c | c | c }
+	$x$ & $-\infty < x < -2$ & $x=-2$ & $-2 < x < 1$& $x=1$& $1 < x < \infty$ \\
+	\hline
+	$k'(x)$& $+$ & 0 & $-$ & $0$ & $-$ \\
+	\end{tabular}
+	\end{center}
+	\item The table below gives information about the sign of second derivative of $k(x).$
+	\begin{center}
+	\begin{tabular}{c || c | c | c | c | c }
+	$x$ & $-\infty < x < 0$ & $x=0$ & $0 < x < 0$& $x=1$& $1 < x < \infty$ \\
+	\hline
+	$k''(x)$& $-$ & 0 & $+$ & $0$ & $-$ \\
+	\end{tabular}
+	\end{center}
+	\begin{tikzpicture}{scale=.7}
+	\draw (-5,0) -- (5,0); \draw (0,-3) -- (0,5); 
+	\foreach \i in {-2,2}{ \draw (\i,-.2) -- (\i, .2); \node at (\i,-0.4){\i};}
+	\draw (-0.2,2) -- (0.2,2); \node at (-0.4,2){2};
+	\end{tikzpicture}
+	\end{subproblems}
+\end{document}
