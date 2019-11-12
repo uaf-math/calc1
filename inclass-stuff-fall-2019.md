@@ -8,7 +8,7 @@ title: In Class Materials
 
 * (Mon Nov 11) **Section 5.1** [worksheet (Berman)](assets/materials/Fall2019/Worksheet-5-1.pdf), [solutions (Berman)](assets/materials/Fall2019/Worksheet-5-1-s.pdf);  [worksheet (Faudree)](assets/materials/Fall2019/Worksheet-5-1-alt.pdf), [solutions (Faudree)](assets/materials/Fall2019/Worksheet-5-1-s-alt.pdf)
 
-* (Tues Nov 12) **Recitation** [worksheet] (assets/materials/Fall2019/Ch_3-and-4_Review-in-class.pdf), [solutions](assets/materials/Fall2019/Ch_3-and-4_Review-in-class-s.pdf)
+* (Tues Nov 12) **Recitation** [worksheet](assets/materials/Fall2019/Worksheet-Ch3-Ch4-review-recitation.pdf), [solutions](assets/materials/Fall2019/Worksheet-Ch3-Ch4-review-recitation-s.pdf)
 
 * (Wed Nov 6) **Midterm II** 
 
