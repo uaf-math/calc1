@@ -17,13 +17,13 @@ title: In Class Materials
 
 # Week 12
 
-* (Mon Nov 11) **Section 5.1** [worksheet (Berman)](assets/materials/Fall2019/Worksheet-5-1.pdf), [solutions (Berman)](assets/materials/Fall2019/Worksheet-5-1-s.pdf);  [worksheet (Faudree)](assets/materials/Fall2019/Worksheet-5-1-alt.pdf), [solutions (Faudree)](assets/materials/Fall2019/Worksheet-5-1-s-alt.pdf)
+* (Mon Nov 11) **Section 5.1** [worksheet (Berman)](assets/materials/Fall2019/Worksheet-5-1.pdf), [solutions (Berman)](assets/materials/Fall2019/Worksheet-5-1-s.pdf);  [worksheet (Faudree)](assets/materials/Fall2019/Worksheet-5-1-alt.pdf), [solutions (Faudree)](assets/materials/Fall2019/Worksheet-5-1-alt-s.pdf)
 
 * (Tues Nov 12) **Recitation** [worksheet](assets/materials/Fall2019/Worksheet-Ch3-Ch4-review-recitation.pdf), [solutions](assets/materials/Fall2019/Worksheet-Ch3-Ch4-review-recitation-s.pdf)
 
 * (Wed Nov 13) **Midterm II** 
 
-* (Thurs Nov 14) **Section 5.1 & 5.2** [worksheet](assets/materials/Fall2019/Worksheet-5-2.pdf), [solutions](assets/materials/Fall2019/Worksheet-5-2-s.pdf)
+* (Thurs Nov 14) **Section 5.1 & 5.2** [worksheet](assets/materials/Fall2019/Worksheet5-2.pdf), [solutions](assets/materials/Fall2019/Worksheet5-2-s.pdf)
 
 * (Fri Nov 15) **Section 5.2** [worksheet](assets/materials/Fall2019/Worksheet5-2Part2.pdf), [solutions](assets/materials/Fall2019/Worksheet5-2Part2-s.pdf)
 
