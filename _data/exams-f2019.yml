@@ -9,8 +9,13 @@ midterm1:
       blank: Midterm-1-fall-19-v2.pdf
       solutions: Midterm-1-fall-19-v2-s.pdf
 midterm2:
-  blank: MT2.pdf
-  solutions: MT2-Sols.pdf
+  versions:
+    - name: yellow
+      blank: Midterm-2-fall-19-v1.pdf
+      solutions: MT2-Sols.pdf
+    - name: green
+      blank: Midterm-2-fall-19-v2.pdf
+      solutions: MT2-Sols.pdf
 final:
   blank: Final.pdf
   solutions: Final-Sols.pdf
