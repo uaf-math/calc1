@@ -4,6 +4,17 @@ title: In Class Materials
 ---
 
 ## In Class Materials
+# Week 15
+
+* (Mon Nov 18) **Section 5.3** [worksheet](assets/materials/Fall2019/Worksheet-5-3-FTC-1.pdf), [solutions](assets/materials/Fall2019/Worksheet-5-3-FTC-1-s.pdf)
+
+* (Wed Nov 20) **Section 5.3** We continued with Monday's worksheet.
+
+* (Thurs Nov 21) **Section 5.4** [worksheet](assets/materials/Fall2019/Worksheet-5-4.pdf), [solutions](assets/materials/Fall2019/Worksheet-5-4-s.pdf)
+
+* (Fri Nov 22) **Section 5.5** [worksheet](assets/materials/Fall2019/Worksheet-5-5.pdf), [solutions](assets/materials/Fall2019/Worksheet-5-5-s.pdf)
+
+
 # Week 12
 
 * (Mon Nov 11) **Section 5.1** [worksheet (Berman)](assets/materials/Fall2019/Worksheet-5-1.pdf), [solutions (Berman)](assets/materials/Fall2019/Worksheet-5-1-s.pdf);  [worksheet (Faudree)](assets/materials/Fall2019/Worksheet-5-1-alt.pdf), [solutions (Faudree)](assets/materials/Fall2019/Worksheet-5-1-s-alt.pdf)
@@ -12,9 +23,9 @@ title: In Class Materials
 
 * (Wed Nov 13) **Midterm II** 
 
-* (Thurs Nov 14) **Section 5.1 & 5.2** [worksheet](), [solutions]()
+* (Thurs Nov 14) **Section 5.1 & 5.2** [worksheet](assets/materials/Fall2019/Worksheet-5-2.pdf), [solutions](assets/materials/Fall2019/Worksheet-5-2-s.pdf)
 
-* (Fri Nov 15) **Section 5.2** [worksheet](), [solutions]()
+* (Fri Nov 15) **Section 5.2** [worksheet](assets/materials/Fall2019/Worksheet5-2Part2.pdf), [solutions](assets/materials/Fall2019/Worksheet5-2Part2-s.pdf)
 
 # Week 11
 
