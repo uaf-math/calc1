@@ -1,0 +1,79 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+\usepackage{pdfsync}
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace, adjustbox}
+\usepackage{array%,tikz, pgfplots
+}
+
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+%\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+%middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+%
+\pagestyle{fancy} 
+\lfoot{UAF Calculus I}
+\rfoot{5-1}
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\newcommand{\bi}{\begin{itemize}}
+\newcommand{\ei}{\end{itemize}}
+\def\ds{\displaystyle}
+\begin{document}
+\setlength{\parindent}{0cm}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\renewcommand{\d}{\displaystyle}
+\vspace*{-0.7in}
+\begin{center}
+ {\large\sc{Section 5.1: Distance and Amounts  }}
+ \end{center}
+
+\be
+
+\item Suppose the odometer on our car is broken and we
+want to estimate the distance driven over a 1.5 hour time period. We take speedometer readings every 15 minutes and then
+record them in the table below. Estimate the distance traveled by the
+car. What method are you using?
+
+\begin{center}
+  \begin{tabular}[ht]{|l|c|c|c|c|c|c|c|}
+    \hline 
+   Time (minutes) & 0 & 15 &30 &45 &60 & 75 & 90 \\
+   \hline
+   Velocity (mi/h) &17 & 21 & 24 & 29 & 32 & 31 & 28 \\
+  \hline
+    \end{tabular}
+\end{center}  
+\vfill
+
+\item Oil leaked out of a tank at a rate of $r(t)$
+liters per hour. The rate decreased as time passed and values of the
+rate at 2 hour time intervals are shown in the table. Estimate how much oil leaked out. What method are you using? Is it an overestimate or an underestimate.
+
+\begin{center}
+  \begin{tabular}[ht]{|l|c|c|c|c|c|c|}
+    \hline
+    t (h) & 0 & 2 & 4 & 6 & 8 & 10 \\
+   \hline
+    r(t) (L/h) & 8.7 & 7.6 & 6.8 & 6.2 & 5.7 & 5.3 \\
+   \hline
+  \end{tabular}
+\end{center}
+\vfill
+
+
+\end{enumerate}
+
+\end{document}
+ \end
+

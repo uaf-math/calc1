@@ -1,0 +1,270 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol, tabularx}
+\usepackage{graphicx} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+\usepackage{pdfsync}
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace, adjustbox}
+\usepackage{array%,tikz, pgfplots
+}
+
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+%\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+%middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+%
+\pagestyle{fancy} 
+\lfoot{UAF Calculus I}
+\rfoot{5-2}
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\newcommand{\bi}{\begin{itemize}}
+\newcommand{\ei}{\end{itemize}}
+\def\ds{\displaystyle}
+\begin{document}
+\setlength{\parindent}{0cm}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\renewcommand{\d}{\displaystyle}
+\vspace*{-0.7in}
+\begin{center}
+ {\large{ \sc{Section 5.2: Definite Integrals}}}
+ \end{center}
+%\begin{sc}
+%\begin{center}
+%Section 5.2: Definite Integrals and ``Area So Far''
+%\end{center}
+%\end{sc}
+
+\section*{Definite Integrals and Areas ``under'' Curves}
+\begin{enumerate}
+
+
+\item  Estimate the area under $f(x) = x^2 - 2x$ on $[1,
+3]$ with $n = 4$ using the 
+
+  \begin{adjustbox}{valign=t,minipage={.65\textwidth}}
+  %\begin{multicols}{2}{
+      % make sure you added \usepackage{enumerate}
+      %\vspace*{-0.45in}
+     % \begin{enumerate}[(a)]
+     (a) Right-hand endpoints 
+     \vspace{1in}
+     
+     (b)  Left-hand endpoints %\hspace{2cm}
+      \vspace{1in}
+    %  \end{enumerate}}
+  %\end{multicols}
+  \end{adjustbox}
+  %
+  \begin{adjustbox}{valign=t,minipage={.25\textwidth}}
+\begin{tikzpicture}[scale = 1.2]
+\draw[<->,  thick](-.2,0) -- (3.2,0) node[right]{$x$};
+\foreach \i in {0, ..., 3}{\draw (\i,.1) -- (\i, -.1) node[below]{$\i$};}
+\draw[<->,  thick](0,-0.2) -- (0,3.2) node[above] {$y$};
+\foreach \i in {-2, ..., 3}{\draw (.1, \i) -- ( -.1,\i) node[left]{$\i$};}
+\draw[help lines] (0,-2) grid[step=.5] (3,3);
+\draw[] (0,-2) grid[step=1] (3,3);
+\draw[ultra thick] plot[smooth, domain=0:3] (\x, {\x*\x-2*\x});
+\draw (2.1,1) node[above] {$f(x)$};
+\end{tikzpicture}
+\end{adjustbox}
+%  \vspace{2in}
+
+
+\begin{framed}
+   \textbf{Definition of a Definite Integral} If $f$ is a function
+   defined for $a \le x \le b$, we divide the interval $[a, b]$ into
+   $n$ subintervals of equal width $\Delta x = (b-a)/n$. We let
+   $x_0 = (a), x_1, x_2, \cdots, x_n =(b)$ be the endpoints of these
+   subintervals and we let $x_1^*, x_2^*, \cdots, x_n^*$ be 
+   \textbf{sample points}\footnotemark \ %\footnote{For example, we could choose our sample points to be right-hand endpoints, left-hand endpoints, midpoints,  a combination of these, or any other sample points in the interval that we choose!} 
+    in these subintervals, so $x_i^*$ lies in
+   the i-th subinterval $[x_{i-1}, x_i]$. Then the \textbf{definite
+     integral of $f$ from $a$ to $b$} is
+
+$$\d \int_a^b f(x) dx = \lim_{n \to \infty} \sum_{i=1}^n f(x_i^*)
+\Delta x,$$
+provided this limit exists and gives the same value for all possible
+choices of sample points. If it does exist, we say that $f$ is
+\textbf{integrable} on $[a, b]$.
+
+\smallskip
+${}^{1}$ \begin{footnotesize}For example, we could choose our sample points to be right-hand endpoints, left-hand endpoints, midpoints,  a combination of these, or any other sample points in the interval that we choose!\end{footnotesize}
+
+\end{framed}
+
+
+
+\item Consider again $f(x) = x^2 - 2x$ on the interval $[1,
+3]$. Suppose that we are dividing the interval $[1,3]$ into $n$ subintervals.  (Think about your answers to \#1.)
+
+\be
+
+\item What is the length of each subinterval? \hrulefill
+\vfill
+\item What is the right-hand endpoint of the first subinterval? \hrulefill 
+\vfill
+
+What is the height of the first right-hand rectangle? \hrulefill
+\vfill
+
+\item What is the right-hand endpoint of the second subinterval? \hrulefill
+\vfill
+
+What is the height of the second right-hand rectangle? \hrulefill
+\vfill
+
+\item What is the right-hand endpoint of the third subinterval?\hrulefill 
+\vfill
+
+What is the height of the third right-hand rectangle? \hrulefill
+\vfill
+
+\item What is the right-hand endpoint of the $i^{\text{th}}$ rectangle? \hrulefill
+\vfill
+
+
+What is the height of the $i$-th right-hand rectangle? \hrulefill
+\vfill
+
+What is the {\bf area} of the $i$-th right-hand rectangle? \hrulefill
+\vfill
+
+\ee
+
+\item Using your answers to the previous problem, write down a limit that equals $\d \int_{1}^{3}  x^2 - 2x \ dx$.
+
+\vspace{1in}
+
+%\ee
+%\item  Find the area under $f(x)= (x^2 - 2x) dx$ on $[0,4]$ exactly. 
+
+\item Write down a limit that equals $\d \int_{2}^{8} e^{x} \ dx$, using right-hand endpoints as your sample points.
+
+\vspace{1in}
+
+\begin{framed}
+\emph{A definite integral represents the
+{\bf signed} area under a curve (that is, the signed area between the curve and the $x$-axis). If a curve is above the $x$-axis
+that area is \blank{1in}; if the curve is below the $x$-axis the area
+is \blank{1in}.}
+\end{framed}
+
+%\newpage
+\item  Evaluate the following definite integrals by drawing the function and interpreting the integral
+in terms of areas. Shade in the area you are computing with the integral.
+
+     
+ \begin{tabular}{c c}%{\linewidth}{ X X X} 
+   (a)   $\d \int_{-3}^3 (x - 1)\  dx = $\blank{.5in} & (b) $\d \int_0^4 \sqrt{16-x^2} \ dx $= \blank{.5in} \\  \tikz[scale = .5]{
+\draw (-5, -5) grid (5,5);
+\draw[<->, ultra thick] (0,-5.2) -- (0,5.2);
+\draw[<->, ultra thick] (-5.2,0) -- (5.2,0);
+}
+
+& \tikz[scale = .5]{
+\draw (-5, -5) grid (5,5);
+\draw[<->, ultra thick] (0,-5.2) -- (0,5.2);
+\draw[<->, ultra thick] (-5.2,0) -- (5.2,0);
+}
+\\
+
+(c) $\d \int_{-3}^3 (2 + \sqrt{9-x^2} )\  dx$ = \blank{.5in}  & $\d \int_{-2}^3 ( |x| - 3 )\  dx$ = \blank{.5in}\\
+   %
+
+\tikz[scale = .5]{
+\draw (-5, -5) grid (5,5);
+\draw[<->, ultra thick] (0,-5.2) -- (0,5.2);
+\draw[<->, ultra thick] (-5.2,0) -- (5.2,0);
+}
+&
+\tikz[scale = .5]{
+\draw (-5, -5) grid (5,5);
+\draw[<->, ultra thick] (0,-5.2) -- (0,5.2);
+\draw[<->, ultra thick] (-5.2,0) -- (5.2,0);
+}
+\end{tabular}
+
+  
+  
+\newpage
+\begin{adjustbox}{valign=t,minipage={.45\textwidth}}
+\item The graph of $f$ is shown. Evaluate each integral
+by interpreting it in terms of areas.
+%\begin{multicols}{2}
+  \begin{enumerate}[(a)]
+  \item $\d \int_2^5 f(x) dx = $
+\vskip0.5in
+  \item $\d \int_5^9 f(x) dx = $
+\vskip0.5in
+  \item $\d \int_3^7 f(x) dx = $
+  \end{enumerate}
+%\columnbreak 
+%  \begin{center}
+%    \includegraphics[width=2.5in]{area}
+%  \end{center}
+%\end{multicols}
+\end{adjustbox}
+\begin{adjustbox}{valign=t,minipage={.45\textwidth}}
+\begin{tikzpicture}[scale = .7]
+\draw[<->,  thick](-1.2,0) -- (10.2,0) node[right]{$x$};
+\foreach \i in {-1,1, ..., 10}{\draw (\i,.1) -- (\i, -.1) node[below]{$\i$};}
+\draw[<->,  thick](0,-4.2) -- (0,4.2) node[above] {$y$};
+\foreach \i in {-4, ..., 4}{\draw (.1, \i) -- ( -.1,\i) node[left]{$\i$};}
+\draw[thin] (-1,-4) grid (10,4);
+\draw[ultra thick] (0,1) -- (2,3) -- (3,3) -- (7,-3)--(9,-2);
+\draw (1.5,2.8) node[above] {$f(x)$};
+\end{tikzpicture}
+\end{adjustbox}
+
+
+\subsection*{Properties of the Definite Integral:}
+
+
+%\begin{multicols}{2}
+%\vspace*{-0.4in}
+
+  \begin{itemize}
+  \item $\d \int_a^b f(x) \ dx = $ \hrulefill %\vskip0.5in
+  \item $ \d \int_a^a f(x)  \ dx = $ \hrulefill %\vskip0.5in
+  \item $\d \int_a^b c \ dx = $ \hrulefill%\vskip0.5in
+  \item $\d \int_a^b c f(x) \ dx = $ \hrulefill%\vskip0.5in
+  \item $\d \int_a^b [f(x) \pm g(x)] dx =$ \hrulefill
+  \item $\d \int_a^b f(x)  + \int_{b}^{c}f(x) \ dx = $ \hrulefill
+  \item $\d \int_b^a f(x) \ dx = $ \hrulefill %\vskip0.5in
+  \end{itemize}
+%\end{multicols}
+
+
+%\vfill
+\item  Using the fact that $\d \int_0^1 x^2 dx = \frac 1 3$ and $\d \int_{1}^{2} x^{2}\ dx = \frac{7}{3}$,
+evaluate the following using the properties of integrals. 
+
+  \begin{multicols}{4}{
+      % make sure you added \usepackage{enumerate}
+      \vspace*{-0.45in}
+      \begin{enumerate}[(a)]
+      \item $\d \int_1^0 x^2 \ dx$
+      \item $\d \int_0^1 5x^2\  dx$
+      \item $\d \int_0^1 ( 4 + 3x^2)\ dx$
+       \item $\d \int_0^2 x^{2}\ dx$. 
+      \end{enumerate}}
+  \end{multicols}
+\vfill
+\newpage
+
+
+
+\ee
+
+\end{document}
+ \end
+
