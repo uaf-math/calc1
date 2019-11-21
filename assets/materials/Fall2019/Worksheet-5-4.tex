@@ -1,0 +1,92 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol, adjustbox}
+\usepackage{graphicx} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+\usepackage{pdfsync}
+\usepackage[shortlabels]{enumitem}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array,tikz}
+\pagestyle{fancy} 
+\lfoot{UAF Calculus I}
+\rfoot{5-4}
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\begin{document}
+\setlength{\parindent}{0cm}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\renewcommand{\d}{\displaystyle}
+\vspace*{-0.7in}
+\begin{center}
+  \Large \sc{Section 5-4: Indefinite Integrals and the Net Change Theorem}
+\end{center}
+
+\be
+\item Compute $\int x^2(3-x)\; dx$
+\vfill
+
+\item Compute $\int 9\sqrt{x} - 3 \sec(x)\tan(x)\; dx$
+\vfill
+
+\item Find an antiderivative of $f(x)=\frac{1}{x^2}$
+that does not have the form $-1/x + C$.
+\vfill
+
+
+
+\item Snow is falling on my garden at a rate of
+\[
+A(t) = 10 e^{-2 t}
+\]
+kilograms per hour for $0\le t\le 2$, where $t$ is measured in hours.
+\begin{enumerate}
+\item Find $A(1)$ and interpret in the context of the problem.
+\vfill
+\item If $m(t)$ is the total mass of snow on my garden, how are $m(t)$
+and $A(t)$ related to each other?
+\vfill
+\item What does $m(2)-m(0)$ represent?
+\vfill
+\item Find an antiderivative of $A(t)$.
+\vfill
+\item Compute the total amount of snow accumulation from $t=0$ to $t=1$.
+\vfill
+\item Compute the total amount of snow accumulation from $t=0$ to $t=2$.
+\vfill
+\newpage
+\item From the information given so far, can you compute $m(2)$?
+\vfill
+\item Suppose $m(0)=9$.  Compute $m(1)$ and $m(2)$.
+\vfill
+\end{enumerate}
+
+\item A airplane is descending.  Its rate of change of height
+is $\d r(t) = -4 t + \frac{t^2}{10}$ meters per second.  
+\begin{enumerate}
+\item if $A(t)$ is the altitude of the airplane in meters, 
+how are $A(t)$ and $r(t)$ related?
+\vfill
+\item What physical quantity
+does $\d \int_1^3 r(t)\; dt$ represent?
+\vfill
+\item  Compute $A(3)-A(1)$.
+\vfill
+\item What is the height of the plane when $t=3$?
+\vfill
+\end{enumerate}
+\vfill
+\item
+Gravel is being added to a pile at a rate of rate of $1+t^2$
+tons per minute for $0\le t\le 10$ minutes. If $G(t)$ is the
+amount of gravel (in tons) in the pile at time $t$, compute
+$G(10)-G(0)$.
+\vfill
+\ee
+\end{document}
