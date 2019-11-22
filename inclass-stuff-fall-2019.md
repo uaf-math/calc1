@@ -12,7 +12,7 @@ title: In Class Materials
 
 * (Thurs Nov 21) **Section 5.4** [worksheet](assets/materials/Fall2019/Worksheet-5-4.pdf), [solutions](assets/materials/Fall2019/Worksheet-5-4-s.pdf)
 
-* (Fri Nov 22) **Section 5.5** [worksheet](assets/materials/Fall2019/Worksheet-5-5.pdf), [solutions](assets/materials/Fall2019/Worksheet-5-5-s.pdf)
+* (Fri Nov 22) **Section 5.5** [worksheet](assets/materials/Fall2019/Worksheet-5-5-day1.pdf), [solutions](assets/materials/Fall2019/Worksheet-5-5-day1-s.pdf)
 
 
 # Week 12
