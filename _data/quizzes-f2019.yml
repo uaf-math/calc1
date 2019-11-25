@@ -76,4 +76,17 @@ quizzes:
       - name: Version 2
         blank: M251F19_Quiz-8-v2.pdf
         solutions: M251F19_Quiz-8-v2-s.pdf
-  
+  - name: Quiz 9
+    versions:
+      - name: Version 1
+        blank: M251F19_Quiz-9-v1.pdf
+        solutions: M251F19_Quiz-9-v1-s.pdf
+      - name: Version 2
+        blank: M251F19_Quiz-9-v2.pdf
+        solutions: M251F19_Quiz-9-v2-s.pdf
+  - name: Quiz 10
+    versions:
+      - name: Version 1
+        blank: M251F19_Quiz-10.pdf
+        solutions: M251F19_Quiz-10-s.pdf
+
