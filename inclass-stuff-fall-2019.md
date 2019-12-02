@@ -4,6 +4,16 @@ title: In Class Materials
 ---
 
 ## In Class Materials
+# Week 15
+
+* (Mon Dec 2) **Section 4.8** [worksheet](assets/materials/Fall2019/worksheet-4-8.pdf), [solutions](assets/materials/Fall2019/worksheet-4-8-s.pdf)
+
+* (Wed Dec 4) **Finish Section 4.8 + Integral Proficiency**
+
+* (Thurs Dec 5) **Review Chapters 1 and 2**
+
+* (Fri Dec 6) **Review Chapters 3 and 4**
+
 # Week 14
 
 * (Mon Nov 25) **Section 5.3** [worksheet](assets/materials/Fall2019/Worksheet-5-5-day2.pdf), [solutions](assets/materials/Fall2019/Worksheet-5-5-day2-s.pdf)
