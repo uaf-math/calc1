@@ -12,10 +12,10 @@ midterm2:
   versions:
     - name: yellow
       blank: Midterm-2-fall-19-v1.pdf
-      solutions: MT2-Sols.pdf
+      solutions: Midterm-2-fall-19-v1-s.pdf
     - name: green
       blank: Midterm-2-fall-19-v2.pdf
-      solutions: MT2-Sols.pdf
+      solutions: Midterm-2-fall-19-v2-s.pdf
 final:
   blank: Final.pdf
   solutions: Final-Sols.pdf
