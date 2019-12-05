@@ -20,3 +20,11 @@ derivative:
     - name: V4-b
       blank: Derivative-v6.pdf
       solutions: Derivative-v6-Sols.pdf
+integral:
+  versions:
+    - name: V1
+      blank: IntegralProf-2019-v1.pdf
+      solutions: IntegralProf-2019-v1-s.pdf
+    - name: V1a
+      blank: IntegralProf-2019-v1a.pdf
+      solutions: IntegralProf-2019-v1a-s.pdf
