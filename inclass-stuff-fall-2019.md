@@ -10,7 +10,7 @@ title: In Class Materials
 
 * (Wed Dec 4) **Finish Section 4.8 + Integral Proficiency**
 
-* (Thurs Dec 5) **Review Chapters 1 and 2**
+* (Thurs Dec 5) **Review for Final Exam (day 1)** [worksheet](assets/materials/Fall2019/FinalExamReview-day1.pdf), [solutions](assets/materials/Fall2019/FinalExamReview-day1-s.pdf)
 
 * (Fri Dec 6) **Review Chapters 3 and 4**
 
