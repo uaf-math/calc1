@@ -12,7 +12,7 @@ title: In Class Materials
 
 * (Thurs Dec 5) **Review for Final Exam (day 1)** [worksheet](assets/materials/Fall2019/FinalExamReview-day1.pdf), [solutions](assets/materials/Fall2019/FinalExamReview-day1-s.pdf)
 
-* (Fri Dec 6) **Review Chapters 3 and 4**
+* (Fri Dec 6) **Review for Final Exam (day 2)** [worksheet](assets/materials/Fall2019/FinalExamReview-day2.pdf), [solutions](assets/materials/Fall2019/FinalExam-review-day2-s.pdf)
 
 # Week 14
 
