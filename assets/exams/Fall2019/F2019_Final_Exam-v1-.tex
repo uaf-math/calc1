@@ -1,0 +1,486 @@
+
+\documentclass[11pt]{article}
+\usepackage[margin=.8in]{geometry}
+\usepackage{amsmath,amssymb,amsthm, latexsym, mathrsfs, pdfsync, multicol,
+%setspace,
+%graphics, 
+fancybox, fancyhdr,
+graphicx, enumerate,
+subfig, tikz, pgfplots,array,tabularx}
+\usepackage{bbding}
+
+%\singlespacing
+\def\RR{{\mathbb R}}
+\def\NN{{\mathbb N}}
+\def\ZZ{{\mathbb Z}}
+\def\QQ{{\mathbb Q}}
+\def\CC{{\mathbb C}}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+\def\be{\begin{enumerate}}
+\def\ee{\end{enumerate}}
+\def\bi{\begin{itemize}}
+\def\ei{\end{itemize}}
+\def\bs{\begin{slide}}
+\def\es{\end{slide}}
+\def\bx{\begin{exercise}}
+\def\ex{\end{exercise}}
+\def\t{\times}
+\newcommand{\ol}[1]{\overline{#1}}
+\newcommand{\oimp}[1]{\overset{#1}{\Longleftrightarrow}}
+\newcommand{\bv}[1]{\ensuremath{ \mathbf{\vec{#1}}} }
+\renewcommand{\d}{\displaystyle}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+
+\usetikzlibrary{calc}
+
+%for tikz pictures
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=black,only marks,mark=*}} \pgfplotsset{holdot/.style={color=black,fill=white,only marks,mark=*}}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=middle, xlabel={$x$}, ylabel={$y$}}}
+
+
+%
+% Answerbox:
+%
+%\newcommand\answerbox[3]{#3 \fbox{\rule{#1}{0cm}\rule{0cm}{#2}}}
+%
+%\setlength{\headsep}{2pt}
+
+\lhead{\sc{Math 251 Calculus I}}
+\chead{\large \sc Final Exam} 
+\rhead{\sc Fall 2019}
+\cfoot{}
+\pagestyle{fancy}
+%
+\begin{document}
+\thispagestyle{fancy}
+
+\vspace{.1in}
+\begin{tabular}{l@{\hspace{.4in}}l}
+Your Name & Your Signature\\
+\framebox(200,30){} & \framebox(200,30){} \\
+\end{tabular}
+
+%\bigskip
+
+\begin{tabular}{l@{\hspace{.4in}}l}
+Instructor Name & \\
+\framebox(200,30){}&  \\
+\end{tabular}
+{
+\renewcommand{\baselinestretch}{1.8}
+\setlength{\tabcolsep}{.2in}
+\normalsize
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Problem&Total Points&\parbox{.8in}{\hfil Score\hfil}\\
+\hline
+1&10&\\
+\hline
+2&10&\\
+\hline
+3&10&\\
+\hline
+4&10&\\
+\hline
+5&10&\\
+\hline
+6&10&\\
+\hline
+7&10&\\
+\hline
+8&10&\\
+\hline
+9&10&\\
+\hline
+10&10&\\
+\hline
+\hline
+Extra Credit & (5) & \\
+%\hline
+\hline
+Total&100&\\
+\hline
+%Current Course Grade&\multicolumn{2}{c|  }{}\\
+%\hline
+
+\end{tabular}
+
+\end{center}
+}
+\begin{itemize}
+\item 
+This test is closed notes and closed book. 
+
+\item You may \textbf{not} use a calculator.
+
+\item
+In order to receive full credit, you must {\bf show your work.}  
+Be wary of doing computations in your head. Instead, write out your
+computations on the exam paper.
+ 
+\item
+Raise your hand if you have a question.
+
+\end{itemize}
+
+\newpage
+\vspace*{-0.3in}
+\begin{enumerate}
+%Definition of the derivative and equation of tangent line
+\item (10 points) Let $f(x)=x^2-\frac{3}{x}.$
+	\begin{enumerate}
+	\item Using the \textbf{definition of the derivative}, find $f'(x)$. No credit will be given if a different method is used. [It is recommended you start by writing the definition of the derivative.] 
+	\vfill
+	\item Write an equation of the line tangent to the graph of $f(x)$ when $x=2.$	
+	\vspace{2in}
+	\end{enumerate}
+\newpage
+%net change
+\item (10 points) During a storm, snow is falling on a mountain at a rate of $$M(t)= t^2-\frac{t^3}{3}$$ feet per hour for a three hour period starting at time $t=0.$
+	\begin{enumerate}
+	\item Determine the \emph{net change} in the height of snow during the first two hours of the storm. Include  units with your answer.
+	\vfill
+	\item Determine the height of the snow on the mountain or explain why this is not possible with the present information.
+	\vspace{2in}
+	\item Observe that $M(2.5)>0$ and $M'(2.5)<0.$ Explain what these two facts indicate about the snow falling when $t=2.5.$
+	\vspace{1in}
+	\end{enumerate}
+\newpage
+%interpret derivatives and limits
+\item (10 points) The population of ants in a new colony is modeled by the function
+$$p(t)=1000\left(t+\frac{1}{2} \ln(1+t^2)\right)+100,$$ where $t$ is measured in months. 
+	\begin{enumerate}
+	\item Find $p(0)$ and interpret in the context of the problem. \\
+	\vfill
+	 \item Find $\displaystyle \lim_{t \to \infty} p(t)$ and interpret in the context of the problem. \\
+	\vfill
+	\item Find $p'(t).$ \\
+	\vfill
+	\item Find $p'(1)$ and interpret in the context of the problem. \\
+	\vfill
+	\item  Find $\displaystyle \lim_{t \to \infty} p'(t)$ and interpret in the context of the problem. \\
+	\vfill
+	\end{enumerate}
+\newpage
+%given pic, answer questions
+\item (10 points) Consider the function $A(x)$ graphed below. Between $x=3$ and $x=5$, the graph is of a semicircle of radius 1.
+
+\begin{center}
+\begin{tikzpicture}[scale=1]
+\draw[<->] (-3.2,0) -- (6.2,0) node[right] {$x$};
+\draw[<->] (0,-2.2) -- (0,3.2); %node[left] {$A(x)$};
+\draw (-.5, 1.5) node{$A(x)$};
+\draw[help lines, dashed] (-3,-2) grid (6,3);
+\draw[style= ultra thick,<-] (-3.2,3.2) --  (1,-1) -- (2,-1)--(3,0);
+\draw[style= ultra thick,->] (3,0) arc (180:0:1) -- (6.2,1.1);
+\foreach \x in {-3,-2,-1,0,1,2,3,4,5,6}
+\draw (\x,-2.1) node[below] {$\x$};
+\foreach \y in {-1,0,1,2}
+\draw (-3.1,\y) node[left] {$\y$};
+\node[fill=white, minimum size=1pt,circle,draw,scale=.55] at (-2,2){};
+\node[fill=black, minimum size=1pt,circle,draw,scale=.5] at (-2,1){};
+\end{tikzpicture}
+\end{center}
+
+\bigskip
+\begin{enumerate}
+\item  $\displaystyle \lim_{x \to -2} A(x)=$\\
+
+\item  $A(-2)=$\\
+
+\item  $A'(-1)=$\\
+
+\item At what $x$ values, if any, does $A'(x)$ not exist?
+\vfill
+
+
+\item Evaluate $\displaystyle \int_{-1}^{2} A(x)\,dx$.
+
+\vfill
+
+\item Let $H(x) =\displaystyle \int_0^x A(s)\,ds$.  What is the value of $H(4)$?
+
+\vfill
+
+\item For $H(x)$ from part \textbf{f.}, what is the value of $H'(4)$.
+
+\vfill
+\end{enumerate}
+\newpage
+%sketch the graph given the information
+\item (10 points) Sketch the graph of a function that satisfies \textbf{all} of the given conditions. \textbf{Label all important items in your graph.}
+	\begin{enumerate}
+	\item The domain of $f$ is $(-\infty,\infty).$
+	\item $f'(x) > 0$ if $x \not = 2.$\\
+	\item $f''(x) > 0$ if $x < 2$ and $f''(x) <0$ if $x>2.$\\
+	\item $f(2)=5$\\
+	\item $\displaystyle \lim_{x \to \infty} f(x)=8$ and $\displaystyle \lim_{x \to -\infty} f(x)=0$\\
+	\end{enumerate}
+	\begin{center}
+\begin{tikzpicture}
+\draw[<->] (-6.2,0) -- (6.2,0) node[right] {$x$};
+\draw[<->] (0,-6.2) -- (0,8.2) node[left] {$y$};
+\end{tikzpicture}
+	\end{center}
+\newpage
+%%%Plane-jane derivatives
+\item (10 points) Differentiate the following functions. For parts (a) and (b), it is not necessary to simplify your answers.
+
+\begin{enumerate}[(a)]
+	\item $\d f(x) = \frac{e^{2x}}{\sqrt{x^2 + 1}} + \arctan(3x)$
+	\vfill
+	\item $\d g(x) = \int_x^2 t\cos(2t^2)\,dt$
+	\vspace{1.5in}
+	\item Find $\frac{dy}{dx}$ by implicit differentiation: $\d \ln(xy) - \cos y = ye^x$
+	\vspace{3.5in}
+	
+	
+\end{enumerate}
+
+\newpage
+
+
+%%%Optimization or min/max
+\item (10 points) A piece of wire 40 cm long is to be cut to make at most two squares. See the picture below.
+
+\begin{center}
+\begin{tikzpicture}
+\draw[ultra thick] (0,0) -- (10,0);
+\draw (3.5,-0.2) -- (3.5,.2) node[above]{cut}; %node{\Large{\rotatebox[]{270}{\ScissorHollowLeft}}};
+\node at (1.75,0.2){\large{$x$}};
+%\node at (1.4,-0.4){\large{$a$}};
+%\node at (2.4,-0.4){\rotatebox[]{270}{\ScissorHollowLeft}};
+%\node at (-.4,2){\large{$b$}};
+\draw[dashed] (0,-1) -- (4.5,-1);
+\draw[dashed] (5.5,-1) -- (10,-1);
+\draw[dashed] (0,-.7) -- (0,-1.3);
+\draw[dashed] (10,-.7) -- (10,-1.3);
+\node at (5,-1){\large{40cm}};
+\end{tikzpicture}
+\end{center}
+
+\begin{enumerate}[(a)]
+	\item Write the combined area of the two squares as a function of $x$. State the domain.
+	\vfill
+	\item For what value(s) of $x$ does the area function have a potential maximum or minimum?
+	\vfill
+	\item Where should you cut to minimize the combined area? Maximize the combined area? Justify the classification of the extrema.
+	\vfill
+\end{enumerate}
+
+\newpage
+%\item (6 points) Use \textbf{limits} to determine all holes and all horizontal and vertical asymptotes of the function
+%\[ k(x) = \frac{x^2-4}{x^2+9 x+14}.\]
+%
+%\vfill
+
+%\fbox{Version 2}
+%
+%Use \textbf{limits} to determine all holes and all horizontal and vertical asymptotes of the function
+%\[ k(x) = \frac{x^2-9}{x^2+8 x+15}.\]
+%
+%\vfill
+
+
+%\newpage
+%	PROBLEM Definition of the derivative
+%\newpage
+%\item
+%
+%%\fbox{Version 1} 
+%
+%Suppose $f(x) = x^2 - \frac{3}{x}$
+%\be
+%\item Use the DEFINITION of the derivative to calculate $f'(x)$. (You should be using limits!)
+%\vfill
+%\vfill
+%\vfill
+%
+%\item Write the equation for the tangent line to $f(x)$ at the point $(3, f(3))$.
+%\vfill
+%\ee
+%
+%\fbox{Version 2} 
+%
+%Suppose $f(x) = x^2 - \frac{5}{x}$
+%\be
+%\item Use the DEFINITION of the derivative to calculate $f'(x)$. (You should be using limits!)
+%\vfill
+%\vfill
+%\vfill
+%
+%\item Write the equation for the tangent line to $f(x)$ at the point $(5, f(5))$.
+%\vfill
+%\ee
+
+\newpage
+
+
+
+
+%	PROBLEM II --- Antiderivatives
+\item (10 points)
+
+%\fbox{Version 1}
+
+A particle is moving with acceleration
+\[a(t) = t+e^{t/2}.\]
+You measure that at time $t = 0$, its position is given by $s(0) = 3$ and its velocity is given by $v(0) = 8$.
+
+Determine the position function $s(t)$. 
+\vfill
+
+%\fbox{Version 2}
+%
+%A particle is moving with acceleration
+%\[a(t) = t+e^{t/2}.\]
+%You measure that at time $t = 0$, its position is given by $s(0) = 2$ and its velocity is given by $v(0) = 5$.
+%
+%Determine the position function $s(t)$. 
+%\vfill
+%
+%
+\newpage
+\item (10 points)
+%\fbox{Version 1}
+
+%Consider the function $g(x) = (2x-1)^{2} - 5$, part of whose graph is shown below.
+%
+%\begin{center}
+%\begin{tikzpicture}[xscale=2, yscale = .5]
+%\fill [gray!20, domain=0:2, variable=\x]
+%  (0, 0)
+%  -- plot ({\x}, {(2*\x-1)*(2*\x-1)-5})
+%  -- (2, 0)
+%  -- cycle;
+%
+%\draw[<->](-.1, 0) -- (2.3,0);
+%\draw[<->] (0, -5.1) -- (0, 4);
+%\foreach \i in {1,2,3} {\draw( 2/3*\i, -.1) -- (2/3*\i, .1);}
+%\draw  (2/3*3, -.1) node[below] {2};
+%\draw  (2/3*2, -20/9-1) node[below] {$g(x)$};
+%%\draw[ultra thick, smooth, domain=0:??4??] plot ({\x, (2*\x-4)**2 - 2});
+%
+%
+%  \draw[ultra thick, ] plot[smooth, domain=0:2] (\x,{(2*\x-1)*(2*\x-1)-5}); %({\x, -2+(2*\x)*(2*\x) }); %({\x,1/(1+\x)});
+%\end{tikzpicture}
+%\end{center}
+
+Consider the function $g(x) = x \sqrt{4-x^{2}} -1$, part of whose graph is shown below.
+
+\begin{center}
+\begin{tikzpicture}[xscale = 4, yscale = 2]
+%gray!20,
+\fill [white, domain=0:2, variable=\x]
+  (0, 0)
+  -- plot ({\x}, {\x*sqrt(4-\x*\x)-1})
+  -- (2, 0)
+  -- cycle;
+
+\draw[<->](-.1, 0) -- (2.3,0);
+\draw[<->] (0, -1.1) -- (0,1.1);
+\foreach \i in {1,2,3,4,5} {\draw( 1/3*\i, -.1) -- (1/3*\i, .1);}
+%\foreach \i in {1,2,3} {\draw( 2/3*\i, -.1) -- (2/3*\i, .1);}
+\foreach \i in {-1,1} {\draw(  .05, \i) -- (-.05,\i) node[left]{$\i$};}
+\draw  (2/3*3, .1) node[above] {2};
+\draw  (1, -.1) node[below] {1};
+\draw  (2/3, .4) node[above] {$g(x)$};
+%\draw[ultra thick, smooth, domain=0:??4??] plot ({\x, (2*\x-4)**2 - 2});
+
+
+  \draw[ultra thick, ] plot[smooth, domain=0:2] ({\x}, {\x*sqrt(4-\x*\x)-1}); %({\x, -2+(2*\x)*(2*\x) }); %({\x,1/(1+\x)});
+\end{tikzpicture}
+\end{center}
+
+
+\begin{enumerate}
+\item Write down, but do not evaluate, a computation that approximates 
+%the shaded area 
+$\displaystyle{\int_0^2 g(x) \: dx}$ using three {\bf right-hand} rectangles. \fbox{Draw and shade} the rectangles on the graph. (No need to simplify your answer.)\\
+\vfill
+
+\item Determine $\displaystyle{\int_0^2 g(x) \: dx}$
+%the shaded area 
+exactly. Show your work, and simplify your answer.\\
+\vfill
+\vfill
+\vfill
+\item How could you make the estimate in (a) more accurate?\\
+\vspace{.75in}
+%\vfill
+\end{enumerate}
+%\fbox{Version 2}
+%
+%Consider the function $g(x) = 1- x \sqrt{4-x^{2}}$, part of whose graph is shown below.
+%
+%
+%\begin{center}
+%\begin{tikzpicture}[xscale = 4, yscale = 2]
+%\fill [gray!20, domain=0:2, variable=\x]
+%  (0, 0)
+%  -- plot ({\x}, {-1*\x*sqrt(4-\x*\x)+1})
+%  -- (2, 0)
+%  -- cycle;
+%
+%\draw[<->](-.1, 0) -- (2.3,0);
+%\draw[<->] (0, -1.1) -- (0,1.1);
+%\foreach \i in {1,2,3} {\draw( 2/3*\i, -.1) -- (2/3*\i, .1);}
+%\foreach \i in {-1,1} {\draw(  .05, \i) -- (-.05,\i) node[left]{$\i$};}
+%\draw  (2/3*3, .1) node[above] {2};
+%\draw  (2/3, .4) node[above] {$g(x)$};
+%%\draw[ultra thick, smooth, domain=0:??4??] plot ({\x, (2*\x-4)**2 - 2});
+%
+%
+%  \draw[ultra thick, ] plot[smooth, domain=0:2] ({\x}, {1-\x*sqrt(4-\x*\x)}); %({\x, -2+(2*\x)*(2*\x) }); %({\x,1/(1+\x)});
+%\end{tikzpicture}
+%\end{center}
+%\item Write down, but do not evaluate, a computation that approximates the shaded area using three {\bf right-hand} rectangles. \fbox{Draw} the rectangles on the graph.
+%
+%\begin{enumerate}
+%\item Determine the shaded area exactly. Show your work, and simplify your answer.
+%
+%\item How could you make the estimate in (a) more accurate?
+%\end{enumerate}
+
+
+
+
+
+
+\newpage
+
+%%%Newoton's method
+\item (10 points) Newton's method can be used to find an approximate solution to the equation $x^2 = 8.$ To apply Newton's method to find these roots, let $f(x) = x^2 - 8.$
+
+\begin{enumerate}[(a)]
+	\item Use Newton's method with initial approximation $x_0 = 2$ to find $x_1$, a better estimate of a root of the given equation.
+	\vfill
+	\item Apply one more iteration of Newton's method to find $x_2$.
+	\vfill
+	\item Notice the equation $x^2 = 8$ has two roots. What value of $x_0$ would make a good choice to find the \textbf{other} root?
+	\vfill
+\end{enumerate}
+
+
+\newpage
+
+%\item (E.C.) 
+{\bf Extra Credit} (up to 5 points):
+\be[(a)]
+
+\item Show that the equation $\cos x - 2x = 4$ has at least one real solution. 
+
+\vfill
+
+\item Show that the equation $\cos x - 2x = 4$ has exactly one real solution. (Hint: what does the derivative tell you about the behavior of the function $g(x) = \cos(x) - 2x - 4$?)
+
+\vfill
+\ee
+
+
+\end{enumerate}
+\end{document}
