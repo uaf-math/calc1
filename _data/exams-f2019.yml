@@ -17,5 +17,10 @@ midterm2:
       blank: Midterm-2-fall-19-v2.pdf
       solutions: Midterm-2-fall-19-v2-s.pdf
 final:
-  blank: Final.pdf
-  solutions: Final-Sols.pdf
+  versions:
+    - name: v1
+      blank: F2019_Final_Exam-v1-.pdf
+      solutions: F2019_Final_Exam-v1-s.pdf
+    - name: v2
+      blank: F2019_Final_Exam-v2.pdf
+      solutins: F2019_Final_Exam-v2-s.pdf
