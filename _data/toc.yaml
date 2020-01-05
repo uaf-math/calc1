@@ -2,14 +2,14 @@ sidenav_title: 'Math 251'
 
 docs:
 
-- title: Syllabus
+- title: FIXME Syllabus
   url: assets/general/Fall2019/MATH251-Syllabus-F2019-generic.pdf
 
-- title: Schedule
+- title: FIXME Schedule
   url: assets/general/Fall2019/MATH251-Schedule-F2019.pdf
 
-- title: Instructor Info
-  url: assets/general/Fall2019/Calculus-1-Fall-2019-Instructor-Section-Info.pdf
+- title: FIXME Week One
+  url: week1.html
 
 - title: WebAssign
   url: webassign.html
@@ -17,7 +17,7 @@ docs:
 - title: Written Homework
   url: writtenhomework.html
   
-- title: In-Class Materials
+- title: FIXME In-Class Materials
   url: inclass-stuff-fall-2019.html
 
 - title: Quizzes
@@ -31,4 +31,7 @@ docs:
 
 - title: Other materials
   url: materials.html
+
+- title: FIXME Instructor Info
+  url: assets/general/Fall2019/Calculus-1-Fall-2019-Instructor-Section-Info.pdf
 

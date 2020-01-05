@@ -3,7 +3,7 @@ layout: course-page
 title: Week 1 Logistics
 ---
 
-### <span style="color:orange">WEBPAGE UNDER CONSTRUCTION FOR FALL 2019</span>
+### <span style="color:orange">WEBPAGE UNDER CONSTRUCTION FOR SPRING 2020</span>
 
 ### ALL DATES ARE SUBJECT TO CHANGE (OR WRONG)
 
