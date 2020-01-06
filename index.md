@@ -42,7 +42,10 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Sp
 
 * [Math & Stat Tutoring Lab](https://uaf.edu/dms/mathlab/math-and-stat-lab-schedul-1/)
 
-* FIXME: Individual instructors may have resources for their sections on their web sites: ...
+* FIXME: Individual instructors may have resources for their sections on their web sites:
+
+	- [Jill Faudree (office hours here)](https://http://jrfaudree.github.io/WeeklyScheduleS20.htm), section F01 (CRN 34485): [resources for F01](https://http://jrfaudree.github.io/M251S20/M251S20_home.html)
+	- [Ed Bueler (office hours here)](), section F02 (CRN 34486): [resources for F01]()
 
 <!-- * Individual instructors may have resources for their sections on their web sites:
 
