@@ -13,11 +13,11 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Sp
 
 ### Getting Started
 
-* A great place to start is to read the [FIXME: syllabus](assets/general/Fall2019/MATH251-Syllabus-F2019-generic.pdf).
+* A great place to start is to read the [syllabus](assets/general/Spring2020/MATH251-Syllabus-S2020-generic.pdf).
 
 * Your first assignments will be in [WebAssign](https://webassign.net/). Information about how to log on for the first time and our course code can be found at the [WebAssign](webassign) menu item on the left. Note that you gain access to an electronic copy of our textbook via WebAssign.
 
-* Check out the day-to-day [schedule](assets/general/Fall2019/MATH251-Schedule-F2019.pdf).
+* Check out the day-to-day [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf).
 
 * See the [FIXME: Week 1](week1) menu item to get started with the ALEKS PPL (placement, preparation, and learning) test.  You need to log in to ALEKS by Tuesday, August 27.  You will need to either complete 10 hours or 90% of your pie in ALEKS PPL's learning mode by the end of the day of Monday, September 2.
 
@@ -25,7 +25,7 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Sp
 
 ### Keeping up to date
 
-* You will want to look at the [FIXME: schedule](assets/general/Fall2019/MATH251-Schedule-F2019.pdf) regularly to be prepared for upcoming assignments and assessments.
+* You will want to look at the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf) regularly to be prepared for upcoming assignments and assessments.
 
 * The [FIXME: In-Class Materials](inclass-stuff-fall-2019) menu link will hold any worksheets or other material handed out in class.
 
