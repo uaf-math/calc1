@@ -7,7 +7,7 @@ Miscellaneous materials such as handouts and some worksheets.  See also the [mai
 
 ## Fall 2019
 
-All the materials from both in-person sections of Calculus I can be found on [this](https://uaf-math251.github.io/inclass-stuff-fall-2019.html) page.
+All the materials from both in-person sections of Calculus I can be found [HERE.](https://uaf-math251.github.io/inclass-stuff-fall-2019.html)
 
 ## Spring 2019
 
