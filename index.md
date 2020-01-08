@@ -19,7 +19,7 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Sp
 
 * Check out the day-to-day [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf).
 
-* See the [FIXLINK: Week 1](week1) menu item to get started with the ALEKS PPL (placement, preparation, and learning) test.  You need to log in to ALEKS by Tuesday, January 14.  You will need to either complete 10 hours or 90% of your pie in ALEKS PPL's learning mode by the end of the day of Monday, January 20.
+* See the [Week 1](week1) menu item to get started with the ALEKS PPL (placement, preparation, and learning) test.  You need to log in to ALEKS by Tuesday, January 14.  You will need to either complete 10 hours or 90% of your pie in ALEKS PPL's learning mode by the end of the day of Monday, January 20.
 
 * Go to [FIXLINK: youcanbook.me site](https://doodle.com/poll/cr28umftgm2be6f5) to choose a two-hour block for the proctored ALEKS PPL assessment (= Quiz 1) on Tuesday, January 21. 
 
