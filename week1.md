@@ -15,22 +15,22 @@ title: Week 1 Logistics
 
 The first homework and quiz of the class use the online software ALEKS PPL to help you review past prerequisite skills.  You need to accomplish the following steps.
 
-1. By Tuesday, January 15, log into ALEKS PPL **using the 
+1. By Tuesday, January 14, log into ALEKS PPL **using the 
    instructions below**.  This is a different process from the 
    UAF ALEKS placement test you may have used in the past.
 
-2. Take an initial assessment in ALEKS PPL by Wednesday, January 16 at 11:59pm.  This
+2. Take an initial assessment in ALEKS PPL by Wednesday, January 15 at 11:59pm.  This
    assessment will be used to determine the skills you need to practice.
 
 3. Using ALEKS PPL's learning mode, either complete 90% of your pie, or spend
-   10 hours in it reviewing.  You have until Monday, January 21 at 11:59pm to finish this task, which will count as your first homework grade.
+   10 hours in it reviewing.  You have until Monday, January 20 at 11:59pm to finish this task, which will count as your first homework grade.
 
-4. Schedule a two-hour timeslot to take Quiz 1 on Tuesday, January 22.
+4. Schedule a two-hour timeslot to take Quiz 1 on Tuesday, January 21.
 
 ## How to first log into ALEKS PPL.
 
 1. You will need two codes before you begin
-	* The course code, **YKTTR-MYFNJ**.
+	* The course code, **4JTUU-AQVJ9**.
 	* Your personal ALEKS access code, which you can access
 	  from within BlackBoard.  Go to our course and then `My Grades`.  Your
 	  ALEKS access code will be the first entry in the grade spreadsheet.
@@ -40,7 +40,7 @@ The first homework and quiz of the class use the online software ALEKS PPL to he
 
    <div class='x-scroll'><p><img src="assets/ALEKS/login.png" alt="login" width="350px" /></p></div>
 
-3. Enter the class code **YKTTR-MYFNJ** in the next screen.
+3. Enter the class code **4JTUU-AQVJ9** in the next screen.
 
    <div class='x-scroll'><p><img src="assets/ALEKS/classcode.png" alt="class code" width="350px" /></p></div>
 
