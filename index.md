@@ -42,17 +42,13 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Sp
 
 * [Math & Stat Tutoring Lab](https://uaf.edu/dms/mathlab/math-and-stat-lab-schedul-1/)
 
-* FIXME: Individual instructors may have resources for their sections on their web sites:
+* Individual instructors may have resources for their sections on their web sites:
 
 	- [Jill Faudree (office hours here)](https://http://jrfaudree.github.io/WeeklyScheduleS20.htm), section F01 (CRN 34485): [resources for F01](https://http://jrfaudree.github.io/M251S20/M251S20_home.html)
-	- [Ed Bueler (office hours here)](), section F02 (CRN 34486): [resources for F01]()
-
-<!-- * Individual instructors may have resources for their sections on their web sites:
-
-	- (TBA) We may want to link to blackboard (one link to F01-F02, one for UX1)
-	- [John Rhodes (office hours here)](https://jarhodesuaf.github.io/), section F01 (CRN 33883): [resources for F01](https://jarhodesuaf.github.io/M251.html)
-	- [Ed Bueler](http://bueler.github.io) ([office hours here](http://bueler.github.io/OffHrs.htm)), section F02 (CRN 33884): [resources for F02](http://bueler.github.io/M251S19_F02/index.html) -->
+	- [Ed Bueler](http://bueler.github.io) ([office hours here](http://bueler.github.io/OffHrs.htm)), section F02 (CRN 34486): [FIXME: resources for F02](http://bueler.github.io)
 
 <br>
 [<img src="GitHub-Mark-32px.png" align="right">](https://github.com/uaf-math251/uaf-math251.github.io "This page is a github repo.")
+
+<!-- empty comment -->
 
