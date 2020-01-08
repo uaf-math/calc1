@@ -5,7 +5,7 @@ title: In Class Materials
 
 ## In Class Materials from FALL 2019
 
-<span style="color:red">some **These materials are no longer current.** text</span>
+<span style="color:red"> **These materials are no longer current.**</span>
 
 # Week 15
 
