@@ -15,19 +15,22 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Sp
 
 * A great place to start is to read the [syllabus](assets/general/Spring2020/MATH251-Syllabus-S2020-generic.pdf).
 
-* Your first assignments will be in [WebAssign](https://webassign.net/). Information about how to log on for the first time and our course code can be found at the [WebAssign](webassign) menu item on the left. Note that you gain access to an electronic copy of our textbook via WebAssign.
+* Your first assignments will be in [FIX ME WebAssign](https://webassign.net/). Information about how to log on for the first time and our course code can be found at the [WebAssign](webassign) menu item on the left. Note that you gain access to an electronic copy of our textbook via WebAssign.
 
 * Check out the day-to-day [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf).
 
-* See the [FIXME: Week 1](week1) menu item to get started with the ALEKS PPL (placement, preparation, and learning) test.  You need to log in to ALEKS by Tuesday, August 27.  You will need to either complete 10 hours or 90% of your pie in ALEKS PPL's learning mode by the end of the day of Monday, September 2.
+* See the [FIXLINK: Week 1](week1) menu item to get started with the ALEKS PPL (placement, preparation, and learning) test.  You need to log in to ALEKS by Tuesday, January 14.  You will need to either complete 10 hours or 90% of your pie in ALEKS PPL's learning mode by the end of the day of Monday, January 20.
 
-* Go to [FIXME: the doodle poll](https://doodle.com/poll/cr28umftgm2be6f5) to choose a two-hour block for the proctored ALEKS assessment (= Quiz 1) on Tuesday September 3.  The blocks are 8am-10am, 10am-12, 12-2pm, and 4-6pm; you can only choose one and space is limited.
+* Go to [FIXLINK: youcanbook.me site](https://doodle.com/poll/cr28umftgm2be6f5) to choose a two-hour block for the proctored ALEKS PPL assessment (= Quiz 1) on Tuesday, January 21. 
 
 ### Keeping up to date
 
 * You will want to look at the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf) regularly to be prepared for upcoming assignments and assessments.
 
-* The [FIXME: In-Class Materials](inclass-stuff-fall-2019) menu link will hold any worksheets or other material handed out in class.
+* Handouts and worksheets for individual sections can be found at the instructor's webpage: 
+
+	- instructor: Jill Faudree [resources for F01](https://http://jrfaudree.github.io/M251S20/M251S20_home.html)
+	- instructor: Ed Bueler [FIXME resources for F02](http://bueler.github.io)
 
 * Make a little progress on WebAssign problems as often as you can, and don't lose track of when they are due.
 
