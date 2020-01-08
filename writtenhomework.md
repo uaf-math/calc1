@@ -18,5 +18,6 @@ Usually homework consists of working problems from your textbook on your paper, 
 
 #### Past Semesters:
 
+  * [Fall 2019](written-homework-f2019)  
   * [Spring 2019](writtenhomework-s2019)
 
