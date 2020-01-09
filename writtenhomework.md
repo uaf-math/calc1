@@ -13,7 +13,7 @@ Usually homework consists of working problems from your textbook on your paper, 
 **A copy of Written Homework 1 is here: [WRH 1](assets/materials/Fall2019/Quiz-1-Syllabus.pdf)**
 
 
-{% include homeworktable.md  data=site.data.written-homework-f2019%}
+{% include homeworktable.md  data=site.data.writtenhomework-s2020%}
 
 
 #### Past Semesters:
