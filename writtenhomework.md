@@ -5,13 +5,7 @@ title: Written Homework
 
 ## Written Homework
 
-Written Homework (WRH) is due according to the [weekly course schedule](assets/general/Fall2019/MATH251-Schedule-F2019.pdf) (see tab at left), usually but not always on Mondays.  Written Homework is always due at the start of class.  After it is collected, the solutions will be posted at the [Blackboard site](https://classes.alaska.edu/).
-
-Usually homework consists of working problems from your textbook on your paper, however the first written homework asks questions about the syllabus. 
-
-
-**A copy of Written Homework 1 is here: [WRH 1](assets/materials/Fall2019/Quiz-1-Syllabus.pdf)**
-
+Written Homework (WRH) is due according to the [weekly course schedule](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf) (see tab at left), usually but not always on Mondays.  Written Homework is always due at the start of class.  Solutions are posted at the [Blackboard site](https://classes.alaska.edu/).
 
 {% include homeworktable.md  data=site.data.writtenhomework-s2020%}
 
