@@ -56,7 +56,7 @@
 - name: WRH 8 
   problems:
     - section: 4.1
-      exercises: 11, 24, 28, 38, 44, 53, 60, 70
+      exercises: 11, 24, 28, 38, 43, 44, 53, 60, 70
     - section: 4.2
       exercises: 8, 14, 18, 20, 26
 
@@ -64,14 +64,10 @@
   problems:
     - section: 4.3
       exercises: 12, 16, 21, 22, 28, 52, 70
-    - section: "Note"
-      exercises: Problem 72 was removed from this list.
     - section: 4.4
       exercises: 10, 16, 24, 34, 53, 58
     - section: 4.5
-      exercises: 13, 15, 22, 28, 42
-    - section: "Note"
-      exercises: See Blackboard for help on Section 4.5.
+      exercises: 13, 15, 22, 28, 42, 44
 
 - name: WRH 10  
   problems:
@@ -83,9 +79,9 @@
 - name: WRH 11  
   problems:
     - section: 5.1
-      exercises: 8, 13, 18
+      exercises: 8, 13, 18, 22
     - section: 5.2
-      exercises: 38, 40, 44, 51
+      exercises: 21, 38, 40, 44, 49, 51
 
 - name: WRH 12  
   problems:
