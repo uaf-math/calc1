@@ -15,7 +15,7 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Sp
 
 * A great place to start is to read the [syllabus](assets/general/Spring2020/MATH251-Syllabus-S2020-generic.pdf).
 
-* Your first assignments will be in [FIX ME WebAssign](https://webassign.net/). Information about how to log on for the first time and our course code can be found at the [WebAssign](webassign) menu item on the left. Note that you gain access to an electronic copy of our textbook via WebAssign.
+* Your first assignments will be in [WebAssign](https://webassign.net/). Information about how to log on for the first time and our course code can be found at the [WebAssign](webassign) menu item on the left. Note that you gain access to an electronic copy of our textbook via WebAssign.
 
 * Check out the day-to-day [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf).
 
