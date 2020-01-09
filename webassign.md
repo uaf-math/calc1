@@ -5,13 +5,15 @@ title: WebAssign
 
 ## WebAssign
 
+Because we begin the semester working in ALEKS, the WebAssign course opens on Tuesday January 21. Your first WebAssign problem set is due on Friday January 24.
+
 To start using WebAssign, you will need two codes:
 
-1. Our Class Key: **uaf 1299 0905**
+1. Our Class Key: **uaf 4834 8780**
 
 2. Your personal WebAssign access code.  Texts purchased from the UAF  bookstore include one; otherwise, a code can be purchased from WebAssign directly.
 
-Note WebAssign can be used for two weeks in a "trial" period which ends Sunday September 8 2019.  You can take advantage of this period if you are uncertain about you placement in this class.
+Note WebAssign can be used for two weeks in a "trial" period which ends Monday, February 3 2020.  You can take advantage of this period if you are uncertain about you placement in this class.
 
 <div style="padding-top: 20px"></div>
 <center><a class="button" href="https://webassign.net">Go To WebAssign</a></center>
