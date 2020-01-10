@@ -21,7 +21,7 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Sp
 
 * See the [Week 1](week1) menu item to get started with the ALEKS PPL (placement, preparation, and learning) test.  You need to log in to ALEKS by Tuesday, January 14.  You will need to either complete 10 hours or 90% of your pie in ALEKS PPL's learning mode by the end of the day of Monday, January 20.
 
-* Go to [FIXLINK: youcanbook.me site](https://doodle.com/poll/cr28umftgm2be6f5) to choose a two-hour block for the proctored ALEKS PPL assessment (= Quiz 1) on Tuesday, January 21. 
+* Go to [youcanbook.me link](https://mathpretest.youcanbook.me) to choose a two-hour block for the proctored ALEKS PPL assessment (= Quiz 1) on Tuesday, January 21. 
 
 ### Keeping up to date
 
