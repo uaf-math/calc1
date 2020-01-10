@@ -10,6 +10,7 @@ title: Week 1 Logistics
 * [Week 1 Logistics](#week-1-logistics)
 * [How to first log into ALEKS PPL](#how-to-first-log-into-aleks-ppl)
 * [Working with ALEKS PPL](#working-with-aleks-ppl)
+* [Sign up for proctored ALEKS PPL (#sign-up)
 
 ## Week 1 Logistics
 
@@ -62,4 +63,8 @@ Now that you have logged in to ALEKS PPL, it will give you a tutorial on how to 
 After your assessment is complete, you'll want to start working with the Prep and Learning Module.
 
 You'll need to either spend at least 10 hours using the learning module, or complete 90% of your pie.  You can see your progress by clicking on Reports in the menu at the upper left-hand corner of the learning module screen.
+
+## Sign up
+
+Go to the [youcanbook.me site](https://mathpretest.youcanbook.me) to choose a two-hour block during which you will take a  **proctored** ALEKS PPL placement test that will be your Quiz 1 grade.
 
