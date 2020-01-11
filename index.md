@@ -30,7 +30,7 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Sp
 * Handouts and worksheets for individual sections can be found at the instructor's webpage: 
 
 	- instructor: Jill Faudree [resources for F01](http://jrfaudree.github.io/M251S20/M251S20_home.html)
-	- instructor: Ed Bueler [FIXME resources for F02](http://bueler.github.io)
+	- instructor: Ed Bueler [resources for F02](http://bueler.github.io/M251S20_F02/index.html)
 
 * Make a little progress on WebAssign problems as often as you can, and don't lose track of when they are due.
 
@@ -48,7 +48,7 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Sp
 * Individual instructors may have resources for their sections on their web sites:
 
 	- [Jill Faudree](http://jrfaudree.github.io/) [(office hours here)](https://docs.google.com/spreadsheets/d/1TXAjjZWM5vW_S0Cgorh7QCaaLZzGPvLqiMrqBrfONx8/edit?usp=sharing), section F01 (CRN 34485): [resources for F01](http://jrfaudree.github.io/M251S20/M251S20_home.html)
-	- [Ed Bueler](http://bueler.github.io) ([office hours here](http://bueler.github.io/OffHrs.htm)), section F02 (CRN 34486): [FIXME: resources for F02](http://bueler.github.io)
+	- [Ed Bueler](http://bueler.github.io) ([office hours here](http://bueler.github.io/OffHrs.htm)), section F02 (CRN 34486): [resources for F02](http://bueler.github.io/M251S20_F02/index.html)
 
 <br>
 [<img src="GitHub-Mark-32px.png" align="right">](https://github.com/uaf-math251/uaf-math251.github.io "This page is a github repo.")
