@@ -5,11 +5,7 @@ title: Math F251 Calculus I at UAF
 
 <!-- ### <span style="color:orange">WEBPAGE UNDER CONSTRUCTION FOR XXX YYYY</span> -->
 
-<span style="color:orange">WEBPAGE UNDER CONSTRUCTION FOR SPRING 2020</span>
-
-### ALL DATES ARE SUBJECT TO CHANGE
-
-Welcome to the central homepage for all in-person sections of Calculus I in **Spring 2020**.  We are in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
+Welcome to the central homepage for all in-person sections of MATH 251 Calculus I in **Spring 2020**.  We are in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
 
 ### Getting Started
 
@@ -17,7 +13,7 @@ Welcome to the central homepage for all in-person sections of Calculus I in **Sp
 
 * Your first assignments will be in [WebAssign](https://webassign.net/). Information about how to log on for the first time and our course code can be found at the [WebAssign](webassign) menu item on the left. Note that you gain access to an electronic copy of our textbook via WebAssign.
 
-* Check out the day-to-day [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf).
+* Check out the day-to-day [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf).  (All dates are subject to change!)
 
 * See the [Week 1](week1) menu item to get started with the ALEKS PPL (placement, preparation, and learning) test.  You need to log in to ALEKS by Tuesday, January 14.  You will need to either complete 10 hours or 90% of your pie in ALEKS PPL's learning mode by the end of the day of Monday, January 20.
 

@@ -3,14 +3,10 @@ layout: course-page
 title: Week 1 Logistics
 ---
 
-### <span style="color:orange">WEBPAGE UNDER CONSTRUCTION FOR SPRING 2020</span>
-
-### ALL DATES ARE SUBJECT TO CHANGE (OR WRONG)
-
 * [Week 1 Logistics](#week-1-logistics)
 * [How to first log into ALEKS PPL](#how-to-first-log-into-aleks-ppl)
 * [Working with ALEKS PPL](#working-with-aleks-ppl)
-* [Sign up for proctored ALEKS PPL (#sign-up)
+* [Sign up for proctored ALEKS PPL](#sign-up)
 
 ## Week 1 Logistics
 
