@@ -1,9 +1,12 @@
 semester: Spring 2020
 home: assets/quizzes/Spring2020
 quizzes:
-  - name: Quiz 1
+  - name: Quiz 2
     versions:
       - name: Version 1
-        blank: FIXME # file name here, from above "home" directory
-        solutions: FIXME # file name here, from above "home" directory
+        blank: Quiz-2-v1.pdf
+        solutions: Quiz-2-v1-Sols.pdf
+      - name: Version 2
+        blank: Quiz-2-v2.pdf
+        solutions: Quiz-2-v2-Sols.pdf
 
