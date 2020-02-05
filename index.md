@@ -41,7 +41,7 @@ Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **S
 
 * Grades and written homework solutions are available at [BlackBoard](https://classes.alaska.edu).
 
-* [Math & Stat Tutoring Lab](https://uaf.edu/dms/mathlab/math-and-stat-lab-schedul-1/)
+* [Math & Stat Tutoring Lab](https://www.uaf.edu/dms/mathlab/index.php)
 
 * Individual instructors may have resources for their sections on their web sites:
 
