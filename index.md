@@ -21,7 +21,9 @@ Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **S
 * Go to [youcanbook.me link](https://mathpretest.youcanbook.me) to choose a two-hour block for the proctored ALEKS PPL assessment (= Quiz 1) on Tuesday, January 21. 
 -->
 
+<!-- 
 #### <span style="color:orange">For sections F01 and F02, Midterm I is on Wednesday 12 February in Chapman 106 at 5-6pm _or_ 6-7pm.</span>  Make sure to come at one time or the other!
+-->
 
 ### Keeping up to date
 
