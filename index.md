@@ -5,7 +5,7 @@ title: Math F251 Calculus I at UAF
 
 <!-- ### <span style="color:orange">WEBPAGE UNDER CONSTRUCTION FOR XXX YYYY</span> -->
 
-Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **Spring 2020**.  We are in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/).
+Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **Spring 2020**.
 
 <!-- NOTHING HERE IS LOST; IT IS ALL ON THE MENUS AT LEFT
 ### Getting Started
@@ -27,33 +27,33 @@ Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **S
 
 ### Keeping up to date
 
-* See the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf) regularly to be prepared for upcoming assignments and assessments.
+* See the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf) regularly.  Be prepared for upcoming assignments and assessments.
 
-* Handouts and worksheets for individual sections are found at instructor's pages: 
+* Handouts and worksheets for individual sections are at instructor's pages: 
 
 	- instructor: Jill Faudree [resources for F01](http://jrfaudree.github.io/M251S20/M251S20_home.html)
 	- instructor: Ed Bueler [resources for F02](http://bueler.github.io/M251S20_F02/index.html)
 
 * Make progress on [WebAssign](https://webassign.net/) problems as often as you can, and don't lose track of when they are due.
 
-* Check what problems are on the next [Written Homework](writtenhomework), and when it is due.
+* Check what problems are on the next [Written Homework](writtenhomework).  (For due dates see the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf).)
 
-* Find examples of previous assessments at the [Quizzes](quizzes), [Proficiencies](proficiencies), and [Exams](exams) tabs at left.
+* Find examples of previous [Quizzes](quizzes), [Proficiencies](proficiencies), and [Exams](exams), with solutions, on the tabs at left.
+
+* Grades and written homework solutions are at [BlackBoard](https://classes.alaska.edu).
 
 
 ### Important Links
 
-* Grades and written homework solutions are available at [BlackBoard](https://classes.alaska.edu).
-
 * [Math & Stat Tutoring Lab](https://www.uaf.edu/dms/mathlab/index.php)
 
-* Individual instructors may have resources for their sections on their web sites:
+* Individual instructor/section links:
 
 	- [Jill Faudree](http://jrfaudree.github.io/) [(office hours)](https://docs.google.com/spreadsheets/d/1TXAjjZWM5vW_S0Cgorh7QCaaLZzGPvLqiMrqBrfONx8/edit?usp=sharing), section F01 (CRN 34485): [resources for F01](http://jrfaudree.github.io/M251S20/M251S20_home.html)
 	- [Ed Bueler](http://bueler.github.io) ([office hours](http://bueler.github.io/OffHrs.htm)), section F02 (CRN 34486): [resources for F02](http://bueler.github.io/M251S20_F02/index.html)
 
 <br>
-[<img src="GitHub-Mark-32px.png" align="right">](https://github.com/uaf-math251/uaf-math251.github.io "This page is a github repo.")
+_We are in the [Dept. of Mathematics and Statistics](http://www.uaf.edu/dms/) at the [University of Alaska Fairbanks](http://www.uaf.edu/)._  [<img src="GitHub-Mark-32px.png" align="right">](https://github.com/uaf-math251/uaf-math251.github.io "This page is a github repo.")
 
 <!-- empty comment -->
 
