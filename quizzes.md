@@ -5,7 +5,7 @@ title: Quizzes
 
 ## Quizzes
 
-_Links to quizzes, and solutions, for Spring 2020 will appear here as they are completed._
+Links to quizzes, and solutions, will appear here as they are completed.
 
 {% include quiz_table.md  data=site.data.quizzes-s2020%}
 
