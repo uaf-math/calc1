@@ -1,0 +1,11 @@
+semester: Spring 2020
+home: assets/proficiencies/Spring2020
+derivative:
+  versions:
+    - name: V1
+      blank: Derivative-v1.pdf
+      solutions: Derivative-v1-Sols.pdf
+    - name: V2
+      blank: Derivative-v2.pdf
+      solutions: Derivative-v2-Sols.pdf
+
