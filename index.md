@@ -12,11 +12,11 @@ Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **S
 >
 > ### <span style="color:orange">**Please watch here, and your email, for updates.**</span>
 > 
-> **To slow the spread of the coronavirus COVID-19, the University of Alaska has extended Spring Break by one week.  Furthermore, starting Monday 23 March 2020 all courses will be online.  Please see the [UA information page about coronavirus](https://sites.google.com/alaska.edu/coronavirus/), and follow links to the UA President's policy guidance, to a FAQ page, and etc.**
+> **To slow the spread of the coronavirus COVID-19, the University of Alaska has extended Spring Break by one week.  Furthermore, starting Monday 23 March 2020 all lectures will be online.  Please see the [UA information page about coronavirus](https://sites.google.com/alaska.edu/coronavirus/), and follow links to the UA President's policy guidance, to a FAQ page, and etc.**
 >
 > **Therefore, starting 23 March, this course will be online for all sections.  Changes to the syllabus will be necessary.  The Calculus I instructors (Faudree, Bueler, van Spronsen) will be formulating an updated plan and we will post it here.  We will also post a revised syllabus and schedule.  Please watch your email for announcements.  We ask you to be patient as this happens, but please feel free to ask questions by email.**
 > 
-> **Regarding the main idea of "flattening the curve", to slow the spread of an infectious disease, see [this chart](https://www.sciencealert.com/dragging-out-the-coronavirus-epidemic-is-important-in-saving-lives) or [listen to this NPR piece](https://www.npr.org/player/embed/814603316/814603317).  As with so much, _calculus_.**
+> **Regarding slowing the spread of an infectious disease to "flatten the curve" see [this chart](https://www.sciencealert.com/dragging-out-the-coronavirus-epidemic-is-important-in-saving-lives) or [listen to this NPR piece](https://www.npr.org/player/embed/814603316/814603317).  As with so much, _calculus_.**
 <br>
 <br>
 
