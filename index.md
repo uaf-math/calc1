@@ -7,16 +7,26 @@ title: Math F251 Calculus I at UAF
 
 Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **Spring 2020**.
 
-<br>
-> ### <span style="color:orange">**Classes are cancelled 3/16--3/20.  Class will resume online on Monday 23 March 2020.**</span>
+> ### <span style="color:orange">**Classes are cancelled 3/16--3/20.  Class will resume ONLINE on Monday 23 March 2020.**</span>
 >
-> ### <span style="color:orange">**Please watch here, and your email, for updates.**</span>
-> 
-> **To slow the spread of the coronavirus COVID-19, the University of Alaska has extended Spring Break by one week.  Furthermore, starting Monday 23 March 2020 all lectures will be online.  Please see the [UA information page about coronavirus](https://sites.google.com/alaska.edu/coronavirus/), and follow links to the UA President's policy guidance, to a FAQ page, and etc.**
+> ### <span style="color:orange">**The following plans are tentative.  Watch here, and your email, for updates.**</span>
 >
-> **Therefore, starting 23 March, this course will be online for all sections.  Changes to the syllabus will be necessary.  The Calculus I instructors (Faudree, Bueler, van Spronsen) will be formulating an updated plan and we will post it here.  We will also post a revised syllabus and schedule.  Please watch your email for announcements.  We ask you to be patient as this happens, but please feel free to ask questions by email.**
-> 
-> **Regarding slowing the spread of an infectious disease to "flatten the curve" see [this chart](https://www.sciencealert.com/dragging-out-the-coronavirus-epidemic-is-important-in-saving-lives) or [listen to this NPR piece](https://www.npr.org/player/embed/814603316/814603317).  As with so much, it is _calculus_.**
+> * An [updated schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf) has been posted.  (The [original schedule is here](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf).)
+>
+> * In-person lectures will be replaced by online videos and guided activities.  At this point we expect the links to these videos to be at [BlackBoard](https://classes.alaska.edu).
+>
+> * In-person recitations with Dakota are cancelled.  At this point we expect instructors (Jill & Ed) and teaching assistant (Dakota) to have online office hours through Zoom or Google Hangouts.
+>
+> * [WebAssign](https://webassign.net/) due dates have been adjusted to match the updated schedule.  As usual, [WebAssign homework (WA)](https://webassign.net/) is due by 11PM on the due date.
+>
+> * [Written Homework (WRH)](writtenhomework) is no longer turned in for a grade.  However, any student who intends to pass this class must still work every problem by the due date.  See the completion dates on the updated schedule.
+>
+> * [Quizzes](quizzes) are now take-home.  Blank Quizzes will be posted on the Quiz tab (at left) on Monday
+morning 8 am (AK time).  They are due Tuesday by 12 noon (AK time).  Students should scan or photograph or save their work as a PDF and submit it via a Google Forms link which will also be on the [Quizzes tab](quizzes).  Quizzes will be corrected but only graded based on completion and effort.
+>
+> * We are trying to determine what arrangements, if any, can be made for proctoring Proficiencies and Exams.  We will post information about this here, and post a revised syllabus, when that becomes clear.
+>
+> **Please see the [UA information page about coronavirus](https://sites.google.com/alaska.edu/coronavirus/), and follow links to the UA President's policy guidance, to a FAQ page, and etc.  Regarding slowing the spread of an infectious disease to "flatten the curve" see [this chart](https://www.sciencealert.com/dragging-out-the-coronavirus-epidemic-is-important-in-saving-lives) or [listen to this NPR piece](https://www.npr.org/player/embed/814603316/814603317).  As with so much, it is _calculus_.**
 <br>
 <br>
 
@@ -40,7 +50,7 @@ Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **S
 
 ### Keeping up to date
 
-* See the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf) regularly.  Be prepared for upcoming assignments and assessments.
+* See the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf) regularly.  Be prepared for upcoming assignments and assessments.
 
 * Handouts and worksheets for individual sections are at instructor's pages: 
 
@@ -49,7 +59,7 @@ Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **S
 
 * Make progress on [WebAssign](https://webassign.net/) problems as often as you can, and don't lose track of when they are due.
 
-* Check what problems are on the next [Written Homework](writtenhomework).  (For due dates see the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf).)
+* Check what problems are on the next [Written Homework](writtenhomework).  (For due dates see the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf).)
 
 * Find examples of previous [Quizzes](quizzes), [Proficiencies](proficiencies), and [Exams](exams), with solutions, on the tabs at left.
 
