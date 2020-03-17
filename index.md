@@ -15,7 +15,7 @@ Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **S
 >
 > * <span style="color:orange">**UPDATED 3/17.**</span> Additional materials, including videos, are available and organized by section.  See the _Fall 2017 Class Videos_ tab at [BlackBoard](https://classes.alaska.edu).  Worksheets and their solutions, for all upcoming sections, are at the [In-class materials from Fall 2019](inclass-stuff-fall-2019) page.
 >
-> * In-person recitations with Dakota are cancelled.  At this point we expect instructors (Jill & Ed) and teaching assistant (Dakota) to have online office hours through Zoom or Google Hangouts.
+> * In-person recitations with Dakota are cancelled.  Instructors (Jill & Ed) and teaching assistant (Dakota) will have online office hours through Zoom or Google Hangouts.
 >
 > * [WebAssign](https://webassign.net/) due dates have been adjusted to match the updated schedule.  As usual, [WebAssign homework (WA)](https://webassign.net/) is due by 11PM on the due date.
 >
