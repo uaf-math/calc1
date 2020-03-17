@@ -7,7 +7,7 @@ title: Math F251 Calculus I at UAF
 
 Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **Spring 2020**.
 
-> ### <span style="color:orange">**This class will resume ONLINE on Monday 23 March 2020.  The following plans are tentative.  Watch here, and your email, for updates.**</span>
+> ### <span style="color:orange">**This class will resume ONLINE on Monday 23 March 2020.  Watch here, and your email, for updates.**</span>
 >
 > * An [updated schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf) has been posted.  (For reference only, the [original schedule is here](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf).)
 >
@@ -23,7 +23,7 @@ Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **S
 >
 > * <span style="color:orange">**UPDATED 3/17.**</span>  [Quizzes](quizzes) are now take-home.  Blank Quizzes will be posted on the Quiz tab (at left) on Tuesday morning at 8 am (AK time).  They are due Wednesday by 5 pm (AK time), but we expect most students to complete them by the end of the day Tuesday.  No late quizzes will be accepted!  Students should scan or photograph or save their work as a PDF and submit it via a Google Forms link which will also be on the [Quizzes tab](quizzes).  Quizzes will be corrected, but the grade will be assigned based on completion and effort.
 >
-> * We are trying to determine what arrangements, if any, can be made for proctoring Proficiencies and Exams.  We will post information about this here, and post a revised syllabus, when that becomes clear.
+> * These plans are necessarily tentative, in part because guidance from the UA administration is evolving.  We are trying to determine what arrangements, if any, can be made for proctoring Proficiencies and Exams.  We will post information about this here, and post a revised syllabus, when that becomes clear.
 >
 > **Please see the [UA information page about coronavirus](https://sites.google.com/alaska.edu/coronavirus/), and follow links to the UA President's policy guidance, to a FAQ page, and etc.  Regarding slowing the spread of an infectious disease to "flatten the curve" see [this chart](https://www.sciencealert.com/dragging-out-the-coronavirus-epidemic-is-important-in-saving-lives) or [listen to this NPR piece](https://www.npr.org/player/embed/814603316/814603317).  As with so much, it is _calculus_.**
 <br>
