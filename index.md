@@ -11,9 +11,9 @@ Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **S
 >
 > * An [updated schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf) has been posted.  (For reference only, the [original schedule is here](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf).)
 >
-> * <span style="color:orange">**UPDATED.**</span> In-person lectures will be replaced by online videos and guided activities.  Links to these videos are at [BlackBoard](https://classes.alaska.edu).  See the _Spring 2020 Videos_ tab at Blackboard, and please read the "best practices" notice first.  These video lectures will point-out which Written Homework problems you should do to check your understanding, and this content replaces (as much as we can) our in-person worksheets.
+> * <span style="color:orange">**UPDATED 3/17.**</span> In-person lectures will be replaced by online videos and guided activities.  Links to these videos are at [BlackBoard](https://classes.alaska.edu).  See the _Spring 2020 Videos_ tab at Blackboard, and please read the "best practices" notice first.  These video lectures will point-out which Written Homework problems you should do to check your understanding, and this content replaces (as much as we can) our in-person worksheets.
 >
-> * <span style="color:orange">**UPDATED.**</span> Additional materials, including videos, are available and organized by section.  See the _Fall 2017 Class Videos_ tab at [BlackBoard](https://classes.alaska.edu).  Worksheets and their solutions, for all upcoming sections, are at the [In-class materials from Fall 2019](inclass-stuff-fall-2019) page.
+> * <span style="color:orange">**UPDATED 3/17.**</span> Additional materials, including videos, are available and organized by section.  See the _Fall 2017 Class Videos_ tab at [BlackBoard](https://classes.alaska.edu).  Worksheets and their solutions, for all upcoming sections, are at the [In-class materials from Fall 2019](inclass-stuff-fall-2019) page.
 >
 > * In-person recitations with Dakota are cancelled.  At this point we expect instructors (Jill & Ed) and teaching assistant (Dakota) to have online office hours through Zoom or Google Hangouts.
 >
@@ -21,7 +21,7 @@ Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **S
 >
 > * [Written Homework (WRH)](writtenhomework) is no longer turned in for a grade.  However, any student who intends to pass this class must still work every problem by the due date.  See the completion dates on the updated schedule.
 >
-> * <span style="color:orange">**UPDATED.**</span>  [Quizzes](quizzes) are now take-home.  Blank Quizzes will be posted on the Quiz tab (at left) on Tuesday morning at 8 am (AK time).  They are due Wednesday by 5 pm (AK time), but we expect most students to complete them by the end of the day Tuesday.  No late quizzes will be accepted!  Students should scan or photograph or save their work as a PDF and submit it via a Google Forms link which will also be on the [Quizzes tab](quizzes).  Quizzes will be corrected, but the grade will be assigned based on completion and effort.
+> * <span style="color:orange">**UPDATED 3/17.**</span>  [Quizzes](quizzes) are now take-home.  Blank Quizzes will be posted on the Quiz tab (at left) on Tuesday morning at 8 am (AK time).  They are due Wednesday by 5 pm (AK time), but we expect most students to complete them by the end of the day Tuesday.  No late quizzes will be accepted!  Students should scan or photograph or save their work as a PDF and submit it via a Google Forms link which will also be on the [Quizzes tab](quizzes).  Quizzes will be corrected, but the grade will be assigned based on completion and effort.
 >
 > * We are trying to determine what arrangements, if any, can be made for proctoring Proficiencies and Exams.  We will post information about this here, and post a revised syllabus, when that becomes clear.
 >
@@ -47,7 +47,7 @@ Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **S
 #### <span style="color:orange">For sections F01 and F02, Midterm I is on Wednesday 12 February in Chapman 106 at 5-6pm _or_ 6-7pm.</span>  Make sure to come at one time or the other!
 -->
 
-### Keeping up to date   <span style="color:orange">**(UPDATED)**</span>
+### Keeping up to date   <span style="color:orange">**(UPDATED 3/17)**</span>
 
 * See the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf) regularly.
 
