@@ -7,13 +7,13 @@ title: Math F251 Calculus I at UAF
 
 Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **Spring 2020**.
 
-> ### <span style="color:orange">**Classes are cancelled 3/16--3/20.  Class will resume ONLINE on Monday 23 March 2020.**</span>
+> ### <span style="color:orange">**This class will resume ONLINE on Monday 23 March 2020.  The following plans are tentative.  Watch here, and your email, for updates.**</span>
 >
-> ### <span style="color:orange">**The following plans are tentative.  Watch here, and your email, for updates.**</span>
+> * An [updated schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf) has been posted.  (For reference only, the [original schedule is here](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf).)
 >
-> * An [updated schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf) has been posted.  (The [original schedule is here](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf).)
+> * <span style="color:orange">**UPDATED.**</span> In-person lectures will be replaced by online videos and guided activities.  Links to these videos are at [BlackBoard](https://classes.alaska.edu).  See the _Spring 2020 Videos_ tab at Blackboard, and please read the "best practices" notice first.  These video lectures will point-out which Written Homework problems you should do to check your understanding, and this content replaces (as much as we can) our in-person worksheets.
 >
-> * In-person lectures will be replaced by online videos and guided activities.  At this point we expect the links to these videos to be at [BlackBoard](https://classes.alaska.edu).
+> * <span style="color:orange">**UPDATED.**</span> Additional materials, including videos, are available and organized by section.  See the _Fall 2017 Class Videos_ tab at [BlackBoard](https://classes.alaska.edu).  Worksheets and their solutions, for all upcoming sections, are at the [In-class materials from Fall 2019](inclass-stuff-fall-2019) page.
 >
 > * In-person recitations with Dakota are cancelled.  At this point we expect instructors (Jill & Ed) and teaching assistant (Dakota) to have online office hours through Zoom or Google Hangouts.
 >
@@ -21,8 +21,7 @@ Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **S
 >
 > * [Written Homework (WRH)](writtenhomework) is no longer turned in for a grade.  However, any student who intends to pass this class must still work every problem by the due date.  See the completion dates on the updated schedule.
 >
-> * [Quizzes](quizzes) are now take-home.  Blank Quizzes will be posted on the Quiz tab (at left) on Monday
-morning 8 am (AK time).  They are due Tuesday by 12 noon (AK time).  Students should scan or photograph or save their work as a PDF and submit it via a Google Forms link which will also be on the [Quizzes tab](quizzes).  Quizzes will be corrected but only graded based on completion and effort.
+> * <span style="color:orange">**UPDATED.**</span>  [Quizzes](quizzes) are now take-home.  Blank Quizzes will be posted on the Quiz tab (at left) on Tuesday morning at 8 am (AK time).  They are due Wednesday by 5 pm (AK time), but we expect most students to complete them by the end of the day Tuesday.  No late quizzes will be accepted!  Students should scan or photograph or save their work as a PDF and submit it via a Google Forms link which will also be on the [Quizzes tab](quizzes).  Quizzes will be corrected, but the grade will be assigned based on completion and effort.
 >
 > * We are trying to determine what arrangements, if any, can be made for proctoring Proficiencies and Exams.  We will post information about this here, and post a revised syllabus, when that becomes clear.
 >
@@ -48,22 +47,19 @@ morning 8 am (AK time).  They are due Tuesday by 12 noon (AK time).  Students sh
 #### <span style="color:orange">For sections F01 and F02, Midterm I is on Wednesday 12 February in Chapman 106 at 5-6pm _or_ 6-7pm.</span>  Make sure to come at one time or the other!
 -->
 
-### Keeping up to date
+### Keeping up to date   <span style="color:orange">**(UPDATED)**</span>
 
-* See the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf) regularly.  Be prepared for upcoming assignments and assessments.
+* See the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf) regularly.
 
-* Handouts and worksheets for individual sections are at instructor's pages: 
-
-	- instructor: Jill Faudree [resources for F01](http://jrfaudree.github.io/M251S20/M251S20_home.html)
-	- instructor: Ed Bueler [resources for F02](http://bueler.github.io/M251S20_F02/index.html)
+* Videos to watch are at [BlackBoard](https://classes.alaska.edu).
 
 * Make progress on [WebAssign](https://webassign.net/) problems as often as you can, and don't lose track of when they are due.
 
-* Check what problems are on the next [Written Homework](writtenhomework).  (For due dates see the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf).)
+* Do the problems on the next [Written Homework](writtenhomework).  (You will not turn in Written Homework, but it should be completed by the due dates on the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf).)  Solutions are at [BlackBoard](https://classes.alaska.edu).
 
 * Find examples of previous [Quizzes](quizzes), [Proficiencies](proficiencies), and [Exams](exams), with solutions, on the tabs at left.
 
-* Grades and written homework solutions are at [BlackBoard](https://classes.alaska.edu).
+* Grades are at [BlackBoard](https://classes.alaska.edu).
 
 
 ### Important Links
