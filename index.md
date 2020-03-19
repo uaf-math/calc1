@@ -7,14 +7,16 @@ title: Math F251 Calculus I at UAF
 
 Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **Spring 2020**.
 
-### <span style="color:orange">**This class will resume ONLINE on Monday 23 March 2020.  Watch here, and your email, for updates.**</span>
+### <span style="color:orange">**This class will resume ONLINE on Monday 23 March 2020.**</span>
 
 ### Online communication times (office hours):
 
 For homework help and any logistics you can contact _any instructor or the TA_ at any of the times they are online.
 
-* Faudree [via Zoom (MW 8:00--9:00, MW 10:30--11:30, ThF 8:00--10:15)](https://docs.google.com/spreadsheets/d/1TXAjjZWM5vW_S0Cgorh7QCaaLZzGPvLqiMrqBrfONx8/edit?usp=sharing) or email **jrfaudree@alaska.edu**
-* Bueler [via Google Hangouts (MWF 10:30--12:45, Th 11:30--12:30)](http://bueler.github.io/OffHrs.htm) or email **elbueler@alaska.edu**
+* Faudree [via Zoom (MW 8:00--9:00, MW 10:30--11:30, ThF 8:00--10:15)](https://docs.google.com/spreadsheets/d/1TXAjjZWM5vW_S0Cgorh7QCaaLZzGPvLqiMrqBrfONx8/edit?usp=sharing)
+    * or email **jrfaudree@alaska.edu**
+* Bueler [via Google Hangouts (MWF 10:30--12:45, Th 11:30--12:30)](http://bueler.github.io/OffHrs.htm)
+    * or email **elbueler@alaska.edu**
 * Dakota: TBA
 
 ### Keeping up to date
