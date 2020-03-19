@@ -11,7 +11,7 @@ Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **S
 
 ### <span style="color:orange">**But you can get started right now!**</span>
 
-### Online communication times (office hours):
+### Online communication times (online office hours):
 
 For homework help and any logistics you can contact _any instructor or the TA_ at any of the times they are online.
 
