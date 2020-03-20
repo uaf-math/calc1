@@ -31,15 +31,17 @@ For homework help and any logistics you can contact _any instructor or the TA_ a
 
 * Do the problems on the next [Written Homework](writtenhomework).  (You will not turn in Written Homework, but it should be completed by the due dates shown on the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf).)  Solutions are at [BlackBoard](https://classes.alaska.edu).
 
-* Find examples of previous [Quizzes](quizzes), [Proficiencies](proficiencies), and [Exams](exams), with solutions, on the tabs at left.
+* Find examples of previous [Quizzes](quizzes) and [Exams](exams), with solutions, on the tabs at left.
 
-* Grades are at [BlackBoard](https://classes.alaska.edu).
+* Grades and videos are at [BlackBoard](https://classes.alaska.edu).
 
-### <span style="color:orange">CURRENT PLAN 3/19:</span>
+### <span style="color:orange">CURRENT PLAN 3/20:</span>
 
+> * The [Syllabus has been updated](assets/general/Spring2020/MATH251-Syllabus-S2020-addendum.pdf) with new information about how your grade will be calculated.  (The [original Syllabus is here](assets/general/Spring2020/MATH251-Syllabus-S2020-generic.pdf).)
+>
 > * An [updated schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf) has been posted.  (For reference only, the [original schedule is here](assets/general/Spring2020/M251-Spring-2020-Schedule.pdf).)
 >
-> *  In-person lectures will be replaced by online videos and guided activities.  Links to these videos are at [BlackBoard](https://classes.alaska.edu).  See the _Spring 2020 Videos_ tab at Blackboard, and please read the "best practices" notice first.  These video lectures will point-out which Written Homework problems you should do to check your understanding, and this content replaces (as much as we can) our in-person worksheets.
+> *  In-person lectures will be replaced by online videos and guided activities.  Links to these videos are at [BlackBoard](https://classes.alaska.edu).  See the _Spring 2020 Videos_ tab at Blackboard, and please read the "best practices" notice first.  These video lectures will point-out which Written Homework problems you should do to check your understanding.  This content replaces (as much as we can) our in-person worksheets.
 >
 > * Additional materials, including videos, are available and organized by section.  See the _Fall 2017 Class Videos_ tab at [BlackBoard](https://classes.alaska.edu).  Worksheets and their solutions, for all upcoming sections, are at the [In-class materials from Fall 2019](inclass-stuff-fall-2019) page.
 >
@@ -51,11 +53,9 @@ For homework help and any logistics you can contact _any instructor or the TA_ a
 >
 > * [Written Homework (WRH)](writtenhomework) is no longer turned in for a grade.  However, any student who intends to pass this class must still work every problem by the due date.  See the completion dates on the updated schedule.
 >
-> * [Quizzes](quizzes) are now take-home.  Blank Quizzes will be posted on the Quiz tab (at left) on Tuesday morning at 8 am (AK time).  They are due Wednesday by 5 pm (AK time), but we expect most students to complete them by the end of the day Tuesday.  No late quizzes will be accepted!  Students should scan or photograph or save their work as a PDF and submit it via a Google Forms link which will also be on the [Quizzes tab](quizzes).  Quizzes will be corrected, but the grade will be assigned based on completion and effort.
+> * [Quizzes](quizzes) are now take-home.  Blank Quizzes will be posted on the Quiz tab (at left) on Tuesday morning at 8 am (AK time).  They are due Wednesday by 5 pm (AK time), but we expect most students to complete them by the end of the day Tuesday.  No late quizzes will be accepted!  Students should scan or photograph or save their work as a PDF.  Quizzes will be corrected, but the grade will be assigned based on completion and effort.
 >
-> * These plans are necessarily tentative, in part because guidance from the UA administration is evolving.  We are trying to determine what arrangements, if any, can be made for proctoring Proficiencies and Exams.  We will post information about this here, and post a revised syllabus, when that becomes clear.
->
-> **Please see the [UA information page about coronavirus](https://sites.google.com/alaska.edu/coronavirus/), and follow links to the UA President's policy guidance, to a FAQ page, and etc.  Regarding slowing the spread of an infectious disease to "flatten the curve" see [this chart](https://www.sciencealert.com/dragging-out-the-coronavirus-epidemic-is-important-in-saving-lives) or [listen to this NPR piece](https://www.npr.org/player/embed/814603316/814603317).  As with so much, it is _calculus_.**
+> * These plans are necessarily tentative, in part because guidance from the UA administration is evolving.  We will update the information here as things become clear.
 <br>
 <br>
 
@@ -80,7 +80,7 @@ For homework help and any logistics you can contact _any instructor or the TA_ a
 
 ### Important Links
 
-* [Math & Stat Tutoring Lab](https://www.uaf.edu/dms/mathlab/index.php)
+* The [Math & Stat Tutoring Lab](https://www.uaf.edu/dms/mathlab/index.php) is closed for in-person tutoring.  You can [sign up for online tutoring](https://fairbanks.go-redrock.com/).
 
 * Individual instructor/section links:
 

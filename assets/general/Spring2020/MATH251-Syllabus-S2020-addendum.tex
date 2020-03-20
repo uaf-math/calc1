@@ -1,0 +1,129 @@
+% !TEX TS-program = pdflatexmk
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{tabularx,colortbl}
+\usepackage{enumitem}
+
+\usepackage[colorlinks=true]{hyperref}
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+\def\tableindent{\hskip 0.5 in}
+\def\ts{\hskip 1.5 em}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy} 
+\lhead{\large\sf\textbf{MATH F251: Calculus I}}
+\rhead{\large\sf\textbf{Spring 2020 Syllabus ADDENDUM}}
+
+\newcommand{\localhead}[1]{\par\smallskip\textbf{#1}\nobreak\\}%
+\def\heading#1{\localhead{\large\emph{#1}}}
+\def\subheading#1{\localhead{\emph{#1}}}
+
+\newenvironment{clist}%
+{\bgroup\parskip 0pt\begin{list}{$\bullet$}{\partopsep 4pt\topsep 0pt\itemsep -2pt}}%
+{\end{list}\egroup}%
+
+
+\begin{document}
+
+Due to the changes in course structure and timing resulting from the Covid-19 pandemic, we make the following changes to the syllabus.  The situation is fluid and further changes may be necessary.
+
+\textbf{Timing:} Since this semester is one week shorter than anticipated, we will omit section 4.8 and will abbreviate the discussion in several other sections.
+
+\textbf{Replacement for In-class Meetings:} In-person classroom activities including instructor lectures and worksheets will be replaced by interactive videos posted on Blackboard. They will reflect changes in timing due to an abbreviated semester. Supplimentary materials and video lectures are, as always, available on the course webpage \href{https://uaf-math251.github.io/}{\texttt{uaf-math251.github.io}} and in Blackboard.
+
+\textbf{Office Hours:} Instructors will have regular office hours online, for example using Zoom or Google Hangouts. Instructions and access will be posted on Blackboard, on the course webpage, and on individual instructors' webpages.  In addition, instructors will respond daily via email.
+
+\textbf{Proficiencies:} Due to the impossibility of proctoring assessments, it is no longer possible to give retakes of the Derivative Proficiency or to give an Integral Proficiency at all. To ensure fairness to those students expecting to retake the Derivative Proficiency, in the new grading rubric (see below), students are given the option of including their Derivative Proficiency score or not including it. 
+
+\textbf{Written Homework:} Starting after March 23, Written Homework will not be turned in.  However, the posted assignments will remain at the website, and solutions will still be at Blackboard.  Any student who wishes to pass Calculus I must work all of these problems and check answers against the solutions.
+
+\textbf{Quizzes:} Due to impossibility of proctoring assessments, after March 23 all Quizzes will be take-home.  Students will be expected to submit an electronic form (PDF or image) of the completed quiz online.  These Quizzes will have a firm deadline and will be graded for completion and effort.
+
+\textbf{Midterm II and the Final Exam:} We still expect these assessments to occur at the dates appearing in the modified Day-to-Day Schedule. The precise details of how they will be administered is still a work in progress. We expect the protocol for the Midterm and the Final to be similar to the Take-Home Quizzes. Thus, students should consider quizzes not only as mathematical practice but also practice accessing online course materials and uploading completed work.
+
+%\textbf{Proctoring:} For now we assume that we will be able to proctor the following assessments:
+%
+%\vspace{-4mm}
+%\begin{itemize}[itemsep=2pt]
+%	\item one additional Derivative Proficiency
+%	\item Midterm 2
+%	\item one Integral Proficiency
+%	\item Final Exam
+%\end{itemize}
+
+%\vspace{-3mm}
+%\noindent The details of how this will occur are not right now clear. It is a work in progress.
+
+\textbf{New Grading Rubric:} In this new scheme, we will calculate each student's grade using Option 1 and Option 2 below and use whichever calculation gives a higher score. Option 1 incorporates the Derivative Proficiency score; Option 2 omits it altogether. 
+
+\begin{center}
+\begin{tabular}{cc}
+
+\begin{tabular}{|c|c|}
+\hline
+Option 1&\\
+\hline
+Webassign Homework& 5\%\\
+\hline
+Written Homework& 5\% \\
+\hline
+Quiz 1--5& 10\% \\
+\hline
+Remaining Quizzes& 5\% \\
+\hline
+Midterm 1 & 20\% \\
+\hline
+Derivative Proficiency& 10\%\\
+\hline
+Midterm 2 & 20\%  \\
+\hline
+Final Exam& 25\% \\
+\hline\hline
+total& 100\%\\
+\hline
+\end{tabular}
+
+& 
+\begin{tabular}{|c|c|}
+\hline
+Option 2&\\
+\hline
+Webassign Homework& 5\%\\
+\hline
+Written Homework& 5\% \\
+\hline
+Quiz 1--5& 10\% \\
+\hline
+Remaining Quizzes& 5\% \\
+\hline
+Midterm 1 & 20\% \\
+\hline
+Midterm 2 & 20\%  \\
+\hline
+Final Exam& 25\% \\
+\hline\hline
+total& 90\%\\
+\hline
+\end{tabular}
+\end{tabular}
+
+\end{center}
+
+\end{document}
