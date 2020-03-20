@@ -19,7 +19,8 @@ For homework help and any logistics you can contact _any instructor or the TA_ a
     * or email **jrfaudree@alaska.edu**
 * Bueler [via Google Hangouts (MWF 10:30--12:45, Th 11:30--12:30)](http://bueler.github.io/OffHrs.htm)
     * or email **elbueler@alaska.edu**
-* Dakota: TBA
+* Dakota: [via Zoom on T 1:00-4:00](https://alaska.zoom.us/j/640236885)
+    * [via Math and Stat Tutoring web link W 1:00-3:00 and Th 9:30-1:30](https://fairbanks.go-redrock.com/)
 
 ### Keeping up to date
 
