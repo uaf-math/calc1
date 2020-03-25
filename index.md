@@ -26,7 +26,7 @@ For homework help and any logistics you can contact _any instructor or the TA_ a
 
 * See the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf) regularly.
 
-* [Quizzes](quizzes) are now take-home.  Blank Quizzes will be posted on Blackboard on Tuesday morning at 8 am (AK time).  They are due Wednesday by 5 pm (AK time), but we expect most students to complete them by the end of the day Tuesday.  No late quizzes will be accepted!  Students should scan or photograph or save their work as a PDF.  Quizzes will be corrected, but the grade will be assigned based on completion and effort.
+* [Quizzes](quizzes) are now take-home.  Blank Quizzes will be posted on [BlackBoard](https://classes.alaska.edu) on Tuesday morning at 8 am (AK time).  They are due Wednesday by 5 pm (AK time), but we expect most students to complete them by the end of the day Tuesday.  No late quizzes will be accepted!  Students should scan or photograph or save their work as a PDF.  Quizzes will be corrected, but the grade will be assigned based on completion and effort.
 
 * Videos for each section are at [BlackBoard](https://classes.alaska.edu).  Watch any time!
 
@@ -56,7 +56,7 @@ For homework help and any logistics you can contact _any instructor or the TA_ a
 >
 > * [Written Homework (WRH)](writtenhomework) is no longer turned in for a grade.  However, any student who intends to pass this class must still work every problem by the due date.  See the completion dates on the updated schedule.
 >
-> * [Quizzes](quizzes) are now take-home.  Blank Quizzes will be posted on Blackboard on Tuesday morning at 8 am (AK time).  They are due Wednesday by 5 pm (AK time), but we expect most students to complete them by the end of the day Tuesday.  No late quizzes will be accepted!  Students should scan or photograph or save their work as a PDF.  Quizzes will be corrected, but the grade will be assigned based on completion and effort.
+> * [Quizzes](quizzes) are now take-home.  Blank Quizzes will be posted on [BlackBoard](https://classes.alaska.edu) on Tuesday morning at 8 am (AK time).  They are due Wednesday by 5 pm (AK time), but we expect most students to complete them by the end of the day Tuesday.  No late quizzes will be accepted!  Students should scan or photograph or save their work as a PDF.  Quizzes will be corrected, but the grade will be assigned based on completion and effort.
 >
 > * These plans are necessarily tentative, in part because guidance from the UA administration is evolving.  We will update the information here as things become clear.
 <br>
