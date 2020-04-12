@@ -43,4 +43,9 @@ quizzes:
       - name: Version 1
         blank: Quiz-7-v1.pdf
         solutions: Quiz-7-v1-Sols.pdf
+  - name: Quiz 8
+    versions:
+      - name: Version 1
+        blank: Quiz-8.pdf
+        solutions: Quiz-8-Sols.pdf
 
