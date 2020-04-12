@@ -5,6 +5,8 @@ title: Derivative and Integral Proficiencies
 
 ## Proficiencies
 
+_Note for Spring 2020:_ The Integral Proficiency is cancelled.  This is an assessment that does not make sense without in-person proctoring.
+
 Derivative and Integral Proficiencies, and their solutions, will be available here as they are completed.  See the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf) for all dates.  Proficiencies from past semesters are also available below.
 
 <div class="x-scroll">
