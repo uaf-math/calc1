@@ -3,4 +3,7 @@ home: assets/exams/Spring2020
 midterm1:
   blank: MT1.pdf
   solutions: MT1-Sols.pdf
+midterm2:
+  blank: Midterm2.pdf
+  solutions: Midterm2-Sols.pdf
 
