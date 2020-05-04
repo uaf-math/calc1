@@ -1,0 +1,135 @@
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1.2in, bottom=0.75in, left=1in, right=1in, headheight=1.0in, headsep=0pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=middle, xlabel={$x$}, ylabel={$y$}}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{\emph{\@doctitle\hfill\@docdate}
+\ifnum \value{page} > 1\relax\else\\
+\emph{Name: \rule{3.5in}{1pt}\hfill \@docscoring}
+\\
+%\emph{Circle one: \quad Faudree (F01) \hskip 1ex\rule{1pt}{9pt}\hskip 1ex Bueler (F02) \hskip 1ex\rule{1pt}{9pt}\hskip 1ex VanSpronsen (UX1)}
+\fi}
+
+\rfoot{\emph{\@docversion}}
+\lfoot{\emph{\@doccourse}}
+\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} for a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+
+
+\doctitle{\textcolor{red}{OPTIONAL} Math 251: Quiz 11}
+\docdate{Due 5:00PM 24 April, 2020}
+\doccourse{UAF Calculus I}
+%\docversion{v-1}
+\docscoring{{\LARGE \strut}\blank{0.8in} / 16}
+
+\begin{document}
+Each problem is worth 2 points: 1 for work and 1 for the answer. Your work should be organized. Your answer should be in a \fbox{box}. This quiz is an excellent measure of readiness for Calculus II. You \emph{should} be able to complete this in 30 minutes or less. To encourage you to pay attention to time, we have added blanks for that, too. \textcolor{red}{If you use aids of any kind you are completely missing the point of this exercise.}\\
+
+\textbf{Time Started:}\underline{\hspace{1in}} \hspace{.5in} \textbf{Time Started:}\underline{\hspace{1in}}\\
+
+Evaluate the indefinite and definite integrals.\\
+
+%baby sub
+\problem{2} $\displaystyle{\int 5 \sin\left(\frac{\pi}{2}\theta\right) \: d \theta}$
+\vfill
+
+%baby sub + other term
+\problem{2} $\displaystyle{\int 3x-e^{3x} \: dx}$
+\vfill
+
+%u as denominator
+\problem{2} $\displaystyle{\int \frac{1}{6-7t}dt}$
+\vfill
+
+%something raised to a power
+\problem{2} $\displaystyle{\int \frac{ax}{\sqrt{1-ax^2}} dx}$
+\vfill
+\newpage
+
+
+\problem{2} $\displaystyle{\int_1^3 te^{t^2}dt}$
+\vfill
+
+\problem{2} $\displaystyle{\int_0^{\pi/4} \cos(2t)\left(1+ \sin(2t)\right)^2 \: dt}$
+\vfill
+
+\problem{2} $\displaystyle{\int_0^1 \frac{1+e^x}{x+e^x} dx}$
+\vfill
+
+\problem{2} $\displaystyle{\int \frac{dx}{1+16x^2}}$
+\vfill
+
+
+
+\end{document}

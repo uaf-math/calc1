@@ -1,0 +1,136 @@
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1.2in, bottom=0.75in, left=1in, right=1in, headheight=1.0in, headsep=0pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=middle, xlabel={$x$}, ylabel={$y$}}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{\emph{\@doctitle\hfill\@docdate}
+\ifnum \value{page} > 1\relax\else\\
+\emph{Name: \rule{3.5in}{1pt}\hfill \@docscoring}
+\\
+\emph{Circle one: \quad Faudree (F01) \hskip 1ex\rule{1pt}{9pt}\hskip 1ex Bueler (F02) \hskip 1ex\rule{1pt}{9pt}\hskip 1ex VanSpronsen (UX1)}
+\fi}
+
+\rfoot{\emph{\@docversion}}
+\lfoot{\emph{\@doccourse}}
+\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} for a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+
+
+\doctitle{Math 251: Quiz 10}
+\docdate{21 April, 2020}
+\doccourse{UAF Calculus I}
+%\docversion{v-1}
+\docscoring{{\LARGE \strut}\blank{0.8in} / 25}
+
+\begin{document}
+25 points possible.  \textcolor{red}{\textbf{No aids (internet, other students, book, calculator, etc.) are permitted.} } You do not need to simplify final answers, but \textcolor{red}{\textbf{answers without supporting work will lose points for completeness and effort.}}
+
+% like 5.3 #45 and 49
+\problem{8}  Consider the curve $y=3\sqrt{x}$ on the interval $0 \le x \le 4$.
+
+\begin{subproblems}
+\item  Sketch a graph of this curve.
+\vspace{2.6in}
+
+\item  Give a rough estimate of the area beneath the curve.  \emph{Explain} in words the approximation you are using, \emph{and} sketch this estimate on top of your sketch above.
+\vspace{1.0in}
+
+\item  Find the exact area.
+\vspace{1.0in}
+\end{subproblems}
+
+% like 5.3 #37
+\problem{5}  Evaluate the integral.
+\begin{flalign*}
+&\int_0^1 x^\pi + e^x\,dx = &% need trailing align for left justify
+\end{flalign*}
+\vfill
+
+\newpage
+% expanded 5.4 #54
+\problem{6}  A honeybee population starts with 100 bees and increases at a rate of $n'(t)$ bees per week.
+
+\begin{subproblems}
+\item  What does the integral \, $\ds \int_0^7 n'(t)\,dt$ \, represent?  (\textsl{Explain in a few words.})
+\vspace{1.5in}
+
+\item  What does \, $\ds 100 + \int_0^7 n'(t)\,dt$ \, represent?  (\textsl{Explain in a few words.})
+\vspace{1.5in}
+\end{subproblems}
+
+% like 5.3 # 67
+\problem{6}  Let $\ds F(x) = \int_2^x \cos(\pi t^2)\,dt$.  Find an equation of the tangent line to the curve $y=F(x)$ at the point where $x=2$.
+\vspace{3.0in}
+
+\end{document}

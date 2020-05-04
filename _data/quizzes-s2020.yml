@@ -53,4 +53,14 @@ quizzes:
       - name: Version 1
         blank: Quiz-9.pdf
         solutions: Quiz-9-Sols.pdf
+  - name: Quiz 10
+    versions:
+      - name: Version 1
+        blank: Quiz-10.pdf
+        solutions: Quiz-10-Sols.pdf
+  - name: Quiz 11
+    versions:
+      - name: Version 1
+        blank: Quiz-11.pdf
+        solutions: Quiz-11-Sols.pdf
 
