@@ -6,4 +6,7 @@ midterm1:
 midterm2:
   blank: Midterm2.pdf
   solutions: Midterm2-Sols.pdf
+final:
+  blank: Final.pdf
+  solutions: Final-Sols.pdf
 
