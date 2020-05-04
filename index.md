@@ -5,7 +5,7 @@ title: Math F251 Calculus I at UAF
 
 <!-- ### <span style="color:orange">WEBPAGE UNDER CONSTRUCTION FOR XXX YYYY</span> -->
 
-Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **Spring 2020**.
+Welcome to the homepage for all in-person sections of MATH 251 Calculus I in **Spring 2020**.  (_This course has been completed.  In Fall 2020 this website will update to the new semester._)
 
 ### <span style="color:orange">**This class will resume ONLINE on Monday 23 March 2020.**</span>
 
