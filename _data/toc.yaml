@@ -35,6 +35,6 @@ docs:
 - title: Instructor Info
   url: assets/general/Spring2020/Calculus-1-Spring-2020-Instructor-Section-Info.pdf
   
-- title: Foo!
-  url: foo.html
+#- title: Foo!
+#  url: foo.html
 
