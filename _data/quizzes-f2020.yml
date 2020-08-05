@@ -1,6 +1,14 @@
 semester: Fall 2020
 home: assets/quizzes/Fall2020
 quizzes:
+  - name: Quiz 0
+#    versions:
+#      - name: Version 1
+#        blank: Quiz-2-v1.pdf
+#        solutions: Quiz-2-v1-Sols.pdf
+#      - name: Version 2
+#        blank: Quiz-2-v2.pdf
+#        solutions: Quiz-2-v2-Sols.pdf
 #  - name: Quiz 2
 #    versions:
 #      - name: Version 1
