@@ -2,16 +2,13 @@ sidenav_title: 'Math 251'
 
 docs:
 
-- title: Syllabus ADDENDUM
-  url: assets/general/Spring2020/MATH251-Syllabus-S2020-addendum.pdf
-
 - title: Syllabus
-  url: assets/general/Spring2020/MATH251-Syllabus-S2020-generic.pdf
+  url: assets/general/Fall2020/MATH251-Syllabus-F2020-generic.pdf
 
 - title: Schedule
-  url: assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf
+  url: assets/general/Fall2020/Math251-Schedule.pdf
 
-- title: Week One
+- title: Getting Started #Week One
   url: week1.html
 
 - title: WebAssign
@@ -33,7 +30,7 @@ docs:
   url: materials.html
 
 - title: Instructor Info
-  url: assets/general/Spring2020/Calculus-1-Spring-2020-Instructor-Section-Info.pdf
+  url: assets/general/Fall2020/Calculus-1-Fall-2020-Instructor-Section-Info.pdf
   
 #- title: Foo!
 #  url: foo.html
