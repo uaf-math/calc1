@@ -1,21 +1,22 @@
 ---
 layout: course-page
-title: Written Homework
+title: Daily Homework
 ---
 
-## Written Homework
+## Daily Homework
 
-Written Homework (WRH) is assigned according to the [weekly course schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf) (see tab at left).
+Daily Homework (DH) is assigned according to the [weekly course schedule](assets/general/Fall2020/Math251-2020-Schedule.pdf) (see tab at left).
 
-For Spring 2020, starting with WRH 7, Written Homework is not to be turned in.  Successful students need to complete it by the Monday stated on the [schedule](assets/general/Spring2020/M251-Spring-2020-Schedule-addendum.pdf).
+By 8AM on the day of each class period where DH is due, students in the synchronous sections (FXA and FXB) should upload to [Gradescope](https://www.gradescope.com/courses/153557) their solutions to the required DH problems. At the beginning of class, you will discuss three randomly chosen student submissions.
 
-Solutions are posted at the [Blackboard site](https://classes.alaska.edu/).  Note that the solutions are organized by section number.  For example, to get all of the solutions to WRH 7 you will need to look at the section 3.8, 3.9, and 3.10 solution PDFs.
+Solutions will be posted at the [Blackboard site](https://classes.alaska.edu/). 
 
-{% include homeworktable.md  data=site.data.writtenhomework-s2020%}
+{% include homeworktable.md  data=site.data.writtenhomework-f2020%}
 
 
 #### Past Semesters:
 
+  * [Spring 2020](writtenhomework-s2019)
   * [Fall 2019](writtenhomework-f2019)
   * [Spring 2019](writtenhomework-s2019)
 
