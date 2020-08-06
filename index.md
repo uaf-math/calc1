@@ -3,11 +3,11 @@ layout: course-page
 title: Math F251 Calculus I at UAF
 ---
 
- ### <span style="color:orange">WEBPAGE STILL UNDER CONSTRUCTION FOR Fall 2020</span> 
+### <span style="color:orange">WEBPAGE STILL UNDER CONSTRUCTION FOR Fall 2020</span> 
 
 Welcome to the homepage for MATH 251 Calculus I in Fall 2020. 
 
-### Getting Started
+## Getting Started
 
 * A great place to start is to read the [syllabus](assets/general/Fall2020/MATH251-Syllabus-F2020-generic.pdf).
 
@@ -17,9 +17,9 @@ Welcome to the homepage for MATH 251 Calculus I in Fall 2020.
 
 * Check out the day-to-day [schedule](assets/general/Fall2020/Math251-Schedule.pdf).  (All dates are subject to change!)
 
+* More information is available on the Getting Started page.
 
-
-### Synchronous sections (FXA and FXB)
+#### Synchronous sections (FXA and FXB)
 
 
 
@@ -45,13 +45,13 @@ Tutoring is also available through the Math Lab!
 * TA 1: TBD
 * TA 2: TBD
 
-### Asynchronous section (UX1)
+#### Asynchronous section (UX1)
 
 * Jurkowski 
     * email **cjjurkowski@alaska.edu**
 
 
-### Keeping up to date
+## Keeping up to date
 
 * Check the [schedule](assets/general/Fall2020/Math251-Schedule.pdf) regularly.
 
