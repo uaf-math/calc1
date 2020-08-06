@@ -13,6 +13,8 @@ Because everything is offered by distance, we are using *a lot* of technology. H
 * [Printing](printing)
 * [Discord](discord)
 
+- - - 
+
 ## Classtime 
 
 * [Blackboard](classes.uaf.edu) is UAF's Learning Management System. This is where we will store everything that needs to be password protected (such as your grades). It's also where you can find the link to the classtime Zoom sessions.
@@ -65,7 +67,9 @@ From the admins:
 - Here are some directions for joining the Calculus I class chat on the server:
 	-There is a chat channel called nookbot-den and it is a way for students to pick what class chats to join.
 	- After clicking on the nookbot-den channel you should enter this command to join the Calc I class chat:
+	
 	!joinclass calculus1
+	
 after that you will see all chat history for the Calculus I channel. It includes all chat history from the current semester, so you have not missed out on anything!
 - If you are having issues or need help you can tag an admin with the @admin and a message to ask for help!
 
