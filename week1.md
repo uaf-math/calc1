@@ -13,24 +13,24 @@ Because of concerns about COVID infections in Alaska, your formerly-face-to-face
 
 Before the beginning of the semester, you should complete the following tasks, so that you are in a position to participate in the class right from the beginning!
 
-### ** Email your instructor.**
+###  Email your instructor.
 
-	- 9:15 section: Olha Sus, osus@alaska.edu
-	- 11:45 section: Leah Berman, lwberman@alaska.edu
+- 9:15 section: Olha Sus, osus@alaska.edu
+- 11:45 section: Leah Berman, lwberman@alaska.edu
 
 
 Please include 
 
-	- your name (first and last)
-	- what you'd like to be called (with pronunciation)
-	- where you are living now (e.g., UAF dorm, off campus in Fairbanks, somewhere else (please say where))
-	- where you live when you're not at UAF (optional)
-	- Something interesting about you (since we don't know you, anything you write is interesting)
+- your name (first and last)
+- what you'd like to be called (with pronunciation)
+- where you are living now (e.g., UAF dorm, off campus in Fairbanks, somewhere else (please say where))
+- where you live when you're not at UAF (optional)
+- Something interesting about you (since we don't know you, anything you write is interesting)
 
 
 ### Log in to [Blackboard](https://classes.alaska.edu), the learning management system used at UAF, and find the Math F251X Calculus I section. This is one of the main places you can find information about our class. In particular, this is where the zoom link for your class meetings will be posted.
 
-### Access the [Calculus I at UAF webpage](https://uaf-math251.github.io). \[Good news, if you're here you've managed this!\] This is where you can find the syllabus, the course schedule, a link to WebAssign (our online math homework platform) and **{\bf **lots and lots of study materials**, including old quizzes and exams (blank and with solutions) for  past semesters. 
+### Access the [Calculus I at UAF webpage](https://uaf-math251.github.io). \[Good news, if you're here you've managed this!\] This is where you can find the syllabus, the course schedule, a link to WebAssign (our online math homework platform) and  **lots and lots of study materials**, including old quizzes and exams (blank and with solutions) for  past semesters. 
 
 ### Log into Gradescope, either directly at [https://www.gradescope.com](https://www.gradescope.com) or through the link on the course Blackboard site. By the end of the first week, you need to have downloaded, completed, and uploaded the ``Getting Started Quiz'', so you can download this now from Gradescope.
 
