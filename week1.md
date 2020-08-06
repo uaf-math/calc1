@@ -1,66 +1,70 @@
 ---
 layout: course-page
-title: Week 1 Logistics
+title: Getting Started and Week 1 Logistics
 ---
 
+<!-- 
 * [Week 1 Logistics](#week-1-logistics)
-* [How to first log into ALEKS PPL](#how-to-first-log-into-aleks-ppl)
-* [Working with ALEKS PPL](#working-with-aleks-ppl)
-* [Sign up for proctored ALEKS PPL](#sign-up)
+ -->
+
+## Getting Started
+
+Because of concerns about COVID infections in Alaska, your formerly-face-to-face Calculus I instructors have chosen to have your course content be synchronous online. (The asynchronous section continues to be asynchronous.) There may be the possibility of optional free face-to-face proctoring for major exams, but details are still being worked out.
+
+Before the beginning of the semester, you should complete the following tasks, so that you are in a position to participate in the class right from the beginning!
+
+### ** Email your instructor.**
+
+	- 9:15 section: Olha Sus, osus@alaska.edu
+	- 11:45 section: Leah Berman, lwberman@alaska.edu
+
+
+Please include 
+
+	- your name (first and last)
+	- what you'd like to be called (with pronunciation)
+	- where you are living now (e.g., UAF dorm, off campus in Fairbanks, somewhere else (please say where))
+	- where you live when you're not at UAF (optional)
+	- Something interesting about you (since we don't know you, anything you write is interesting)
+
+
+### Log in to [Blackboard](https://classes.alaska.edu), the learning management system used at UAF, and find the Math F251X Calculus I section. This is one of the main places you can find information about our class. In particular, this is where the zoom link for your class meetings will be posted.
+
+### Access the [Calculus I at UAF webpage](https://uaf-math251.github.io). \[Good news, if you're here you've managed this!\] This is where you can find the syllabus, the course schedule, a link to WebAssign (our online math homework platform) and **{\bf **lots and lots of study materials**, including old quizzes and exams (blank and with solutions) for  past semesters. 
+
+### Log into Gradescope, either directly at [https://www.gradescope.com](https://www.gradescope.com) or through the link on the course Blackboard site. By the end of the first week, you need to have downloaded, completed, and uploaded the ``Getting Started Quiz'', so you can download this now from Gradescope.
+
+### Download a [Zoom client](https://zoom.us). 
+
+I strongly encourage you to use Zoom on a computer, if possible--it is much easier to raise your Zoom hand and interact with things than on a smartphone or tablet.
+
+### Sort out how to print and scan your work to upload. 
+
+There will be a lot of uploading of work you do on paper into Gradescope. You will need to sort out a mechanism to do this. Specifically
+
+- For the Daily Homework, you will need to write out each problem statement and do your work on your own paper, and then scan upload your problems to Gradescope in the appropriate area.
+- For the weekly Quizzes, you will need to download the PDF from Gradescope, print it out (or work on a tablet or computer), scan it, and then upload it back to Gradescope, within the allotted time.
+
+#### To print: There are printers (for a charge) available on campus, including in the Chapman 103 computer lab and in the library. More information is available on the [Technology Help page](techHelp)
+
+#### To scan:
+- (probably preferred) use your smartphone: I really like the app GeniusScan, available both for iPhone and Android. It allows you to take black-and-white scans (which are smaller and typically easier to read), multi-page scans, it does some perspective correcting, etc. The free basic version should be fine.
+	- If you don't have/want to use your smartphone, then you can use a scanner. 
+	- If you have a tablet, you can work on that. 
+		- For iPad, I *really* like [Notability](https://www.gingerlabs.com) for notetaking and annotating PDFs. You can work there, and then export your annotated PDF to someplace you can find it on your computer, and then upload to Gradescope from there, and the annotated versions are small. (This is what I do to make the quiz solutions, for example.) Unfortunately, Notability is not free. 
+		- Another possibility is [PDFExpert](https://readdle.com), which I also really like, but their free version lacks some really useful features that are now only available in the paid version (and their subscription model is really expensive).
+	- It is possible to download the quiz PDFs and annotate them on your computer, but it's hard to be legible in writing the necessary mathematical symbols using a mouse. I recommend another option, if possible.
+	
+More information on scanning is available on the [Technology Help page](techHelp).
 
 ## Week 1 Logistics
 
-The first homework and quiz of the class use the online software ALEKS PPL to help you review past prerequisite skills.  You need to accomplish the following steps.
+Already in Week 1 there are a number of things that are due! See the [schedule](assets/general/Fall2020/Math251-Schedule.pdf) for details. 
 
-1. By Tuesday, January 14, log into ALEKS PPL **using the 
-   instructions below**.  This is a different process from the 
-   UAF ALEKS placement test you may have used in the past.
-
-2. Take an initial assessment in ALEKS PPL by Wednesday, January 15 at 11:59pm.  This
-   assessment will be used to determine the skills you need to practice.
-
-3. Using ALEKS PPL's learning mode, either complete 90% of your pie, or spend
-   10 hours in it reviewing.  You have until Monday, January 20 at 11:59pm to finish this task, which will count as your first homework grade.
-
-4. Schedule a two-hour timeslot to take Quiz 1 on Tuesday, January 21.
-
-## How to first log into ALEKS PPL.
-
-1. You will need two codes before you begin
-	* The course code, **4JTUU-AQVJ9**.
-	* Your personal ALEKS access code, which you can access
-	  from within BlackBoard.  Go to our course and then `My Grades`.  Your
-	  ALEKS access code will be the first entry in the grade spreadsheet.
-
-2. Go to [ALEKS](https://www.aleks.com) and click on the yellow new
-   student button.
-
-   <div class='x-scroll'><p><img src="assets/ALEKS/login.png" alt="login" width="350px" /></p></div>
-
-3. Enter the class code **4JTUU-AQVJ9** in the next screen.
-
-   <div class='x-scroll'><p><img src="assets/ALEKS/classcode.png" alt="class code" width="350px" /></p></div>
-
-4. After confirming that you are enrolling in our cohort (class), you will be asked if you already have an ALEKS login name or not.  If you do, and you remember its password, you are welcome to use it.  Otherwise, proceed as a new user.
-
-   <div class='x-scroll'><p><img src="assets/ALEKS/account-status.png" alt="account status page" width="500px" /></p></div>
-
-5. In the following Registration page you will be asked for student information at this point. It is essential that you enter your UAF student ID correctly on this page; this is how we will identify your score and give you credit for your work.
-
-6. In the following Apply Access page, enter the individual ALEKS access code you got from Blackboard.
-
-   <div class='x-scroll'><p><img src="assets/ALEKS/apply-access.png" alt="apply access page" width="500px" /></p></div>
-
-
-## Working with ALEKS PPL
-
-Now that you have logged in to ALEKS PPL, it will give you a tutorial on how to use the interface.  When you are done with that tutorial, you will start your Initial Assessment.  This can take up to two hours, and is used to determine your skills and select appropriate problems for you to work on in the future.  When your assessment is done, you'll receive a score between 0 and 100.
-
-After your assessment is complete, you'll want to start working with the Prep and Learning Module.
-
-You'll need to either spend at least 10 hours using the learning module, or complete 90% of your pie.  You can see your progress by clicking on Reports in the menu at the upper left-hand corner of the learning module screen.
-
-## Sign up
-
-Go to the [youcanbook.me site](https://mathpretest.youcanbook.me) to choose a two-hour block during which you will take a  **proctored** ALEKS PPL placement test that will be your Quiz 1 grade.
-
+- Watch the intro videos before each class. They are linked from Blackboard, at least for right now.
+- Your first WebAssign homework is due Wednesday.
+- Daily Homeworks are due Thursday, Friday.
+- You should download Quiz 0 as soon as possible, and use it to practice printing, scanning and uploading. (Usually, you will only have during the day on Tuesday for quizzes, but this one has a longer period in order to sort out the technology.)
+- No class for Labor Day 8/31
+- There is a prerequisite quiz the following Tuesday, as well as recitation!
+- 
