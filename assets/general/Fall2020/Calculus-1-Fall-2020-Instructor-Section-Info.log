@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  5 AUG 2020 16:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 AUG 2020 11:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -545,17 +545,17 @@ LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ppl/b/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ppl/b/n' tried instead on input line 35.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 53.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 54.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Overfull \hbox (7.87584pt too wide) in paragraph at lines 30--60
+Overfull \hbox (7.87584pt too wide) in paragraph at lines 30--58
 [][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
@@ -566,7 +566,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--66
 Here is how much of TeX's memory you used:
  6639 strings out of 493014
  87868 string characters out of 6133351
- 213534 words of memory out of 5000000
+ 212534 words of memory out of 5000000
  10014 multiletter control sequences out of 15000+600000
  15850 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -576,8 +576,8 @@ texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2016/texmf-dist/font
 s/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
 urw/palatino/uplb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/pal
 atino/uplr8a.pfb>
-Output written on Calculus-1-Fall-2020-Instructor-Section-Info.pdf (1 page, 489
-49 bytes).
+Output written on Calculus-1-Fall-2020-Instructor-Section-Info.pdf (1 page, 494
+29 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
