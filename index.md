@@ -17,7 +17,7 @@ Welcome to the homepage for MATH 251 Calculus I in Fall 2020.
 
 * Check out the day-to-day [schedule](assets/general/Fall2020/Math251-Schedule.pdf).  (All dates are subject to change!)
 
-* More information is available on the Getting Started page.
+* More information is available on the [Getting Started](week1) page.
 
 #### Synchronous sections (FXA and FXB)
 

@@ -57,6 +57,8 @@ There will be a lot of uploading of work you do on paper into Gradescope. You wi
 	
 More information on scanning is available on the [Technology Help page](techHelp).
 
+### Log in to the class Discord channel. This will give you a place to chat with your classmates and to ask questions about the class! More information is on the [Technology Help](techHelp) page.
+
 ## Week 1 Logistics
 
 Already in Week 1 there are a number of things that are due! See the [schedule](assets/general/Fall2020/Math251-Schedule.pdf) for details. 

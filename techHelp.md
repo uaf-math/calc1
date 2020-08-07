@@ -23,6 +23,10 @@ Because everything is offered by distance, we are using *a lot* of technology. H
 
 	- I find that Zoom works better using a [Zoom](zoom.us) client (not the browser), and I strongly encourage you to use Zoom on a computer, if possible. It is much easier to raise your Zoom hand and interact with your classmates, post reactions, etc., than on a smartphone or tablet.
 	
+* Headphones
+	
+	- If you are planning on accessing zoom class in public spaces, I suggest you use headphones with a microphone so that you are not bothering people around you.	
+	
 ## Homework and Assessment
 
 * WebAssign
@@ -54,7 +58,7 @@ Because everything is offered by distance, we are using *a lot* of technology. H
 
 In addition, there is a student-accessible printer in the Chapman Computer Lab (CHAP 103). You will need to swipe your PolarExpress card at the Student Printer in order to print, and there will be a charge (you will use your Bear Bucks to pay for printing).
 
-### No printer?
+#### No printer?
 * If you absolutely can not get access to a printer and you have a time crunch, you can write up the solutions to your quiz in roughly the right place on a separate piece of paper and scan and upload it to Gradescope. You need to make sure you have at least as many pages uploaded as the quiz has. Then email your instructor and explain what's going on.
 
 ## Discord
