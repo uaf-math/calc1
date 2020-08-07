@@ -28,15 +28,21 @@ Please include
 - Something interesting about you (since we don't know you, anything you write is interesting)
 
 
-### Log in to [Blackboard](https://classes.alaska.edu), the learning management system used at UAF, and find the Math F251X Calculus I section. This is one of the main places you can find information about our class. In particular, this is where the zoom link for your class meetings will be posted.
+### Log in to [Blackboard](https://classes.alaska.edu)
 
-### Access the [Calculus I at UAF webpage](https://uaf-math251.github.io). \[Good news, if you're here you've managed this!\] This is where you can find the syllabus, the course schedule, a link to WebAssign (our online math homework platform) and  **lots and lots of study materials**, including old quizzes and exams (blank and with solutions) for  past semesters. 
+Blackboard is the learning management system used at UAF, and find the Math F251X Calculus I section. This is one of the main places you can find information about our class. In particular, this is where the zoom link for your class meetings will be posted.
 
-### Log into Gradescope, either directly at [https://www.gradescope.com](https://www.gradescope.com) or through the link on the course Blackboard site. By the end of the first week, you need to have downloaded, completed, and uploaded the ``Getting Started Quiz'', so you can download this now from Gradescope.
+### Access the [Calculus I at UAF webpage](https://uaf-math251.github.io). 
+
+\[Good news, if you're here you've managed this!\] This is where you can find the syllabus, the course schedule, a link to WebAssign (our online math homework platform) and  **lots and lots of study materials**, including old quizzes and exams (blank and with solutions) for  past semesters. 
+
+### Log into Gradescope,
+
+You can access Gradescope either directly at [https://www.gradescope.com](https://www.gradescope.com) or through the link on the course Blackboard site. By the end of the first week, you need to have downloaded, completed, and uploaded the Getting Started Quiz, so you can download this now from Gradescope.
 
 ### Download a [Zoom client](https://zoom.us). 
 
-I strongly encourage you to use Zoom on a computer, if possible--it is much easier to raise your Zoom hand and interact with things than on a smartphone or tablet.
+I strongly encourage you to use Zoom on a computer, if possible--it is much easier to raise your Zoom hand and interact with things than on a smartphone or tablet. But of course, you certainly can use a phone or tablet if necessary!
 
 ### Sort out how to print and scan your work to upload. 
 
@@ -48,16 +54,17 @@ There will be a lot of uploading of work you do on paper into Gradescope. You wi
 #### To print: There are printers (for a charge) available on campus, including in the Chapman 103 computer lab and in the library. More information is available on the [Technology Help page](techHelp)
 
 #### To scan:
-- (probably preferred) use your smartphone: I really like the app GeniusScan, available both for iPhone and Android. It allows you to take black-and-white scans (which are smaller and typically easier to read), multi-page scans, it does some perspective correcting, etc. The free basic version should be fine.
+- (probably preferred) use your smartphone: I really like the app [GeniusScan](https://thegrizzlylabs.com/genius-scan/), available both for iPhone and Android. It allows you to take black-and-white scans (which are smaller and typically easier to read), multi-page scans, it does some perspective correcting, etc. The free basic version should be fine.
 	- If you don't have/want to use your smartphone, then you can use a scanner. 
-	- If you have a tablet, you can work on that. 
+	- If you have a tablet you can digitally write on, you can work directly on that -- this is a very good choice if possible for you! 
 		- For iPad, I *really* like [Notability](https://www.gingerlabs.com) for notetaking and annotating PDFs. You can work there, and then export your annotated PDF to someplace you can find it on your computer, and then upload to Gradescope from there, and the annotated versions are small. (This is what I do to make the quiz solutions, for example.) Unfortunately, Notability is not free. 
 		- Another possibility is [PDFExpert](https://readdle.com), which I also really like, but their free version lacks some really useful features that are now only available in the paid version (and their subscription model is really expensive).
+		- If you have information about other good programs for other tablets (e.g., Surface?), please email Leah Berman (lwberman@alaska.edu)
 	- It is possible to download the quiz PDFs and annotate them on your computer, but it's hard to be legible in writing the necessary mathematical symbols using a mouse. I recommend another option, if possible.
 	
 More information on scanning is available on the [Technology Help page](techHelp).
 
-### Log in to the class Discord channel. This will give you a place to chat with your classmates and to ask questions about the class! More information is on the [Technology Help](techHelp) page.
+### Log in to the class Discord channel. This will give you a place to chat with your classmates and to ask questions about the class! Information on how to do this is on the [Technology Help](techHelp) page.
 
 ## Week 1 Logistics
 
