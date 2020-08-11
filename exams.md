@@ -5,7 +5,7 @@ title: Exams
 
 ## Exams
 
-Exams and solutions from this semester will be available here as they are completed.  See the [schedule](assets/general/Fall2020/Math251-Schedule.pdf) for all exam dates.  Exams from past semesters are also available below.
+Exams and solutions from this semester will be available here as they are completed.  See the [schedule](assets/general/Fall2020/MATH251-Schedule.pdf) for all exam dates.  Exams from past semesters are available below.
 
 <div class="x-scroll">
 <table class="asst-table">
