@@ -44,6 +44,11 @@ You can access Gradescope either directly at [https://www.gradescope.com](https:
 
 I strongly encourage you to use Zoom on a computer, if possible--it is much easier to raise your Zoom hand and interact with things than on a smartphone or tablet. But of course, you certainly can use a phone or tablet if necessary!
 
+- Set a clear headshot photo of yourself in your Zoom profile, so that I can see what you look like. [Instructions to set a photo](https://support.zoom.us/hc/en-us/articles/201363203-Customizing-your-profile).
+	- Ideally, your photo would look like you had your camera on.
+	- Please no pictures of your dog, or a beautiful landscape, or things like that.
+- When you log into Zoom, please make sure that you are showing your full name (what you like to be called for the first name, and then your last name).
+
 ### Sort out how to print and scan your work to upload 
 
 There will be a lot of uploading of work you do on paper into Gradescope. You will need to sort out a mechanism to do this. Specifically
@@ -83,6 +88,6 @@ Already in Week 1 there are a number of things that are due! See the [schedule](
 - Your first WebAssign homework is due Wednesday.
 - Daily Homeworks are due Thursday, Friday.
 - You should download Quiz 0 as soon as possible, and use it to practice printing, scanning and uploading. (Usually, you will only have during the day on Tuesday for quizzes, but this one has a longer period in order to sort out the technology.)
-- No class for Labor Day 8/31
+- No class for Labor Day 9/7
 - There is a prerequisite quiz the following Tuesday, as well as recitation!
 
