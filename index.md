@@ -3,7 +3,7 @@ layout: course-page
 title: Math F251 Calculus I at UAF
 ---
 
-### <span style="color:orange">WEBPAGE STILL UNDER CONSTRUCTION FOR Fall 2020</span> 
+# <span style="color:orange">WEBPAGE STILL UNDER CONSTRUCTION FOR Fall 2020</span> 
 
 Welcome to the homepage for MATH 251 Calculus I in Fall 2020. 
 
@@ -11,11 +11,12 @@ Welcome to the homepage for MATH 251 Calculus I in Fall 2020.
 
 * A great place to start is to read the [syllabus](assets/general/Fall2020/MATH251-Syllabus-F2020-generic.pdf).
 
-* You will have regular assignments in [WebAssign](https://webassign.net/). Information about how to log on for the first time and our course code can be found at the [WebAssign](webassign) menu item on the left. You gain access to an electronic copy of our textbook via WebAssign.
+* You will have regular assignments in [WebAssign](https://webassign.net/). Information about how to log on for the first time and our course code can be found at the [WebAssign](webassign) menu item on the left. 
+You gain access to an electronic copy of our textbook via WebAssign.
 
-* Log into [Gradescope](https://www.gradescope.com/courses/153557) and complete Quiz 0. This will let you practice downloading, completing, scanning/photoscanning and uploading materials.
+* Log into [Gradescope](https://www.gradescope.com/courses/153557) and complete Quiz 0. This will let you practice downloading, completing, scanning/photoscanning and uploading materials. (You can also access Gradescope through Blackboard.)
 
-* Check out the day-to-day [schedule](assets/general/Fall2020/Math251-Schedule.pdf).  (All dates are subject to change!)
+* Check out the day-to-day [schedule](assets/general/Fall2020/MATH251-Schedule.pdf).  (All dates are subject to change!)
 
 * More information is available on the [Getting Started](week1) page.
 
