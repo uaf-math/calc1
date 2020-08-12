@@ -1,0 +1,12 @@
+semester: Fall 2020
+home: assets/exams/Fall2020
+midterm1:
+  blank: #MT1.pdf
+  solutions: #MT1-Sols.pdf
+midterm2:
+  blank: #Midterm2.pdf
+  solutions: #Midterm2-Sols.pdf
+final:
+  blank: #Final.pdf
+  solutions: #Final-Sols.pdf
+
