@@ -7,7 +7,8 @@ title: WebAssign
 
 <!-- Because we begin the semester working in ALEKS, the WebAssign course opens on Tuesday January 21. Your first WebAssign problem set is due on Friday January 24.-->
 
-To start using WebAssign, you will need <!-- two codes:
+To start using WebAssign, you will need 
+<!-- two codes:
 
 1. Our Class Key: **uaf 4834 8780** 
 
