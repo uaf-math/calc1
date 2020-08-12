@@ -1,7 +1,10 @@
 semester: Fall 2020
 home: assets/proficiencies/Fall2020
-derivative:
-  versions:
+derivative: #
+  versions: #
+   #  - name: #
+        #blank:
+        #solutions: 
    # - name: V1
 #      blank: DerivativeProf-2019-v1.pdf
 #      solutions: DerivativeProf-2019-v1-s.pdf
@@ -20,8 +23,8 @@ derivative:
 #    - name: V4-b
 #      blank: Derivative-v6.pdf
 #      solutions: Derivative-v6-Sols.pdf
-integral:
-  versions:
+integral: #
+  versions: #
     #- name: V1
 #      blank: IntegralProf-2019-v1.pdf
 #      solutions: IntegralProf-2019-v1-s.pdf
