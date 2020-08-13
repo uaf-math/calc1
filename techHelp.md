@@ -67,14 +67,8 @@ The CS students are running a discord server where you can chat/ask questions ab
 
 From the admins:
 
-- The join link for the discord is here: [www.cs.uaf.edu/chat](www.cs.uaf.edu/chat) . We ask that you set your nickname on the server to your full preferred name, and then we will move you into the server and you can join classes.
-- Here are some directions for joining the Calculus I class chat on the server:
-	-There is a chat channel called nookbot-den and it is a way for students to pick what class chats to join.
-	- After clicking on the nookbot-den channel you should enter this command to join the Calc I class chat:
-	
-	!joinclass calculus1
-	
-after that you will see all chat history for the Calculus I channel. It includes all chat history from the current semester, so you have not missed out on anything!
+To get started visit, [https://nookbot.katlyn.dev/](https://nookbot.katlyn.dev/) and login with your UA account (they do not see your password). From there, you will be presented with the list of Math courses. Select the one(s) you want to join by checking the box. There is no need to hit a submit or ok button since it is all updated live.  The system will have you sign into Discord too, so we know what Discord user to update.  If you don’t have a Discord account, then it will also set one up for you.
+
 - If you are having issues or need help you can tag an admin with the @admin and a message to ask for help!
 
 
