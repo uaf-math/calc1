@@ -7,11 +7,11 @@ title: Math F251 Calculus I at UAF
 
 Because everything is offered by distance, we are using *a lot* of technology. Here's an overview of the technology we're using, along with some commentary.
 
-* [Classtime](classtime)
-* [Homework and Assessment](homework-and-assessment)
-* [Scanning](scanning)
-* [Printing](printing)
-* [Discord](discord)
+* [Classtime](#classtime)
+* [Homework and Assessment](#homework-and-assessment)
+* [Scanning](#scanning)
+* [Printing](#printing)
+* [Discord](#discord)
 
 - - - 
 
