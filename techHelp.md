@@ -22,6 +22,7 @@ Because everything is offered by distance, we are using *a lot* of technology. H
 * Classtime for the synchronous sections happens over [Zoom](zoom.us). 
 
 	- I find that Zoom works better using a [Zoom](zoom.us) client (not the browser), and I strongly encourage you to use Zoom on a computer, if possible. It is much easier to raise your Zoom hand and interact with your classmates, post reactions, etc., than on a smartphone or tablet.
+		- Please make sure that you are running the latest version of Zoom. If you need help contact OIT at 907-450-8300 option 1, or email ua-video@alaska.edu
 	
 * Headphones
 	
