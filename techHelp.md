@@ -17,11 +17,11 @@ Because everything is offered by distance, we are using *a lot* of technology. H
 
 ## Classtime 
 
-* [Blackboard](classes.uaf.edu) is UAF's Learning Management System. This is where we will store everything that needs to be password protected (such as your grades). It's also where you can find the link to the classtime Zoom sessions.
+* [Blackboard](https://classes.alaska.edu) is UAF's Learning Management System. This is where we will store everything that needs to be password protected (such as your grades). It's also where you can find the link to the classtime Zoom sessions.
 
-* Classtime for the synchronous sections happens over [Zoom](zoom.us). 
+* Classtime for the synchronous sections happens over [Zoom](https://zoom.us).
 
-	- I find that Zoom works better using a [Zoom](zoom.us) client (not the browser), and I strongly encourage you to use Zoom on a computer, if possible. It is much easier to raise your Zoom hand and interact with your classmates, post reactions, etc., than on a smartphone or tablet.
+	- I find that Zoom works better using a [Zoom](https://zoom.us) client (not the browser), and I strongly encourage you to use Zoom on a computer, if possible. It is much easier to raise your Zoom hand and interact with your classmates, post reactions, etc., than on a smartphone or tablet.
 	
 * Headphones
 	
@@ -30,12 +30,12 @@ Because everything is offered by distance, we are using *a lot* of technology. H
 ## Homework and Assessment
 
 * WebAssign
-	- Double-check the Class Key, posted [here](webassign)
+	- Double-check the Class Key, posted [here](webassign "class key: uaf 4834 8780")
 	- Check the [WebAssign Quick Start Guide](https://www.webassign.net/manual/WA_Student_Quick_Start.pdf)
 	- Check the [WebAssign Manual](https://www.webassign.net/manual/student_guide/introduction.htm).
-	- Cengage has [customer support](support.cengage.com), or phone 800.354.9706 (likely to be super busy at the beginning of the semester).
+	- Cengage has [customer support](https://support.cengage.com), or phone [800.354.9706](tel:+18003549706) (likely to be super busy at the beginning of the semester).
 	
-* Quizzes and Daily Homework will be uploaded through [Gradescope](www.gradescope.com).
+* Quizzes and Daily Homework will be uploaded through [Gradescope](https://www.gradescope.com).
 	- Log in to Gradescope using your "school credentials": this will let you use the UAF Single Sign On.
 	- If your file takes a long time to upload, make sure your scan is not too big. I recommend using black-and-white scans (unless you are using color in your work, in which case please use color scans) made through a dedicated smartphone scanning app (see below) rather than just trying to upload a photo. 
 	- If you are working on an iPad, I have had students somehow use some unknown app that makes *huge* files. Double-check your file size if you're having difficulties. Leah can help troubleshoot iPad stuff.
@@ -70,6 +70,3 @@ From the admins:
 To get started visit, [https://nookbot.katlyn.dev/](https://nookbot.katlyn.dev/) and login with your UA account (they do not see your password). From there, you will be presented with the list of Math courses. Select the one(s) you want to join by checking the box. There is no need to hit a submit or ok button since it is all updated live.  The system will have you sign into Discord too, so we know what Discord user to update.  If you don’t have a Discord account, then it will also set one up for you.
 
 - If you are having issues or need help you can tag an admin with the @admin and a message to ask for help!
-
-
-
