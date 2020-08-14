@@ -17,7 +17,7 @@ Because everything is offered by distance, we are using *a lot* of technology. H
 
 ## Classtime 
 
-* [Blackboard](classes.uaf.edu) is UAF's Learning Management System. This is where we will store everything that needs to be password protected (such as your grades). It's also where you can find the link to the classtime Zoom sessions.
+* [Blackboard](http://classes.uaf.edu) is UAF's Learning Management System. This is where we will store everything that needs to be password protected (such as your grades). It's also where you can find the link to the classtime Zoom sessions.
 
 * Classtime for the synchronous sections happens over [Zoom](zoom.us). 
 
@@ -30,16 +30,17 @@ Because everything is offered by distance, we are using *a lot* of technology. H
 ## Homework and Assessment
 
 * WebAssign
-	- Double-check the Class Key, posted [here](webassign)
+	- Log in to Webassign through the link in Blackboard.
 	- Check the [WebAssign Quick Start Guide](https://www.webassign.net/manual/WA_Student_Quick_Start.pdf)
 	- Check the [WebAssign Manual](https://www.webassign.net/manual/student_guide/introduction.htm).
 	- Cengage has [customer support](support.cengage.com), or phone 800.354.9706 (likely to be super busy at the beginning of the semester).
 	
-* Quizzes and Daily Homework will be uploaded through [Gradescope](www.gradescope.com).
+* Quizzes and Daily Homework will be uploaded through [Gradescope](http://www.gradescope.com).
 	- Log in to Gradescope using your "school credentials": this will let you use the UAF Single Sign On.
 	- If your file takes a long time to upload, make sure your scan is not too big. I recommend using black-and-white scans (unless you are using color in your work, in which case please use color scans) made through a dedicated smartphone scanning app (see below) rather than just trying to upload a photo. 
 	- If you are working on an iPad, I have had students somehow use some unknown app that makes *huge* files. Double-check your file size if you're having difficulties. Leah can help troubleshoot iPad stuff.
 	- Don't just print to pdf; usually computers or applications have export to pdf options that produce more optimized files.
+	- Gradescope has a [guide to submitting homework](https://gradescope-static-assets.s3.amazonaws.com/help/submitting_hw_guide.pdf).
 
 ## Scanning
 	
