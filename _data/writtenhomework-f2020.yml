@@ -19,14 +19,47 @@
     - section: 1.5
       exercises: 40, 50
      
-- name: "DH 3"
+- name: "DH 4"
   problems:
     - section: 2.1
       exercises: 6
-      
-#    - section: 2.2
-#      exercises: 10, 32 # , 36, 37
 
+- name: "DH 5"
+  problems:     
+   - section: 2.2
+     exercises: 10, 32 # , 36, 37
+     
+- name: "DH 6"
+  problems:     
+   - section: 2.2
+     exercises: 36, 37
+     
+- name: "DH 7"
+  problems:     
+   - section: 2.3
+     exercises: 26, 30
+
+- name: "DH 8"
+  problems:     
+    - section: 2.3
+      exercises: 45
+    - section: 2.5
+      exercises: 4, 6
+      
+- name: "DH 9"
+  problems:     
+   - section: 2.5
+     exercises: 46, 54
+     
+- name: "DH 10"
+  problems:     
+   - section: 2.6
+     exercises: 8, 29
+     
+- name: "DH 11"
+  problems:     
+   - section: 2.6
+     exercises: 38, 42
 #- name: WRH 2
 #  problems:
 #    - section: 2.3
