@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1597430109 "MATH251-Syllabus-F2020-generic.tex" "MATH251-Syllabus-F2020-generic.pdf" "MATH251-Syllabus-F2020-generic" 1597430110
+["pdflatex"] 1597799930 "MATH251-Syllabus-F2020-generic.tex" "MATH251-Syllabus-F2020-generic.pdf" "MATH251-Syllabus-F2020-generic" 1597799931
   "/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -99,11 +99,11 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495407860 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "MATH251-Syllabus-F2020-generic.aux" 1597430109 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
-  "MATH251-Syllabus-F2020-generic.out" 1597430109 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "MATH251-Syllabus-F2020-generic.tex" 1597430108 20894 7c1422b98f3ee8b3880ec2594cd349dc ""
+  "MATH251-Syllabus-F2020-generic.aux" 1597799931 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
+  "MATH251-Syllabus-F2020-generic.out" 1597799931 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "MATH251-Syllabus-F2020-generic.tex" 1597799930 25298 f0f4bbec9d8888e1f097e418d3177915 ""
   (generated)
-  "MATH251-Syllabus-F2020-generic.pdf"
-  "MATH251-Syllabus-F2020-generic.out"
-  "MATH251-Syllabus-F2020-generic.log"
   "MATH251-Syllabus-F2020-generic.aux"
+  "MATH251-Syllabus-F2020-generic.out"
+  "MATH251-Syllabus-F2020-generic.pdf"
+  "MATH251-Syllabus-F2020-generic.log"
