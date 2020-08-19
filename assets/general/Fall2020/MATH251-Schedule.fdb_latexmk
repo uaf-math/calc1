@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1597115285 "MATH251-Schedule.tex" "MATH251-Schedule.pdf" "MATH251-Schedule" 1597115287
+["pdflatex"] 1597795755 "MATH251-Schedule.tex" "MATH251-Schedule.pdf" "MATH251-Schedule" 1597795819
   "/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -81,9 +81,9 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495407860 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "MATH251-Schedule.aux" 1597115286 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "MATH251-Schedule.tex" 1597115285 1289 21f88580bf1ea568ec0929c7c100b9a9 ""
-  "schedule-auto.tex" 1597115184 10477 14e1aaf563a5eba751cf0d36b4dab432 ""
+  "MATH251-Schedule.aux" 1597795755 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "MATH251-Schedule.tex" 1597795819 1289 21f88580bf1ea568ec0929c7c100b9a9 ""
+  "schedule-auto.tex" 1597795811 10514 ab1e6304a1298d0d703634223dc993f0 ""
   (generated)
   "MATH251-Schedule.aux"
   "MATH251-Schedule.pdf"
