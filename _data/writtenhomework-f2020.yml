@@ -1,15 +1,32 @@
-  - name: "DH 1"
-    problems:
-     - section: 1.1
-       exercises: TBD
-
-#- name: "WRH 1"
-#  problems:
-#    - section: 2.1
-#      exercises: 6
+- name: "DH 1"
+  problems:
+    - section: 1.1
+      exercises: 1.1
+    - section: 1.2
+      exercises: 14
+    - section: 1.3
+      exercises: 35  
+       
+- name: "DH 2"
+  problems:
+    - section: 1.4
+      exercises: 12
+    - section: 1.5
+      exercises: 38
+      
+- name: "DH 3"
+  problems:
+    - section: 1.5
+      exercises: 40, 50
+     
+- name: "DH 3"
+  problems:
+    - section: 2.1
+      exercises: 6
+      
 #    - section: 2.2
-#      exercises: 10, 32, 36, 37
-#
+#      exercises: 10, 32 # , 36, 37
+
 #- name: WRH 2
 #  problems:
 #    - section: 2.3
