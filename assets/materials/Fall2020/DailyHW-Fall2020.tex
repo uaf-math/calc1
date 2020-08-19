@@ -1,0 +1,151 @@
+\documentclass[10pt]{article}
+\usepackage[table, svgnames, dvipsnames]{xcolor}
+\usepackage[english]{babel}
+\usepackage{longtable}
+\usepackage[margin=1cm]{geometry}
+
+\usepackage{makecell, cellspace, caption}
+%\setlength\cellspacetoplimit{3pt}
+%\setlength\cellspacebottomlimit{3pt}
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+%\usepackage{varioref}
+%\usepackage[bookmarksnumbered,plainpages,backref]{hyperref}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ \righthyphenmin=2                     %перенос 2 последних букв
+ \pagenumbering{arabic}
+ \tolerance=400
+ \mathsurround=2pt
+% \hfuzz=1.5pt
+% \renewcommand{\baselinestretch}{1.5}
+% \renewcommand{\baselinestretch}{1.1}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ----------------------------------------------------------------
+% -------- Параметри сторінки ------------------------------------
+\oddsidemargin=-12mm      % Ліве поле 30мм   (1 дюйм + oddsidemargin)
+\textwidth=160mm        % Ширина тексту
+\topmargin=-15.4mm      % Верхнє поле 20мм (1 дюйм + topmargin)
+\textheight=240mm       % Висота тексту
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ \newcounter{e}
+ \setcounter{e}{0}
+ \newcommand{\n}{\refstepcounter{e} (\arabic{e})}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\newcommand{\cd}{\end{eqnarray} \vspace{-0.7cm} \begin{eqnarray} {}}
+\newcommand{\cd}{{} $$ \vspace{-0.4cm} $$ {}}
+\newcommand{\nn}{\nonumber}
+% \bibliographystyle{insrt}
+\begin{document}
+%\begin{center}
+\vspace{-0.4cm}
+\textbf{Daily Homework Assignments Calculus I Fall 2020}
+%\end{center}
+        \begin{longtable}{| c | L{10cm} |}
+            \hline
+            \rowcolor{Gainsboro!60}
+            \textbf{Assignment} & \makecell{\textbf{Problems}}\\
+            \hline
+            DH 1 & \makecell{\textbf{1.1:} 46, \textbf{1.2:} 14, \textbf{1.3:} 35 } \\
+           \hline
+           DH 2 & \makecell{\textbf{1.4:} 12, \textbf{1.5:} 38} \\
+           \hline
+           DH 3 & \makecell{\textbf{1.5:} 40, 50} \\
+           \hline
+           DH 4 & \makecell{\textbf{2.1:} 6} \\
+           \hline
+           DH 5 & \makecell{\textbf{2.2:} 10, 32} \\
+           \hline
+           DH 6 & \makecell{\textbf{2.2:} 36, 37} \\
+           \hline
+           DH 7 & \makecell{\textbf{2.3:} 26, 30} \\
+           \hline
+           DH 8 & \makecell{\textbf{2.3:} 45, \textbf{2.5:} 4, 6} \\
+           \hline
+           DH 9 & \makecell{\textbf{2.5:} 46, 54} \\
+           \hline
+           DH 10 & \makecell{\textbf{2.6:} 8, 29} \\
+           \hline
+           DH 11 & \makecell{\textbf{2.6:} 38, 42} \\
+           \hline
+           DH 12 & \makecell{\textbf{2.7:} 8, 14} \\
+           \hline
+           DH 13 & \makecell{\textbf{2.7:} 48 (ab), \textbf{2.8:} 6, 9} \\
+           \hline
+           DH 14 & \makecell{\textbf{2.8:} 26, 39} \\
+           \hline
+           DH 15 & \makecell{\textbf{3.1:} 14, 34, 56} \\
+           \hline
+           DH 16 & \makecell{\textbf{3.2:} 22, 28} \\
+           \hline
+           DH 17 & \makecell{\textbf{3.3:} 4, 8} \\
+           \hline
+           DH 18 & \makecell{\textbf{3.3:} 16, 29} \\
+           \hline
+           DH 19 & \makecell{\textbf{3.4:} 20, 30, 40} \\
+           \hline
+           DH 20 & \makecell{\textbf{3.4:} 79, \textbf{3.5:} 12, 30} \\
+           \hline
+           DH 21 & \makecell{\textbf{3.5:} 38, 52} \\
+           \hline
+           DH 22 & \makecell{\textbf{3.6:} 8, 14} \\
+           \hline
+           DH 23 & \makecell{\textbf{3.6:} 48, 52, \textbf{3.7:} 14} \\
+           \hline
+           DH 24 & \makecell{\textbf{3.7:} 26, 30a} \\
+           \hline
+           DH 25 & \makecell{\textbf{3.8:} 12, 18 } \\
+           \hline
+           DH 26 & \makecell{\textbf{3.9:} 15, 22} \\
+           \hline
+           DH 27 & \makecell{\textbf{3.10:} 2, 23} \\
+           \hline
+           DH 28 & \makecell{\textbf{4.1:} 11, 44 } \\
+           \hline
+           DH 29 & \makecell{\textbf{4.1:} 53, \textbf{4.2:} 8, 14} \\
+           \hline
+           DH 30 & \makecell{\textbf{4.2:} 20, 26 } \\
+           \hline
+           DH 31 & \makecell{\textbf{4.3:} 12, 21} \\
+           \hline
+           DH 32 & \makecell{\textbf{4.3:} 52, \textbf{4.4:} 10, 24} \\
+           \hline
+           DH 33 & \makecell{\textbf{4.4:} 34, 53} \\
+           \hline
+           DH 34 & \makecell{\textbf{4.5:} 13, 15 } \\
+           \hline
+           DH 35 & \makecell{\textbf{4.5:} 28, 42 } \\
+           \hline
+           DH 36 & \makecell{\textbf{4.7:} 6, 14} \\
+           \hline
+           DH 37 & \makecell{\textbf{4.7:} 22, 32 } \\
+           \hline
+           DH 38 & \makecell{\textbf{4.9:} 8, 20 } \\
+           \hline
+           DH 39 & \makecell{\textbf{4.9:} 28, 41, 69 } \\
+           \hline
+           DH 40 & \makecell{\textbf{5.1:} 8, 18 } \\
+           \hline
+           DH 41 & \makecell{\textbf{5.2:} 38, 51 } \\
+           \hline
+           DH 42 & \makecell{\textbf{5.3:} 12, 32 } \\
+           \hline
+           DH 43 & \makecell{\textbf{5.3:} 44, 46, 62 } \\
+           \hline
+           DH 44 & \makecell{\textbf{5.4:} 46, 62 } \\
+           \hline
+           DH 45 & \makecell{\textbf{5.5:} 14, 42, 48} \\
+           \hline
+           DH 46 & \makecell{\textbf{5.5:} 56, 60, 82} \\
+           \hline
+           DH 47 & \makecell{\textbf{4.8:} 11, 17 } \\
+           \hline
+           DH 48 & \makecell{\textbf{Bonus (Review Section 5):} 12, 30, 45 } \\
+           \hline
+        \end{longtable}
+
+\end{document}
+\end{document} 

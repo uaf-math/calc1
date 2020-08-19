@@ -11,6 +11,8 @@ By 8AM on the day of each class period where DH is due, students in the synchron
 
 Solutions will be posted at the [Blackboard site](https://classes.alaska.edu/). 
 
+[You can download a list of all the homework assignments as a PDF.](assets/materials/Fall2020/DailyHW-Fall2020.pdf)
+
 {% include homeworktable.md  data=site.data.writtenhomework-f2020%}
 
 
