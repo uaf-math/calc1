@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1597373385 "Quiz0-syllabus-quiz.tex" "Quiz0-syllabus-quiz.pdf" "Quiz0-syllabus-quiz" 1597373387
+["pdflatex"] 1597780364 "Quiz0-syllabus-quiz.tex" "Quiz0-syllabus-quiz.pdf" "Quiz0-syllabus-quiz" 1597780366
   "/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -181,9 +181,9 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495407860 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "Quiz0-syllabus-quiz.aux" 1597373387 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "Quiz0-syllabus-quiz.tex" 1597373384 8515 10a85b8476e0a4c8e77241e284690773 ""
+  "Quiz0-syllabus-quiz.aux" 1597780366 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "Quiz0-syllabus-quiz.tex" 1597780364 8538 6246acdecb2f3c2e58673c571e3296bc ""
   (generated)
-  "Quiz0-syllabus-quiz.pdf"
-  "Quiz0-syllabus-quiz.log"
   "Quiz0-syllabus-quiz.aux"
+  "Quiz0-syllabus-quiz.log"
+  "Quiz0-syllabus-quiz.pdf"
