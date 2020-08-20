@@ -7,8 +7,15 @@ Worksheets and other materials.
 
 # Fall 2020
 
-## Week 1
+These worksheets are what we will work on in class. The expectation is that you will download and print them out before each class, but you are not expected to have *completed* them before class -- and in fact, it will be better if you have not!
 
+
+## Week 1
+**Monday 8/24** [worksheet](assets/materials/Fall2020/WS-1-1.pdf)
+**Tuesday 8/24 (recitation)** [worksheet](assets/materials/Fall2020/WS-1-2.pdf)
+**Wednesday 8/25** [worksheet](assets/materials/Fall2020/WS-1-3.pdf)
+**Thursday 8/26** [worksheet](assets/materials/Fall2020/WS-1-4.pdf)
+**Friday 8/27** [worksheet](assets/materials/Fall2020/WS-1-5.pdf)
 
 <!-- ## Fall 2019
 
