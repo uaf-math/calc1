@@ -9,6 +9,8 @@ Worksheets and other materials.
 
 These worksheets are what we will work on in class. The expectation is that you will download and print them out before each class, but you are not expected to have *completed* them before class -- and in fact, it will be better if you have not!
 
+Solutions will be posted after class at some point. Remind Leah if they are not up when you are looking for them.
+
 
 ## Week 1
 **Monday 8/24** [worksheet](assets/materials/Fall2020/WS-1-1.pdf)
