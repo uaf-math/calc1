@@ -13,11 +13,11 @@ Solutions will be posted after class at some point. Remind Leah if they are not 
 
 
 ## Week 1
-**Monday 8/24** [worksheet](assets/materials/Fall2020/WS-1-1.pdf)
-**Tuesday 8/24 (recitation)** [worksheet](assets/materials/Fall2020/WS-1-2.pdf)
-**Wednesday 8/25** [worksheet](assets/materials/Fall2020/WS-1-3.pdf)
-**Thursday 8/26** [worksheet](assets/materials/Fall2020/WS-1-4.pdf)
-**Friday 8/27** [worksheet](assets/materials/Fall2020/WS-1-5.pdf)
+- **Monday 8/24** [worksheet](assets/materials/Fall2020/WS-1-1.pdf)
+- **Tuesday 8/24 (recitation)** [worksheet](assets/materials/Fall2020/WS-1-2.pdf)
+- **Wednesday 8/25** [worksheet](assets/materials/Fall2020/WS-1-3.pdf)
+- **Thursday 8/26** [worksheet](assets/materials/Fall2020/WS-1-4.pdf)
+- **Friday 8/27** [worksheet](assets/materials/Fall2020/WS-1-5.pdf)
 
 <!-- ## Fall 2019
 
