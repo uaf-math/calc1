@@ -9,9 +9,12 @@ quizzes:
        
 - name: Quiz 1
   versions:
-  - name: SAMPLE Quiz 1
+  - name: SAMPLE 1 Quiz 1
     blank: MATH251-Prerequisite-Quiz-SAMPLE1.pdf
-    solutions: MATH251-Prerequisite-Quiz-SAMPLE1-soln.pdf    
+    solutions: MATH251-Prerequisite-Quiz-SAMPLE1-soln.pdf
+  - name: SAMPLE 2 Quiz 1
+    blank: MATH251-Prerequisite-Quiz-SAMPLE2.pdf
+    solutions: MATH251-Prerequisite-Quiz-SAMPLE2-filled.pdf    
 #      - name: Version 2
 #        blank: Quiz-2-v2.pdf
 #        solutions: Quiz-2-v2-Sols.pdf
