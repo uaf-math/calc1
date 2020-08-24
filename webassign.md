@@ -11,7 +11,7 @@ To start using WebAssign, you will need  your personal WebAssign access code.  T
 
 Note WebAssign can be used for two weeks in a "trial" period.  You can take advantage of this period if you are uncertain about your placement in this class.
 
-Access WebAssign through the link in the sidebar in [Blackboard](classes.uaf.edu).
+Access WebAssign through the link in the sidebar in [Blackboard](https://classes.alaska.edu).
 
 <!--
 
