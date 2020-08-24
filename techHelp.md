@@ -71,7 +71,7 @@ From the admins:
 
 To get started visit, [https://nookbot.katlyn.dev/](https://nookbot.katlyn.dev/) and login with your UA account (they do not see your password). From there, you will be presented with the list of Math courses. Select the one(s) you want to join by checking the box. There is no need to hit a submit or ok button since it is all updated live.  The system will have you sign into Discord too, so we know what Discord user to update.  If you don’t have a Discord account, then it will also set one up for you.
 
-The server (which is called UAF-CS) should be available to you any time you log into Discord. Discord is available at [https://discord.com](https://discord.com). Click on the channel that has a picture of the UAF logo, and then on the right-hand side there's a section you can expand called Math, and then our class should be there.
+The server (which is called UAF-CS) should be available to you any time you log into Discord. Discord is available at [https://discord.com](https://discord.com), and there's also an app for computer and for smartphone. Once you're logged in, click on the channel that has a picture of the UAF logo, and then on the right-hand side there's a section you can expand called Math, and then our class should be there.
 
 - If you are having issues or need help you can tag an admin with the @admin and a message to ask for help!
 
