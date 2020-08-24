@@ -5,7 +5,7 @@ quizzes:
     versions:
     - name: Version 1
       blank: Quiz0-syllabus-quiz.pdf
-       solutions: "None provided"#Quiz-2-v1-Sols.pdf
+      solutions: "None provided"#Quiz-2-v1-Sols.pdf
        
 - name: Quiz 1
     versions:
