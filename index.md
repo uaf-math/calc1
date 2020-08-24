@@ -5,7 +5,7 @@ title: Math F251 Calculus I at UAF
 
 <!-- # <span style="color:orange">WEBPAGE STILL UNDER CONSTRUCTION FOR Fall 2020</span>  -->
 
-Welcome to the homepage for MATH 251 Calculus I in Fall 2020. 
+# <span style="color:blue">Welcome to the homepage for MATH 251 Calculus I in Fall 2020. </span> 
 
 ## Getting Started
 
