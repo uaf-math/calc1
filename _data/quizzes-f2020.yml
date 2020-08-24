@@ -1,11 +1,17 @@
 semester: Fall 2020
 home: assets/quizzes/Fall2020
 quizzes:
-  - name: Quiz 0
+- name: Quiz 0
     versions:
-#    - name: Version 1
-#      blank: #Quiz-2-v1.pdf
-#       solutions: #Quiz-2-v1-Sols.pdf
+    - name: Version 1
+      blank: Quiz0-syllabus-quiz.pdf
+       solutions: "None provided"#Quiz-2-v1-Sols.pdf
+       
+- name: Quiz 1
+    versions:
+    - name: SAMPLE Quiz 1
+      blank: MATH251-Prerequisite-Quiz-SAMPLE1.pdf
+      solutions: MATH251-Prerequisite-Quiz-SAMPLE1-soln.pdf    
 #      - name: Version 2
 #        blank: Quiz-2-v2.pdf
 #        solutions: Quiz-2-v2-Sols.pdf
