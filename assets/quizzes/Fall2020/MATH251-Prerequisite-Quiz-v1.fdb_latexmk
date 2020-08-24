@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1598295469 "MATH251-Prerequisite-Quiz-v1.tex" "MATH251-Prerequisite-Quiz-v1.pdf" "MATH251-Prerequisite-Quiz-v1" 1598295471
+["pdflatex"] 1598312088 "MATH251-Prerequisite-Quiz-v1.tex" "MATH251-Prerequisite-Quiz-v1.pdf" "MATH251-Prerequisite-Quiz-v1" 1598312091
   "/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -208,11 +208,11 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495407860 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "MATH251-Prerequisite-Quiz-v1.aux" 1598295470 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
-  "MATH251-Prerequisite-Quiz-v1.out" 1598295470 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "MATH251-Prerequisite-Quiz-v1.tex" 1598295469 8511 f400df0dbc23a87d5e91b227478844bb ""
+  "MATH251-Prerequisite-Quiz-v1.aux" 1598312090 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
+  "MATH251-Prerequisite-Quiz-v1.out" 1598312090 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "MATH251-Prerequisite-Quiz-v1.tex" 1598312088 8544 53bd52210f4d0e2ef0140c44e1796f91 ""
   (generated)
-  "MATH251-Prerequisite-Quiz-v1.log"
   "MATH251-Prerequisite-Quiz-v1.out"
-  "MATH251-Prerequisite-Quiz-v1.pdf"
   "MATH251-Prerequisite-Quiz-v1.aux"
+  "MATH251-Prerequisite-Quiz-v1.log"
+  "MATH251-Prerequisite-Quiz-v1.pdf"

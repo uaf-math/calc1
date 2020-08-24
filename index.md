@@ -11,7 +11,8 @@ title: Math F251 Calculus I at UAF
 
 * A great place to start is to read the [syllabus](assets/general/Fall2020/MATH251-Syllabus-F2020-generic.pdf).
 
-* You will have regular assignments in [WebAssign](https://webassign.net/). Information about how to log on for the first time and our course code can be found at the [WebAssign](webassign) menu item on the left. 
+* You will have regular assignments in [WebAssign](https://webassign.net/). Information about how to log on for the first time can be found at the [WebAssign](webassign) menu item on the left. **Access Webassign through Blackboard.**
+
 You gain access to an electronic copy of our textbook via WebAssign.
 
 * Log into [Gradescope](https://www.gradescope.com/courses/153557) and complete Quiz 0. This will let you practice downloading, completing, scanning/photoscanning and uploading materials. (You can also access Gradescope through Blackboard.)
