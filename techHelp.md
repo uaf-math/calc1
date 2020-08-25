@@ -47,7 +47,7 @@ Because everything is offered by distance, we are using *a lot* of technology. H
 	
 * Use your smartphone to scan: I recommend [GeniusScan](https://thegrizzlylabs.com/genius-scan/). The (free) basic version should be fine. Works nicely for both iPhone and Android. When possible, set your scans to black-and-white, so that they are smaller and therefore easier to upload.
 	- Click the orange + button to start a scan
-	- in the upper right, you can toggle between single and batch (for multipage scans)
+	- in the upper right, you can toggle between single and batch (for multipage scans). For assignments with multiple pages, you will need to take a multiple-page scan (Gradescope expects you to upload a single PDF for a given assignment).
 	- Usually it's pretty good at choosing, but to force black-and-white, go to the settings gear, select "Default Filter" and you can select either black-and-white or color.
 	- Sometimes students find it's helpful to tack up work vertically (say, on a refrigerator) to avoid glare
 	- *Double-check your scan* before you upload it, to make sure it's readable!
