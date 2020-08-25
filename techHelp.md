@@ -75,5 +75,5 @@ The server (which is called UAF-CS) should be available to you any time you log 
 
 - If you are having issues or need help you can tag an admin with the @admin and a message to ask for help!
 
-
+For more information: [Official Discord getting started guide](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
 
