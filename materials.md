@@ -11,13 +11,18 @@ These worksheets are what we will work on in class. The expectation is that you 
 
 Solutions will be posted after class at some point. Remind Leah if they are not up when you are looking for them.
 
+## Week 1
+- **Monday 8/31** [worksheet Section 2.1](assets/materials/Fall2020/WS-2-1.pdf)
+- **Wednesday 8/25** [worksheet Section 2.2](assets/materials/Fall2020/WS-2-2.pdf)
+- **Thursday 8/26** [worksheet Section 2.2 day 2](assets/materials/Fall2020/WS-2-2-day2.pdf)
+- **Friday 8/27** [worksheet Section 2.3](assets/materials/Fall2020/WS-2-3.pdf)
 
 ## Week 1
-- **Monday 8/24** [worksheet](assets/materials/Fall2020/WS-1-1.pdf)
-- **Tuesday 8/24 (recitation)** [worksheet](assets/materials/Fall2020/WS-1-2.pdf)
-- **Wednesday 8/25** [worksheet](assets/materials/Fall2020/WS-1-3.pdf)
-- **Thursday 8/26** [worksheet](assets/materials/Fall2020/WS-1-4.pdf)
-- **Friday 8/27** [worksheet](assets/materials/Fall2020/WS-1-5.pdf)
+- **Monday 8/24** [worksheet Section 1.1](assets/materials/Fall2020/WS-1-1.pdf)
+- **Tuesday 8/24 (recitation)** [worksheet Section 1.2](assets/materials/Fall2020/WS-1-2.pdf)
+- **Wednesday 8/25** [worksheet Section 1.3](assets/materials/Fall2020/WS-1-3.pdf)
+- **Thursday 8/26** [worksheet Section 1.4](assets/materials/Fall2020/WS-1-4.pdf)
+- **Friday 8/27** [worksheet Section 1.5](assets/materials/Fall2020/WS-1-5.pdf)
 
 <!-- ## Fall 2019
 
