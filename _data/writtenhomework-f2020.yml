@@ -10,14 +10,12 @@
 - name: "DH 2"
   problems:
     - section: 1.4
-      exercises: 12
-    - section: 1.5
-      exercises: 38
+      exercises: 12, 34
       
 - name: "DH 3"
   problems:
     - section: 1.5
-      exercises: 40, 50
+      exercises: 38, 40, 50
      
 - name: "DH 4"
   problems:
