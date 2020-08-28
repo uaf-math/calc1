@@ -44,8 +44,8 @@ Tutoring is also available through the Math Lab!
     * email **lwberman@alaska.edu**
 * Sus 
     * email **osus@alaska.edu**
-* TA 1: TBD
-* TA 2: TBD
+* TA 1: Oscar Hernandez **oihernandez@alaska.edu**
+* TA 2: Emily Richmond **emrichmond@alaska.edu**
 
 #### Asynchronous section (UX1)
 

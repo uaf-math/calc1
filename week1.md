@@ -82,10 +82,10 @@ This will give you a place to chat with your classmates and to ask questions abo
 
 ## Week 1 Logistics
 
-Already in Week 1 there are a number of things that are due! See the [schedule](assets/general/Fall2020/Math251-Schedule.pdf) for details. 
+Already in Week 1 there are a number of things that are due! See the [schedule](assets/general/Fall2020/MATH251-Schedule.pdf) for details. 
 
 - Watch the intro videos before each class. They are linked from Blackboard, at least for right now.
-- Your first WebAssign homework is due Wednesday.
+- Your first WebAssign homework is due Thursday, but try to submit it by Wednesday to allow time for troubleshooting.
 - Daily Homeworks are due Thursday, Friday.
 - You should download Quiz 0 as soon as possible, and use it to practice printing, scanning and uploading. (Usually, you will only have during the day on Tuesday for quizzes, but this one has a longer period in order to sort out the technology.)
 - No class for Labor Day 9/7

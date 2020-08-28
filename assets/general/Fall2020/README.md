@@ -42,10 +42,12 @@ The .yml file with the "slot A" and "slot B" syntax is called
 	
 # Changes in Fall 2020
 
+	python schedule-yml-to-tex-WRHtoDH.py > schedule-auto.tex
+
 The .yml file used is 
 	schedule-yml-to-tex-WRHtoDH
 
 This changes from WRH for written homework to DH for daily homework.
 
-We're also back to evening exams, so we're using slots A and B, but this time not only for midterms but also for proficiencies.	
+We're also back to evening exams, so we're using slots A and B, this time not only for midterms but also for proficiencies.	
 
