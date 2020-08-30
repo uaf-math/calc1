@@ -16,7 +16,6 @@ Solutions will be posted after class at some point. Remind Leah if they are not 
 - **Thursday 9/3** [worksheet Section 2.5](assets/materials/Fall2020/WS-2-5.pdf)
 - **Friday 9/4** [worksheet Section 2.6 (updated 8/30)](assets/materials/Fall2020/WS-2-6.pdf)
 
-
 ## Week 2
 - **Monday 8/31** [worksheet Section 2.1](assets/materials/Fall2020/WS-2-1.pdf)
 - **Wednesday 9/2** [worksheet Section 2.2](assets/materials/Fall2020/WS-2-2.pdf)
