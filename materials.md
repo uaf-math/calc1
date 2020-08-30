@@ -21,7 +21,7 @@ Solutions will be posted after class at some point. Remind Leah if they are not 
 - **Monday 8/31** [worksheet Section 2.1](assets/materials/Fall2020/WS-2-1.pdf)
 - **Wednesday 9/2** [worksheet Section 2.2](assets/materials/Fall2020/WS-2-2.pdf)
 - **Thursday 9/3** [worksheet Section 2.2 day 2](assets/materials/Fall2020/WS-2-2-day2.pdf)
-- **Friday 9/4** [worksheet Section 2.3 day 1 (updated 8/30)](assets/materials/Fall2020/WS-2-3-day1.pdf)
+- **Friday 9/4** [worksheet Section 2.3 day 1 (updated 8/30)](assets/materials/Fall2020/WS-2-3-day-1.pdf)
 
 ## Week 1
 - **Monday 8/24** [worksheet Section 1.1](assets/materials/Fall2020/WS-1-1.pdf) • [solutions](assets/materials/Fall2020/WS-1-1-s.pdf)
