@@ -25,12 +25,12 @@
 - name: "DH 5"
   problems:     
    - section: 2.2
-     exercises: 10, 32 # , 36, 37
+     exercises: 10, Not 32 # , 36, 37
      
 - name: "DH 6"
   problems:     
    - section: 2.2
-     exercises: 36, 37
+     exercises: 32, 36, 37
      
 - name: "DH 7"
   problems:     
