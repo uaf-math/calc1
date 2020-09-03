@@ -12,7 +12,7 @@ These worksheets are what we will work on in class. The expectation is that you 
 Solutions will be posted after class at some point. Remind Leah if they are not up when you are looking for them.
 
 ## Week 3
-- **Wednesday 9/2** [worksheet Section 2.3 day 2](assets/materials/Fall2020/WS-2-3-day2.pdf)
+- **Wednesday 9/2** [worksheet Section 2.3 day 2](assets/materials/Fall2020/WS-2-3-day2.pdf) • [Worksheet Common Limit Mistakes](Worksheet-2-3-CommonLimitMistakes.pdf)
 - **Thursday 9/3** [worksheet Section 2.5](assets/materials/Fall2020/WS-2-5.pdf)
 - **Friday 9/4** [worksheet Section 2.6](assets/materials/Fall2020/WS-2-6.pdf)
 
