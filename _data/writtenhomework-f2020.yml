@@ -25,7 +25,7 @@
 - name: "DH 5"
   problems:     
    - section: 2.2
-     exercises: 10, Not 32 # , 36, 37
+     exercises: 10, "Not" 32 # , 36, 37
      
 - name: "DH 6"
   problems:     
@@ -41,13 +41,11 @@
   problems:     
     - section: 2.3
       exercises: 45
-    - section: 2.5
-      exercises: 4, 6
       
 - name: "DH 9"
   problems:     
    - section: 2.5
-     exercises: 46, 54
+     exercises: 4, 6 46, 54
      
 - name: "DH 10"
   problems:     
