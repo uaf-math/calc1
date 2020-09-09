@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  2 SEP 2020 14:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  9 SEP 2020 13:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -282,15 +282,15 @@ Underfull \vbox (badness 10000) detected at line 91
 Here is how much of TeX's memory you used:
  4163 strings out of 493014
  60096 string characters out of 6133351
- 168952 words of memory out of 5000000
+ 169952 words of memory out of 5000000
  7693 multiletter control sequences out of 15000+600000
  4054 words of font info for 16 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,16n,38p,234b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,16n,38p,234b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr10.pfb>
-Output written on DailyHW-Fall2020.pdf (1 page, 33964 bytes).
+Output written on DailyHW-Fall2020.pdf (1 page, 34064 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  10 compressed objects within 1 object stream
