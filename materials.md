@@ -11,16 +11,22 @@ These worksheets are what we will work on in class. The expectation is that you 
 
 Solutions will be posted after class at some point. Remind Leah if they are not up when you are looking for them.
 
-## Week 3
-- **Wednesday 9/2** [worksheet Section 2.3 day 2](assets/materials/Fall2020/WS-2-3-day-2.pdf) • [Worksheet Common Limit Mistakes](assets/materials/Fall2020/Worksheet-2-3-CommonLimitMistakes.pdf)
-- **Thursday 9/3** [worksheet Section 2.5](assets/materials/Fall2020/WS-2-5.pdf)
-- **Friday 9/4** [worksheet Section 2.6](assets/materials/Fall2020/WS-2-6-day-1.pdf)
+## Week 4
+- **Monday 9/14** [worksheet Section 2.6 day 2](assets/materials/Fall2020/WS-2-6-day2.pdf) <!-- • [solutions](assets/materials/Fall2020/WS-2-6-day2-s-good.pdf) -->
+- **Wednesday 9/16** [worksheet Section 2.7](assets/materials/Fall2020/WS-2-7.pdf) <!-- • [solutions](assets/materials/Fall2020/WS-2-7.pdf) -->
+- **Thursday 9/17** [worksheet Section 2.7 and 2.8](assets/materials/Fall2020/WS-2-7-2-8.pdf) <!-- • [solutions](assets/materials/Fall2020/WS-2-7-2-8-s.pdf) -->
+- **Friday 9/18** [worksheet Section 2.8](assets/materials/Fall2020/WS-2-8.pdf)<!-- • [solutions](assets/materials/Fall2020/WS-2-8-s.pdf) -->
+
+## Week 3 -- We are here
+- **Wednesday 9/9** [worksheet Section 2.3 day 2](assets/materials/Fall2020/WS-2-3-day-2.pdf) • [Worksheet Common Limit Mistakes](assets/materials/Fall2020/Worksheet-2-3-CommonLimitMistakes.pdf)
+- **Thursday 9/10** [worksheet Section 2.5](assets/materials/Fall2020/WS-2-5.pdf)
+- **Friday 9/11** [worksheet Section 2.6](assets/materials/Fall2020/WS-2-6-day-1.pdf)
 
 ## Week 2
 - **Monday 8/31** [worksheet Section 2.1](assets/materials/Fall2020/WS-2-1.pdf) • [solutions](assets/materials/Fall2020/WS-2-1-s.pdf)
 - **Wednesday 9/2** [worksheet Section 2.2](assets/materials/Fall2020/WS-2-2.pdf) • [solutions](assets/materials/Fall2020/WS-2-2-s.pdf)
-- **Thursday 9/3** [worksheet Section 2.2 day 2](assets/materials/Fall2020/WS-2-2-day2.pdf)
-- **Friday 9/4** [worksheet Section 2.3 day 1 (updated 8/30)](assets/materials/Fall2020/WS-2-3-day-1.pdf)
+- **Thursday 9/3** [worksheet Section 2.2 day 2](assets/materials/Fall2020/WS-2-2-day2.pdf) • [solutions](assets/materials/Fall2020/WS-2-2-day2-s.pdf)
+- **Friday 9/4** [worksheet Section 2.3 day 1 (updated 8/30)](assets/materials/Fall2020/WS-2-3-day-1.pdf) 
 
 ## Week 1
 - **Monday 8/24** [worksheet Section 1.1](assets/materials/Fall2020/WS-1-1.pdf) • [solutions](assets/materials/Fall2020/WS-1-1-s.pdf)
