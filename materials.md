@@ -18,7 +18,7 @@ Solutions will be posted after class at some point. Remind Leah if they are not 
 - **Friday 9/25** [worksheet Section 2.7](assets/materials/Fall2020/WS-3-2.pdf) <!-- • [solutions](assets/materials/Fall2020/WS-3-2-s.pdf) -->
 
 ## Week 4 -- We are here
-- **Monday 9/14** [worksheet Section 2.6 day 2](assets/materials/Fall2020/WS-2-6-day2.pdf) <!-- • [solutions](assets/materials/Fall2020/WS-2-6-day2-s-good.pdf) -->
+- **Monday 9/14** [worksheet Section 2.6 day 2](assets/materials/Fall2020/WS-2-6-day2.pdf) • [solutions](assets/materials/Fall2020/WS-2-6-day2-s-good.pdf) 
 - **Wednesday 9/16** [worksheet Section 2.7](assets/materials/Fall2020/WS-2-7.pdf) <!-- • [solutions](assets/materials/Fall2020/WS-2-7-s.pdf) -->
 - **Thursday 9/17** [worksheet Section 2.7 and 2.8](assets/materials/Fall2020/WS-2-7-2-8.pdf) <!-- • [solutions](assets/materials/Fall2020/WS-2-7-2-8-s.pdf) -->
 - **Friday 9/18** [worksheet Section 2.8](assets/materials/Fall2020/WS-2-8.pdf)<!-- • [solutions](assets/materials/Fall2020/WS-2-8-s.pdf) -->
@@ -26,7 +26,7 @@ Solutions will be posted after class at some point. Remind Leah if they are not 
 ## Week 3 
 - **Wednesday 9/9** [worksheet Section 2.3 day 2](assets/materials/Fall2020/WS-2-3-day-2.pdf) • [solutions](assets/materials/Fall2020/WS-2-3-day-2-s.pdf)• [Worksheet Common Limit Mistakes](assets/materials/Fall2020/Worksheet-2-3-CommonLimitMistakes.pdf) • (solutions in worksheet)
 - **Thursday 9/10** [worksheet Section 2.5](assets/materials/Fall2020/WS-2-5.pdf) • [solutions](assets/materials/Fall2020/WS-2-5-s.pdf)
-- **Friday 9/11** [worksheet Section 2.6](assets/materials/Fall2020/WS-2-6-day-1.pdf)
+- **Friday 9/11** [worksheet Section 2.6](assets/materials/Fall2020/WS-2-6-day-1.pdf) • [solutions](assets/materials/Fall2020/WS-2-6-day-1-s.pdf)
 
 ## Week 2
 - **Monday 8/31** [worksheet Section 2.1](assets/materials/Fall2020/WS-2-1.pdf) • [solutions](assets/materials/Fall2020/WS-2-1-s.pdf)
