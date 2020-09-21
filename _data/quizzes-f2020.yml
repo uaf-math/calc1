@@ -24,3 +24,9 @@ quizzes:
   - name: Quiz 2
     blank: Quiz-2-Fa2020.pdf
     solutions: Quiz-2-Fa2020-s.pdf
+
+- name: Quiz 3
+  versions:
+  - name: Quiz 3
+    blank: Quiz-3-Fa2020.pdf
+    solutions: Quiz-3-Fa2020-s.pdf
