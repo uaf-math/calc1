@@ -15,12 +15,12 @@ Solutions will be posted after class at some point. Remind Leah if they are not 
 - **Monday 9/28** [Worksheet Section 3.2 day 2 and Intro to 3.3](assets/materials/Fall2020/WS-3-2Day2-Intro3-3.pdf) • <!-- [solutions](assets/materials/Fall2020/WS-3-2Day2-Intro3-3-s.pdf) -->
 - **Wednesday 9/30** [Worksheet Section 3.3](assets/materials/Fall2020/WS-3-3.pdf) •<!--  [solutions](assets/materials/Fall2020/WS-3-3-s.pdf) -->
 - **Thursday 10/1** [Worksheet Section 3.4](assets/materials/Fall2020/WS-3-4.pdf) <!-- • [solutions](assets/materials/Fall2020/WS-3-4-s.pdf) -->
-- **Friday 10/2** [Worksheet Section 3.4 day 2 and Intro to Section 3.5](assets/materials/Fall2020/WS-3-4-day2-3-5Intro.pdf) <!-- • [solutions](assets/materials/Fall2020/WS-3-4-day2-3-5Intro.pdf) -->
+- **Friday 10/2** [Worksheet Section 3.4 day 2 and Intro to Section 3.5](assets/materials/Fall2020/WS-3-4-day2-3-5Intro.pdf) <!-- • [solutions](assets/materials/Fall2020/WS-3-4-day2-3-5Intro-s.pdf) -->
 
 ## Week 5 
 - **Monday 9/21** [Midterm 1 Review Sheet](assets/materials/Fall2020/Midterm-1-in-lecture-Review-Fa2020.pdf) • [solutions](assets/materials/Fall2020/Midterm-1-in-lecture-Review-s.pdf)
 - **Tuesday 9/22** [Midterm 1 Review - Recitation](assets/materials/Fall2020/Midterm-1-Recitation-Review.pdf) • [solutions](assets/materials/Fall2020/Recitation-MT1-Review-Sols.pdf)
-- **Thursday 9/24** [worksheet Section 3.1](assets/materials/Fall2020/WS-3-1.pdf) <!-- • [solutions](assets/materials/Fall2020/WS-3-1-s.pdf) -->
+- **Thursday 9/24** [worksheet Section 3.1](assets/materials/Fall2020/WS-3-1.pdf) • [solutions](assets/materials/Fall2020/WS-3-1-s.pdf) 
 - **Friday 9/25** [worksheet Section 3.2](assets/materials/Fall2020/WS-3-2.pdf) <!-- • [solutions](assets/materials/Fall2020/WS-3-2-s.pdf) -->
 
 ## Week 4 
