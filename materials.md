@@ -18,7 +18,7 @@ Solutions will be posted after class at some point. Remind Leah if they are not 
 <!-- - **Thursday 10/15** [Worksheet Section 3.4](assets/materials/Fall2020/WS-3-6day2-and-3-7intro.pdf) • [solutions](assets/materials/Fall2020/WS-3-6day2-and-3-7intro-s.pdf)
 - **Friday 10/16** [Worksheet Section 3.4 day 2 and Intro to Section 3.5](assets/materials/Fall2020/WS-3-7.pdf) • [solutions](assets/materials/Fall2020/WS-3-7o-s.pdf) -->
 
-## Week 7 -- We are here
+## Week 7 -- <span style="color:red">We are here</span>
 - **Monday 10/5** [Worksheet Section 3.5](assets/materials/Fall2020/WS-3-5.pdf) • <!-- [solutions](assets/materials/Fall2020/WS-3-5-s.pdf) -->
 - **Wednesday 10/7** [Worksheet Section 3.6](assets/materials/Fall2020/WS-3-6.pdf) •  <!-- [solutions](assets/materials/Fall2020/WS-3-6-s.pdf) -->
 - **Thursday 10/8** [Worksheet Section 3.6 Day 2 and intro to 3.7](assets/materials/Fall2020/WS-3-6day2-and-3-7intro.pdf) • <!-- [solutions](assets/materials/Fall2020/WS-3-6day2-and-3-7intro-s.pdf) -->

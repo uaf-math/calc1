@@ -9,7 +9,7 @@ title: Quizzes
 
 Links to quizzes, and solutions, will appear here as they are completed.-->
 
-Blank Quizzes will be available on [Gradescope](https://www.gradescope.com/courses/153557) on Tuesday morning at 8 am (AK time).  We expect students to complete and upload them by Tuesday at 11:00pm (AK time).  You will have 40 minutes during that time to download the quiz, write your answers to the quiz, and upload the quiz into Gradescope. <span style="color:orange">If you encounter technical difficulties or there's an issue with timing, you need to ***immediately*** email your instructor with details.</span>  If you are writing your quiz on paper, you will need to scan or photoscan (using a scanning app on your smartphone), or save your work as a PDF if you are working on a computer or tablet.
+Blank Quizzes will be available on [Gradescope](https://www.gradescope.com/courses/153557) on Tuesday morning at 8 am (AK time).  We expect students to complete and upload them by Tuesday at 11:00pm (AK time).  You will have 40 minutes during that time to download the quiz, write your answers to the quiz, and upload the quiz into Gradescope. <span style="color:orange">If you encounter technical difficulties or there's an issue with timing, you need to ***immediately*** email your instructor with details</span> <span style="color:red">and include a scan of your quiz (if possible) in the email.</span> If you are writing your quiz on paper, you will need to scan or photoscan (using a scanning app on your smartphone), or save your work as a PDF if you are working on a computer or tablet.
 
 Links to this semester's quizzes, and solutions, will appear here as they are completed. 
 
