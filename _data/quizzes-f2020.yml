@@ -30,3 +30,9 @@ quizzes:
   - name: Quiz 3
     blank: Quiz-3-Fa2020.pdf
     solutions: Quiz-3-Fa2020-s.pdf
+
+- name: Quiz 4
+  versions:
+  - name: Quiz 4
+    blank: Quiz-4-Fa2020.pdf
+    solutions: Quiz-4-Fa2020-s.pdf
