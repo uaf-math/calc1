@@ -14,10 +14,8 @@ Solutions will be posted after class at some point. Remind Leah if they are not 
 ## Week 8 
 - **Monday 10/12** [Worksheet Section 3.8](assets/materials/Fall2020/WS-3-8.pdf) • <!-- [solutions](assets/materials/Fall2020/WS-3-8-s.pdf) -->
 - **Wednesday 10/14** [Worksheet Section 3.9](assets/materials/Fall2020/WS-3-9.pdf) •  <!-- [solutions](assets/materials/Fall2020/WS-3-9-s.pdf) -->
-<!-- 
-- **Thursday 10/15** [Worksheet Section 3.4](assets/materials/Fall2020/WS-3-6day2-and-3-7intro.pdf)• <!-- [solutions](assets/materials/Fall2020/WS-3-6day2-and-3-7intro-s.pdf) -->
-- **Friday 10/16** [Worksheet Section 3.4 day 2 and Intro to Section 3.5](assets/materials/Fall2020/WS-3-7.pdf) <!-- • [solutions](assets/materials/Fall2020/WS-3-7o-s.pdf) -->
 
+<!-- - **Thursday 10/15** [Worksheet Section 3.4](assets/materials/Fall2020/WS-3-6day2-and-3-7intro.pdf)• [solutions](assets/materials/Fall2020/WS-3-6day2-and-3-7intro-s.pdf)- **Friday 10/16** [Worksheet Section 3.4 day 2 and Intro to Section 3.5](assets/materials/Fall2020/WS-3-7.pdf) • [solutions](assets/materials/Fall2020/WS-3-7o-s.pdf) -->
 
 ## Week 7 -- We are here
 - **Monday 10/5** [Worksheet Section 3.5](assets/materials/Fall2020/WS-3-5.pdf) • <!-- [solutions](assets/materials/Fall2020/WS-3-5-s.pdf) -->
