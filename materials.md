@@ -12,7 +12,7 @@ These worksheets are what we will work on in class. The expectation is that you 
 Solutions will be posted after class at some point. Remind Leah if they are not up when you are looking for them.
 
 ## Week 8 
-- **Monday 10/12** [Worksheet Section 3.8](assets/materials/Fall2020/WS-3-8.pdf) • <!-- [solutions](assets/materials/Fall2020/WS-3-8-s.pdf) -->
+- **Monday 10/12** [Worksheet Section 3.8](assets/materials/Fall2020/WS-3-8.pdf) • [solutions](assets/materials/Fall2020/WS-3-8-s.pdf)
 - **Wednesday 10/14** [Worksheet Section 3.9](assets/materials/Fall2020/WS-3-9.pdf) •  <!-- [solutions](assets/materials/Fall2020/WS-3-9-s.pdf) -->
 - **Thursday 10/15** [Worksheet Section 3.9 day 2 and Intro to Section 3.10](assets/materials/Fall2020/WS-3-9day2-intro3-10.pdf) •<!-- 
  [solutions](assets/materials/Fall2020/WS-3-9day2-intro3-10-s.pdf) -->
@@ -23,7 +23,7 @@ Solutions will be posted after class at some point. Remind Leah if they are not 
 - **Monday 10/5** [Worksheet Section 3.5](assets/materials/Fall2020/WS-3-5.pdf) •  [solutions](assets/materials/Fall2020/WS-3-5-s.pdf) 
 - **Wednesday 10/7** [Worksheet Section 3.6](assets/materials/Fall2020/WS-3-6.pdf) • [solutions](assets/materials/Fall2020/WS-3-6-s.pdf) 
 - **Thursday 10/8** [Worksheet Section 3.6 Day 2 and intro to 3.7](assets/materials/Fall2020/WS-3-6day2-and-3-7intro.pdf) •[solutions](assets/materials/Fall2020/WS-3-6day2-and-3-7intro-s.pdf)
-- **Friday 10/9** [Worksheet Section 3.7](assets/materials/Fall2020/WS-3-7.pdf) <!-- • [solutions](assets/materials/Fall2020/WS-3-7-s.pdf) -->
+- **Friday 10/9** [Worksheet Section 3.7](assets/materials/Fall2020/WS-3-7.pdf) • [solutions](assets/materials/Fall2020/WS-3-7-s.pdf)
 
 ## Week 6 
 - **Monday 9/28** [Worksheet Section 3.2 day 2 and Intro to 3.3](assets/materials/Fall2020/WS-3-2Day2-Intro3-3.pdf) • [solutions](assets/materials/Fall2020/WS-3-2Day2-Intro3-3-s.pdf)
