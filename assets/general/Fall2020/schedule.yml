@@ -135,7 +135,7 @@ schedule:
     webassign: "3.10"
   - recitation:
     quiz: "3.8-3.10"
-  - class: "Sections 4.1-4.2"
+  - class: "Revised: Section 4.1" #"Sections 4.1-4.2"
     homework:
   - class: "Section 4.2"
     homework:
@@ -145,7 +145,7 @@ schedule:
     webassign: "4.2"
 
 #  week 10
-  - class: "Sections 4.3-4.4"
+  - class: "Revised: Section 4.3"#"Sections 4.3-4.4"
     homework:
   - recitation:
     quiz: "4.1-4.2"
