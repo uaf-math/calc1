@@ -46,6 +46,17 @@ The .yml file with the "slot A" and "slot B" syntax is called
 
 The .yml file used is 
 	schedule-yml-to-tex-WRHtoDH
+	
+So you need to go into the directory where things live, (which you can do by having set up a link to iCloud, 
+
+type
+	ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs ~/iCloud
+
+otherwise go to
+	~/Library/Mobile Documents/com~apple~CloudDocs
+and then navigate to the correct folder in the GitHub directory structure)
+
+type into the terminal: 	python3 schedule-yml-to-tex-WRHtoDH.py > schedule-auto.tex
 
 This changes from WRH for written homework to DH for daily homework.
 
