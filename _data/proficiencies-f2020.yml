@@ -2,9 +2,9 @@ semester: Fall 2020
 home: assets/proficiencies/Fall2020
 derivative: #
   versions: #
-   #  - name: #
-        #blank:
-        #solutions: 
+  - name: "Try 1 (Wednesday 10//14/20)"#
+    blank: Derivative-v1.pdf
+    solutions:  Derivative-v1-s.pdf
    # - name: V1
 #      blank: DerivativeProf-2019-v1.pdf
 #      solutions: DerivativeProf-2019-v1-s.pdf
