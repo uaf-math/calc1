@@ -11,15 +11,34 @@ These worksheets are what we will work on in class. The expectation is that you 
 
 Solutions will be posted after class at some point. Remind Leah if they are not up when you are looking for them.
 
+## Week 10 -- <span style="color:red">We are here</span>
+- **Monday 10/12** [Worksheet Section 4.3 day 2](assets/materials/Fall2020/WS-4.3-day2.pdf) • <!-- 
+[solutions](assets/materials/Fall2020/WS-4.3day2-s.pdf)
+- **Wednesday 10/14** [Worksheet Section 4.1 day 2](assets/materials/Fall2020/WS-3-9.pdf) •  <!-- [solutions](assets/materials/Fall2020/WS-3-9-s.pdf) -->
+<!-- 
+- **Thursday 10/15** [Worksheet Section 4.2](assets/materials/Fall2020/WS-3-9day2-intro3-10.pdf) •<!-- 
+ [solutions](assets/materials/Fall2020/WS-3-9day2-intro3-10-s.pdf) -->
+<!-- 
+- **Friday 10/16** [Worksheet Section 4.3 day 1](assets/materials/Fall2020/WS-3-10.pdf) • <!-- [solutions](assets/materials/Fall2020/WS-3-10-s.pdf) -->
+
+
+
+## Week 9  -- <span style="color:red">We are here</span>
+- **Monday 10/12** [Worksheet Section 4.1](assets/materials/Fall2020/WS-4-1.pdf) •<!--  [solutions](assets/materials/Fall2020/WS-4-1-s.pdf) -->
+- **Wednesday 10/14** [Worksheet Section 4.1 day 2](assets/materials/Fall2020/WS-4-1-day-2.pdf) •  <!-- [solutions](assets/materials/Fall2020/WS-4-1-day-2-s.pdf) -->
+- **Thursday 10/15** [Worksheet Section 4.2](assets/materials/Fall2020/WS-4-2.pdf) •<!-- 
+ [solutions](assets/materials/Fall2020/WS-4-2-s.pdf) -->
+- **Friday 10/16** [Worksheet Section 4.3 day 1](assets/materials/Fall2020/WS-4-3-day1-v3.pdf) • [How derivatives affect the shape of the graph reference sheet](assets/materials/Fall2020/DerivativeShape-CheatSheet.pdf) <!-- [solutions](assets/materials/Fall2020/WS-4-3-day1-v3-s.pdf) -->
+
 ## Week 8 
 - **Monday 10/12** [Worksheet Section 3.8](assets/materials/Fall2020/WS-3-8.pdf) • [solutions](assets/materials/Fall2020/WS-3-8-s.pdf)
-- **Wednesday 10/14** [Worksheet Section 3.9](assets/materials/Fall2020/WS-3-9.pdf) •  <!-- [solutions](assets/materials/Fall2020/WS-3-9-s.pdf) -->
-- **Thursday 10/15** [Worksheet Section 3.9 day 2 and Intro to Section 3.10](assets/materials/Fall2020/WS-3-9day2-intro3-10.pdf) •<!-- 
- [solutions](assets/materials/Fall2020/WS-3-9day2-intro3-10-s.pdf) -->
-- **Friday 10/16** [Worksheet Section 3.10](assets/materials/Fall2020/WS-3-10.pdf) • <!-- [solutions](assets/materials/Fall2020/WS-3-10-s.pdf) -->
- -->
+- **Wednesday 10/14** [Worksheet Section 3.9](assets/materials/Fall2020/WS-3-9.pdf) •  [solutions](assets/materials/Fall2020/WS-3-9-s.pdf) 
+- **Thursday 10/15** [Worksheet Section 3.9 day 2 and Intro to Section 3.10](assets/materials/Fall2020/WS-3-9day2-intro3-10.pdf) • 
+ [solutions](assets/materials/Fall2020/WS-3-9day2-intro3-10-s.pdf)
+- **Friday 10/16** [Worksheet Section 3.10](assets/materials/Fall2020/WS-3-10.pdf) •  [solutions](assets/materials/Fall2020/WS-3-10-s.pdf) 
 
-## Week 7 -- <span style="color:red">We are here</span>
+
+## Week 7
 - **Monday 10/5** [Worksheet Section 3.5](assets/materials/Fall2020/WS-3-5.pdf) •  [solutions](assets/materials/Fall2020/WS-3-5-s.pdf) 
 - **Wednesday 10/7** [Worksheet Section 3.6](assets/materials/Fall2020/WS-3-6.pdf) • [solutions](assets/materials/Fall2020/WS-3-6-s.pdf) 
 - **Thursday 10/8** [Worksheet Section 3.6 Day 2 and intro to 3.7](assets/materials/Fall2020/WS-3-6day2-and-3-7intro.pdf) •[solutions](assets/materials/Fall2020/WS-3-6day2-and-3-7intro-s.pdf)
