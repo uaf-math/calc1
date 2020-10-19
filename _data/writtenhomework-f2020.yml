@@ -140,7 +140,7 @@
 
 - name: "DH 27"
   problems:     
-   - section: 3.10
+   - section: '3.10'
      exercises: 2, 23
 
 - name: "DH 28"
