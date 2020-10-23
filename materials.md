@@ -12,14 +12,8 @@ These worksheets are what we will work on in class. The expectation is that you 
 Solutions will be posted after class at some point. Remind Leah if they are not up when you are looking for them.
 
 ## Week 10 -- 
-- **Monday 10/12** [Worksheet Section 4.3 day 2](assets/materials/Fall2020/WS-4.3-day2.pdf) • <!-- 
+- **Monday 10/12** [Worksheet Section 4.3 day 2](assets/materials/Fall2020/WS-4.3-day2.pdf) •  
 [solutions](assets/materials/Fall2020/WS-4.3day2-s.pdf)
-- **Wednesday 10/14** [Worksheet Section 4.1 day 2](assets/materials/Fall2020/WS-3-9.pdf) •  <!-- [solutions](assets/materials/Fall2020/WS-3-9-s.pdf) -->
-<!-- 
-- **Thursday 10/15** [Worksheet Section 4.2](assets/materials/Fall2020/WS-3-9day2-intro3-10.pdf) •<!-- 
- [solutions](assets/materials/Fall2020/WS-3-9day2-intro3-10-s.pdf) -->
-<!-- 
-- **Friday 10/16** [Worksheet Section 4.3 day 1](assets/materials/Fall2020/WS-3-10.pdf) • <!-- [solutions](assets/materials/Fall2020/WS-3-10-s.pdf) -->
 
 
 
