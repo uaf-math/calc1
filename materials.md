@@ -28,7 +28,7 @@ Solutions will be posted after class at some point. Remind Leah if they are not 
 - **Wednesday 10/14** [Worksheet Section 4.1 day 2](assets/materials/Fall2020/WS-4-1-day-2.pdf) •  <!-- [solutions](assets/materials/Fall2020/WS-4-1-day-2-s.pdf) -->
 - **Thursday 10/15** [Worksheet Section 4.2](assets/materials/Fall2020/WS-4-2.pdf) •<!-- 
  [solutions](assets/materials/Fall2020/WS-4-2-s.pdf) -->
-- **Friday 10/16** [Worksheet Section 4.3 day 1](assets/materials/Fall2020/WS-4-3-day1-v3.pdf) • [How derivatives affect the shape of the graph reference sheet](assets/materials/Fall2020/DerivativeShape-CheatSheet.pdf) <!-- [solutions](assets/materials/Fall2020/WS-4-3-day1-v3-s.pdf) -->
+- **Friday 10/16** [Worksheet Section 4.3 day 1](assets/materials/Fall2020/WS-4-3-day1v3.pdf) • [How derivatives affect the shape of the graph reference sheet](assets/materials/Fall2020/DerivativeShape-CheatSheet.pdf) <!-- [solutions](assets/materials/Fall2020/WS-4-3-day1-v3-s.pdf) -->
 
 ## Week 8 
 - **Monday 10/12** [Worksheet Section 3.8](assets/materials/Fall2020/WS-3-8.pdf) • [solutions](assets/materials/Fall2020/WS-3-8-s.pdf)
