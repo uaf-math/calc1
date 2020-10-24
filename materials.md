@@ -11,18 +11,21 @@ These worksheets are what we will work on in class. The expectation is that you 
 
 Solutions will be posted after class at some point. Remind Leah if they are not up when you are looking for them.
 
-## Week 10 -- 
-- **Monday 10/12** [Worksheet Section 4.3 day 2](assets/materials/Fall2020/WS-4.3-day2.pdf) •  
-[solutions](assets/materials/Fall2020/WS-4.3day2-s.pdf)
-
+## Week 10 -- <span style="color:red">We are here</span>
+- **Monday 10/26** [Worksheet Section 4.3 day 2](assets/materials/Fall2020/WS-4-3day2.pdf) •  <!--
+[solutions](assets/materials/Fall2020/WS-4-3day2-s.pdf)-->
+- **Wednesday 10/28** [Worksheet Section 4.4](assets/materials/Fall2020/WS-4-4.pdf) •  [solutions](assets/materials/Fall2020/WS-4-1-day-2-s.pdf)
+- **Thursday 10/29** [Worksheet Section 4.5 day 1](assets/materials/Fall2020/WS-4-5-day1.pdf) • [Derivatives for Section 4.5 HW problems](assets/materials/Fall2020/DerivativesForSec4-5.pdf) • <!-- 
+ [solutions](assets/materials/Fall2020/WS-4-2-s.pdf) -->
+- **Friday 10/30** [Worksheet Section 4.5 day 2](assets/materials/Fall2020/WS-4-5-day2.pdf) •  <!-- [solutions](assets/materials/Fall2020/WS-4-3-day1-v3-s.pdf) -->
 
 
 ## Week 9  -- <span style="color:red">We are here</span>
-- **Monday 10/12** [Worksheet Section 4.1](assets/materials/Fall2020/WS-4-1.pdf) •<!--  [solutions](assets/materials/Fall2020/WS-4-1-s.pdf) -->
-- **Wednesday 10/14** [Worksheet Section 4.1 day 2](assets/materials/Fall2020/WS-4-1-day-2.pdf) •  <!-- [solutions](assets/materials/Fall2020/WS-4-1-day-2-s.pdf) -->
-- **Thursday 10/15** [Worksheet Section 4.2](assets/materials/Fall2020/WS-4-2.pdf) •<!-- 
- [solutions](assets/materials/Fall2020/WS-4-2-s.pdf) -->
-- **Friday 10/16** [Worksheet Section 4.3 day 1](assets/materials/Fall2020/WS-4-3day1-v3.pdf) • [How derivatives affect the shape of the graph reference sheet](assets/materials/Fall2020/DerivativeShape-CheatSheet.pdf) <!-- [solutions](assets/materials/Fall2020/WS-4-3-day1-v3-s.pdf) -->
+- **Monday 10/19** [Worksheet Section 4.1](assets/materials/Fall2020/WS-4-1.pdf) •  [solutions](assets/materials/Fall2020/WS-4-1-s.pdf)
+- **Wednesday 10/21** [Worksheet Section 4.1 day 2](assets/materials/Fall2020/WS-4-1-day-2.pdf) •  [solutions](assets/materials/Fall2020/WS-4-1-day-2-s.pdf)
+- **Thursday 10/22** [Worksheet Section 4.2](assets/materials/Fall2020/WS-4-2.pdf) • 
+ [solutions](assets/materials/Fall2020/WS-4-2-s.pdf)
+- **Friday 10/23** [Worksheet Section 4.3 day 1](assets/materials/Fall2020/WS-4-3day1-v3.pdf) • [How derivatives affect the shape of the graph reference sheet](assets/materials/Fall2020/DerivativeShape-CheatSheet.pdf) • [solutions](assets/materials/Fall2020/WS-4-3-day1-v3-s.pdf) 
 
 ## Week 8 
 - **Monday 10/12** [Worksheet Section 3.8](assets/materials/Fall2020/WS-3-8.pdf) • [solutions](assets/materials/Fall2020/WS-3-8-s.pdf)
