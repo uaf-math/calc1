@@ -22,9 +22,9 @@ Solutions will be posted after class at some point. Remind Leah if they are not 
 ## Week 10 -- <span style="color:red">We are here</span>
 - **Monday 10/26** [Worksheet Section 4.3 day 2](assets/materials/Fall2020/WS-4-3day2.pdf) •  
 [solutions](assets/materials/Fall2020/WS-4-3day2-s.pdf)
-- **Wednesday 10/28** [Worksheet Section 4.4](assets/materials/Fall2020/WS-4-4.pdf) •  <!-- [solutions](assets/materials/Fall2020/WS-4-1-day-2-s.pdf) -->
-- **Thursday 10/29** [Worksheet Section 4.5 day 1](assets/materials/Fall2020/WS-4-5-day1.pdf) • [Derivatives for Section 4.5 HW problems](assets/materials/Fall2020/DerivativesForSec4-5.pdf) • <!-- 
- [solutions](assets/materials/Fall2020/Worksheet-4-5-day1-s.pdf) -->
+- **Wednesday 10/28** [Worksheet Section 4.4](assets/materials/Fall2020/WS-4-4.pdf) • [Indeterminate Forms Reference Sheet](assets/materials/Fall2020/WS-4-4.pdf) • [solutions](assets/materials/Fall2020/WS-4-4-s.pdf) 
+- **Thursday 10/29** [Worksheet Section 4.5 day 1](assets/materials/Fall2020/WS-4-5-day1.pdf) • [Derivatives for Section 4.5 HW problems](assets/materials/Fall2020/DerivativesForSec4-5.pdf) • 
+ [solutions](assets/materials/Fall2020/Worksheet-4-5-day1-s.pdf)
 - **Friday 10/30** [Worksheet Section 4.5 day 2](assets/materials/Fall2020/WS-4-5-day2.pdf) •  <!-- [solutions](assets/materials/Fall2020/Worksheet-4-5b-Sols.pdf) -->
 
 
