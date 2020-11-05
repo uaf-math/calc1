@@ -36,3 +36,27 @@ quizzes:
   - name: Quiz 4
     blank: Quiz-4-Fa2020.pdf
     solutions: Quiz-4-Fa2020-s.pdf
+    
+- name: Quiz 5
+  versions:
+  - name: Quiz 5
+    blank: Quiz-5-Fa2020.pdf
+    solutions: Quiz-5-Fa2020-s.pdf
+    
+- name: Quiz 6
+  versions:
+  - name: Quiz 6
+    blank: Quiz-6-Fa2020.pdf
+    solutions: Quiz-6-Fa2020-s.pdf
+    
+- name: Quiz 7
+  versions:
+  - name: Quiz 7
+    blank: Quiz-7-Fa2020.pdf
+    solutions: Quiz-7-Fa2020-s.pdf
+    
+- name: Quiz 8
+  versions:
+  - name: Quiz 8
+    blank: Quiz-8-Fa2020.pdf
+    solutions: Quiz-8-Fa2020-s.pdf
