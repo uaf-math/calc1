@@ -12,19 +12,18 @@ These worksheets are what we will work on in class. The expectation is that you 
 Solutions will be posted after class at some point. Remind Leah if they are not up when you are looking for them.
 
 ## Week 11 -- <span style="color:red">We are here</span>
-- **Monday 11/2** [Worksheet Section 4.7 day 1](assets/materials/Fall2020/WS-4-7-day1.pdf) •  <!--
-[solutions](assets/materials/Fall2020/WS-4-7-day1-s.pdf)-->
-- **Wednesday 11/4** [Worksheet Section 4.7 day 2](assets/materials/Fall2020/WS-4-7-day2.pdf) •  <!-- [solutions](assets/materials/Fall2020/WS-4-7-day2-s.pdf) -->
-- **Thursday 11/5** [Worksheet Section 4.9](assets/materials/Fall2020/WS-4-9.pdf) •  • <!-- 
- [solutions](assets/materials/Fall2020/WS-4-9-s.pdf) -->
-- **Friday 11/6** [Chapter 3 - 4 Review](assets/materials/Fall2020/Ch_3-and-4_Review-in-class.pdf) •  <!-- [solutions](assets/materials/Fall2020/WS-4-3-day1-v3-s.pdf) -->
+- **Monday 11/2** [Worksheet Section 4.7 day 1](assets/materials/Fall2020/WS-4-7-day1.pdf) • [solutions](assets/materials/Fall2020/WS-4-7-day1-s.pdf)
+- **Wednesday 11/4** [Worksheet Section 4.7 day 2](assets/materials/Fall2020/WS-4-7-day2.pdf) • [solutions](assets/materials/Fall2020/WS-4-7-day2-s.pdf) 
+- **Thursday 11/5** [Worksheet Section 4.9](assets/materials/Fall2020/WS-4-9.pdf) •  • 
+ [solutions](assets/materials/Fall2020/WS-4-9-s.pdf) 
+- **Friday 11/6** [Chapter 3 - 4 Review](assets/materials/Fall2020/Ch_3-and-4_Review-in-class.pdf) •   [solutions](assets/materials/Fall2020/Ch_3-and-4_Review-in-class-s.pdf) 
 
 ## Week 10 
 - **Monday 10/26** [Worksheet Section 4.3 day 2](assets/materials/Fall2020/WS-4-3day2.pdf) •  [solutions](assets/materials/Fall2020/WS-4-3day2-s.pdf)
 - **Wednesday 10/28** [Worksheet Section 4.4](assets/materials/Fall2020/WS-4-4.pdf) • [Indeterminate Forms Reference Sheet](assets/materials/Fall2020/Indeterminate-Forms-ReferenceSheet.pdf) • [solutions](assets/materials/Fall2020/WS-4-4-s.pdf) 
 - **Thursday 10/29** [Worksheet Section 4.5 day 1](assets/materials/Fall2020/WS-4-5-day1.pdf) • [Derivatives for Section 4.5 HW problems](assets/materials/Fall2020/DerivativesForSec4-5.pdf) • 
  [solutions](assets/materials/Fall2020/Worksheet-4-5-day1-s.pdf)
-- **Friday 10/30** [Worksheet Section 4.5 day 2](assets/materials/Fall2020/WS-4-5-day2.pdf) •  <!-- [solutions](assets/materials/Fall2020/Worksheet-4-5b-Sols.pdf) -->
+- **Friday 10/30** [Worksheet Section 4.5 day 2](assets/materials/Fall2020/WS-4-5-day2.pdf) •  [solutions](assets/materials/Fall2020/Worksheet-4-5b-Sols.pdf) 
 
 
 ## Week 9  
