@@ -11,7 +11,15 @@ These worksheets are what we will work on in class. The expectation is that you 
 
 Solutions will be posted after class at some point. Remind Leah if they are not up when you are looking for them.
 
-## Week 11 -- <span style="color:red">We are here</span>
+## Week 12 -- <span style="color:red">We are here</span>
+- **Monday 11/2** [Worksheet Section 5.1](assets/materials/Fall2020/WS-5-1.pdf) • <!-- [solutions](assets/materials/Fall2020/WS-5-1-s.pdf) -->
+- **Wednesday 11/4** "[Midterm Day! Class is optional Q&A."
+- **Thursday 11/5** [Worksheet Section 5.2 day 1](assets/materials/Fall2020/WS-5-2-day1.pdf) • <!-- 
+ [solutions](assets/materials/Fall2020/WS-5-2-day1-s.pdf) 
+ -->
+- **Friday 11/6** [Worksheet Section 5.2 day 2](assets/materials/Fall2020/WS-5-2-day2.pdf) •<!--    [solutions](assets/materials/Fall2020/WS-5-2-day2-s.pdf)  -->
+
+## Week 11 
 - **Monday 11/2** [Worksheet Section 4.7 day 1](assets/materials/Fall2020/WS-4-7-day1.pdf) • [solutions](assets/materials/Fall2020/WS-4-7-day1-s.pdf)
 - **Wednesday 11/4** [Worksheet Section 4.7 day 2](assets/materials/Fall2020/WS-4-7-day2.pdf) • [solutions](assets/materials/Fall2020/WS-4-7-day2-s.pdf) 
 - **Thursday 11/5** [Worksheet Section 4.9](assets/materials/Fall2020/WS-4-9.pdf) •  • 
