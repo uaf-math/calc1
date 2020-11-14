@@ -11,13 +11,25 @@ These worksheets are what we will work on in class. The expectation is that you 
 
 Solutions will be posted after class at some point. Remind Leah if they are not up when you are looking for them.
 
-## Week 12 -- <span style="color:red">We are here</span>
-- **Monday 11/2** [Worksheet Section 5.1](assets/materials/Fall2020/WS-5-1.pdf) • <!-- [solutions](assets/materials/Fall2020/WS-5-1-s.pdf) -->
+## Week 14 
+- **Monday 11/22** [Worksheet Section 5.5 part 2](assets/materials/Fall2020/WS-5-5-part-1.pdf) • [solutions](assets/materials/Fall2020/WS-5-3-part-1-s.pdf) 
+- **Wednesday 11/18** "[Thanksgiving Break - No class]"
+- **Thursday 11/19** "[Happy Thanksgiving! Please stay away from other people and don't get COVID.]"
+- **Friday 11/20**  "[Thanksgiving Break - No class]"
+
+## Week 13 -- <span style="color:red">We are here</span>
+- **Monday 11/16** [Worksheet Section 5.3 part 1](assets/materials/Fall2020/WS-5-3-part-1.pdf) • [solutions](assets/materials/Fall2020/WS-5-3-part-1-s.pdf) 
+- **Wednesday 11/18** [Worksheet Section 5.3 part 2](assets/materials/Fall2020/WS-5-3-part-2.pdf) • [solutions](assets/materials/Fall2020/WS-5-3-part-2-s.pdf) 
+- **Thursday 11/19** [Worksheet Section 5.4](assets/materials/Fall2020/WS-5-4.pdf) • 
+ [solutions](assets/materials/Fall2020/WS-5-4-s.pdf) 
+- **Friday 11/20** [Worksheet Section 5.2 day 2](assets/materials/Fall2020/WS-5-5-day1.pdf) •   [solutions](assets/materials/Fall2020/WS-5-5-day1-s.pdf)
+
+## Week 12
+- **Monday 11/2** [Worksheet Section 5.1](assets/materials/Fall2020/WS-5-1.pdf) • [solutions](assets/materials/Fall2020/WS-5-1-s.pdf) 
 - **Wednesday 11/4** "[Midterm Day! Class is optional Q&A."
-- **Thursday 11/5** [Worksheet Section 5.2 day 1](assets/materials/Fall2020/WS-5-2-day1.pdf) • <!-- 
+- **Thursday 11/5** [Worksheet Section 5.2 day 1](assets/materials/Fall2020/WS-5-2-day1.pdf) • 
  [solutions](assets/materials/Fall2020/WS-5-2-day1-s.pdf) 
- -->
-- **Friday 11/6** [Worksheet Section 5.2 day 2](assets/materials/Fall2020/WS-5-2-day2.pdf) •<!--    [solutions](assets/materials/Fall2020/WS-5-2-day2-s.pdf)  -->
+- **Friday 11/6** [Worksheet Section 5.2 day 2](assets/materials/Fall2020/WS-5-2-day2.pdf) •  [solutions](assets/materials/Fall2020/WS-5-2-day2-s.pdf)
 
 ## Week 11 
 - **Monday 11/2** [Worksheet Section 4.7 day 1](assets/materials/Fall2020/WS-4-7-day1.pdf) • [solutions](assets/materials/Fall2020/WS-4-7-day1-s.pdf)
