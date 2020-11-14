@@ -22,7 +22,7 @@ Solutions will be posted after class at some point. Remind Leah if they are not 
 - **Wednesday 11/18** [Worksheet Section 5.3 part 2](assets/materials/Fall2020/WS-5-3-part-2.pdf) • [solutions](assets/materials/Fall2020/WS-5-3-part-2-s.pdf) 
 - **Thursday 11/19** [Worksheet Section 5.4](assets/materials/Fall2020/WS-5-4.pdf) • 
  [solutions](assets/materials/Fall2020/WS-5-4-s.pdf) 
-- **Friday 11/20** [Worksheet Section 5.2 day 2](assets/materials/Fall2020/WS-5-5-day1.pdf) •   [solutions](assets/materials/Fall2020/WS-5-5-day1-s.pdf)
+- **Friday 11/20** [Worksheet Section 5.5 day 1](assets/materials/Fall2020/WS-5-5-day1.pdf) •   [solutions](assets/materials/Fall2020/WS-5-5-day1-s.pdf)
 
 ## Week 12
 - **Monday 11/2** [Worksheet Section 5.1](assets/materials/Fall2020/WS-5-1.pdf) • [solutions](assets/materials/Fall2020/WS-5-1-s.pdf) 
