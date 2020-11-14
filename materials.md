@@ -12,7 +12,7 @@ These worksheets are what we will work on in class. The expectation is that you 
 Solutions will be posted after class at some point. Remind Leah if they are not up when you are looking for them.
 
 ## Week 14 
-- **Monday 11/22** [Worksheet Section 5.5 part 2](assets/materials/Fall2020/WS-5-5-part-1.pdf) • [solutions](assets/materials/Fall2020/WS-5-3-part-1-s.pdf) 
+- **Monday 11/22** [Worksheet Section 5.5 part 2](assets/materials/Fall2020/WS-5-5-day2.pdf) • [solutions](assets/materials/Fall2020/WS-5-5-day2-s.pdf) 
 - **Wednesday 11/18** "[Thanksgiving Break - No class]"
 - **Thursday 11/19** "[Happy Thanksgiving! Please stay away from other people and don't get COVID.]"
 - **Friday 11/20**  "[Thanksgiving Break - No class]"
