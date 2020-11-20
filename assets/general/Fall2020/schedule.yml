@@ -206,6 +206,7 @@ schedule:
 #week 14
   - class: "Section 5.5"
     homework:
+    webassign: "5.4"
     deadline: "GER Signature Assignment Due"
   - recitation: 
     quiz: "5.3 - 5.4"
