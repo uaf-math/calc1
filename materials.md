@@ -11,13 +11,19 @@ These worksheets are what we will work on in class. The expectation is that you 
 
 Solutions will be posted after class at some point. Remind Leah if they are not up when you are looking for them.
 
-## Week 14 
+## Week 15 
+- **Monday 11/30** [Worksheet Section 4.8](assets/materials/Fall2020/WS-4-8.pdf) • <!-- [solutions](assets/materials/Fall2020/WS-4-8-s.pdf)  -->
+- **Wednesday 12/2** Integral Proficiency (evening)
+- **Thursday 12/3** Review Chapters 2 - 3
+- **Friday 12/4**  Review Chapters 4 - 5
+
+## Week 14 -- <span style="color:red">We are here</span>
 - **Monday 11/22** [Worksheet Section 5.5 part 2](assets/materials/Fall2020/WS-5-5-day2.pdf) • [solutions](assets/materials/Fall2020/WS-5-5-day2-s.pdf) 
 - **Wednesday 11/18** Thanksgiving Break - No class
 - **Thursday 11/19** Happy Thanksgiving! Please stay away from other people and don't get COVID.
 - **Friday 11/20**  Thanksgiving Break - No class
 
-## Week 13 -- <span style="color:red">We are here</span>
+## Week 13 
 - **Monday 11/16** [Worksheet Section 5.3 part 1](assets/materials/Fall2020/WS-5-3-part-1.pdf) • [solutions](assets/materials/Fall2020/WS-5-3-part-1-s.pdf) 
 - **Wednesday 11/18** [Worksheet Section 5.3 part 2](assets/materials/Fall2020/WS-5-3-part-2.pdf) • [solutions](assets/materials/Fall2020/WS-5-3-part-2-s.pdf) 
 - **Thursday 11/19** [Worksheet Section 5.4](assets/materials/Fall2020/WS-5-4.pdf) • 
