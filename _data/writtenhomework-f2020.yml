@@ -249,7 +249,7 @@
 
 - name: "DH 48"
   problems:     
-   - section: "Review section 5"
+   - section: "Chapter 5 review"
      exercises: 12, 30, 45 
             
 #- name: WRH 2
