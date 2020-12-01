@@ -3,6 +3,8 @@ home: assets/exams/Fall2020
 midterm1:
     blank: Midterm-1-FinalVersion-Fall2020.pdf
     solutions: Midterm-1-FinalVersion-Fall2020-s.pdf
+    blank: Midterm-1-FinalVersion-alt-Fall2020.pdf
+    solutions: Midterm-1-FinalVersion-alt-Fall2020-S.pdf
 midterm2:
     blank: Midterm-2-Fall2020.pdf
     solutions: Midterm-2-Fall2020-s.pdf
