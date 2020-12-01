@@ -60,3 +60,15 @@ quizzes:
   - name: Quiz 8
     blank: Quiz-8-Fa2020.pdf
     solutions: Quiz-8-Fa2020-s.pdf
+    
+    - name: Quiz 9
+  versions:
+  - name: Quiz 9
+    blank: Quiz-9-Fa2020.pdf
+    solutions: Quiz-9-Fa2020-s.pdf
+    
+    - name: Quiz 10
+  versions:
+  - name: Quiz 10
+    blank: Quiz-10-Fa2020.pdf
+    solutions: Quiz-10-Fa2020-s.pdf
