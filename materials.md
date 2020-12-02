@@ -12,10 +12,10 @@ These worksheets are what we will work on in class. The expectation is that you 
 Solutions will be posted after class at some point. Remind Leah if they are not up when you are looking for them.
 
 ## Week 15 
-- **Monday 11/30** [Worksheet Section 4.8](assets/materials/Fall2020/WS-4-8.pdf) • <!-- [solutions](assets/materials/Fall2020/WS-4-8-s.pdf)  -->
+- **Monday 11/30** [Worksheet Section 4.8](assets/materials/Fall2020/WS-4-8.pdf) • [solutions](assets/materials/Fall2020/WS-4-8-s.pdf)
 - **Wednesday 12/2** Integral Proficiency (evening)
-- **Thursday 12/3** Review Chapters 2 - 3
-- **Friday 12/4**  Review Chapters 4 - 5
+- **Thursday 12/3** [Review Day 1](assets/materials/Fall2020/FinalExamReview-day1.pdf) • [solutions](assets/materials/Fall2020/FinalExamReview-day1-s.pdf)
+- **Friday 12/4**  [Review Day 2](assets/materials/Fall2020/FinalExamReview-day2.pdf) • [solutions](assets/materials/Fall2020/FinalExamReview-day2-s.pdf)
 
 ## Week 14 -- <span style="color:red">We are here</span>
 - **Monday 11/22** [Worksheet Section 5.5 part 2](assets/materials/Fall2020/WS-5-5-day2.pdf) • [solutions](assets/materials/Fall2020/WS-5-5-day2-s.pdf) 
