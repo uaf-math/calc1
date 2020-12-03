@@ -5,9 +5,9 @@ derivative: #
   - name: "Try 1 (Wednesday 10//14/20)"#
     blank: Derivative-v1.pdf
     solutions:  Derivative-v1-s.pdf
-   # - name: V1
-#      blank: DerivativeProf-2019-v1.pdf
-#      solutions: DerivativeProf-2019-v1-s.pdf
+  - name: Retake
+    blank: Derivative-retake.pdf
+    solutions: Derivative-retake-s.pdf
 #    - name: V2
 #      blank: DerivativeProf-2019-v2.pdf
 #      solutions: DerivativeProf-2019-v2-s.pdf
@@ -25,9 +25,9 @@ derivative: #
 #      solutions: Derivative-v6-Sols.pdf
 integral: #
   versions: #
-    #- name: V1
-#      blank: IntegralProf-2019-v1.pdf
-#      solutions: IntegralProf-2019-v1-s.pdf
+  - name: First Time
+    blank: IntegralProf-F2020-v1.pdf
+    solutions: IntegralProf-F2020-v1-s.pdf
 #    - name: V1a
 #      blank: IntegralProf-2019-v1a.pdf
 #      solutions: IntegralProf-2019-v1a-s.pdf
