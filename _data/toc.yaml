@@ -14,7 +14,7 @@ docs:
 - title: WebAssign
   url: webassign.html
 
-- title: Daily Homework #Written Homework
+- title: Written Homework
   url: writtenhomework.html
 
 - title: Quizzes
@@ -34,7 +34,4 @@ docs:
   
 - title: Technology help and suggestions
   url: techHelp.html  
-  
-#- title: Foo!
-#  url: foo.html
 
