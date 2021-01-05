@@ -1,0 +1,7 @@
+semester: Spring 2021
+home: assets/quizzes/Spring2021
+quizzes:
+- name: Quiz 0
+  versions:
+  - name: Version 1
+    blank: Quiz0-syllabus-quiz.pdf

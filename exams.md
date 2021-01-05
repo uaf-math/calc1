@@ -10,15 +10,16 @@ Exams and solutions from this semester will be available here as they are comple
 <div class="x-scroll">
 <table class="asst-table">
 <tr><th>Semester</th><th>Midterm I</th><th>Midterm II</th><th>Final</th></tr>
-	{% include exam-row.md data=site.data.exams-f2020 %}
+	{% include exam-row.md data=site.data.exams-s2021 %}
 	</table>
 </div>
 
-See the [schedule](assets/general/Fall2020/MATH251-Schedule.pdf) for all exam dates.  Exams from past semesters are available below.
+### Previous Semesters
 
 <div class="x-scroll">
 <table class="asst-table">
 <tr><th>Semester</th><th>Midterm I</th><th>Midterm II</th><th>Final</th></tr>
+	{% include exam-row.md data=site.data.exams-f2020 %}
 	{% include exam-row.md data=site.data.exams-s2020 %}
 	{% include exam-row.md data=site.data.exams-f2019 %}
 	{% include exam-row.md data=site.data.exams-s2019 %}
