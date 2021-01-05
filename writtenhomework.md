@@ -1,24 +1,18 @@
 ---
 layout: course-page
-title: Daily Homework
+title: Written Homework
 ---
 
-## Daily Homework
+## Written Homework for Spring 2021
 
-Daily Homework (DH) is assigned according to the [weekly course schedule](assets/general/Fall2020/MATH251-2020-Schedule.pdf) (see tab at left).
+Solutions are posted on [Blackboard](https://classes.alaska.edu/)
+as they become available.
 
-By 8AM on the day of each class period where DH is due, students in the synchronous sections (FXA and FXB) should upload to [Gradescope](https://www.gradescope.com/courses/153557) their solutions to the required DH problems. At the beginning of class, we will discuss three randomly chosen student submissions.
-
-Solutions will be posted at the [Blackboard site](https://classes.alaska.edu/). 
-
-[You can download a list of all the homework assignments as a PDF.](assets/materials/Fall2020/DailyHW-Fall2020.pdf)
-
-{% include homeworktable.md  data=site.data.writtenhomework-f2020%}
-
+{% include homeworktable.md  data=site.data.writtenhomework-s2021%}
 
 #### Past Semesters:
 
+  * [Fall 2020](writtenhomework-f2020)
   * [Spring 2020](writtenhomework-s2020)
   * [Fall 2019](writtenhomework-f2019)
   * [Spring 2019](writtenhomework-s2019)
-
