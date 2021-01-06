@@ -1,0 +1,48 @@
+
+% !TEX TS-program = pdflatexmk
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=0.75in, right=0.75in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{tabularx,colortbl}
+
+\definecolor{ddgreen}{cmyk}{1, 0, .5, 0.2}
+\definecolor{dcyan}{cmyk}{1, 0, 0, 0.1}
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+\usepackage{fancyhdr}
+\pagestyle{fancy} 
+\lhead{\large\sf\textbf{MATH 251 Calculus I}}
+\chead{\large\sf\textbf{Weekly Schedule}}
+\rhead{\large\sf\textbf{Spring 2021}}
+
+\begin{document}
+
+\begin{itemize}
+\item \textbf{WebAssign} homework (\textcolor{red}{WA}) is due by \textcolor{red}{11:00PM Alaska Time} on the due date.
+\item \textbf{Daily} homework (\textcolor{blue}{DH}) should be uploaded to Gradescope by \textcolor{blue}{8:00 AM Alaska Time} on each listed class day.
+\item Midterm, proficiency test and final exam dates are fixed, but there may be minor changes.
+\end{itemize}
+
+\input schedule-auto.tex
+
+\vfill
+\hfill \scriptsize schedule version: \today \normalsize
+
+\end{document}
+
