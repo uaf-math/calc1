@@ -7,7 +7,7 @@ title: Math F251 Calculus I at UAF
 
 ### Welcome!
 
-**This** is the central website for all in-person sections of Calculus I 
+This is the central website for all in-person sections of Calculus I 
 taught by the [Department of Mathematics and Statistics](http://www.uaf.edu/dms)
 at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
