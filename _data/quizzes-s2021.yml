@@ -8,4 +8,4 @@ quizzes:
 - name: Quiz 1
   versions:
   - name: Version 1 
-    blank:Quiz1.pdf
+    blank: Quiz1.pdf
