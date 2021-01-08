@@ -28,9 +28,6 @@ that is due roughly every other day and weekly [written homework](writtenhomewor
 * We have lots of examples of previous [quizzes](quizzes), 
 [proficiencies](proficiencies), and [exams](exams).
 
-* Handouts and worksheets for individual sections are found 
-on the [instructor pages](instructors.html).
-
 * Grades, written homework solutions, and videos are at [BlackBoard](https://classes.alaska.edu).
 
 * The [Math & Stat Tutoring Lab](https://www.uaf.edu/dms/mathlab/index.php) is closed for in-person tutoring but is open for online tutoring!  You can [sign up for online tutoring](https://fairbanks.go-redrock.com/).
