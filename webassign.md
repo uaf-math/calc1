@@ -7,7 +7,7 @@ title: WebAssign
 
 To start using WebAssign, you will need two codes:
 
-1. Our Class Key: **FIXME**
+1. Our Class Key: **uaf 6091 5831**
 
 2. Your personal WebAssign access code.  Texts purchased from the UAF  bookstore include one; otherwise, a code can be purchased from WebAssign directly.
 
