@@ -91,6 +91,7 @@ schedule:
   # week 8
   - class: "Sections 3.9-3.10"
     homework:
+    webassign: "3.6"
   - recitation: "Derivative practice"
   - class: "Section 3.10"
     proficiency: "Derivative"
@@ -165,9 +166,10 @@ schedule:
   - recitation:
     quiz: "\\S 5.2, 5.3"
   - class: "Section 5.5"
+    webassign: "5.4"
+  - class: "Section 5.5"
   - class: "Section 5.5"
     webassign: "5.5 part 1"
-  - class: "Section 5.5"
 
 
 # week 15
