@@ -4,20 +4,19 @@ schedule:
   # week 1
   - class: "Class Logistics, Section 1.1"
   - recitation: "Section 1.2"
-    quiz: " Getting Started Quiz"
+    quiz: "Getting Started"
   - class: "Section 1.3"
   - class: "Section 1.4-1.5"
     webassign: "1.1, 1.2"
   - class: "Section 1.5"
     webassign: "1.3"
-    deadline: "Quiz 0 due"
 
   # week 2
   - holiday: "Alaska Civil Rights Day"
     deadline: "No class"
   - recitation: 
     homework: 
-    quiz: " Prerequisite Quiz" 
+    quiz: "Prerequisites" 
   - class: "Section 2.1"
     webassign: "1.4 -- 1.5"
   - class: "Sections 2.1-2.2"
@@ -30,7 +29,7 @@ schedule:
     webassign: "2.2"
     deadline: "Last day for add/drop."
   - recitation: 
-    quiz: "2.1-2.2"
+    quiz: "\\S 2.1-2.2"
   - class: "Sections 2.3-2.5" 
   - class: "Section 2.5"
     webassign: "2.3"
@@ -42,7 +41,7 @@ schedule:
   - class: "Section 2.6"
     homework:
   - recitation: 
-    quiz: "2.3-2.5"
+    quiz: "\\S 2.3-2.5"
   - class: "Section 2.7"
     webassign: "2.6"
   - class: "Sections 2.7-2.8"
@@ -69,40 +68,39 @@ schedule:
     homework:
     webassign: "3.2"
   - recitation: 
-    quiz: "3.1-3.2"
+    quiz: "\\S 3.1-3.2"
   - class: "Section 3.3"
   - class: "Section 3.4"
-    webassign: "3.3"
   - class: "Sections 3.4-3.5"
+    webassign: "3.3"
 
   # week 7
   - class: "Section 3.5"
     homework:
     webassign: "3.4"
   - recitation:
-    quiz: "3.3-3.4"
+    quiz: "\\S 3.3-3.4"
   - class: "Section 3.6"
     webassign: "3.5 part 1"
-  - class: "Sections 3.6-3.7"
+  - class: "Sections 3.6"
     webassign: "3.5 part 2"
-  - class: "Section 3.7"
-    webassign: "3.6"
+  - class: "Section 3.9"
+
 
   # week 8
-  - class: "Section 3.8"
+  - class: "Sections 3.9-3.10"
     homework:
-    webassign: "3.7"
   - recitation: "Derivative practice"
-  - class: "Section 3.9"
+  - class: "Section 3.10"
     proficiency: "Derivative"
     exam-times: 
       - "5-6pm"
       - "6-7pm"
   #  deadline: "optional office hours during classtime"
-    webassign: "3.8"
-  - class: "Sections 3.9-3.10"
-  - class: "Section 3.10"
+  - class: "Section 4.1"
     webassign: "3.9"
+  - class: "Section 4.1"
+    webassign: "3.10"
 
 # week 9
   - holiday: "Spring Break"
@@ -112,43 +110,31 @@ schedule:
   - holiday: "Spring Break"
 
 # week 10
-  - class: "Section 4.1"
-    homework:
-    webassign: "3.10"
-  - recitation:
-    quiz: "3.8-3.10"
-  - class: "Revised: Section 4.1" #"Sections 4.1-4.2"
-  - class: "Section 4.2"
-    webassign: "4.1"
   - class: "Section 4.3"
-    webassign: "4.2"
-
-
-#  week 11
-  - class: "Revised: Section 4.3" #"Sections 4.3-4.4"
     homework:
+    webassign: "4.1"
   - recitation:
-    quiz: "4.1-4.2"
+    quiz: "\\S 3.9-3.10"
+  - class: "Section 4.3"
     webassign: "4.3 part 1"
   - class: "Section 4.4"
     webassign: "4.3 part 2"
   - class: "Section 4.5"
-    webassign: "4.4"
-  - class: "Section 4.5"
-    deadline: "Last day to withdraw"
 
-#  week 12
-  - class: "Section 4.7"
+
+# week 11
+  - class: "Section 4.5"
     homework:
+    webassign: "4.4"
   - recitation:
-    quiz: "4.3-4.5"
+    quiz: "\\S 4.1, 4.3, 4.4"
+  - class: "Section 4.7"
   - class: "Section 4.7"
   - class: "Section 4.9"
     webassign: "4.7"
+
+# week 12
   - class: "Review Chapters 3-4"
-    
-# week 13
-  - class: "Section 5.1"
     homework:
     webassign: "4.9"
   - recitation: "Review Chapters 3-4"
@@ -156,43 +142,133 @@ schedule:
     exam-times: 
       - "5-6pm"
       - "6-7pm"
-  - class: "Sections 5.1-5.2"
+  - class: "Section 5.1"
+  - class: "Section 5.1-5.2"
+
+# week 13
   - class: "Section 5.2"
-    webassign: "5.1"
-    
-  #  week 14
-  - class: "Section 5.3"
     homework:
+    webassign: "5.1"
+  - recitation:
+    quiz: "\\S 4.9, 5.1"
+  - class: "Section 5.3"
     webassign: "5.2"
-  - recitation: 
-    quiz: "4.9,5.1,5.2"
   - class: "Section 5.3"
   - class: "Section 5.4"
     webassign: "5.3 part 1"
-  - class: "Section 5.5" 
-    webassign: "5.3 part 2"
 
-#week 15
-  - class: "Section 5.5"
+# week 14
+  - class: "Section 5.4"
     homework:
-    webassign: "5.4"
-    deadline: "GER Signature Assignment Due"
-  - recitation: 
-    quiz: "5.3 - 5.4"
+    webassign: "5.3 part 2"
+  - recitation:
+    quiz: "\\S 5.2, 5.3"
+  - class: "Section 5.5"
+  - class: "Section 5.5"
+    webassign: "5.5 part 1"
+  - class: "Section 5.5"
+
+
+# week 15
+  - class: "Section 4.8"
+    homework:
+    webassign: "5.5 part 2"
+  - recitation: "Integral Practice"
   - special:
     proficiency: "Integral"
-    exam-times: 
-      - "5-6pm"
-      - "6:30-7:30pm"
-  - class: "Section 4.8"
-    webassign: "5.5 part 1"  
+  - class: "Section 3.7"
   - class: "Review Chapters 2-3"
-    webassign: "4.8"
+    webassign: "3.7"
 
-#week 16
+# week 16
   - class: "Review Chapters 4-5"
-    homework:
-  - class: "(finals begin, no more class)"
   - final:
-      time: "2:15pm -- 5:15 pm"
+      time: "TBA"
+
+
+# # week 14
+#   # - class: "Section 4.1"
+#   #   homework:
+#   #   webassign: "3.10"
+#   # - recitation:
+#   #   quiz: "3.8-3.10"
+#   # - class: "Revised: Section 4.1" #"Sections 4.1-4.2"
+#   # - class: "Section 4.2"
+#   #   webassign: "4.1"
+#   # - class: "Section 4.3"
+#   #   webassign: "4.2"
+
+
+# #  week 11
+#   # - class: "Revised: Section 4.3" #"Sections 4.3-4.4"
+#   #   homework:
+#   # - recitation:
+#   #   quiz: "4.1-4.2"
+#   #   webassign: "4.3 part 1"
+#   # - class: "Section 4.4"
+#   #   webassign: "4.3 part 2"
+
+# #   - class: "Section 4.5"
+# #     webassign: "4.4"
+# #   - class: "Section 4.5"
+# #     deadline: "Last day to withdraw"
+
+# # #  week 12
+# #   - class: "Section 4.7"
+# #     homework:
+# #   - recitation:
+# #     quiz: "4.3-4.5"
+# #   - class: "Section 4.7"
+# #   - class: "Section 4.9"
+# #     webassign: "4.7"
+# #   - class: "Review Chapters 3-4"
+    
+# # # week 13
+# #   - class: "Section 5.1"
+# #     homework:
+# #     webassign: "4.9"
+# #   - recitation: "Review Chapters 3-4"
+# #   - midterm: "Chapters 3-4"
+# #     exam-times: 
+# #       - "5-6pm"
+# #       - "6-7pm"
+# #   - class: "Sections 5.1-5.2"
+# #   - class: "Section 5.2"
+# #     webassign: "5.1"
+    
+# #   #  week 14
+# #   - class: "Section 5.3"
+# #     homework:
+# #     webassign: "5.2"
+# #   - recitation: 
+# #     quiz: "4.9,5.1,5.2"
+# #   - class: "Section 5.3"
+# #   - class: "Section 5.4"
+# #     webassign: "5.3 part 1"
+# #   - class: "Section 5.5" 
+# #     webassign: "5.3 part 2"
+
+# # #week 15
+# #   - class: "Section 5.5"
+# #     homework:
+# #     webassign: "5.4"
+# #     deadline: "GER Signature Assignment Due"
+# #   - recitation: 
+# #     quiz: "5.3 - 5.4"
+# #   - special:
+# #     proficiency: "Integral"
+# #     exam-times: 
+# #       - "5-6pm"
+# #       - "6:30-7:30pm"
+# #   - class: "Section 4.8"
+# #     webassign: "5.5 part 1"  
+# #   - class: "Review Chapters 2-3"
+# #     webassign: "4.8"
+
+# # #week 16
+# #   - class: "Review Chapters 4-5"
+# #     homework:
+# #   - class: "(finals begin, no more class)"
+# #   - final:
+# #       time: "2:15pm -- 5:15 pm"
 

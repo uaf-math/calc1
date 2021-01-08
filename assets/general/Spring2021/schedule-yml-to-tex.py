@@ -127,7 +127,7 @@ def topic_row(week_start, days):
 		else:
 			raise "missing day type"
 		if 'quiz' in today:
-			entry.addline(r"Quiz %d: \S%s" % (quiz_number, today['quiz']))
+			entry.addline(r"Quiz %d: %s" % (quiz_number, today['quiz']))
 			quiz_number += 1
 		if 'proficiency' in today:
 			entry.addline(r"\textbf{\textcolor{dcyan}{%s Proficiency}}" % (today['proficiency']))
@@ -156,7 +156,7 @@ def deadline_row(week_start, days):
 			row += entry.value
 			continue
 		if 'deadline' in today:
-			entry.addline(today['deadline'])
+			entry.addline(r"""\textcolor{ddgreen}{%s}""" % today['deadline'])
 		if 'homework' in today:
 			entry.addline(r"""\textcolor{blue}{WRH %d}""" % homework_number)
 			homework_number += 1
