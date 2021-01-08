@@ -18,7 +18,12 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 * Homework comes in two flavors, online via [WebAssign](webassign.html)
 that is due roughly every other day and weekly [written homework](writtenhomework).
 
-* You will use [GradeScope](FIXME) to submit written homework, quizzes and anything else that needs to be handed in.
+* You will use [GradeScope](https://www.gradescope.com/courses/223873) to submit written homework, quizzes and anything else that needs to be handed in.
+
+* Individual instructors may have resources for their sections on their web sites:
+
+	- [Olha Sus](http://jrfaudree.github.io/) [(office hours)](FIXME), resources for [section FXA](FIXME)
+	- [David Maxwell](http://damaxwell.github.io/) [(office hours)](http://damaxwell.github.io/math251#office-hours)), resources for [section FXB](http://damaxwell.github.io/math251)
 
 * We have lots of examples of previous [quizzes](quizzes), 
 [proficiencies](proficiencies), and [exams](exams).
