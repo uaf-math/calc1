@@ -14,11 +14,11 @@ schedule:
   # week 2
   - holiday: "Alaska Civil Rights Day"
     deadline: "No class"
+    webassign: "1.4 -- 1.5"
   - recitation: 
     homework: 
     quiz: "Prerequisites" 
   - class: "Section 2.1"
-    webassign: "1.4 -- 1.5"
   - class: "Sections 2.1-2.2"
   - class: "Section 2.2"
     webassign: "2.1"
