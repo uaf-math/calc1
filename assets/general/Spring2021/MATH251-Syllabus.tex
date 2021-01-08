@@ -1,0 +1,351 @@
+% !TEX TS-program = pdflatexmk
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{tabularx,colortbl}
+\usepackage{enumitem}
+
+\usepackage[colorlinks=true]{hyperref}
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+\def\tableindent{\hskip 0.5 in}
+\def\ts{\hskip 1.5 em}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy} 
+\lhead{\large\sf\textbf{MATH F251: Calculus I}}
+\rhead{\large\sf\textbf{Spring 2021 Syllabus}}
+
+\newcommand{\localhead}[1]{\par\smallskip\textbf{#1}\nobreak\\}%
+\def\heading#1{\localhead{\large\emph{#1}}}
+\def\subheading#1{\localhead{\emph{#1}}}
+
+\newenvironment{clist}%
+{\bgroup\parskip 0pt\begin{list}{$\bullet$}{\partopsep 4pt\topsep 0pt\itemsep -2pt}}%
+{\end{list}\egroup}%
+
+\begin{document}
+
+% \heading{Course Description}
+
+\strut\par\vskip-12pt
+\heading{Essential Information}
+
+\vskip -12pt
+\strut\hbox to \hsize{\tableindent\vtop{\halign{#\hfill\ts&#\hfil\cr
+{\emph{Website}}&{\href{https://uaf-math251.github.io/}{\tt uaf-math251.github.io}}\cr
+\strut & \cr
+\emph{Prerequisite} & MATH F151X and MATH F152X; or MATH F156X; or placement.\cr
+{\emph{Required Text}} &\textit{Calculus: Early Transcendentals 8th Edition}, James Stewart,\cr
+&
+  \texttt{ISBN-13:~978-1285741550}\cr
+\emph{Required Material} & WebAssign  (discussed below)
+\cr
+  }
+\hfil}}
+
+\vskip -12pt
+
+\heading{Class Time}
+In the synchronous sections, there are \textbf{five} hours of class meetings every week, one hour daily.  Tuesday is a recitation hour with a Teaching Assistant, while the remaining days are a lecture with your instructor.  Classes will meet over Zoom.  Classes will include some traditional lectures as well as group work, potentially with videos to watch outside of class.
+
+\heading{Tentative Schedule}
+The course website contains a schedule for the semester listing
+the topics to be covered each class, the dates each assignment is due,
+the topics of every quiz, and so forth. You should consult this schedule
+routinely.  Any minor adjustments to the schedule will be announced in advance.
+
+\heading{Office Hours and Communication}
+Instructors will schedule formal office hours,
+which will be listed on the main
+course webpage.
+
+Class announcements will be made using Blackboard. Instructors will contact students via their UAF email address so it will be important to \emph{check this account regularly}.
+
+We will use Discord for text-based questions, answers, and calculus-based chat. Information for how to access this is available on the Calculus I Website.
+
+\heading{Online Course Materials}
+Most course materials (e.g., this syllabus, quiz/exam solutions, study materials, etc.) will be posted on the course webpage.  Certain course materials, namely \emph{grades} and \emph{solutions to the daily homework}, are available on Blackboard, which you can access via the main course website.
+
+\heading{Description, Course Goals \& Student Learning Outcomes}
+Calculus is one of mathematics' premiere computational tools.
+It has applications in all the sciences, in engineering, and it meets 
+part of the UAF General Education Requirements.
+% , in particular
+% \emph{Learning Outcome 1}:
+% \begin{quote}
+% Build knowledge of human institutions, sociocultural processes, and the physical and natural world through the study of the natural and social sciences, technologies, \emph{mathematics}, humanities, histories, languages and the arts. Competence will be demonstrated for the foundational information in each subject area, its context and significance, and the methods used in advancing each.
+% \end{quote}
+
+The two main tools in calculus are \emph{differentiation} and \emph{integration}, both of which are \emph{limits}.  Differentiation concerns how changes in one variable affect another.  (How does a population of bacteria change as time changes?  How does the temperature of the ocean change as depth increases?)  Integration is the process of adding many small parts.  Surprisingly, it reverses differentiation.
+
+Students completing the course will have the mathematical foundation to be successful in Calculus II and other courses
+requiring this background.  Specifically, students will be able to
+
+\begin{clist}
+\item understand the role of limits in the definitions of continuity and derivatives,
+\item compute elementary derivatives from the definition,
+\item develop the skills to compute standard derivatives,
+\item be able to apply derivatives to common types of applied problems,
+\item understand the definition of the the definite integral,
+\item be able to apply the Fundamental Theorem of Calculus to
+compute definite integrals,
+\item be able to apply integration to common types of applied problems.
+\end{clist}
+
+\heading{Learning in the time of COVID}
+We recognize that this semester is unlike any semester in the last 100 years. Frequent bi-directional communication will be the key to our joint success. 
+\begin{clist}
+\item If some way the class is set up isn't working for you, please let your instructor know!
+\item If something goes sideways for you, please email or call your instructor and we can sort out how to help.
+\item If you get sick and can't finish something, let your instructor know as soon as possible and we'll see what we can work out.
+\item If you need someone to talk to about non-mathematical questions, Student Mental Health Services offers folks to talk to, with free options. In particular, they offer \emph{Telehealth check-ins} ``for times when you feel you could use a little support, want to learn about skills you can use to maintain or improve your mental health, or you aren't sure if you're coping well and could use a professional perspective''. Call 907-474-7043 to schedule.
+\end{clist}
+
+\heading{Evaluation and Grades}
+Grades are determined as follows.  (Each component of the grade is discussed below.)
+
+\begin{multicols}{2}
+
+\begin{tabular}{|c|c|}
+\hline
+Webassign Homework& 10\%\\
+\hline
+Written Homework& 5\% \\
+\hline
+Quizzes& 15\% \\
+\hline
+Worksheet Participation & 2\%\\
+\hline
+Midterm 1 & 15\% \\
+\hline
+Derivative Proficiency& 10\%\\
+\hline
+Midterm 2 & 15\%  \\
+\hline
+Integral Proficiency& 10\%\\
+\hline
+Final Exam& 20\% \\
+\hline
+total& 102\%\\
+\hline
+\end{tabular}
+
+\vskip 6pt
+
+Letter grades will be assigned according to the following scale.
+This scale is a guarantee; the instructors reserve the right to lower the thresholds. 
+
+\def\sts{\hskip 0.5em}
+\strut\hbox to\hsize{\vbox{\halign{#\hfil\sts&#\hfil\ts&#\hfil\sts&#
+\hfil\ts&#\hfil\sts&#\hfil   \cr
+A+ & 97--102\% & C+ & 77--79\% & F  & $<$ 60\%\cr
+
+A & 93--96\% &  C & 70--76\%&&\cr
+A- & 90--92\% & C- & not given&&\cr
+B+ & 87--89\% & D+ & 67--69\%&&\cr
+B &  83--86\% & D & 63--66\%&&\cr
+B- & 80-82\% & D- & 60--62\%&&\cr
+}}\hfil}
+\end{multicols}
+
+\heading{Homework}
+Homework in this class comes in two varieties: online homework via WebAssign, and weekly homework on paper. %For both types of homework, answers to all of the problems are available in advance. Thus, the purpose of homework is for you to practice on your own. It should be clear that we are providing you with answers so that  you can check your work. Merely copying the solutions is not an effective way to learn mathematics.
+
+\subheading{WebAssign} 
+WebAssign homework will be assigned multiple times each week and is graded by the computer. These problems allow
+you to receive immediate feedback on correctness. %Answers will appear in WebAssign after a first attempt at a problem.
+You are welcome
+to use your textbook and a calculator to help solve these problems, but
+the use of more sophisticated tools (e.g., Wolfram Alpha) will undermine
+the benefit to you of the homework, and may leave you unprepared for
+the quizzes and exams.
+
+You can request an automatic extension in WebAssign up to 7 days after the due date. Your extension will be for 5 days, and you will be assessed a mild penalty (10\%) on all problems submitted \emph{after} the due date.
+
+Logistics:
+
+\begin{clist}
+\item You will need a WebAssign code.  Texts purchased from the UAF 
+bookstore include one; otherwise, a code can be purchased from
+WebAssign directly. WebAssign can be used for two weeks in a ``trial''
+period, which you can take advantage of if you are uncertain about
+your placement in this class.
+\item Log in to WebAssign from Blackboard (link on sidebar on left-hand side)
+\item You (usually) get 5 chances to get a problem correct. 
+\item Each assignment is due at 11 pm. 
+\item You may request an automatic 5-day extension on each WebAssign assignment with a mild penalty (10\%).% though you will only be allowed to earn back half the remaining points. 
+\item Each WebAssign assignment will be equally weighted in the final grade computation. 
+\item Your lowest assignment is dropped.
+\end{clist}
+
+
+\subheading{Written Homework}
+Each week there will be a selection of just two problems to write up
+by hand and submit.  The point of this exercise is to 
+practice presenting your solution to a human being.  You want
+your solution to be clearly presented, neatly written, and easy to read.  Each problem will be graded out of 5 points,
+with 4 points for presentation and just 1 point for correctness.
+
+Written homework should be uploaded to Gradescope by {\bf 11 PM} the day
+it is due as shown in the schedule (typically Mondays).  Your lowest written homework score will be dropped.
+
+\heading{Worksheet Participation}
+
+Most classes will have some form of group work that includes
+a worksheet.  Participating on the worksheet is a key part
+of learning the course material.  Every week you will upload to 
+Gradescope a scan of your completed worksheets for the week,
+due on Friday at 11pm.  Grading will be based solely on 
+evidence of participation.
+
+\heading{Recitation and Quizzes}
+The recitation time is focused on reviewing material from the previous week, asking questions related to this material, preparing for quizzes and exams, and taking the weekly quiz.
+
+For synchronous recitations on a quiz day (except for 8/25/2020) there will be a half-hour of question and answer time and/or working on targeted problems. During the second part of the recitation time, you will take the quiz, but see below for exceptions.
+
+The quiz will cover the material taught in the classes held since the previous quiz; specific topics can be found in the schedule on the course website.  
+
+Logistics:
+
+\begin{clist}
+\item Quizzes are equally weighted.  
+Although the quizzes will not need the use of a calculator, 
+we will typically allow use of 
+any calculator permitted on the AP Calculus exam.  This
+is an experimental policy and may be adjusted.
+
+% We may allow aids
+% on the quizzes (notes or a restricted class of calculator).
+% Details will be announced later in the semester.
+%Although the quizzes will not need the use of a calculator, unless noted otherwise
+% you may use any calculator permitted on the AP Calculus exam.
+
+%, and are given under testing conditions; books, notes, and calculators are not allowed. % \textbf{Performance on the quizzes is a better indicator of exam performance and how well you are learning the course material than homework which may be done with the input of tutors/friends/internet/etc.}
+
+%Quizzes cannot be made up except with a documented excused absence.  
+\item Students are strongly encouraged to take the quiz during their
+regularly scheduled recitation.  Doing so will help you practice the
+act of taking an exam, a skill you will need for the midterms, proficiencies and final exam.  It will also give you the opportunity ot ask questions from the TA during the quiz. Nevertheless, quizzes will be available until 11 PM on Tuesday in the event you are unable to 
+take your quiz at your regularly scheduled time.  Once you download a  quiz, you will have 40 minutes to download the quiz from  Gradescope, print the quiz or download it to a device, take the quiz, (photo)scan the quiz, and upload the quiz back to Gradescope. 
+\item If you have technical issues during any part of this process, you need to \emph{immediately} contact your instructor. Include screenshots if possible.
+\item Make-up quizzes are at the discretion of the instructor.
+\item Your lowest quiz grade will be dropped. 
+\end{clist}
+
+Blank quizzes and solutions to quizzes will be posted on the course webpage after the quizzes have been graded.
+
+\heading{Midterms}
+There are two midterm exams this semester, to be held on the dates in the schedule on the course website.  The midterms are the same for all sections; they are prepared and approved by all instructors teaching the course. The same
+calculator policy as for the quizzes will apply, unless otherwise noted.
+Any other aids allowed, if any, will be announced on a per-exam basis.
+
+Make-up midterms will be given only in negotiation with your instructor.
+
+\heading{Proficiencies}
+A proficiency is an exam covering a routine skill.  In this course we have two of these, one for derivatives and one for integrals, on the dates listed in the online schedule.  Proficiencies consist of 12 problems and will be graded on a binary scale for each problem (no partial credit). Students who score 10, 11, or 12 on the first attempt are awarded their score. Students who score strictly less than 10 points on the proficiency are offered one opportunity to retake the proficiency; if they score 10, 11, or 12 on the second attempt, they are awarded a score of 10/12 (83\%) for the proficiency; otherwise, they are awarded the average of their two scores.   
+%Students who do not pass a proficiency are \textbf{required} to retake it. A student who does not pass a proficiency and does not attempt a retake will earn a grade of 0 for that proficiency. There are three opportunities to take the Derivative Proficiency and two opportunities to take the Integral Proficiency. Details will be announced prior to each proficiency.
+%Students must earn a minimum score to earn credit, otherwise a 0 score will be awarded. 
+%Multiple attempts (three for the derivative proficiency but only two for the integral proficiency) will be allowed to earn this credit.  
+
+
+\heading{Final Exam}
+The cumulative final exam will be held at the day/time listed in the online schedule. A make-up or early final exam will be given only in extenuating circumstances, for documented reasons and at the discretion of the instructors.
+The same calculator and aids policy as the midterms will apply.
+
+
+\heading{Proctoring assessments}
+We hope to be able to proctor midterms, proficiencies, and the final exam in person for students who can attend and who feel comfortable taking their assessments in person; other arrangements will be made for other students. Details are still being worked out for this.
+
+\heading{Tutoring and Resources}
+\vskip -30pt\strut
+\begin{clist}
+	\item If you have questions, you are encouraged to ask your instructor and classmates on the course Discord. (Someone else might have the same question as you! And it's more fun doing math with other people.)
+	\item You also are definitely encouraged to ask questions during office hours, or just email your instructor to set up a Zoom appointment if you have a conflict during office hours.
+	\item The Math and Stat Lab, Chapman Building Room 305, offers online tutoring by appointment. Schedule an appointment at\, \href{http://www.uaf.edu/dms/mathlab/}{\texttt{www.uaf.edu/dms/mathlab}}. We're trying to sort out the technological challenges of drop-in tutoring; details TBD.%walk-in tutoring, with no appointment needed.  See\, \href{http://www.uaf.edu/dms/mathlab/}{\texttt{www.uaf.edu/dms/mathlab}}\, for schedules and availability.
+	%\item Free one-on-one (or small group) tutoring is available in Chapman 210. You must schedule an appointment at\, \href{http://www.uaf.edu/dms/mathlab/}{\texttt{www.uaf.edu/dms/mathlab}}.
+	\item Student Support Services offers free tutoring in many subjects to students who qualify for their program.
+	\item ASUAF offers private tutoring for a small fee (based on student income).
+\end{clist}
+
+\heading{Rules and Policies}
+\vskip -20pt
+\subheading{Zoom Classtime}
+Classtime for the synchronous sections, and recitations for both synchronous and asynchronous sections, will be held via Zoom.
+\begin{clist}
+\item Please mute your audio when you are not speaking so that background noise does not disrupt the class.
+\item You may choose to turn off your video; please present an avatar unique to you, however.
+\item I will stop for questions regularly. Politely interrupt me if necessary.
+\item I will call on students by name to answer questions in class. You can always say ``pass'' if you don't want to answer.
+\item I don't mind chit-chat in the chat window, but keep it focused on class, and please ask questions out loud.
+\item Everyone should participate in the small group discussions.
+\end{clist}
+
+\subheading{Participation and Attendance}
+Class and recitation attendance is expected. Students who stop participating in the course may be withdrawn. If you have technological limitations to participating in class you need to email/call your instructor to sort things out as soon as you can. Examples of inadequate participation include,
+but are not limited to:
+\begin{clist}
+%\item missing class five times
+\item not completing or not turning in multiple homework assignments
+\item failing to participate in classroom activities
+\item repeatedly failing tests and quizzes with no attempt at remediation
+\end{clist}
+
+\subheading{Recordings}
+Our zoom sessions will be  recorded for students in the class to refer back and for enrolled students who are unable to attend live. Students who participate with their camera engaged or utilize a profile image are agreeing to have their video or image recorded.  Likewise, students who un-mute during class and participate orally are agreeing to have their voices recorded.  If you are not willing to consent to have your voice recorded during class, you will need to keep your mute button activated and communicate exclusively using the "chat" feature, which allows students to type questions and comments live. Recordings will only be made available on Blackboard to other students in the class and will be deleted at the end of the semester.
+
+
+\subheading{Disability Services}
+The Office of Disability Services implements the
+Americans with Disabilities Act (ADA), and ensures that UAF students
+have equal access to the campus and course materials. The instructors will work with
+the Office of Disability Services (208 Whitaker, 474-5655) to provide
+reasonable accommodations to students with disabilities.
+
+\subheading{Student Protections and Services}
+Every qualified student is welcome in our classes.  As needed, we are happy to work with you, Disability Services, Military and Veteran Services, Rural Student Services, etc. to find reasonable accommodations. Students at this university are protected against sexual harassment and discrimination (Title IX), and minors have additional protections. \textit{As required,} if we notice or are informed of \textit{certain types} of misconduct, then we are required to report it to the appropriate authorities.  For more information on your rights as a student and the resources available to you, please go to the following site: \href{https://www.uaf.edu/handbook/}{\texttt{www.uaf.edu/handbook}}.
+
+\subheading{COVID-19}
+Students should keep up-to-date on the university's policies, practices, and mandates related to COVID-19 by regularly checking this website: 
+\begin{quote}
+\href{https://sites.google.com/alaska.edu/coronavirus/uaf/uaf-students}{\texttt{https://sites.google.com/alaska.edu/coronavirus/uaf/uaf-students}}.
+\end{quote} Further, students are expected to {\it adhere} to the university's policies, practices, and mandates and are subject to disciplinary actions if they do not comply.
+
+\subheading{Incomplete Grade} 
+Incomplete (I) will only be given in DMS courses in cases where the student has completed the majority (normally all but the last three weeks) of a course with a grade of C or better, but for personal reasons beyond his/her control has been unable to complete the course during the regular term. Negligence or indifference are not acceptable reasons for the granting of an incomplete grade. If you have issues (e.g., with COVID), please communicate early and often with your instructor.
+
+\subheading{Late Withdrawals} 
+A withdrawal after the deadline (currently 9 weeks into the semester) from a DMS course will normally be granted only in cases where the student is performing satisfactorily (i.e., C or better) in a course, but has exceptional reasons, beyond his/her control, for being unable to complete the course. These exceptional reasons should be detailed in writing to the instructor, department head and dean.
+
+\subheading{No Early Final Examinations}
+Final examinations for DMS courses shall not be held earlier than the date and time published in the official term schedule. Normally, a student will not be allowed to take a final exam early. Exceptions can be made by individual instructors, but should only be allowed in exceptional circumstances and in a manner which doesn't endanger the security of the exam.
+
+\subheading{Academic Dishonesty}
+Academic dishonesty, including cheating and plagiarism, will not be tolerated.  It is a violation of the Student Code of Conduct and will be punished according to UAF procedures.
+
+% \heading{Habits that Increase Success}
+% The items listed below are things a student can do to increase the amount of material learned and his/her chances of ending the semester with a passing grade. The items are based on a combination of internal and nation-wide studies.
+% \begin{enumerate}
+% \item Attend and participate in {\emph{every}} class. 
+% \item Make a weekly schedule that includes at least 10 hours set aside for Calculus I \emph{in addition} to class attendance. **
+% \item Work every problem on every homework assignment (written or online) \textbf{independently}. Check your answer and get help quickly when you have questions.
+% \item Take quizzes seriously. Prepare for them and rework \emph{all} missed problems on a blank copy of the quiz. Note that  ``rework" is not the same is ``looking over" missed problems.   \end{enumerate}
+% ** A student who attends every class and has solid prerequisite knowledge should expect to spend roughly 10 hours outside of class working homework, preparing for quizzes, and going over notes/worksheets/videos from class. If a student skips class and/or has weak prerequisite knowledge, this course will require more. \textbf{Schedule} these Calculus Study Hours the same way you schedule class meetings or work hours.
+
+
+\end{document}
