@@ -3,21 +3,17 @@ layout: course-page
 title: Getting Started and Week 1 Logistics
 ---
 
-<!-- 
-* [Week 1 Logistics](#week-1-logistics)
- -->
-
 ## Getting Started
 
-Because of concerns about COVID infections in Alaska, your formerly-face-to-face Calculus I instructors have chosen to have your course content be synchronous online. (The asynchronous section continues to be asynchronous.) There may be the possibility of optional free face-to-face proctoring for major exams, but details are still being worked out.
+Because of concerns about COVID infections in Alaska, your formerly-face-to-face Calculus I instructors have chosen to have your course content be synchronous online. (The asynchronous section continues to be asynchronous.) There will be optional (free) face-to-face proctoring for major exams.
+
 
 Before the beginning of the semester, you should complete the following tasks, so that you are in a position to participate in the class right from the beginning!
 
 ###  Email your instructor.
 
-- 9:15 section: Olha Sus, osus@alaska.edu
-- 11:45 section: Leah Berman, lwberman@alaska.edu
-
+- 8:00 section: Olha Sus, osus@alaska.edu
+- 11:45 section: David Maxwell, lwberman@alaska.edu
 
 Please include 
 
@@ -28,66 +24,41 @@ Please include
 - Something interesting about you (since we don't know you, anything you write is interesting)
 
 
-### Log in to [Blackboard](https://classes.alaska.edu)
+### Log into [Blackboard](https://classes.alaska.edu)
 
 Blackboard is the learning management system used at UAF, and find the Math F251X Calculus I section. This is one of the main places you can find information about our class. In particular, this is where the zoom link for your class meetings will be posted.
 
-### Access the [Calculus I at UAF webpage](https://uaf-math251.github.io). 
+### Log into (Campuswire)[{{site.data.general.campuswire}}]
 
-\[Good news, if you're here you've managed this!\] This is where you can find the syllabus, the course schedule, a link to WebAssign (our online math homework platform) and  **lots and lots of study materials**, including old quizzes and exams (blank and with solutions) for  past semesters. 
+Class announcements and group discussion outside of class time will occur over Campuswire.  You will need a PIN to sign up; the PIN is in [Blackboard](http://classes.alaska.edu).
 
-### Log into Gradescope
+### Log into (Gradescope)[{{site.data.general.gradescope}}]
 
-You can access Gradescope either directly at [https://www.gradescope.com](https://www.gradescope.com) or through the link on the course Blackboard site. By the end of the first week, you need to have downloaded, completed, and uploaded the Getting Started Quiz, so you can download this now from Gradescope.
+You will hand in written materaials using Gradescope.  There is easy access to it from the main course page menu. By the end of the first week, you need to have downloaded, completed, and uploaded the Getting Started Quiz, so you can download this now from Gradescope.
+
+### Log into (Webassign)[webassign]
+
+Most of your homework will be completed using the WebAssign service.  The first homework is due Thursday.  See the 
 
 ### Download a [Zoom client](https://zoom.us)
 
-I strongly encourage you to use Zoom on a computer, if possible--it is much easier to raise your Zoom hand and interact with things than on a smartphone or tablet. But of course, you certainly can use a phone or tablet if necessary!
-
-- Set a clear headshot photo of yourself in your Zoom profile, so that I can see what you look like. [Instructions to set a photo](https://support.zoom.us/hc/en-us/articles/201363203-Customizing-your-profile).
-	- Ideally, your photo would look like you had your camera on.
-	- Please no pictures of your dog, or a beautiful landscape, or things like that.
-- When you log into Zoom, please make sure that you are showing your full name (what you like to be called for the first name, and then your last name).
+- Add a profile picture unique to your account. It can be anything.  A picture of you is fine.  So is a Christmas tree, so long as it is different from all other students' Christmas trees.
 
 ### Sort out how to print and scan your work to upload 
 
-There will be a lot of uploading of work you do on paper into Gradescope. You will need to sort out a mechanism to do this. Specifically
+There will be a lot of uploading of work you do on paper into Gradescope. You will need to sort out a mechanism to do this.
 
-- For the Daily Homework, you will need to write out each problem statement and do your work on your own paper, and then scan upload your problems to Gradescope in the appropriate area.
+- For the Written Homework, you will need to write out each problem statement and do your work on your own paper, and then scan upload your problems to Gradescope in the appropriate area.
 - For the weekly Quizzes, you will need to download the PDF from Gradescope, print it out (or work on a tablet or computer), scan it, and then upload it back to Gradescope, within the allotted time.
-
-#### To print: 
--There are printers (for a charge) available on campus, including in the Chapman 103 computer lab and in the library. More information is available on the [Technology Help page](techHelp)
-
-#### To scan:
-(probably preferred) use your smartphone: I really like the app [GeniusScan](https://thegrizzlylabs.com/genius-scan/), available both for iPhone and Android. It allows you to take black-and-white scans (which are smaller and typically easier to read), multi-page scans, it does some perspective correcting, etc. The free basic version should be fine.
-- If you don't have/want to use your smartphone, then you can use a scanner. 
-- If you have a tablet you can digitally write on, you can work directly on that -- this is a very good choice if possible for you! 
-	
-##### iPad	
-- For iPad, I *really* like [Notability](https://www.gingerlabs.com) for notetaking and annotating PDFs. You can work there, and then export your annotated PDF to someplace you can find it on your computer, and then upload to Gradescope from there, and the annotated versions are small. (This is what I do to make the quiz solutions, for example.) Unfortunately, Notability is not free. 
-- Another possibility is [PDFExpert](https://readdle.com), which I also really like, but their free version lacks some really useful features that are now only available in the paid version (and their subscription model is really expensive).
-- [GoodNotes](https://www.goodnotes.com) is also a very good PDF annotating app for iPad (also not free).
-
-##### other tablets
-If you have information about other good programs for other tablets (e.g., Surface? Android tablets), please email Leah Berman (lwberman@alaska.edu) and she'll post information here.
-
-##### Working on a computer
-It is possible to download the quiz PDFs and annotate them on your computer, but it's hard to be legible in writing the necessary mathematical symbols using a mouse. I recommend another option, if possible.
-	
-More information on scanning is available on the [Technology Help page](techHelp).
-
-### Log in to the class Discord channel
-This will give you a place to chat with your classmates and to ask questions about the class! Information on how to do this is on the [Technology Help](techHelp) page.
 
 ## Week 1 Logistics
 
-Already in Week 1 there are a number of things that are due! See the [schedule](assets/general/Fall2020/MATH251-Schedule.pdf) for details. 
+From the [schedule](assets/general/Spring2021/MATH251-Schedule.pdf) you can see that in Week 1 there are a few things to do.
 
-- Watch the intro videos before each class. They are linked from Blackboard, at least for right now.
-- Your first WebAssign homework is due Thursday, but try to submit it by Wednesday to allow time for troubleshooting.
-- Daily Homeworks are due Thursday, Friday.
-- You should download Quiz 0 as soon as possible, and use it to practice printing, scanning and uploading. (Usually, you will only have during the day on Tuesday for quizzes, but this one has a longer period in order to sort out the technology.)
-- No class for Labor Day 9/7
-- There is a prerequisite quiz the following Tuesday, as well as recitation!
+- Your first recitation is Tuesday.  You will complete a worksheet in groups during this first recitation; most weeks it will be devoted to homework help, quiz prep, and the quiz.
+- Your first [WebAssign](webassign) homework is due Thursday, but try to submit it by Wednesday to allow time for troubleshooting.
+- You should download Quiz 0 from 
+(Gradescope)[{{site.data.general.gradescope}}] as soon as possible, and use it to practice printing, scanning and uploading. (Usually, you will only have during the day on Tuesday for quizzes, but this one has a longer period in order to sort out the technology.)
+- No class January 18
+- There is a prerequisite quiz the following Tuesday during recitation!
 

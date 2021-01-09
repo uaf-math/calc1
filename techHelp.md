@@ -5,7 +5,7 @@ title: Math F251 Calculus I at UAF
 
 # Technology Help
 
-Because everything is offered by distance, we are using *a lot* of technology. Here's an overview of the technology we're using, along with some commentary.
+Because everything is offered by distance, we are using *a lot* of technology. 
 
 * [Classtime](#classtime)
 * [Homework and Assessment](#homework-and-assessment)
@@ -17,35 +17,27 @@ Because everything is offered by distance, we are using *a lot* of technology. H
 
 ## Classtime 
 
-* [Blackboard](http://classes.uaf.edu) is UAF's Learning Management System. This is where we will store everything that needs to be password protected (such as your grades). It's also where you can find the link to the classtime Zoom sessions.
+* [Blackboard](http://classes.uaf.edu) is UAF's Learning Management System. This is where we will store everything that needs to be password protected (such as your grades and links to the classtime Zoom sessions).
 
 * Classtime for the synchronous sections happens over [Zoom](zoom.us). 
 
-	- I find that Zoom works better using a [Zoom](zoom.us) client (not the browser), and I strongly encourage you to use Zoom on a computer, if possible. It is much easier to raise your Zoom hand and interact with your classmates, post reactions, etc., than on a smartphone or tablet.
-		- Please make sure that you are running the latest version of Zoom. If you need help contact OIT at 907-450-8300 option 1, or email ua-video@alaska.edu
-	
-* Headphones
-	
-	- If you are planning on accessing zoom class in public spaces, I suggest you use headphones with a microphone so that you are not bothering people around you.	
-	
+	-  Zoom works better using a [Zoom](zoom.us) client (not the browser).  Using a laptop or desktop will make it easier for you to participate than using a smartphone or tablet.
+	- Please make sure that you are running the latest version of Zoom. If you need help contact OIT at 907-450-8300 option 1, or email ua-video@alaska.edu
+		
 ## Homework and Assessment
 
 * WebAssign
-	- Log in to Webassign through the link in Blackboard.
-	- Check the [WebAssign Quick Start Guide](https://www.webassign.net/manual/WA_Student_Quick_Start.pdf)
-	- Check the [WebAssign Manual](https://www.webassign.net/manual/student_guide/introduction.htm).
 	- Cengage has [customer support](support.cengage.com), or phone 800.354.9706 (likely to be super busy at the beginning of the semester).
 	
-* Quizzes and Daily Homework will be uploaded through [Gradescope](http://www.gradescope.com).
+* Quizzes and Daily Homework will be uploaded through [Gradescope]({{site.data.general.gradescope}}).
 	- Log in to Gradescope using your "school credentials": this will let you use the UAF Single Sign On.
 	- If your file takes a long time to upload, make sure your scan is not too big. I recommend using black-and-white scans (unless you are using color in your work, in which case please use color scans) made through a dedicated smartphone scanning app (see below) rather than just trying to upload a photo. 
-	- If you are working on an iPad, I have had students somehow use some unknown app that makes *huge* files. Double-check your file size if you're having difficulties. Leah can help troubleshoot iPad stuff.
 	- Don't just print to pdf; usually computers or applications have export to pdf options that produce more optimized files.
 	- Gradescope has a [guide to submitting homework](https://gradescope-static-assets.s3.amazonaws.com/help/submitting_hw_guide.pdf).
 
 ## Scanning
 	
-* Use your smartphone to scan: I recommend [GeniusScan](https://thegrizzlylabs.com/genius-scan/). The (free) basic version should be fine. Works nicely for both iPhone and Android. When possible, set your scans to black-and-white, so that they are smaller and therefore easier to upload.
+* Use your smartphone to scan: [GeniusScan](https://thegrizzlylabs.com/genius-scan/) is a good choice. The (free) basic version should be fine. Works nicely for both iPhone and Android. When possible, set your scans to black-and-white, so that they are smaller and therefore easier to upload.
 	- Click the orange + button to start a scan
 	- in the upper right, you can toggle between single and batch (for multipage scans). For assignments with multiple pages, you will need to take a multiple-page scan (Gradescope expects you to upload a single PDF for a given assignment).
 	- Usually it's pretty good at choosing, but to force black-and-white, go to the settings gear, select "Default Filter" and you can select either black-and-white or color.

@@ -13,6 +13,8 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 * The [schedule](assets/general/Spring2021/Math251-Schedule.pdf) lists when everything is going to happen (daily topics, exams, homework, everything!).
 
+* See [Getting Started](week1) for information on steps you should take right away to get up and running.
+
 * Individual instructors have resources for their sections on their web sites:
 
 	- [Olha Sus](http://jrfaudree.github.io/) [(office hours)](FIXME), resources for [section FXA](FIXME)
@@ -22,7 +24,5 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 * We have lots of examples of previous [quizzes](quizzes), 
 [proficiencies](proficiencies), and [exams](exams).
-
-* Grades and written homework solutions are at [BlackBoard](https://classes.alaska.edu).
 
 * The [Math & Stat Tutoring Lab](https://www.uaf.edu/dms/mathlab/index.php) is closed for in-person tutoring but is open for online tutoring!  You can [sign up for online tutoring](https://fairbanks.go-redrock.com/).

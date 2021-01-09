@@ -8,14 +8,14 @@ docs:
 - title: Schedule
   url: assets/general/Spring2021/MATH251-Schedule.pdf
 
-# - title: Getting Started #Week One
-#   url: week1.html
+- title: Getting Started #Week One
+  url: week1.html
 
 - title: Videos
   url: videos.html
 
 - title: Campuswire
-  url: https://campuswire.com/p/G603B4D3D
+  url: {{site.data.general.campuswire}}
 
 - title: WebAssign
   url: webassign.html
