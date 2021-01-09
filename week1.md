@@ -28,15 +28,15 @@ Please include
 
 Blackboard is the learning management system used at UAF, and find the Math F251X Calculus I section. This is one of the main places you can find information about our class. In particular, this is where the zoom link for your class meetings will be posted.
 
-### Log into (Campuswire)[{{site.data.general.campuswire}}]
+### Log into [Campuswire]({{site.data.general.campuswire}})
 
 Class announcements and group discussion outside of class time will occur over Campuswire.  You will need a PIN to sign up; the PIN is in [Blackboard](http://classes.alaska.edu).
 
-### Log into (Gradescope)[{{site.data.general.gradescope}}]
+### Log into [Gradescope]({{site.data.general.gradescope}})
 
 You will hand in written materaials using Gradescope.  There is easy access to it from the main course page menu. By the end of the first week, you need to have downloaded, completed, and uploaded the Getting Started Quiz, so you can download this now from Gradescope.
 
-### Log into (Webassign)[webassign]
+### Log into [Webassign](webassign)
 
 Most of your homework will be completed using the WebAssign service.  The first homework is due Thursday.  See the 
 
