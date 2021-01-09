@@ -14,11 +14,14 @@ docs:
 - title: Videos
   url: videos.html
 
+- title: Campuswire
+  url: https://campuswire.com/p/G603B4D3D
+
 - title: WebAssign
   url: webassign.html
 
 - title: Gradescope
-  url: https://www.gradescope.com/courses/223873
+  url: {{site.data.general.gradescope}}
 
 - title: Written Homework
   url: writtenhomework.html
@@ -32,12 +35,12 @@ docs:
 - title: Exams
   url: exams.html
 
-- title: Other materials
+- title: Other Materials
   url: materials.html
 
 - title: Instructor Info
   url: assets/general/Spring2021/Calculus-1-Spring-2021-Instructor-Section-Info.pdf
   
-- title: Technology help and suggestions
+- title: Technology Help
   url: techHelp.html  
 
