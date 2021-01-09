@@ -13,7 +13,7 @@ Before the beginning of the semester, you should complete the following tasks, s
 ###  Email your instructor.
 
 - 8:00 section: Olha Sus, osus@alaska.edu
-- 11:45 section: David Maxwell, lwberman@alaska.edu
+- 11:45 section: David Maxwell, damaxwell@alaska.edu
 
 Please include 
 
