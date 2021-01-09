@@ -15,13 +15,13 @@ docs:
   url: videos.html
 
 - title: Campuswire
-  url: {{site.data.general.campuswire}}
+  url: https://campuswire.com/p/G603B4D3D
 
 - title: WebAssign
   url: webassign.html
 
 - title: Gradescope
-  url: {{site.data.general.gradescope}}
+  url: https://www.gradescope.com/courses/223873
 
 - title: Written Homework
   url: writtenhomework.html
