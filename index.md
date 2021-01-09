@@ -17,8 +17,8 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 * Individual instructors have resources for their sections on their web sites:
 
-	- [Olha Sus](https://olhasus.github.io) [(office hours)](FIXME), resources for [section FXA](https://olhasus.github.io/MATH-F251X-FXA-/)
-	- [David Maxwell](http://damaxwell.github.io/) [(office hours)](http://damaxwell.github.io/math251#office-hours)), resources for [section FXB](http://damaxwell.github.io/math251)
+	- [Olha Sus](https://olhasus.github.io), resources for [section FXA](https://olhasus.github.io/MATH-F251X-FXA-/)
+	- [David Maxwell](http://damaxwell.github.io/), resources for [section FXB](http://damaxwell.github.io/math251)
 
 * We have introductory [videos](videos) for every section of the text.
 
