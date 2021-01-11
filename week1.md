@@ -62,6 +62,6 @@ From the [schedule](assets/general/Spring2021/MATH251-Schedule.pdf) you can see 
 - Your first recitation is Tuesday.  The Zoom link is in [Blackboard](https://classes.alaska.edu). You will complete a worksheet in groups during this first recitation; most weeks it will be devoted to homework help, quiz prep, and the quiz.
 - Your first [WebAssign](webassign) homework is due Thursday, but try to submit it by Wednesday to allow time for troubleshooting.
 - You should download Quiz 0 from 
-(Gradescope)[{{site.data.general.gradescope}}] as soon as possible, and use it to practice printing, scanning and uploading. (Usually, you will only have during the day on Tuesday for quizzes, but this one has a longer period in order to sort out the technology.)
+[Gradescope]({{site.data.general.gradescope}}) as soon as possible, and use it to practice printing, scanning and uploading. (Usually, you will only have during the day on Tuesday for quizzes, but this one has a longer period in order to sort out the technology.)
 - No class January 18
 - There is a prerequisite quiz the following Tuesday during recitation!
