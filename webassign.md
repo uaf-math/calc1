@@ -14,4 +14,4 @@ To start using WebAssign, you will need two codes:
 Note WebAssign can be used for two weeks in a "trial" period.  You can take advantage of this period if you are uncertain about your placement in this class.
 
 <div style="padding-top: 20px"></div>
-<center><a class="button" href="https://webassign.net">Go To WebAssign</a></center>
+<center><a class="button" href="https://cengage.com">Go To WebAssign</a></center>
