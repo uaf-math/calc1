@@ -1,14 +1,19 @@
 - chapter: Chapter 1
   sections:
     - title: Section 1.1
+      pdf: Sec-1-1.pdf
       url: https://media.uaf.edu/media/t/0_788j8zcc
     - title: Section 1.2
+      pdf: Sec1-2.pdf
       url: https://media.uaf.edu/media/t/0_z8hytfhx
     - title: Section 1.3
+      pdf: Sec1-3.pdf
       url: https://media.uaf.edu/media/t/0_b7nfw99b
     - title: Section 1.4
+      pdf: Sec-1-4.pdf
       url: https://media.uaf.edu/media/t/0_cq4q0zo4
     - title: Section 1.5
+      pdf: Sec-1-5.pdf
       url: https://media.uaf.edu/media/t/0_0p4pa0rg
 
 
