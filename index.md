@@ -9,7 +9,7 @@ This is the central website for all in-person sections of Calculus I
 taught by the [Department of Mathematics and Statistics](http://www.uaf.edu/dms)
 at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
-* The [syllabus](assets/general/Spring2021/MATH251-Syllabus-S2021-generic.pdf) contains all the details about our course.
+* The [syllabus](assets/general/Spring2021/MATH251-Syllabus.pdf) contains all the details about our course.
 
 * The [schedule](assets/general/Spring2021/Math251-Schedule.pdf) lists when everything is going to happen (daily topics, exams, homework, everything!).
 
