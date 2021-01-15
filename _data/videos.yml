@@ -16,4 +16,32 @@
       pdf: Sec-1-5.pdf
       url: https://media.uaf.edu/media/t/0_0p4pa0rg
 
-
+- chapter: Chapter 2
+  sections:
+    - title: Section 2.1
+      pdf: "Section 2.1.pdf"
+      url: https://media.uaf.edu/media/t/0_iu2jr5h3
+    - title: Section2.2a
+      pdf: "Section 2.2"
+      url: https://media.uaf.edu/media/t/0_4sd20lwj
+    - title: Section 2.2b
+      pdf: "Section 2.2 part 2.pdf"
+      url: https://media.uaf.edu/media/t/0_9955bqan
+    - title: Section 2.3b
+      pdf: "Section 2.3 part 2.pdf"
+      url: https://media.uaf.edu/media/t/1_37yl7xzg
+    - title: Section 2.5
+      pdf: Section 2.5.pdf
+      url: https://media.uaf.edu/media/t/1_ypvwm2eo
+    - title: Section 2.6a
+      pdf: "Section 2.3 part 1.pdf"
+      url: https://media.uaf.edu/media/t/1_duit6f5g
+    - title: Section 2.7
+      pdf: "Section 2.7.pdf"
+      url: https://media.uaf.edu/media/t/1_zjaib9rl
+    - title: Section 2.7b,8a
+      pdf: "Section 2.7 and 2.8.pdf"
+      url: https://media.uaf.edu/media/t/1_0fptb7hk
+    - title: Section 2.8
+      pdf: "Section 2.8.pdf"
+      url: https://media.uaf.edu/media/t/1_f0nfmrr9
