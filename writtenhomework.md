@@ -10,12 +10,12 @@ clear solution another human being can follow.  Here's
 an [example](assets/materials/Spring2021/SampleWrittenSolutions.pdf)
 of what decent solutions would look like. Notice:
 
-    *  Student Name, ID and Assignment all clearly labeled
-    *  Each section/ problem number listed.
-    *  Statement of the problem, perhaps paraphrasing.
-    *  Clear steps or argument leading to the solution.
-    *  Lots of white space.
-    *  Final answer boxed.
+   *  Student Name, ID and Assignment all clearly labeled
+   *  Each section/ problem number listed.
+   *  Statement of the problem, perhaps paraphrasing.
+   *  Clear steps or argument leading to the solution.
+   *  Lots of white space.
+   *  Final answer boxed.
 
 Solutions are posted on [Blackboard](https://classes.alaska.edu/)
 as they become available.
