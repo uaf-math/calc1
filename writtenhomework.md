@@ -7,8 +7,12 @@ title: Written Homework
 
 Written homework is intended as practice in writing a 
 clear solution another human being can follow.  Here's
-an [example](assets/materials/Spring2021/SampleWrittenSolutions.pdf)
-of what decent solutions would look like. Notice:
+an examle
+of what decent solutions would look like:
+
+   * [Sample solutions](assets/materials/Spring2021/SampleWrittenSolutions.pdf)
+
+ Notice:
 
    *  Student Name, ID and Assignment all clearly labeled
    *  Each section/ problem number listed.
