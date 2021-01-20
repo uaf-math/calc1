@@ -13,4 +13,7 @@ quizzes:
     solutions: MATH251-Prerequisite-Quiz-SAMPLE1-soln.pdf
   - name: SAMPLE 2 Quiz 1
     blank: MATH251-Prerequisite-Quiz-SAMPLE2.pdf
-    solutions: MATH251-Prerequisite-Quiz-SAMPLE2-filled.pdf    
+    solutions: MATH251-Prerequisite-Quiz-SAMPLE2-filled.pdf
+  - name: actual Quiz 1
+    blank: Quiz-1.pdf
+    solutions: Quiz-1-s.pdf
