@@ -17,3 +17,6 @@ quizzes:
   - name: actual Quiz 1
     blank: Quiz-1.pdf
     solutions: Quiz-1-s.pdf
+  - name: Quiz 2
+    blank: Quiz-2.pdf
+    solutions: Quiz-2-s.pdf
