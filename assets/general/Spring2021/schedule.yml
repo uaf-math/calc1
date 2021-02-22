@@ -82,10 +82,10 @@ schedule:
   - recitation:
     quiz: "\\S 3.3-3.4"
   - class: "Section 3.6"
-    webassign: "3.5 part 1"
   - class: "Sections 3.6"
-    webassign: "3.5 part 2"
+    webassign: "3.5 part 1"
   - class: "Section 3.9"
+    webassign: "3.5 part 2"
 
 
   # week 8
