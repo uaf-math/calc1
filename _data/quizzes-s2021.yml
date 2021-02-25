@@ -32,3 +32,8 @@ quizzes:
   - name: Quiz 4
     blank: Quiz-4.pdf
     solutions: Quiz-4-s.pdf 
+- name: Quiz 5
+  versions:
+  - name: Quiz 5
+    blank: Quiz-5.pdf
+    solutions: Quiz-5-s.pdf  
