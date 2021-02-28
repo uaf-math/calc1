@@ -84,7 +84,60 @@
     - title: Section 3.10
       pdf: "Section 3.10.pdf"
       url:  https://media.uaf.edu/media/t/1_7iurbmgq
+
+- chapter: Chapter 4
+  sections:
     - title: Section 4.1
       pdf: "Section 4.1.pdf"
       url: https://media.uaf.edu/media/t/1_2watj6wm
+    - title: Section 4.2
+      pdf: "Section 4.2.pdf"
+      url:
+    - title: Section 4.3
+      pdf: "Section 4.3.pdf"
+      url: https://media.uaf.edu/media/t/1_scmfzlb7
+    - title: Section 4.4
+      pdf: "Section 4.4.pdf"
+      url: 
+    - title: Section 4.5
+      pdf: "Section 4.5.pdf"
+      url: https://media.uaf.edu/media/t/1_rrh5vso0
+    - title: Section 4.5b
+      pdf: "Section 4.5 example2.pdf"
+      url: https://media.uaf.edu/media/t/1_1louwsy3
+    - title: Section 4.7
+      pdf: "Section 4.7.pdf"
+      url: https://media.uaf.edu/media/t/1_61gl3jbt
+    - title: Section 4.8
+      pdf: "Section 4.8.pdf"
+      url: https://media.uaf.edu/media/t/1_fgyt1mkf
+    - title: Section 4.9
+      pdf: "Section 4.9.pdf"
+      url: https://media.uaf.edu/media/t/1_gjhgm7ez
+- chapter: Chapter 5
+  sections:
+    - title: Section 5.1
+      pdf: "Section 5.1.pdf"
+      url: https://media.uaf.edu/media/t/1_0f0jgri3
+    - title: Section 5.2a
+      pdf: "Section 5.2 part 1.pdf"
+      url: https://media.uaf.edu/media/t/1_xrdtds26
+    - title: Section 5.2b
+      pdf: "Section 5.2 part 2.pdf"
+      url: https://media.uaf.edu/media/t/1_gtyam1zz
+    - title: Section 5.3a
+      pdf: "Section 5.3 part 1.pdf"
+      url: https://media.uaf.edu/media/t/1_17c1qxsx
+    - title: Section 5.3b
+      pdf: "Section 5.3 part 2.pdf"
+      url: https://media.uaf.edu/media/t/1_ojqdm5yp
+    - title: Section 5.4
+      pdf: "Section 5.4.pdf"
+      url: https://media.uaf.edu/media/t/1_7iayvk5c
+    - title: Section 5.5a
+      pdf: "Section 5.5 part 1.pdf"
+      url: https://media.uaf.edu/media/t/1_5u6tprg2
+    - title: Section 5.5b
+      pdf: "Section 5.5 part 2.pdf"
+      url: https://media.uaf.edu/media/t/1_21i5pd8r
 
