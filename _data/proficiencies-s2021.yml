@@ -3,6 +3,6 @@ home: assets/proficiencies/Spring2021
 derivative:
   versions:
     - name: V1
-      blank: Derivative-V1.pdf
-      solutions: Derivative-V1-Sols.pdf
+      blank: Derivative-v1.pdf
+      solutions: Derivative-v1-Sols.pdf
 
