@@ -118,10 +118,10 @@ schedule:
   - recitation:
     quiz: "\\S 3.9-3.10"
   - class: "Section 4.3"
-    webassign: "4.3 part 1"
   - class: "Section 4.4"
-    webassign: "4.3 part 2"
+    webassign: "4.3 part 1"
   - class: "Section 4.5"
+    webassign: "4.3 part 2"
 
 
 # week 11
