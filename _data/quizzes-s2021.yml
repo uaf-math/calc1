@@ -37,7 +37,7 @@ quizzes:
   - name: Quiz 5
     blank: Quiz-5.pdf
     solutions: Quiz-5-s.pdf
-  - name: Quiz 6
+- name: Quiz 6
   versions:
   - name: Quiz 6
     blank: Quiz-6.pdf
