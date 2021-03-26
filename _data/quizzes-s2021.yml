@@ -42,3 +42,8 @@ quizzes:
   - name: Quiz 6
     blank: Quiz-6.pdf
     solutions: Quiz-6-s.pdf 
+- name: Quiz 7
+  versions:
+  - name: Quiz 7
+    blank: Quiz-7.pdf
+    solutions: Quiz-7-s.pdf 
