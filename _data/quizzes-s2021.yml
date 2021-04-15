@@ -51,4 +51,9 @@ quizzes:
   versions:
   - name: Quiz 8
     blank: Quiz-8.pdf
-    solutions: Quiz-8-s.pdf 
+    solutions: Quiz-8-s.pdf
+- name: Quiz 9
+  versions:
+  - name: Quiz 9
+    blank: Quiz-9.pdf
+    solutions: Quiz-9-s.pdf 
