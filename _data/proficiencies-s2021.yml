@@ -5,6 +5,9 @@ derivative:
     - name: V1
       blank: Derivative-v1.pdf
       solutions: Derivative-v1-Sols.pdf
-    - name: Retake
+    - name: Retake 1
       blank: Derivative-v2.pdf
       solutions: Derivative-v2-Sols.pdf
+    - name: Retake 2
+      blank: Derivative-v3.pdf
+      solutions: Derivative-v3-Sols.pdf

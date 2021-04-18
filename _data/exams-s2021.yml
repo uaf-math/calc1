@@ -3,3 +3,6 @@ home: assets/exams/Spring2021
 midterm1:
   blank: MT1.pdf
   solutions: MT1-s.pdf
+midterm2:
+  blank: MT2.pdf
+  solutions: MT2-s.pdf
