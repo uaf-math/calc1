@@ -11,3 +11,8 @@ derivative:
     - name: Retake 2
       blank: Derivative-v3.pdf
       solutions: Derivative-v3-Sols.pdf
+integral:
+  versions:
+    - name: V1
+      blank: Integral-v1.pdf
+      solutions: Integral-v1-Sols.pdf
