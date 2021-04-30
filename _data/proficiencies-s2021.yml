@@ -19,3 +19,6 @@ integral:
     - name: Retake 1
       blank: Integral-v2.pdf
       solutions: Integral-v2-Sols.pdf
+    - name: Retake 1 (Alt)
+      blank: Integral-v3.pdf
+      solutions: Integral-v3-Sols.pdf
