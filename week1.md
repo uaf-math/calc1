@@ -5,6 +5,8 @@ title: Getting Started and Week 1 Logistics
 
 ##  <span style="color:blue">THIS IS OUT OF DATE</span>
 
+Updates coming soon.
+
 ## Getting Started
 
 Because of concerns about COVID infections in Alaska, your formerly-face-to-face Calculus I instructors have chosen to have your course content be synchronous online. (The asynchronous section continues to be asynchronous.) There will be optional (free) face-to-face proctoring for major exams.
