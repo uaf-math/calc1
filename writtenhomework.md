@@ -3,6 +3,8 @@ layout: course-page
 title: Written Homework
 ---
 
+### Written Homework for Fall 2021 will be coming soon
+
 ## Written Homework for Spring 2021
 
 Written homework is intended as practice in writing a 
