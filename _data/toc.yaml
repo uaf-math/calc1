@@ -3,10 +3,10 @@ sidenav_title: 'Math 251'
 docs:
 
 - title: Syllabus
-  url: assets/general/Spring2021/MATH251-Syllabus.pdf
+  url: assets/general/Fall2021/M251_f2021_syllabus.pdf
 
 - title: Schedule
-  url: assets/general/Spring2021/MATH251-Schedule.pdf
+  url: assets/general/Fall2021/M251_weekly_schedule.pdf
 
 - title: Getting Started #Week One
   url: week1.html
@@ -18,7 +18,7 @@ docs:
   url: https://www.gradescope.com/courses/223873
 
 - title: Written Homework
-  url: writtenhomework.html
+  url: assets/general/Fall2021/M251_Homework.pdf
 
 - title: Quizzes
   url: quizzes.html
