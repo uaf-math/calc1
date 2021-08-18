@@ -1,0 +1,372 @@
+% !TEX TS-program = pdflatexmk
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx,hyperref}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{tabularx,colortbl}
+\usepackage{enumitem}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+    pdftitle={Overleaf Example},
+    pdfpagemode=FullScreen,
+    }
+
+\def\mailto#1{\href{mailto:#1}{#1}}
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+\def\tableindent{\hskip 0.5 in}
+\def\ts{\hskip 1.5 em}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy} 
+\lhead{\large\sf\textbf{MATH F251: Calculus I}}
+\rhead{\large\sf\textbf{Fall 2021 Syllabus}}
+
+\newcommand{\localhead}[1]{\par\smallskip\textbf{#1}\nobreak\\}%
+\def\heading#1{\localhead{\large\emph{#1}}}
+\def\subheading#1{\localhead{\emph{#1}}}
+
+\newenvironment{clist}%
+{\bgroup\parskip 0pt\begin{list}{$\bullet$}{\partopsep 4pt\topsep 0pt\itemsep -2pt}}%
+{\end{list}\egroup}%
+
+\begin{document}
+
+% \heading{Course Description}
+
+\strut\par\vskip-12pt
+\heading{Essential Information}
+
+\vskip -12pt
+\strut\hbox to \hsize{\tableindent\vtop{\halign{#\hfill\ts&#\hfil\cr
+{\emph{Website}}&\url{https://uaf-math251.github.io}\cr
+\strut & \cr
+\emph{Prerequisite} & MATH F151X and MATH F152X; or MATH F156X; or placement.\cr
+\strut & \cr
+{\emph{Required Text}} &\textit{OpenStax Calculus Volume 1} by G. Strang \& E. Herman,\cr
+&\url{https://openstax.org/details/books/calculus-volume-1} \cr
+&
+  (optional print copy)\texttt{ISBN-13: 978-1938168024}\cr
+  \strut & \cr
+{\emph{Grades}}&(Canvas) \url{https://www.uaf.edu/uaf/current/canvas.php}\cr
+  }
+\hfil}}
+
+\vskip -12pt
+\heading{Class Time}
+There are four hours of class meetings with your primary instructor every week (MWThF). This time will be used to discuss new topics in Calculus and for a weekly quiz on Thursdays. The last 30 minutes of the Thursday class will be spent with a teaching assistant (TA) going over the weekly quiz (YES! we will go over the quiz immediately!) so all students can leave knowing what material on that quiz has been mastered, how to work each problem correctly,  and what topics need additional work. 
+
+The Tuesday Recitation (MATH F251L) will initially be spent helping students get started on first-of-semester tasks. Starting on Week 3, the Tuesday class is explicitly devoted to bolstering the underlying non-Calculus skills that are nevertheless essential to success in Calculus such as: graphing, algebra, trigonometry, exponential and logarithmic functions, and inverse functions. It will also include additional strategic homework/quiz/test prep. As a concrete example, one of the things we will do in Recitation is go over the non-Calculus math skills needed to complete the up-coming homework so that students can focus on the Calculus instead of getting bogged down in algebra or trigonometry.
+
+\heading{Tentative Schedule}
+The course website contains a \href{https://uaf-math251.github.io/assets/general/Spring2021/MATH251-Schedule.pdf}{schedule} for the semester listing
+the topics to be covered each class, the dates each assignment is due,
+the topics of every quiz, and so forth. You should consult this schedule
+routinely.  We may make minor adjustments to the schedule, which
+will be announced in advance.
+
+\heading{Office Hours and Communication}
+Instructors and TA's will schedule formal office hours,
+which will be listed on web sites accessible from the main
+course webpage. Any office hours in the \href{https://uaf.edu/dms/mathlab/}{Math Tutoring Lab} are open to \emph{all} Calculus I students regardless of who is their instructor/TA of record. Students can also schedule meetings with their instructor outside of regular office hours. 
+
+We will use Canvas to send announcements and to hold class-wide discussions. If we (your instructor/TA) need to contact you, we will first try to do this in class. Our second method will be to send an email to you via Canvas. Thus, you will want to make sure that the email address in Canvas is one that you check regularly. Note that in Canvas it is possible to set up text alerts. However, you must login to Canvas and adjust the setting for your account. Neither email nor text alerts are automatic.
+
+
+\heading{Online Course Materials}
+Most course materials (e.g., this syllabus, quiz/exam solutions, study materials, etc.) will be posted on the course webpage.
+In addition, some course materials (grades, written homework solutions, announcements, discussion board)
+will be available on Canvas, which you can also access via the main
+course website.
+
+\heading{Description, Course Goals \& Student Learning Outcomes}
+Calculus is one of mathematics' premiere computational tools.  It has
+pervasive applications in all the sciences and is part of the UAF core 
+curriculum.  The two principal tools of calculus are differentiation and integration. Differentiation concerns how changes in one variable affect another.
+How does a population of bacteria change as time changes?  
+How does the temperature of the ocean change as depth increases?
+Integration, on the other hand, is a kind of reverse process to
+differentiation. 
+
+Students completing the course will have the mathematical foundation to be successful in Calculus II and other courses
+requiring this background.  Specifically, students will
+\begin{clist}
+\item understand the role of limits in the definition of a derivative 
+and be able to compute elementary derivatives from this definition,
+\item understand the definition of a continuous function and identify
+continuous/discontinuous functions,
+\item develop the skills to compute standard derivatives,
+\item be able to apply derivatives to common types of applied problems,
+\item understand the definition of the the definite integral,
+\item be able to appply the Fundamental Theorem of Calculus to
+compute definite integrals,
+\item be able to apply integration to common types of applied problems.
+\end{clist}
+
+\heading{Evaluation and Grades}
+Grades are determined as follows; 
+each component of the grade is discussed subsequently in
+the syllabus.
+ 
+\begin{multicols}{2}
+
+\begin{tabular}{|c|c|}
+\hline
+Class Participation& 7.5\%\\
+\hline
+(Written) Homework& 7.5\% \\
+\hline
+Quizzes& 15\% \\
+\hline
+Midterm 1 & 15\% \\
+\hline
+Derivative Proficiency& 7.5\%\\
+\hline
+Midterm 2 & 15\%  \\
+\hline
+Integral Proficiency& 7.5\%\\
+\hline
+Final Exam& 25\% \\
+\hline
+total& 100\%\\
+\hline
+\end{tabular}
+
+\vskip 6pt
+Letter grades will be assigned according to the following scale.
+This scale is a guarantee; the instructors reserve the right to lower the thresholds. 
+
+\def\sts{\hskip 0.5em}
+\strut\hbox to\hsize{\vbox{\halign{#\hfil\sts&#\hfil\ts&#\hfil\sts&#
+\hfil\ts&#\hfil\sts&#\hfil   \cr
+A+ & 97--100\% & C+ & 77--79\% & F  & $<$ 60\%\cr
+
+A & 93--96\% &  C & 70--76\%&&\cr
+A- & 90--92\% & C- & not given&&\cr
+B+ & 87--89\% & D+ & 67--69\%&&\cr
+B &  83--86\% & D & 63--66\%&&\cr
+B- & 80-82\% & D- & 60--62\%&&\cr
+}}\hfil}
+\end{multicols}
+
+
+\heading{Weeks 1 \& 2 Logistics}
+Roughly, the first week of the course is devoted to prerequisite review, and the homework and quiz mechanics for the first two weeks are different from the remainder of the semester.
+
+Instead of the usual homework, you will 
+working with a program called ALEKS PPL to refresh precalculus skills, and the first
+quiz will be an ALEKS-based assessment.  During the first weeks you will:
+\begin{clist}
+\item enroll in the Fall 2021 Calculus I Cohort of ALEKS PPL,
+\item complete an initial placement test (approx 1-2 hours) by Tuesday August 24 at 11:59pm \\
+(Note: We will start this in class on Tuesday. Most people will finish during class. Those who do not will just finish up later that day. Finishing the initial placement on time is worth 10 points added to Quiz 1.),
+\item complete 90\% of the ALEKS pie \: OR \: spend 5 hours in Learning Mode by Monday, August 30 at 11:59pm which will count as your first homework grade,
+\item complete an ALEKS PPL assessment (approx 1-2 hours) on Tuesday, August 31 which will count as Quiz 1 and is weighted as double the remaining quiz grades.
+\end{clist}
+The standard Recitation on Tuesday, August 31 is cancelled and instead you will go to Rasmuson Library Room 301 to take your ALEKS assessment at whatever time slot you reserved. 
+
+\heading{Class Participation}
+Attendance and participation in class is an important part of mastering the material in Calculus (and all of your classes). Class attendance is one of the best predictors of overall course performance regardless of subject. For this reason, we want to incentivize this aspect of your education. All students will get counted as having successfully attended a class if that student was in class on-time and was an active participant during the whole class. Being an active participant includes engaging in classroom tasks such as individual or group worksheets, classroom discussions, and other classroom activities. Your class participation score will be calculated as the percent of classes you attended. 
+
+Let your instructor know if you have missed class for an excused reason.
+
+\heading{Homework}
+Homework assignments consist of a selection of problems at the end of each section of our textbook. Homework is written (on paper or tablet) and turned in via Gradescope which is accessed from Canvas.  Help with scanning homework can be found under \href{https://uaf-math251.github.io/techHelp.html}{Technology Help} on the course webpage. Assignments are due most Mondays and Wednesdays (by 11:59 PM) in advance of the Thursday quiz.  Answers to most problems are provided in the back of the book (or linked from the online text). Complete worked solutions to all problems are provided in advance on Canvas. Thus, your homework will be graded based on \emph{effort} and \emph{completion}. Homework can be turned in up to three days late for half-credit. All students should earn 100\% of their homework points!
+
+The list of homework problems and homework guidelines can be found at the \href{https://uaf-math251.github.io/writtenhomework.html}{Homework} link on the course webpage.
+
+Clearly, it is possible to short-circuit the homework by copying the solutions. It should also be clear that (a) this is a bad idea and (b) your instructor/TA will know you have done this. Our goal in providing answers \& solutions is to foster the use of homework as a \emph{learning experience}. 
+
+\heading{Quizzes}
+A quiz will be given on most Thursdays in the middle third of the class. The weekly quiz will cover the material taught in the classes held since the previous quiz; specific topics can be found in the schedule on
+the course website.  Quizzes (other than Quiz 1) are equally weighted, and are given under testing conditions; books, notes, and calculators are not allowed unless otherwise stated). Performance on the quizzes is your best regular indicator of how well you are learning the course material. Your quiz score is a much better indicator than your homework score.
+
+Make-up Quizzes are possible provided there is a documented, excused absence. Always contact your instructor if you miss a quiz.
+
+Students will be given the opportunity to grade and correct their quizzes in the last third of the Thursday class and can earn points back on their quiz for doing so \emph{accurately}.
+
+\heading{Recitations}
+The Tuesday Recitation is taught by a teaching assistant (TA). These are graduate students from the Math  Department who have experience teaching Calculus. Starting in Week 3, the Tuesday class is explicitly devoted to bolstering the underlying non-Calculus skills that are nevertheless essential to success in Calculus such as: graphing, algebra, trigonometry, exponential and logarithmic functions, and inverse functions. It will also include additional strategic homework/quiz/test prep. As a concrete example, one of the things we will do in Recitation is go over the non-Calculus math skills needed to complete the up-coming homework so that students can focus on the Calculus instead of getting bogged down in algebra or trigonometry.
+
+For students who earn high scores (80\% or higher without the added extra credit) on the Tuesday August 31 ALEKS assessment \textbf{and} who have completed every assignment by the end of Week 2 at an 80\% level or higher, the Recitation will be optional. If Recitation is optional, the Class Participation portion will be calculated in two ways -- including the Recitation class and not  including them. The higher of the two percentages will used. All students are allowed and encouraged to attend Recitation.
+
+\heading{Midterms}
+There are two midterm exams this semester, to be held on the dates
+in the schedule on the course website. Note that the course webpage contains all previous Midterms (with solutions) so a student can know in advance what these are like and has lots of opportunity for practice. The midterms are the same 
+for all sections; they are prepared and approved by all instructors teaching the course. Midterms are given in the evenings in one of two time slots: (A) 5pm-6pm or (B) 6pm-7pm. Note that students choosing time slot A will be required to stay in the classroom until 6pm.
+
+We understand that the evening time slots may not work for some students. A student who cannot attend either time slot \emph{must notify his/her instructor at least one week in advance} in order to make other arrangments.
+
+Make-up midterms will be given only for documented excused absences.
+
+\heading{Proficiencies}
+A proficiency is an exam covering a routine mechanical skill.  In
+this course we have two of these, one for derivatives and one for 
+integrals, on the dates listed in the online schedule. Note that the course webpage contains all previous proficiencies (with solutions) so a student can know in advance what these are like  and has lots of opportunity for practice.
+Proficiencies will be graded on a binary scale for each problem
+(no partial credit).  Students must earn a minimum score to earn credit
+for a proficiency. \textbf{Multiple 
+attempts 
+are allowed to earn this
+credit.}  Details will be announced prior to each proficiency.
+
+\heading{Final Exam} 
+The cumulative final exam will be held at the day/time listed in the
+online schedule. Note that the course webpage contains all previous final exams (with solutions) so a student can know in advance what these are like  and has lots of opportunity for practice.
+A make-up final exam will be given only in extenuating circumstances, for documented and excused reasons at the discression of the instructors.
+
+\heading{Tutoring and Resources}
+\vskip -30pt\strut
+\begin{clist}
+	\item The Math and Stat Lab, Chapman Building Room 305, offers tutors. 
+	See 
+
+	\texttt{http://www.uaf.edu/dms/mathlab/} for schedules and availability.
+	\item Free
+one-on-one (or small group) tutoring is available in 
+Chapman Building Room 201. You must schedule an
+appointment; see \texttt{http://www.uaf.edu/dms/mathlab/}.
+	\item Student Support Services offers free tutoring in many subjects to students who qualify for their program.
+	\item ASUAF offers private tutoring for a small fee (based on student income).
+\end{clist}
+
+\heading{Rules and Policies}
+\vskip -20pt
+%\subheading{Participation and Attendance}
+%Class and recitation attendance is mandatory. Students who stop participating in the course will be withdrawn. Examples of inadequate participation include,
+%but are not limited to:
+%\begin{clist}
+%\item missing class five times
+%\item not completing or not turning in \textbf{three} written homework assignments
+%\item failing to participate in classroom activities
+%\item repeatedly failing tests and quizzes with no attempt at remediation
+%\end{clist}
+
+%\subheading{Disability Services}
+%The Office of Disability Services implements the
+%Americans with Disabilities Act (ADA), and ensures that UAF students
+%have equal access to the campus and course materials. The instructors will work with
+%the Office of Disability Services (208 Whitaker, 474-5655) to provide
+%reasonable accommodations to students with disabilities.
+
+%\subheading{Student Protections and Services}
+%Every qualified student is welcome in my classroom.  As needed, I am happy to
+%work with you, disability services, veterans' services, rural student services,
+%etc to find reasonable accomodations. Students at this university are protected
+%against sexual harassment and discrimination (Title IX), and minors have
+%additional protections. \textit{As required,} if I notice or am informed
+%of \textit{certain types} of misconduct, then I am required to report it
+%to the appropriate authorities.  For more information on your rights as a
+%student and the resources available to you, please go to the following site:
+%\texttt{https://cms-test.alaska.edu/handbook/}.
+
+\subheading{Incomplete Grade} 
+Incomplete (I) will only be given in
+  DMS courses in cases where
+  the student has completed the majority (normally all but the last
+  three weeks) of a course with a grade of C or better, but for
+  personal reasons beyond his/her control has been unable to complete
+  the course during the regular term. Negligence or indifference are
+  not acceptable reasons for the granting of an incomplete
+  grade. 
+
+\subheading{Late Withdrawals} 
+A withdrawal after the deadline
+  (currently 9 weeks into the semester) from a DMS course will
+  normally be granted only in cases where the student is performing
+  satisfactorily (i.e., C or better) in a course, but has exceptional
+  reasons, beyond his/her control, for being unable to complete the
+  course. These exceptional reasons should be detailed in writing to
+  the instructor, department head and dean.
+
+\subheading{No Early Final Examinations}
+Final examinations for DMS
+  courses shall not be held earlier than the date and time published
+  in the official term schedule. Normally, a student will not be
+  allowed to take a final exam early. Exceptions can be made by
+  individual instructors, but should only be allowed in exceptional
+  circumstances and in a manner which doesn't endanger the security of
+  the exam.
+
+\subheading{Academic Dishonesty}
+Academic dishonesty, including cheating and plagiarism, will not
+be tolerated.  It is a violation of the Student Code of Conduct
+and will be punished according to UAF procedures.
+
+ %\begin{center} \textsc{Syllabus Addendum} \end{center}
+ 
+ \noindent{\bf COVID-19 statement:} Students should keep up-to-date on the university's policies, practices, and mandates related to COVID-19 by regularly checking this website: \url{https://sites.google.com/alaska.edu/coronavirus/uaf?authuser=0}
+
+Further, students are expected to adhere to the university's policies, practices, and mandates and are subject to disciplinary actions if they do not comply.
+
+\noindent{\bf Student protections statement:} UAF embraces and grows a culture of respect, diversity, inclusion, and caring. Students at this university are protected against sexual harassment and discrimination (Title IX). Faculty members are designated as responsible employees which means they are required to report sexual misconduct. Graduate teaching assistants do not share the same reporting obligations. For more information on your rights as a student and the resources available to you to resolve problems, please go to the following site: \url{https://catalog.uaf.edu/academics-regulations/students-rights-responsibilities/}.
+
+\noindent{\bf Disability services statement:} I will work with the Office of Disability Services to provide reasonable accommodation to students with disabilities.
+
+\noindent{\bf Student Academic Support:}
+\begin{itemize}
+\setlength\itemsep{0em}
+        \item Speaking Center (907-474-5470,
+        \mailto{uaf-speakingcenter@alaska.edu}, Gruening 507)
+\item Writing Center (907-474-5314, \mailto{uaf-writing-center@alaska.edu}, Gruening 8th floor)
+\item UAF Math Services, \mailto{uafmathstatlab@gmail.com}, Chapman Building (for math fee paying students only)
+\item Developmental Math Lab, Gruening 406
+\item The Debbie Moses Learning Center at CTC (907-455-2860, 604 Barnette St, Room 120,\\ \mailto{https://www.ctc.uaf.edu/student-services/student-success-center/})
+\item For more information and resources, please see the Academic Advising Resource List (\url{https://www.uaf.edu/advising/lr/SKM_364e19011717281.pdf})
+\end{itemize}
+
+\noindent{\bf Student Resources:}
+\begin{itemize}
+\setlength\itemsep{0em}
+\item Disability Services (907-474-5655, \mailto{uaf-disability-services@alaska.edu}, Whitaker 208)
+\item Student Health \& Counseling [6 free counseling sessions] (907-474-7043, \url{https://www.uaf.edu/chc/appointments.php}, Whitaker 203)
+\item Center for Student Rights and Responsibilities (907-474-7317, \mailto{uaf-studentrights@alaska.edu}, Eielson 110)
+\item Associated Students of the University of Alaska Fairbanks (ASUAF) or ASUAF Student Government (907-474-7355, \mailto{asuaf.office@alaska.edu}{asuaf.office@alaska.edu}, Wood Center 119)
+\end{itemize}
+
+\noindent{\bf Nondiscrimination statement:}
+The University of Alaska is an affirmative action/equal opportunity employer and educational institution. The University of Alaska does not discriminate on the basis of race, religion, color, national origin, citizenship, age, sex, physical or mental disability, status as a protected veteran, marital status, changes in marital status, pregnancy, childbirth or related medical conditions, parenthood, sexual orientation, gender identity, political affiliation or belief, genetic information, or other legally protected status. The University's commitment to nondiscrimination, including against sex discrimination, applies to students, employees, and applicants for admission and employment. Contact information, applicable laws, and complaint procedures are included on UA's statement of nondiscrimination available at www.alaska.edu/nondiscrimination. For more information, contact:
+
+\begin{tabular}{l}
+UAF Department of Equity and Compliance\\
+1760 Tanana Loop, 355 Duckering Building, Fairbanks, AK  99775\\
+907-474-7300\\
+\mailto{uaf-deo@alaska.edu}
+\end{tabular}
+
+\hfill
+
+ \scriptsize syllabus version: \today \normalsize
+
+\end{document}
+
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About

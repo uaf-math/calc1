@@ -1,0 +1,202 @@
+
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm,cmbright}
+\usepackage[OT1]{fontenc}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol, hyperref}
+\usepackage{graphicx, pgfplots, tabularx} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+%\usepackage{pdfsync} %% I don't know why this messes up tabular column widths
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array,tikz, xcolor,colortbl}
+\usepackage{ stmaryrd }
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=blue,only marks,mark=*}} \pgfplotsset{holdot/.style={color=blue,fill=white,only marks,mark=*}}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={Overleaf Example},
+    pdfpagemode=FullScreen,
+    }
+
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\newcommand{\llb}{\llbracket}
+\newcommand{\rrb}{\rrbracket}
+\renewcommand{\d}{\displaystyle}
+
+\definecolor{ddgreen}{cmyk}{1, 0, .5, 0.2}
+\definecolor{dcyan}{cmyk}{1, 0, 0, 0.1}
+
+\pagestyle{fancy} 
+\lfoot{MATH 251 Calculus I}
+\rfoot{Fall 2021 Homework Problems}
+
+\begin{document}
+
+\vspace*{-0.7in}
+
+%%%%%%%%%intro page
+\begin{center}
+  {\large{
+  \sc{MATH 251 Calculus I \hfill List of Homework Problems \hfill Fall 2021}}}\\
+\end{center}
+\quad\\
+\noindent \textsc{The Basics}\\
+\begin{itemize}
+\item \textbf{Homework} is due by 11:59PM on the due date. 
+\item Turn in your homework via Gradescope. \\
+Gradescope is accessed via Canvas. (See menu on left.)\\
+Technology help page: 
+\url{https://uaf-math251.github.io/techHelp.html}
+\item All problems come from our online textbook:\\ \url{https://openstax.org/details/books/calculus-volume-1}
+\item Answers to odd problems are linked from the online text and can be found in the back of the paper textbook.
+\item Complete solutions to odd problems can be found in the student solutions manual (found at the textbook link).
+\item Complete solutions to all problems will be posted in our Canvas site after the homework is due.
+\item Homework will be graded on completion and effort. \\
+\end{itemize}
+
+\noindent \textsc{How to Get Full Credit}
+\begin{itemize}
+\item Since you have answers and complete solutions to most of the problems and you are graded based on completion and you have all the problems in advance, \textbf{you should get 100\% on your homework}.
+\item Number all problems and all parts of a problem.
+\item Write the problems in order.
+\item Write legibly and space things so they are easy to find.
+\item Follow directions. \textbf{When you are asked for an explanation, make sure to give one!}
+\item Turn your homework in on time or in advance. \\
+\end{itemize}
+
+\noindent \textsc{Make the Homework into Quiz/Test Prep}
+\begin{itemize}
+\item Attempt all problems in a particular section \textit{before} looking at the answers.
+\item After working the problems, check your answers and re-attempt any that are incorrect.
+\item Do not look at the compete worked solutions until you have attempted the problem twice on your own. 
+\item Attempt all problems at least two days before they are due so that you can ask questions if you don't understand.
+\item Star problems you did correctly on the first try. Circle problems where you got help (using solutions, videos, a tutor, etc). When preparing for a quiz or test, start by going over the circled problems and working a similar (but different) problem of that type in order to know you are ready!
+\item Get help when you have questions.
+\end{itemize}
+
+\newpage
+
+\begin{tabularx}{\textwidth}{|c|| X | X | }
+\hline
+Section&Problems& Notes \\
+\hline \hline
+\S 2.1 & 7,8,9,13,14,15,22,23\\ 
+(8 problems)&&\\ \hline
+
+\S 2.2 &32,33,34*,&* Hint: It's a well known constant!\\
+(14 problems) &40, (46,47,48,49)**,&** These are all T/F. You are supposed to explain why something is false.\\
+&(71,72,73,74,75)***,& ***These are SUPER short problems! Don't despair.\\
+&77****&****There are MANY correct answers here. Your answer may look different from the back of the book and still be correct. Ask if you have questions. \\ \hline
+
+\S 2.3 &91,97,98,99,102,103,105,109,111,113,&\\
+(12 problems)&119,125&\\ \hline
+
+\S 2.4& 133,135,137,149,153*&*You can use a calculator to help with computations but your explanation must appeal to the IVT.\\
+(7 problems)&154,157**&**There are many correct solutions. \\ \hline \hline
+
+
+\S 3.1  &9,15,21,23,25,39,45,47,51&\\ 
+(9 problems)&&\\ \hline
+
+\S 3.2  &56,59,62,65,67,69,75,79,91,95,97,99&\\ 
+(12 problems)&& \\ \hline
+
+\S 3.3 (1) &109,110,113,114,115,117,120,123,125,&\\
+(13 problems)&127,129,131,136& \\ \hline
+
+\S3.3(2) &141,142,144,146,147&\\
+(5 problems) &&\\  \hline
+
+\S 3.4 &151,153,155,159,160,165,167*,168*&*For part (a), you can find a regression tool on the web (say Desmos), but it's OK if you just use the solutions for part (a).\\
+(8 problems)&&\\  \hline
+
+\S 3.5 &175,177,180,181,182,187,189,191,&\\
+(13 problems)&195,197,199,201,211&\\ \hline
+
+\S 3.6 &217,219,223,225,227,229,233,235&\\
+(15 Problems)&237,239,243,247,249,251,253& \\ \hline
+
+\S 3.7 &261,265,273,275,279,283,285,291&\\
+(11 problems) &(A) $y=x^{2/3}-6x^{-2/3}+\pi^{4/3}$& For problems A,B,C, find $\frac{dy}{dx}$.\\ 
+&(B) $y=(x+\sin(5x))^{8/3}$& \\
+&(C) $y=x\cos^{-1}(\frac{\pi x }{2})$ & \\ \hline
+
+\S 3.8 &303,305,307,313,317,321,323&\\ 
+(7 problems) && \\ \hline
+
+\S 3.9 &331,332,333,337,339,340,341,343,347&\\ 
+(13 problems) &348,355,359,361& \\ \hline
+\end{tabularx}
+\vfill
+
+\begin{tabularx}{\textwidth}{|c|| X | X | }
+\hline
+Section&Problems& Notes \\
+\hline \hline
+4.1&5,7,9,11,12,19,31,35& \\
+(8 problems)&& \\ \hline
+
+4.2&51,55,57,59,65,67,73,77,81,84& \\
+(10 problems)&& \\ \hline
+
+4.3&91,93,95,103,105,109,111,119,121,126& \\
+(10 problems)&& \\ \hline
+
+4.5&203,207,215,217,227,231,235,237,& \\
+(10 problems)&241,243& \\ \hline
+
+4.6&253,259,261,263,265,267,273,274,275,& \\
+(19 problems) &277,285,295,277,285,& \\
+&(295,298,299,301,304)*&*You are encouraged to use the derivatives from the solutions instead of finding those derivatives yourself by hand.\\ \hline
+
+4.7&315,317,319,326,330,331,353,355& \\
+(8 problems)&& \\ \hline
+
+4.8&369,371,377,381,383,387,393& \\
+(7 problems) && \\ \hline
+
+4.10&467,471,473,476,477,478,481,485,487, 489,490,493,495,497,498,499,505,511,& \\
+(19 problems)&512& \\ \hline \hline
+
+5.1&22,39,41,43& \\ 
+(4 problems)&& \\ \hline
+
+5.2&75,77,80,89,91,93,111*&*Hint: Use the graph. \\ 
+(7 problems)&& \\ \hline
+
+5.3&149,155,159,161,171,177,179,183,185,& \\ 
+(13 problems)&187,189,191,199*&*Set up integrals that answer each part, then use a computational tool to actually evaluate the integral.\\ \hline
+
+5.4&207,209,211,213,219,223,227,247,249,& \\ 
+(11 problems)&250,251& \\ \hline
+
+5.5&259,273,275,277,279,281,283,284,285,& \\ 
+(13 problems)&292,293,297,305& \\ \hline
+
+5.6&321,323,324,325,327,329,331,333,335,& \\ 
+(14 problems)&337,339,347,361&\\
+&(A) Suppose the rate of growth of bacteria in a Petri dish is given by $p(t)=\frac{e^{0.2}}{5}$ where $t$ is given in hours and $p(t)$ is given in hundreds of bacteria per hour. If a culture starts with $1000$ bacteria, find a function $P(t)$ that gives the number of bacteria in the Petri dish at any time $t.$ How many bacterial are in the dish after 10  hours. & \\ \hline
+
+5.7&391,393,395,397,399,401,411,413,423,& \\ 
+(10 problems) &425& \\ \hline
+
+
+\end{tabularx}
+\vfill
+\end{document}
