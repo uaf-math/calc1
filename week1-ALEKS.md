@@ -10,34 +10,31 @@ title: Week 1 Logistics
 
 ## Week 1 Logistics
 
-The first homework and quiz of the class use the online software ALEKS PPL to help you review past prerequisite skills.  You need to accomplish the following steps.
+The first week of class is a little different from the rest of the semester. We spend time at the beginning reviewing some prerequisite skills using the online software tool called ALEKS PPL. Both the first homework and the first quiz of the class will use ALEKS.  Here is the timeline (which can also be viewed in calendar form at the [weekly schedule](https://uaf-math251.github.io/assets/general/Fall2021/M251_weekly_schedule.pdf).
 
-1. By Tuesday, January 14, log into ALEKS PPL **using the 
-   instructions below**.  This is a different process from the 
-   UAF ALEKS placement test you may have used in the past.
+1. By Tuesday, August 24, complete an initial assessment in ALEKS.  This is a different process from the 
+   UAF ALEKS placement test you may have used in the past. Completing this assessment on time earns you 10 points added to your Quiz 1 score.
+ 
+2. By Friday, August 27, schedule a two-hour timeslot on Tuesday, August 30 to take your proctored ALEKS assessment.
 
-2. Take an initial assessment in ALEKS PPL by Wednesday, January 15 at 11:59pm.  This
-   assessment will be used to determine the skills you need to practice.
+3. By Monday, August 30, complete 90% of your ALEKS pie **or** spend at least 5 hours in the ALEKS Learning Mode. Completion of the ALEKS pie / Learning Mode requirement will count as the first homework of the semester.
 
-3. Using ALEKS PPL's learning mode, either complete 90% of your pie, or spend
-   10 hours in it reviewing.  You have until Monday, January 20 at 11:59pm to finish this task, which will count as your first homework grade.
-
-4. Schedule a two-hour timeslot to take Quiz 1 on Tuesday, January 21.
+4. On Tuesday, August 31, take a proctored ALEKS assessment that will count as Quiz 1.  
 
 ## How to first log into ALEKS PPL.
 
 1. You will need two codes before you begin
-	* The course code, **4JTUU-AQVJ9**.
+	* The course code, **FIX ME**.
 	* Your personal ALEKS access code, which you can access
-	  from within BlackBoard.  Go to our course and then `My Grades`.  Your
+	  from within Canvas.  Go to our course and then click `Grades` on the left menu.  Your
 	  ALEKS access code will be the first entry in the grade spreadsheet.
 
-2. Go to [ALEKS](https://www.aleks.com) and click on the yellow new
-   student button.
+2. Go to [ALEKS](https://www.aleks.com) and click on the new
+   student tab at the top right.
 
    <div class='x-scroll'><p><img src="assets/ALEKS/login.png" alt="login" width="350px" /></p></div>
 
-3. Enter the class code **4JTUU-AQVJ9** in the next screen.
+3. Enter the class code **FIX ME** in the next screen.
 
    <div class='x-scroll'><p><img src="assets/ALEKS/classcode.png" alt="class code" width="350px" /></p></div>
 
@@ -47,20 +44,20 @@ The first homework and quiz of the class use the online software ALEKS PPL to he
 
 5. In the following Registration page you will be asked for student information at this point. It is essential that you enter your UAF student ID correctly on this page; this is how we will identify your score and give you credit for your work.
 
-6. In the following Apply Access page, enter the individual ALEKS access code you got from Blackboard.
+6. In the following Apply Access page, enter the individual ALEKS access code you got from Canvas.
 
    <div class='x-scroll'><p><img src="assets/ALEKS/apply-access.png" alt="apply access page" width="500px" /></p></div>
 
 
 ## Working with ALEKS PPL
 
-Now that you have logged in to ALEKS PPL, it will give you a tutorial on how to use the interface.  When you are done with that tutorial, you will start your Initial Assessment.  This can take up to two hours, and is used to determine your skills and select appropriate problems for you to work on in the future.  When your assessment is done, you'll receive a score between 0 and 100.
+Now that you have logged in to ALEKS PPL, it will give you a tutorial on how to use the interface.  When you are done with that tutorial, you will start your initial assessment.  This can take up to two hours, and is used to determine your skills and select appropriate problems for you to work on in the Learning Mode.  When your assessment is done, you'll receive a score between 0 and 100.
 
 After your assessment is complete, you'll want to start working with the Prep and Learning Module.
 
-You'll need to either spend at least 10 hours using the learning module, or complete 90% of your pie.  You can see your progress by clicking on Reports in the menu at the upper left-hand corner of the learning module screen.
+You'll need to either spend at least 5 hours using the learning module, or complete 90% of your pie.  You can see your progress by clicking on Reports in the menu at the upper left-hand corner of the learning module screen.
 
 ## Sign up
 
-Go to the [youcanbook.me site](https://mathpretest.youcanbook.me) to choose a two-hour block during which you will take a  **proctored** ALEKS PPL placement test that will be your Quiz 1 grade.
+Go to the [youcanbook.me site](https://uafmath.youcanbook.me) to choose a two-hour block in Rasmuson Library Room 301 during which you will take a proctored ALEKS PPL placement test that will be your Quiz 1 grade.
 
