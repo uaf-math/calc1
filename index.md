@@ -15,7 +15,6 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 | :---        |:---   | :---  | :--- |
 | F01      | Jill Faudree       | MWF 9:15-10:15   | Grue 408 |
 |           | jrfaudree "at" alaska.edu      | T Th  9:45-11:15   | Chap 106 |
-
 | F02      | James Gossell       | MWF 11:45-12:45   | Grue 408 |
 |           |  jegossell "at" alaska.edu          | T Th  11:30-1:00          | Chap 106 |
 
