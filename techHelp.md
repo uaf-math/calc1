@@ -37,8 +37,6 @@ Homework will be uploaded through Gradescope which you will access from inside C
 
 In addition, there is a student-accessible printer in the Chapman Computer Lab (CHAP 103). You will need to swipe your PolarExpress card at the Student Printer in order to print, and there will be a charge (you will use your Bear Bucks to pay for printing).
 
-#### No printer?
-* If you absolutely can not get access to a printer and you have a time crunch, you can write up the solutions to your quiz in roughly the right place on a separate piece of paper and scan and upload it to Gradescope. You need to make sure you have at least as many pages uploaded as the quiz has. Then email your instructor and explain what's going on.
 
 ## CircleIn
 
