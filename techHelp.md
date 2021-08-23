@@ -15,7 +15,8 @@ Because everything is offered by distance, we are using *a lot* of technology.
 - - - 
 		
 ## Homework
-Homework will be uploaded through Gradescope which you will access from inside Canvas.
+* Homework will be uploaded through Gradescope which you will access from inside Canvas.
+
 	- If your file takes a long time to upload, make sure your scan is not too big. I recommend using black-and-white scans (unless you are using color in your work, in which case please use color scans) made through a dedicated smartphone scanning app (see below) rather than just trying to upload a photo. 
 	- Don't just print to pdf; usually computers or applications have export to pdf options that produce more optimized files.
 	- Gradescope has a [guide to submitting homework](https://gradescope-static-assets.s3.amazonaws.com/help/submitting_hw_guide.pdf).
