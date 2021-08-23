@@ -2,4 +2,5 @@
 
 keep_files: [ "Erlangen.mp4" ]
 
-markdown: GFM
+#markdown: GFM
+markdown: kramdown
