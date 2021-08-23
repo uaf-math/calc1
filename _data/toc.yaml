@@ -9,13 +9,10 @@ docs:
   url: assets/general/Fall2021/M251_weekly_schedule.pdf
 
 - title: Getting Started #Week One
-  url: week1.html
+  url: week1-ALEKS.html
 
 - title: Videos
   url: videos.html
-
-- title: Gradescope
-  url: https://www.gradescope.com/courses/223873
 
 - title: Written Homework
   url: assets/general/Fall2021/M251_Homework.pdf
@@ -31,9 +28,6 @@ docs:
 
 - title: Other Materials
   url: materials.html
-
-- title: Instructor Info
-  url: assets/general/Spring2021/Calculus-1-Spring-2021-Instructor-Section-Info.pdf
   
 - title: Technology Help
   url: techHelp.html  
