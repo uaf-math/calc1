@@ -15,7 +15,7 @@ The first week of class is a little different from the rest of the semester. We 
 1. By Tuesday, August 24, complete an initial assessment in ALEKS.  This is a different process from the 
    UAF ALEKS placement test you may have used in the past. Completing this assessment on time earns you 10 points added to your Quiz 1 score.
  
-2. By Friday, August 27, schedule a two-hour timeslot on Tuesday, August 30 to take your proctored ALEKS assessment.
+2. By Friday, August 27, schedule a two-hour timeslot on Tuesday, August 30 to take your proctored ALEKS assessment. You can schedule your time by going to [this](https://uafmath.youcanbook.me/) scheduling site.
 
 3. By Monday, August 30, complete 90% of your ALEKS pie **or** spend at least 5 hours in the ALEKS Learning Mode. Completion of the ALEKS pie / Learning Mode requirement will count as the first homework of the semester.
 
@@ -24,29 +24,18 @@ The first week of class is a little different from the rest of the semester. We 
 ## How to first log into ALEKS PPL.
 
 1. You will need two codes before you begin
-	* The course code, **FIX ME**.
+	* The course code, **GUGTW-WNFYY**.
 	* Your personal ALEKS access code, which you can access
 	  from within Canvas.  Go to our course and then click `Grades` on the left menu.  Your
 	  ALEKS access code will be the first entry in the grade spreadsheet.
 
-2. Go to [ALEKS](https://www.aleks.com) and click on the new
-   student tab at the top right.
+2. Go to the [ALEKS sign up page](https://www.aleks.com/sign_up) enter the class code **GUGTW-WNFYY**.
 
-   <div class='x-scroll'><p><img src="assets/ALEKS/login.png" alt="login" width="350px" /></p></div>
+3. ALEKS will then direct you through the registration process. 
 
-3. Enter the class code **FIX ME** in the next screen.
+More detailed step-by-step directions can be found in [this](https://www.aleks.com/highered/math/HE_Student_Registration_No_Access_Code.pdf) PDF or in [this](https://www.youtube.com/watch?v=vi-9vrFegRQ) youtube video. 
 
-   <div class='x-scroll'><p><img src="assets/ALEKS/classcode.png" alt="class code" width="350px" /></p></div>
-
-4. After confirming that you are enrolling in our cohort (class), you will be asked if you already have an ALEKS login name or not.  If you do, and you remember its password, you are welcome to use it.  Otherwise, proceed as a new user.
-
-   <div class='x-scroll'><p><img src="assets/ALEKS/account-status.png" alt="account status page" width="500px" /></p></div>
-
-5. In the following Registration page you will be asked for student information at this point. It is essential that you enter your UAF student ID correctly on this page; this is how we will identify your score and give you credit for your work.
-
-6. In the following Apply Access page, enter the individual ALEKS access code you got from Canvas.
-
-   <div class='x-scroll'><p><img src="assets/ALEKS/apply-access.png" alt="apply access page" width="500px" /></p></div>
+Note that you do *not* have to pay for an access code! We provide you with one.
 
 
 ## Working with ALEKS PPL
