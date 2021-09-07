@@ -10,7 +10,9 @@ title: Math F251 Calculus I at UAF
 <tr><th>Date</th><th>Topic</th><th>Blank Sheets</th><th>Filled Sheets</th><th>Videos</th></tr>
 {% for c in site.data.recitations %}
 <tr valign="top">
-  <td>{{ c.Week }}</td>
+  <td>
+    {{ c.Week }}
+ </td>
   <td>
     {% for s in c.sections %}
       {{ s.date }}
