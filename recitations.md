@@ -10,17 +10,32 @@ title: Math F251 Calculus I at UAF
 <tr><th>Date</th><th>Topic</th><th>Blank Sheets</th><th>Filled Sheets</th><th>Videos</th></tr>
 {% for c in site.data.recitations %}
 <tr valign="top">
-  <td>{{ c.chapter }}</td>
+  <td>{{ c.week }}</td>
   <td>
     {% for s in c.sections %}
-      <a href="{{s.url}}">{{s.title}}</a><br>
+      {{ s.date }}
     {% endfor %}
  </td>
   <td>
     {% for s in c.sections %}
-      <a href="assets/intro-videos/{{s.pdf}}">slides</a><br>
+      {{ s.topic }}
     {% endfor %}
- </td> 
+ </td>
+  <td>
+    {% for s in c.sections %}
+      <a href="assets/recitations/{{s.blank}}">blank</a><br>
+    {% endfor %}
+ </td>
+  <td>
+    {% for s in c.sections %}
+      <a href="assets/recitations/{{s.filled}}">filled</a><br>
+    {% endfor %}
+ </td>
+  <td>
+    {% for s in c.sections %}
+      <a href="assets/recitations/{{s.video}}">video</a><br>
+    {% endfor %}
+ </td>
 </tr>
 {% endfor %}
 </table>
