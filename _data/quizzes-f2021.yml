@@ -1,0 +1,8 @@
+semester: Fall 2021
+home: assets/quizzes/Fall2021
+quizzes:
+- name: Quiz 2
+  versions:
+  - name: Quiz 2
+    blank: M251F21_Q2.pdf
+    solutions: M251F21_Q2-s.pdf
