@@ -33,7 +33,7 @@ title: Math F251 Calculus I at UAF
  </td>
   <td>
     {% for s in c.sections %}
-      <a href="assets/recitations/{{s.video}}">video</a><br>
+      <a href={{s.video}}>video</a><br>
     {% endfor %}
  </td>
 </tr>
