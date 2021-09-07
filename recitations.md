@@ -7,7 +7,7 @@ title: Math F251 Calculus I at UAF
 
 <div class="x-scroll">
 <table class="asst-table">
-<tr><th>Date</th><th>Topic</th><th>Blank Sheets</th><th>Filled Sheets</th><th>Videos</th></tr>
+<tr><th>Week</th><th>Date</th><th>Topic</th><th>Blank Sheets</th><th>Filled Sheets</th><th>Videos</th></tr>
 {% for c in site.data.recitations %}
 <tr valign="top">
   <td>
