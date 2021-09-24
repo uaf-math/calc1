@@ -11,3 +11,8 @@ quizzes:
   - name: Quiz 3
     blank: M251F21_Q3.pdf
     solutions: M251F21_Q3-s.pdf
+- name: Quiz 4
+  versions:
+  - name: Quiz 4
+    blank: M251F21_Q4.pdf
+    solutions: M251F21_Q4-s.pdf
