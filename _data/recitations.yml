@@ -19,4 +19,25 @@
       blank: M251_recitation_week-5.pdf
       filled: M251_recitation_week-5-s.pdf
       video: 
+- Week: Week 6
+  sections:
+    - date: Sept 21
+      topic: Inverse Functions
+      blank: M251_recitation_week-6.pdf
+      filled: M251_recitation_week-6-s.pdf
+      video: 
+- Week: Week 7
+  sections:
+    - date: Sept 21
+      topic: Exponentials, Logarithms, Start on 4.2 homework
+      blank: M251_recitation_week-7.pdf
+      filled: M251_recitation_week-7-s.pdf
+      video: 
+- Week: Week 8
+  sections:
+    - date: Sept 21
+      topic: Derivative Proficiency Prep
+      blank: M251f21-week-8-derivative-proficiency-practice.pdf
+      filled: M251f21-week-8-derivative-proficiency-practice-s.pdf
+      video: 
  
