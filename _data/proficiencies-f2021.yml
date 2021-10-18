@@ -1,0 +1,18 @@
+semester: Fall 2021
+home: assets/proficiencies/Fall2021
+derivative:
+  versions:
+    - name: V1 
+      blank: M251f21-Derivative-v1.pdf
+      solutions: M251f21-Derivative-v1-s.pdf
+    - name: V2 
+      blank: M251f21-Derivative-v2.pdf
+      solutions: M251f21-Derivative-v2-s.pdf
+integral:
+  versions:
+    - name: V1 
+      blank: .pdf
+      solutions: .pdf
+    - name: V2
+      blank: .pdf
+      solutions: .pdf
