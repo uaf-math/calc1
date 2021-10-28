@@ -10,10 +10,10 @@ derivative:
       solutions: M251f21-Derivative-v2-s.pdf
     - name: V3 
       blank: M251f21-Derivative-v3.pdf
-      solutions: M251f21-Derivative-v3-s.pdf
+      solutions: M251f21-Derivative-v3-ss.pdf
     - name: V4 
       blank: M251f21-Derivative-v4.pdf
-      solutions: M251f21-Derivative-v4-ss.pdf
+      solutions: M251f21-Derivative-v4-s.pdf
 integral:
   versions:
     - name: V1 
