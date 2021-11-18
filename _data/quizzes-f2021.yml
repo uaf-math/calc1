@@ -31,7 +31,7 @@ quizzes:
   - name: Quiz 8
     blank: M251F21_Q8.pdf
     solutions: M251F21_Q8-s.pdf
-- name: Quiz 8
+- name: Quiz 9
   versions:
   - name: Quiz 9
     blank: M251F21_Q9.pdf
