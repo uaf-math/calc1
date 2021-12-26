@@ -1,4 +1,4 @@
-- chapter: Review
+i- chapter: Review
   sections:
     - title: Review: Functions & Models
       pdf: Sec-1-1.pdf
@@ -54,25 +54,25 @@
 
 - chapter: The Derivative
   sections:
-    - title: Section 3.1
+    - title: Derivatives of Polynomials and Exponentials
       pdf: "Section 3.1.pdf"
       url: https://media.uaf.edu/media/t/1_o6gscc8k
-    - title: Section 3.2
+    - title: Product and Quotient Rules
       pdf: "Section 3.2.pdf"
       url: https://media.uaf.edu/media/t/1_9tr2r3ea
-    - title: Section 3.3
+    - title: Derivatives of Trig Functions
       pdf: "Section 3.3.pdf"
       url: https://media.uaf.edu/media/t/1_y7dcta5o
-    - title: Section 3.4
+    - title: The Chain Rule
       pdf: "Section 3.4.pdf"
       url: https://media.uaf.edu/media/t/1_0u8x7277
-    - title: Section 3.5
+    - title: Implicit Differentiation
       pdf: "Section 3.5.pdf"
       url: https://media.uaf.edu/media/t/1_l66fsmi1
-    - title: Section 3.6
+    - title: Logarithmic Differentiation
       pdf: "Section 3.6.pdf"
       url: https://media.uaf.edu/media/t/1_h7viq35r
-    - title: Section 3.7
+    - title: Derivatives in the Sciences
       pdf: "Section 3.7.pdf"
       url: https://media.uaf.edu/media/t/1_72ww12z4
     - title: Section 3.8
