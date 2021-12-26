@@ -75,7 +75,7 @@ i- chapter: Review
     - title: Derivatives in the Sciences
       pdf: "Section 3.7.pdf"
       url: https://media.uaf.edu/media/t/1_72ww12z4
-    - title: Section 3.8
+    - title: Exponential Growth and Decay
       pdf: "Section 3.8.pdf"
       url: https://media.uaf.edu/media/t/1_vpyk9d3t
     - title: Related Rates
@@ -85,7 +85,7 @@ i- chapter: Review
       pdf: "Section 3.10.pdf"
       url:  https://media.uaf.edu/media/t/1_7iurbmgq
 
-- chapter: Chapter 4
+- chapter: Applications of Derivatives
   sections:
     - title: Maximum and Minimum Values
       pdf: "Section 4.1.pdf"
