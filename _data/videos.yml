@@ -1,4 +1,4 @@
-- chapter: Chapter 1
+- chapter: Review
   sections:
     - title: Review: Functions & Models
       pdf: Sec-1-1.pdf
@@ -16,7 +16,7 @@
       pdf: Sec-1-5.pdf
       url: https://media.uaf.edu/media/t/0_0p4pa0rg
 
-- chapter: Chapter 2
+- chapter: Limits
   sections:
     - title: Secants, Tangents, and Velocity
       pdf: "Section 2.1.pdf"
@@ -39,20 +39,20 @@
     - title: Limits at Infinity (OS 4.6)
       pdf: "Section 2.6 part 1.pdf"
       url: https://media.uaf.edu/media/t/1_duit6f5g
-    - title: Section 2.6b
+    - title: More Limites at Infinity
       pdf: "Section 2.6 part 2.pdf"
       url: https://media.uaf.edu/media/t/1_cbgmktaj
-    - title: Section 2.7
+    - title: Derivatives and Rates of Change
       pdf: "Section 2.7.pdf"
       url: https://media.uaf.edu/media/t/1_zjaib9rl
-    - title: Section 2.7b,8a
+    - title: The Derivative as a Function
       pdf: "Section 2.7 and 2.8.pdf"
       url: https://media.uaf.edu/media/t/1_0fptb7hk
-    - title: Section 2.8
+    - title: Graphical Differentiation
       pdf: "Section 2.8.pdf"
       url: https://media.uaf.edu/media/t/1_f0nfmrr9
 
-- chapter: Chapter 3
+- chapter: The Derivative
   sections:
     - title: Section 3.1
       pdf: "Section 3.1.pdf"
