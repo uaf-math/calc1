@@ -17,8 +17,11 @@ derivative:
 integral:
   versions:
     - name: V1 
-      blank: .pdf
-      solutions: .pdf
+      blank: M251-F21-Integral-v1.pdf
+      solutions: M251-F21-Integral-v1-s.pdf
     - name: V2
-      blank: .pdf
-      solutions: .pdf
+      blank: M251-F21-Integral-v2.pdf
+      solutions: M251-F21-Integral-v2-s.pdf
+    - name: V3
+      blank: M251-F21-Integral-v3.pdf
+      solutions: M251-F21-Integral-v3-s.pdf
