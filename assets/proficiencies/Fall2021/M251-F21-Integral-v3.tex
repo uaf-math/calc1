@@ -1,0 +1,172 @@
+
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{nicefrac}
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{
+\ifnum \value{page} > 1\relax\else \vskip 25pt\fi
+\baselineskip 25pt
+\emph{\@doctitle\hfill\@docdate}
+\ifnum \value{page} > 1\relax\else\\
+\emph{Name: \rule{2.5in}{1pt}\ \hfill
+	%Instructor (circle):\quad Maxwell\quad Jurkowski\quad Sus%\@docscoring
+}
+\\
+\vskip -10pt
+\fi}
+\rfoot{\emph{\@docversion}}
+\lfoot{\emph{\@doccourse}}
+\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} to
+% start a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+
+
+\doctitle{Math 251: Integral Proficiency}
+\docdate{December 3, 2021}
+\doccourse{UAF Calculus I}
+\docversion{v-3}
+\docscoring{\blank{0.8in} / 12}
+\begin{document}
+\begin{itemize}
+\item 
+There are 12 points possible on this proficiency: one point per problem with
+no partial credit. 
+
+\item You have 60 minutes to complete this proficiency.
+
+\item No aids (book, calculator, etc.) are permitted.  
+
+\item You do \textbf{not} need to simplify your expressions.
+
+\item For at least one problem you must indicate correct
+use of a constant of integration.
+
+\item Circle your final answer.
+\end{itemize}
+
+\problem{12}  Compute the following definite/indefinite integrals.
+\begin{subproblems}
+
+\item $\ds \int_1^2 \frac{2+x^3}{x^2} \; dx$
+\vfill
+
+\item $\ds \int_0^{\pi} (6x+\sin\left(\frac{x}{2}\right))\; dx$
+\vfill
+
+\item $\ds \int 10x^2(x-5)\; dx$
+\vfill
+
+
+\newpage
+\item $\ds \int e^x\cos(1+e^x)\; dx$
+\vfill
+
+\item $\ds \int \frac{1}{x^5}+\frac{\sqrt{x}}{5}\; dx$
+\vfill
+
+
+
+
+
+\item $\ds \int \frac{e^{3x}}{\sqrt{5+e^{3x}}}\; dx$
+\vfill
+
+\newpage
+
+\item $\ds \int \frac{1}{x} + \sec(x)\tan(x) \; dx$
+\vfill
+
+\item $\ds \int \left(\frac{1}{\sqrt{1-x^2}}+\frac{1-x^2}{3}\right) \; dx$
+\vfill
+
+\item $\ds \int \frac{3x}{x^2+1}\; dx$
+\vfill
+
+
+\newpage
+\item $\ds \int x\sqrt{2-x} \; dx$
+\vfill
+
+\item $\ds \int \tan(x)\sec^2(x)\; dx$
+\vfill
+
+\item $\ds \int  \frac{x+e^{-x}}{8}\; dx$
+\vfill
+\end{subproblems}
+\end{document}
