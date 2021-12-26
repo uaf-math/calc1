@@ -1,39 +1,39 @@
 - chapter: Chapter 1
   sections:
-    - title: Section 1.1
+    - title: Review: Functions & Models
       pdf: Sec-1-1.pdf
       url: https://media.uaf.edu/media/t/0_788j8zcc
-    - title: Section 1.2
+    - title: Review: Essential Functions & Trig
       pdf: Sec1-2.pdf
       url: https://media.uaf.edu/media/t/0_z8hytfhx
-    - title: Section 1.3
+    - title: Review: Transformations of Functions
       pdf: Sec1-3.pdf
       url: https://media.uaf.edu/media/t/0_b7nfw99b
-    - title: Section 1.4
+    - title: Review: Exponential Functions
       pdf: Sec-1-4.pdf
       url: https://media.uaf.edu/media/t/0_cq4q0zo4
-    - title: Section 1.5
+    - title: Review: Inverse Functions
       pdf: Sec-1-5.pdf
       url: https://media.uaf.edu/media/t/0_0p4pa0rg
 
 - chapter: Chapter 2
   sections:
-    - title: Section 2.1
+    - title: Secants, Tangents, and Velocity
       pdf: "Section 2.1.pdf"
       url: https://media.uaf.edu/media/t/0_iu2jr5h3
-    - title: Section2.2a
+    - title: The Limit of a Function
       pdf: "Section 2.2"
       url: https://media.uaf.edu/media/t/0_4sd20lwj
-    - title: Section 2.2b
+    - title: Infinite Limits
       pdf: "Section 2.2 part 2.pdf"
       url: https://media.uaf.edu/media/t/0_9955bqan
-    - title: Section 2.3a
+    - title: Limit Laws
       pdf: "Section 2.3 part 1.pdf"
       url: "https://media.uaf.edu/media/t/1_ijlq8ehx"
-    - title: Section 2.3b
+    - title: Calculating Limits using Laws
       pdf: "Section 2.3 part 2.pdf"
       url: https://media.uaf.edu/media/t/1_37yl7xzg
-    - title: Section 2.5
+    - title: Continuity
       pdf: Section 2.5.pdf
       url: https://media.uaf.edu/media/t/1_ypvwm2eo
     - title: Limits at Infinity (OS 4.6)
