@@ -17,5 +17,10 @@ midterm2:
       blank: M251-f21-M2-b.pdf
       solutions: M251-f21-M2-b-s.pdf
 final:
-  blank: Final.pdf
-  solutions: Final-s.pdf
+  versions:
+    - name: v1
+      blank: M251-F21-Final.pdf
+      solutions: M251-F21-Final-s.pdf
+    - name: v2
+      blank: M251-F21-Final-b.pdf
+      solutions: M251-F21-Final-b-s.pdf
