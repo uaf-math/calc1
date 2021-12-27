@@ -114,24 +114,24 @@ i- chapter: Review
     - title: Antiderivatives (OS 4.10)
       pdf: "Section 4.9.pdf"
       url: https://media.uaf.edu/media/t/1_gjhgm7ez
-- chapter: Chapter 5
+- chapter: Integration
   sections:
-    - title: Section 5.1
+    - title: Areas and Distances
       pdf: "Section 5.1.pdf"
       url: https://media.uaf.edu/media/t/1_0f0jgri3
-    - title: Section 5.2a
+    - title: The Definite Integral
       pdf: "Section 5.2 part 1.pdf"
       url: https://media.uaf.edu/media/t/1_xrdtds26
-    - title: Section 5.2b
+    - title: "Area so far" Functions
       pdf: "Section 5.2 part 2.pdf"
       url: https://media.uaf.edu/media/t/1_gtyam1zz
-    - title: Section 5.3a
+    - title: The Fundamental Theorem of Calculus (I)
       pdf: "Section 5.3 part 1.pdf"
       url: https://media.uaf.edu/media/t/1_17c1qxsx
-    - title: Section 5.3b
+    - title: The Fundamental Theorem of Calculus (II)
       pdf: "Section 5.3 part 2.pdf"
       url: https://media.uaf.edu/media/t/1_ojqdm5yp
-    - title: Section 5.4
+    - title: Net Change Theorem
       pdf: "Section 5.4.pdf"
       url: https://media.uaf.edu/media/t/1_7iayvk5c
     - title: Integration by Substitution (part 1)
