@@ -1,18 +1,18 @@
-i- chapter: Review
+- chapter: Review
   sections:
-    - title: Review: Functions & Models
+    - title: Review Functions & Models
       pdf: Sec-1-1.pdf
       url: https://media.uaf.edu/media/t/0_788j8zcc
-    - title: Review: Essential Functions & Trig
+    - title: Review Essential Functions & Trig
       pdf: Sec1-2.pdf
       url: https://media.uaf.edu/media/t/0_z8hytfhx
-    - title: Review: Transformations of Functions
+    - title: Review Transformations of Functions
       pdf: Sec1-3.pdf
       url: https://media.uaf.edu/media/t/0_b7nfw99b
-    - title: Review: Exponential Functions
+    - title: Review Exponential Functions
       pdf: Sec-1-4.pdf
       url: https://media.uaf.edu/media/t/0_cq4q0zo4
-    - title: Review: Inverse Functions
+    - title: Review Inverse Functions
       pdf: Sec-1-5.pdf
       url: https://media.uaf.edu/media/t/0_0p4pa0rg
 
@@ -122,7 +122,7 @@ i- chapter: Review
     - title: The Definite Integral
       pdf: "Section 5.2 part 1.pdf"
       url: https://media.uaf.edu/media/t/1_xrdtds26
-    - title: "Area so far" Functions
+    - title: Area so far Functions
       pdf: "Section 5.2 part 2.pdf"
       url: https://media.uaf.edu/media/t/1_gtyam1zz
     - title: The Fundamental Theorem of Calculus (I)
@@ -140,4 +140,3 @@ i- chapter: Review
     - title: Integration by Substitution (part 2)
       pdf: "Section 5.5 day 2.pdf"
       url: https://media.uaf.edu/media/t/1_21i5pd8r
-
