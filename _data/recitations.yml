@@ -75,3 +75,24 @@
       blank: M251f21_Recitation_Week_12-Mid-2-prep.pdf
       filled: M251f21_Recitation_Week_12-Mid-2-prep-s.pdf
       video: 
+- Week: Week 13
+  sections:
+    - date: Nov 16
+      topic: Integration Extra
+      blank: M251f21_Recitation_Week_13.pdf
+      filled: M251f21_Recitation_Week_13-s.pdf
+      video: 
+- Week: Week 14
+  sections:
+    - date: Nov 23
+      topic: ALEKS PPL Retakes
+      blank: 
+      filled: 
+      video:
+- Week: Week 15
+  sections:
+    - date: Nov 30
+      topic: Integral Proficiency Prep
+      blank: Recitation-week-14-IP-practice.pdf
+      filled: Recitation-week-14-IP-practice-s.pdf
+      video: 
