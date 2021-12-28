@@ -1,0 +1,136 @@
+
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx, pgfplots,xfrac} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+%\usepackage{pdfsync} %% I don't know why this messes up tabular column widths
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array,tikz}
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=black,only marks,mark=*}} \pgfplotsset{holdot/.style={color=black,fill=white,only marks,mark=*}}
+
+
+\pagestyle{fancy} 
+\lfoot{}
+\rfoot{ R4: 3-3 \& 3-4 prep}
+
+\begin{document}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\renewcommand{\d}{\displaystyle}
+
+\vspace*{-0.7in}
+
+%%%%%%%%%intro page
+\begin{center}
+  \large
+  \sc{Recitation: Week 4}\\ \vfill
+\end{center}
+ This worksheet is a refresher on rules about manipulating exponents and fractions. \\ \vfill
+ 
+ \begin{center} Why these exercises are important \end{center}
+ 
+ The problems from section 3.3 may seem like they are \emph{only} about applying rules of differentiation to a bunch of examples. Correctly applying differentiation rules from Calculus is only about half of the task. The other half is exercising judgment concerning when an expression \emph{can} be simplified and when it \emph{cannot} be simplified. \\ \vfill
+ 
+Here is a more detailed explanation of the last sentence. There are expressions for which simplification makes the derivative \emph{much, much} easier to find. Moreover, in this more simple form, one is much less likely to make a mistake in finding the derivative and the derivative itself is often easier to use. Thus, thoughtful simplification is crucial to long-term success. Efficiency matters as much as correctness. \\ \vfill
+ 
+The pitfall is that if, in the effort to find the best format for taking the derivative, one simplifies incorrectly, then one is guaranteed to get the wrong derivative. Thus, one must maintain cautious skepticism and self-control. Don't simplify because you really want the problem to be less complicated. \textbf{Only simplify because you know your simplified expression is equivalent to the original.}\\ \vfill
+ 
+Given the previous three paragraphs, you should answer the following two questions in your own words. Most of these problems can be completed quickly. Why is simply having the correct answers on your paper an insufficient goal for this worksheet? What \emph{should} be your goal for each problem?\\ \vfill
+
+%students should be asking themselves "How am I going to be able to remember what I can and cannot do?"
+
+%These skills are also important for figuring out if their answers are the same as the solutions or as someone else's
+
+\textbf{Answer:} \\ \vfill
+
+\vspace{2in}
+
+\hrulefill
+
+Exponent Rules
+
+\begin{enumerate}
+\item Complete each of the rules below.\\ \vfill
+	\begin{enumerate}
+	\item $x^ax^b=$\\ \vfill
+	\item $x^a+x^b=$\\ \vfill 
+	\item $(x^a)^b=$\\ \vfill
+	\item $\frac{x^a}{x^b}=$\\ \vfill
+	\item (assume $a$ and $b$ are integers) $\sqrt[a]{x^b}$\\ \vfill
+	\item (assume $a$ and $b$ are integers) $(\sqrt[a]{x})^b$\\ \vfill
+	\end{enumerate}
+\item (assume $a$ is a positive integer) What does ${x^{-a}}$ mean? What does $\frac{1}{x^{-a}}$ mean? \\ \vfill
+
+\vspace{1in}
+
+\item Use the rules above to combine the exponents. Write each combined form with no $x$'s in the denominator and again with no negative exponents.
+	\begin{enumerate}
+	\item $x^{5}x^{-1/2}$\\ \vfill
+	
+	\item $(x^{5})^{-1/2}$\\ \vfill
+	\item $\frac{x^{-5}}{x^{4}}$\\ \vfill
+	\item $\frac{x^{-5}}{x^{-3}}$\\ \vfill
+	\item $\frac{2}{\sqrt[3]{x^2}}$\\ \vfill
+	\item (3.3\#110)Write this expression so that fractions are not necessary.\\ \vfill 
+	
+	$x^3-\frac{2}{\sqrt{x}}$\\ \vfill
+	\item (3.3\#113)Expand and simplify this expression so that no $x$'s are in the denominator.\\ \vfill 
+	
+	$x^3\left(\frac{3}{x}-\frac{1}{5x^3}+\frac{2}{x^4}\right)$\\ \vfill
+	
+	\item (Write this expression so that fractions are not necessary) $(\frac{x^2}{x^4+1})^4$\\ \vfill
+	\end{enumerate}
+\newpage
+\item Identify which of the following equalities are true and which are false. For the ones that are false, give some reason. For the ones that are true, do the algebraic steps that demonstrate this.
+	\begin{enumerate}
+	\item $\frac{1}{\sqrt{3x}}=\frac{x^{-1/2}}{\sqrt{3}}$\\ \vfill
+	\item $\sqrt{4+x}=2+\sqrt{x}$\\ \vfill
+	\item $\sqrt{27x^5}=3\sqrt{3}x^{5/2}$\\ \vfill
+	\item $\sqrt{16-x^2}=4-x$ \\ \vfill
+	\item $\frac{1}{2x}=2x^{-1}$\\ \vfill
+	\end{enumerate}
+	
+Manipulating Fractions
+\item Identify which of the following equalities are true and which are false. For the ones that are false, give some reason. For the ones that are true, do the algebraic steps that demonstrate this.
+
+	\begin{enumerate}
+	\item $\frac{a+b}{c+d}=\frac{a}{c+d}+\frac{b}{c+d}$\\ \vfill
+	\item $\frac{a+b}{c+d}=\frac{a+b}{c}+\frac{a+b}{d}$\\ \vfill
+	\item $\frac{a+b}{c+d}=(a+b)(c+d)^{-1}$\\ \vfill
+	\item (3.3 \#115) $\frac{x+x^2}{2x}=\frac{1+x^2}{2}$ \\ \vfill
+	\item (3.3 \#114) $\frac{t^2-2t-\pi}{8}=\frac{1}{8}t^2-\frac{1}{4}t-\frac{\pi}{8}$ \\ \vfill
+	\item (3.3 \#115) $\frac{1+3x-2x^3}{2x^3}=\frac{1}{2}x^{-3}+\frac{3x^{-2}}{2}-1$ \\ \vfill
+
+	\item $\frac{x}{x-1}=x(x^{-1}-1)=1-x$\\ \vfill
+	\end{enumerate}
+\newpage
+Bonus Questions
+\item Are the expressions in  1.e. and 1.f. exactly the same?
+\vfill
+\item Think of everyday examples of functions with the properties below. You must state explicitly what the $x$-value represents, what the $f(x)$ value represents, and what the units are of both. The more interesting the better. See one example below. Then state the units of the derivative and what it would measure.
+	\begin{enumerate}
+	\item a function that is always increasing on its domain
+	\vfill
+	\item a function that is always decreasing on its domain
+	\vfill
+	\item a function that is increasing and decreasing on its domain\\
+	
+	SAMPLE EXAMPLE: A kid is jumping on a trampoline. $f(x)$ measures the height of the top of the kid's head over time. So $x$ is time measured in seconds, $f(x)$ is height of above ground-level measured in feet. Then $f'(x)$ would be the velocity of the kid's head in feet per second.
+	\vfill
+	\item a function that is discontinuous at some points in its domain.
+	\vfill
+	\end{enumerate}
+\end{enumerate}
+\end{document}
+
