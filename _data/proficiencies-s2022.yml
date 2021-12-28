@@ -1,0 +1,24 @@
+semester: Spring 2022
+home: assets/proficiencies/Spring2022
+derivative:
+  versions:
+    - name: V1
+      blank: Derivative-v1.pdf
+      solutions: Derivative-v1-Sols.pdf
+    - name: Retake 1
+      blank: Derivative-v2.pdf
+      solutions: Derivative-v2-Sols.pdf
+    - name: Retake 2
+      blank: Derivative-v3.pdf
+      solutions: Derivative-v3-Sols.pdf
+integral:
+  versions:
+    - name: V1
+      blank: Integral-v1.pdf
+      solutions: Integral-v1-Sols.pdf
+    - name: Retake 1
+      blank: Integral-v2.pdf
+      solutions: Integral-v2-Sols.pdf
+    - name: Retake 1 (Alt)
+      blank: Integral-v3.pdf
+      solutions: Integral-v3-Sols.pdf
