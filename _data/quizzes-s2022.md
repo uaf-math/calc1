@@ -1,0 +1,43 @@
+semester: Spring 2022
+home: assets/quizzes/Spring2022
+quizzes:
+- name: Quiz 2
+  versions:
+  - name: Quiz 2
+    blank: M251F21_Q2.pdf
+    solutions: M251F21_Q2-s.pdf
+- name: Quiz 3
+  versions:
+  - name: Quiz 3
+    blank: M251F22_Q3.pdf
+    solutions: M251F21_Q3-s.pdf
+- name: Quiz 4
+  versions:
+  - name: Quiz 4
+    blank: M251F21_Q4.pdf
+    solutions: M251F21_Q4-s.pdf
+- name: Quiz 5
+  versions:
+  - name: Quiz 5
+    blank: M251F21_Q5.pdf
+    solutions: M251F21_Q5-s.pdf
+- name: Quiz 7
+  versions:
+  - name: Quiz 7
+    blank: M251F21_Q7.pdf
+    solutions: M251F21_Q7-s.pdf
+- name: Quiz 8
+  versions:
+  - name: Quiz 8
+    blank: M251F21_Q8.pdf
+    solutions: M251F21_Q8-s.pdf
+- name: Quiz 9
+  versions:
+  - name: Quiz 9
+    blank: M251F21_Q9.pdf
+    solutions: M251F21_Q9-sol.pdf
+- name: Quiz 10
+  versions:
+  - name: Quiz 10
+    blank: M251F21_Q10.pdf
+    solutions: M251F21_Q10-s.pdf
