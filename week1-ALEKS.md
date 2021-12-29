@@ -30,12 +30,13 @@ The first week of class is a little different from the rest of the semester. We 
 
 ## How to first log into ALEKS PPL.
 
-1. Go to the [ALEKS sign up page](https://www.aleks.com/sign_up) enter the class code **H9KDU-EA6TX**.
-	* The name of our cohort is: UAF Math Courses, Spring 2022.
-	* You do not need an access code.
-	* Do *not* go to the UAF Math Placement portal.
+1. Go to the [ALEKS sign up page](https://www.aleks.com/sign_up) 
+2. Click *Sign-up, New Student* in top right corner.
+3. Enter the class code **H9KDU-EA6TX**.
 
-2. ALEKS will then direct you through the registration process. 
+	* The name of our cohort is: UAF Math Courses, Spring 2022.
+	
+4. ALEKS will then direct you through the registration process. 
 
 More detailed step-by-step directions can be found in [this](https://www.aleks.com/highered/math/HE_Student_Registration_No_Access_Code.pdf) PDF or in [this](https://www.youtube.com/watch?v=vi-9vrFegRQ) youtube video. 
 
