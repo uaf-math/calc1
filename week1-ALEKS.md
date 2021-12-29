@@ -11,10 +11,13 @@ title: Week 1 Logistics
 
 ## Important Links
 
-a. Link to access ALEKS PPL: [https://www.aleks.com/sign_up](https://www.aleks.com/sign_up)
-b. Course Code: *H9KDU-EA6TX*
-c. Link to Schedule Quiz 1: [https://uafmath.youcanbook.me/](https://uafmath.youcanbook.me/)
-d. Link to Weekly Schedule: [https://uaf-math251.github.io/assets/general/Fall2021/M251_weekly_schedule.pdf](https://uaf-math251.github.io/assets/general/Fall2021/M251_weekly_schedule.pdf)
+Link to access ALEKS PPL: [https://www.aleks.com/sign_up](https://www.aleks.com/sign_up)
+
+Course Code: *H9KDU-EA6TX*
+
+Link to Schedule Quiz 1: [https://uafmath.youcanbook.me/](https://uafmath.youcanbook.me/)
+
+Link to Weekly Schedule: [https://uaf-math251.github.io/assets/general/Fall2021/M251_weekly_schedule.pdf](https://uaf-math251.github.io/assets/general/Fall2021/M251_weekly_schedule.pdf)
 
 ## Week 1 Logistics
 
