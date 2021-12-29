@@ -12,30 +12,25 @@ title: Week 1 Logistics
 
 The first week of class is a little different from the rest of the semester. We spend time at the beginning reviewing some prerequisite skills using the online software tool called ALEKS PPL. Both the first homework and the first quiz of the class will use ALEKS.  Here is the timeline (which can also be viewed in calendar form at the [weekly schedule](https://uaf-math251.github.io/assets/general/Fall2021/M251_weekly_schedule.pdf).
 
-1. By Tuesday, August 24, complete an initial assessment in ALEKS.  This is a different process from the 
+1. By Tuesday, January 11, complete an initial assessment in ALEKS.  This is a different process from the 
    UAF ALEKS placement test you may have used in the past. Completing this assessment on time earns you 10 points added to your Quiz 1 score.
  
-2. By Friday, August 27, schedule a two-hour timeslot on Tuesday, August 30 to take your proctored ALEKS assessment. You can schedule your time by going to [this](https://uafmath.youcanbook.me/) scheduling site.
+2. By Friday, January 14, schedule a two-hour timeslot on Tuesday, January 18 to take your proctored ALEKS assessment. You can schedule your time by going to [this](https://uafmath.youcanbook.me/) scheduling site.
 
-3. By Monday, August 30, complete 90% of your ALEKS pie **or** spend at least 5 hours in the ALEKS Learning Mode. Completion of the ALEKS pie / Learning Mode requirement will count as the first homework of the semester.
+3. By Monday, January 17, complete 90% of your ALEKS pie **or** spend at least 5 hours in the ALEKS Learning Mode. Completion of the ALEKS pie / Learning Mode requirement will count as the first homework of the semester.
 
-4. On Tuesday, August 31, take a proctored ALEKS assessment that will count as Quiz 1.  
+4. On Tuesday, January 18, take a proctored ALEKS assessment that will count as Quiz 1.  
 
 ## How to first log into ALEKS PPL.
 
-1. You will need two codes before you begin
-	* The course code, **GUGTW-WNFYY**.
-	* Your personal ALEKS access code, which you can access
-	  from within Canvas.  Go to our course and then click `Grades` on the left menu.  Your
-	  ALEKS access code will be the first entry in the grade spreadsheet.
+1. Go to the [ALEKS sign up page](https://www.aleks.com/sign_up) enter the class code **H9KDU-EA6TX**.
+	* The name of our cohort is: UAF Math Courses, Spring 2022.
+	* You do not need an access code.
+	* Do *not* go to the UAF Math Placement portal.
 
-2. Go to the [ALEKS sign up page](https://www.aleks.com/sign_up) enter the class code **GUGTW-WNFYY**.
-
-3. ALEKS will then direct you through the registration process. 
+2. ALEKS will then direct you through the registration process. 
 
 More detailed step-by-step directions can be found in [this](https://www.aleks.com/highered/math/HE_Student_Registration_No_Access_Code.pdf) PDF or in [this](https://www.youtube.com/watch?v=vi-9vrFegRQ) youtube video. 
-
-Note that you do *not* have to pay for an access code! We provide you with one.
 
 
 ## Working with ALEKS PPL
