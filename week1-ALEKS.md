@@ -13,15 +13,15 @@ title: Week 1 Logistics
 
 Link to access ALEKS PPL: [https://www.aleks.com/sign_up](https://www.aleks.com/sign_up)
 
-Course Code: *H9KDU-EA6TX*
+Course Code: **H9KDU-EA6TX**
 
 Link to Schedule Quiz 1: [https://uafmath.youcanbook.me/](https://uafmath.youcanbook.me/)
 
-Link to Weekly Schedule: [https://uaf-math251.github.io/assets/general/Fall2021/M251_weekly_schedule.pdf](https://uaf-math251.github.io/assets/general/Fall2021/M251_weekly_schedule.pdf)
+Link to Weekly Schedule: [https://uaf-math251.github.io/assets/general/Spring2022/M251_weekly_schedule.pdf](https://uaf-math251.github.io/assets/general/Spring2022/M251_weekly_schedule.pdf)
 
 ## Week 1 Logistics
 
-The first week of class is a little different from the rest of the semester. We spend time at the beginning reviewing some prerequisite skills using the online software tool called ALEKS PPL. Both the first homework and the first quiz of the class will use ALEKS.  Here is the timeline (which can also be viewed in calendar form at the [weekly schedule](https://uaf-math251.github.io/assets/general/Fall2021/M251_weekly_schedule.pdf).
+The first week of class is a little different from the rest of the semester. We spend time at the beginning reviewing some prerequisite skills using the online software tool called ALEKS PPL. Both the first homework and the first quiz of the class will use ALEKS.  Here is the timeline (which can also be viewed in calendar form at the [weekly schedule](https://uaf-math251.github.io/assets/general/Spring2022/M251_weekly_schedule.pdf).
 
 1. By Tuesday, January 11, complete an initial assessment in ALEKS.  This is a different process from the 
    UAF ALEKS placement test you may have used in the past. Completing this assessment on time earns you 10 points added to your Quiz 1 score.
@@ -35,14 +35,12 @@ The first week of class is a little different from the rest of the semester. We 
 ## How to first log into ALEKS PPL.
 
 1. Go to the [ALEKS sign up page](https://www.aleks.com/sign_up) 
-2. Click *Sign-up, New Student* in top right corner.
+2. Click **Sign-up, New Student** in top right corner.
 3. Enter the class code **H9KDU-EA6TX**.
 
 	* The name of our cohort is: UAF Math Courses, Spring 2022.
 	
 4. ALEKS will then direct you through the registration process. 
-
-More detailed step-by-step directions can be found in [this](https://www.aleks.com/highered/math/HE_Student_Registration_No_Access_Code.pdf) PDF or in [this](https://www.youtube.com/watch?v=vi-9vrFegRQ) youtube video. 
 
 
 ## Working with ALEKS PPL
