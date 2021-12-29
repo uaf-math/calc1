@@ -3,9 +3,11 @@ layout: course-page
 title: Written Homework
 ---
 
-### Written Homework for Fall 2021 will be coming soon
+### Written Homework for Spring 2022 will be coming soon
 
-## Written Homework for Spring 2021
+## <span style="color:red">*THIS PAGE IS UNDER CONSTRUCTION*</span>
+
+## <span style="color:red">*THE PROBLEMS BELOW WILL BE CHANGED!!!*</span>
 
 Written homework is intended as practice in writing a 
 clear solution another human being can follow.  Here's
@@ -29,6 +31,8 @@ as they become available.
 {% include homeworktable.md  data=site.data.writtenhomework-s2021%}
 
 #### Past Semesters:
+
+## Note: All links below apply to a different textbook and semesters in which most homework was online using Webassign
 
   * [Fall 2020](writtenhomework-f2020)
   * [Spring 2020](writtenhomework-s2020)
