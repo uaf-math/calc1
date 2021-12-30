@@ -24,8 +24,11 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 * The [Math & Stat Tutoring Lab](https://www.uaf.edu/dms/mathlab/index.php) is **OPEN** for in-person tutoring and online tutoring!  You can [sign up for online tutoring](https://fairbanks.go-redrock.com/).
 
-### What is different for Fall 2021
+### Textbook and Canvas
 
-- Free online textbook: [OpenStax Calculus Volume I](https://openstax.org/details/books/calculus-volume-1)
-- Free student solutions manual: [Student Resources](https://openstax.org/details/books/calculus-volume-1?Student%20resources)
-- No online homework platform.
+- Our textbook is available free online: [OpenStax Calculus Volume I](https://openstax.org/details/books/calculus-volume-1)
+- The textbook is also available as a physical book
+    - ISBN-13: 978-1938168024
+    - ISBN-10: 193816802X
+- Free student resources online: [Student Resources](https://openstax.org/details/books/calculus-volume-1?Student%20resources)
+- Your grades and complete solutions to homework is available on [Canvas](https://www.uaf.edu/uaf/current/canvas.php)
