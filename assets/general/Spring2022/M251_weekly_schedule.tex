@@ -1,0 +1,243 @@
+
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm,cmbright}
+\usepackage[OT1]{fontenc}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx, pgfplots, tabularx} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+%\usepackage{pdfsync} %% I don't know why this messes up tabular column widths
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array,tikz, xcolor,colortbl}
+\usepackage{ stmaryrd }
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=blue,only marks,mark=*}} \pgfplotsset{holdot/.style={color=blue,fill=white,only marks,mark=*}}
+
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\newcommand{\llb}{\llbracket}
+\newcommand{\rrb}{\rrbracket}
+\renewcommand{\d}{\displaystyle}
+
+\definecolor{ddgreen}{cmyk}{1, 0, .5, 0.2}
+\definecolor{dcyan}{cmyk}{1, 0, 0, 0.1}
+
+\pagestyle{fancy} 
+\lfoot{MATH 251 Calculus I}
+\rfoot{Spring 2022 Weekly Schedule}
+
+\begin{document}
+
+\vspace*{-0.7in}
+
+%%%%%%%%%intro page
+\begin{center}
+  {\large{
+  \sc{MATH 251 Calculus I \hfill Weekly Schedule \hfill Spring 2022 \hfill \\  \quad \\
+  \hfill\textcolor{red}{Updated:} \today}}}\\
+\end{center}
+
+%NOTE: \begin{itemize}
+%\item
+ \textbf{Homework}(\textcolor{red}{HW}) is due by 11:59PM on the due date and is turned in via Gradescope.\\
+%\item \textbf{Written} homework (\textcolor{blue}{WRH}) is due at the beginning of Recitation.
+%\end{itemize}
+
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+&Monday & Tuesday & Wednesday & Thursday & Friday \\
+\hline \hline
+%Week 1
+\rowcolor{gray!20} 
+date (week 1)&01/10&01/11&01/12&01/13&01/14\\
+\hline
+topics covered&Intro to class& \textbf{Recitation 1:} ALEKS practice&  Review: Functions & Review:  Trig \& Inverses&Section 2.1\\
+\hline
+deadlines&&\textcolor{red}{extra credit:} &&&\textbf{reserve}\\
+&&Finish ALEKS&&&2-hour slot for\\
+&& initial assessment &&& Quiz 1 on Tue 1/18\\
+\hline 
+\end{tabularx}
+\vfill
+%Week 2
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+\rowcolor{gray!20}
+date (week 2)&01/17&01/18&01/19&01/20&01/21\\ \hline
+topics covered &Alaska Civil Rights Day&\textbf{Recitation 2:} Quiz 1 (ALEKS)& Section 2.2 &Section 2.3&Section 2.4\\ 
+&(no class)s&\textbf{\textcolor{ddgreen}{Rasmuson Rm 301}}&&\textbf{Quiz 2:} Section 2.1-2.2&\\ \hline
+deadlines&\textcolor{red}{HW: (5 hours in ALEKS)}&&\textcolor{red}{HW \S 2.1, \S 2.2}&&\textcolor{ddgreen}{last day to drop}\\ 
+& \textcolor{red}{ OR (90\% of pie)}&&&& \\
+ \hline 
+ \end{tabularx}
+ \vfill
+%%Week 3
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+\rowcolor{gray!20}
+date (week 3)&01/24&01/25&01/26&01/27&01/28\\ \hline
+topics covered&Section 2.4&\textbf{Recitation 3:} &Section 3.1 &Section 3.2&Section 3.2\\
+&&limit algebra&&\textbf{Quiz 3:} \S 2.3-2.4&\\ \hline
+deadlines& & \textcolor{ddgreen}{Progress Reports}&\textcolor{red}{HW \S 2.3, \S 2.4}&& \\ \hline
+\end{tabularx}
+\vfill
+%%Week 4
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+\rowcolor{gray!20}
+date (week 4)&01/31&02/01&02/02&02/03&02/04\\ \hline
+topics covered&Section 3.3&\textbf{Recitation 4:}&Section 3.3-3.4&Section 3.4&Section 3.4\\ 
+&&derivative algebra&&\textbf{Quiz 4:} Sections 3.1-3.3& \\ \hline
+deadlines&\textcolor{red}{HW \S 3.1, 3.2}& &\textcolor{red}{HW \S 3.3 (1)}&& \\ \hline 
+\end{tabularx}
+\vfill
+%%Week 5 %%% MIDTERM 1
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+\rowcolor{gray!20}
+date (week 5)&02/07&02/08&02/09&02/10&02/11\\ \hline
+topics covered&Section 3.5&\textbf{Recitation 5:} &Midterm I Review&\textcolor{dcyan}{\textbf{MIDTERM 1}}&Section 3.6\\
+&&midterm prep&&Ch 2 \S 1-4; Ch 3 \S 1-4&\\ \hline
+deadlines&\textcolor{red}{HW \S 3.3(2), 3.4}&&&& \\  \hline \hline
+\end{tabularx}
+\vfill
+\newpage
+
+%%%%PAGE 2
+%%%POST MIDTERM 1
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+&Monday & Tuesday & Wednesday & Thursday & Friday \\
+\hline \hline
+%%Week 6
+\rowcolor{gray!20}
+date (week 6)&02/14&02/15&02/16&02/17&02/18\\ \hline
+topics covered&Section 3.6&\textbf{Recitation 6:}&Section 3.8&Section 3.8&Section 3.8-3.7\\ 
+&&compositions \& inverses&&\textbf{Quiz 5:} \S 3.5-3.6&\\ \hline
+deadlines&\textcolor{red}{HW \S3.5}&&\textcolor{red}{HW \S 3.6}&& \\ \hline
+\end{tabularx}
+\vfill
+%%Week 7
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+\rowcolor{gray!20}
+date (week 7)&02/21&02/22&02/23&02/24&02/25\\ \hline
+topics covered&Section 3.9&\textbf{Recitation 7:}&Section 3.9-4.1&Section 4.1&Section 4.1\\ 
+&&exponentials \& word problem set-up&&\textbf{Quiz 6:} \S 3.7-3.9&\\ \hline
+deadlines&\textcolor{red}{HW \S 3.7, 3.8}& &\textcolor{red}{HW \S 3.9}&& \\\hline 
+\end{tabularx}
+\vfill
+%%Week 8. %%% DERIVATIVE PROFICIENCY
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+\rowcolor{gray!20}
+date (week 8)&02/28&03/01&03/02&03/03&03/04\\ \hline
+topics covered&Section 4.2&\textbf{Recitation 8:} Derivative Proficiency prep&Section 4.3&\textcolor{dcyan}{\textbf{Derivative Proficiency}}&Section 4.3\\ 
+ \hline
+deadlines&\textcolor{red}{HW \S 4.1}&&\textcolor{red}{HW \S 4.2}&& \\ \hline 
+\end{tabularx}
+\vfill
+%%Week 9
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+\rowcolor{gray!20}
+date (week 9)&03/07&03/08&03/09&03/10&03/11\\ \hline
+topics covered&Spring Break&Spring Break&Spring Break&Spring Break&Spring Break\\  \hline
+deadlines&&&&& \\  \hline
+\end{tabularx}
+\vfill
+%%Week 10
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+\rowcolor{gray!20}
+date (week 10)&03/14&03/15&03/16&03/17&03/18\\ \hline
+topics covered&Section 4.5&\textbf{Recitation 9:} proficiency prep, trig for 4.5, logarithm rules&Section 4.5&Section 4.6 \textbf{Quiz 7:} \S 4.1, 4.2,4.3&Section 4.6-4.7\\  \hline
+deadlines&\textcolor{red}{HW \S 4.3}&&&\textcolor{dcyan}{Derivative Proficiency (take 2)}&\\ \hline 
+\end{tabularx}
+\vfill
+%%Week 11
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+\rowcolor{gray!20}
+date (week 11)&03/21&03/22&03/23&03/24&03/25\\ \hline
+topics covered&Section 4.7&\textbf{Recitation 10:}&Section 4.7&Section 4.8&Section 4.8\\ 
+&&optimization intensive&&\textbf{Quiz 8:} \: \quad \S 4.5, 4.6&\\ \hline
+deadlines&\textcolor{red}{HW \S 4.5}&&\textcolor{red}{HW \S 4.6}&& \\ \hline 
+\end{tabularx}
+\vfill
+%%Week 12 %%% MIDTERM 2
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+\rowcolor{gray!20}
+date (week 12)&03/28&03/29&03/30&03/31&04/01\\ \hline
+topics covered&Section 4.10&\textbf{Recitation 11:}&Section 5.1&Section 5.2&Section 5.2\\ 
+&&integral algebra&&\textbf{Quiz 9:} \S4.7(2),4.8,4.10&\\ \hline
+deadlines&\textcolor{red}{HW \S 4.7}&&\textcolor{red}{HW \S 4.8, 4.10}&& \\ \hline
+\end{tabularx}
+\vfill
+\newpage
+
+%%%% Page 3
+%%%Post Midterm 2
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+&Monday & Tuesday & Wednesday & Thursday & Friday \\
+\hline 
+\hline
+%%Week 13
+\rowcolor{gray!20}
+date (week 13)&04/04&04/05&04/06&04/07&04/08\\ \hline
+topics covered&Section 5.3&\textbf{Recitation 12:} Midterm 2 Review&Midtern 2 Review&\textcolor{dcyan}{\textbf{MIDTERM 2}}&Section 5.4\\ 
+&&&&&\\ \hline
+deadlines&\textcolor{red}{HW \S 5.1,5.2}&&&& \\  \hline
+\end{tabularx}
+\vfill
+%%Week 14
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+\rowcolor{gray!20}
+date (week 14)&04/11&04/12&04/13&04/14&04/15\\ \hline
+topics covered&Section 5.5&\textbf{Recitation 13:}&Section 5.5&Section 5.6&Section 5.6-5.7\\ 
+&&ALEKS PPL retakes&&\textbf{Quiz 10:} \S5.3-5.5&\\ \hline
+deadlines&\textcolor{red}{HW \S 5.3,5.4}&&&\textcolor{red}{HW \S 5.5}& \\  \hline\\ \hline 
+\end{tabularx}
+\vfill
+%%Week 15
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+\rowcolor{gray!20}
+date (week 15)&04/18&04/19&04/20&04/21&04/22\\ \hline
+topics covered&Section 4.9&\textbf{Recitation 14:}&\textcolor{dcyan}{\textbf{Integral Proficiency}}&Final Review&Final Review\\ 
+&&Final Strategies $+$ Int-Prof Practice&&&\\ 
+\hline
+deadlines&\textcolor{red}{HW \S 5.6, 5.7}&&\textcolor{red}{HW \S4.9 (optional)}&&\textcolor{dcyan}{\textbf{Int-Prof retakes}} \\ \hline 
+\end{tabularx}
+\vfill
+%%Week 16
+\begin{tabularx}{\textwidth}{|X|| X | X | X | X | X |}
+\hline
+\rowcolor{gray!20}
+date (week 16)&04/25&04/26&04/27&04/28&04/29\\ \hline
+&Last Day of Class&&\textcolor{dcyan}{\textbf{Final Exam}}&&\\ 
+&Final Review&&\textcolor{dcyan}{\textbf{10:15am-12:15pm}}&&\\ \hline
+\end{tabularx}
+\vfill
+
+\quad
+
+\vspace{3in}
+
+\quad
+\end{document}
+
