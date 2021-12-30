@@ -32,6 +32,8 @@ The first week of class is a little different from the rest of the semester. We 
 
 4. On Tuesday, January 18, take a proctored ALEKS assessment that will count as Quiz 1.  
 
+
+
 ## How to first log into ALEKS PPL.
 
 1. Go to the [ALEKS sign up page](https://www.aleks.com/sign_up) 
@@ -44,6 +46,9 @@ The first week of class is a little different from the rest of the semester. We 
 	
 	
 4. ALEKS will then direct you through the registration process. 
+
+
+<span style="color:red">**Note:**</span> if you took a proctored ALEKS PPL at the end of your Fall 2021 math course, let your instructor know and accomodations can be made.
 
 
 ## Working with ALEKS PPL
