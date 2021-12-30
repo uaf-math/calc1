@@ -21,7 +21,7 @@ Link to Weekly Schedule: [https://uaf-math251.github.io/assets/general/Spring202
 
 ## Week 1 Logistics
 
-The first week of class is a little different from the rest of the semester. We spend time at the beginning reviewing some prerequisite skills using the online software tool called ALEKS PPL. Both the first homework and the first quiz of the class will use ALEKS.  Here is the timeline (which can also be viewed in calendar form at the [weekly schedule](https://uaf-math251.github.io/assets/general/Spring2022/M251_weekly_schedule.pdf).
+The first week of class is a little different from the rest of the semester. We spend time at the beginning reviewing some prerequisite skills using the online software tool called ALEKS PPL. Both the first homework and the first quiz of the class will use ALEKS.  Here is the timeline which can also be viewed in calendar form at the [weekly schedule](https://uaf-math251.github.io/assets/general/Spring2022/M251_weekly_schedule.pdf).
 
 1. By Tuesday, January 11, complete an initial assessment in ALEKS.  This is a different process from the 
    UAF ALEKS placement test you may have used in the past. Completing this assessment on time earns you 10 points added to your Quiz 1 score.
