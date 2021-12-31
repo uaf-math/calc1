@@ -1,6 +1,6 @@
 ---
 layout: course-page
-title: Exams
+title: Written Homework
 ---
 
 ## Written Homework for Spring 2022
