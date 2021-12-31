@@ -25,5 +25,5 @@ Complete worked solutions to all homework problems can be found at in the Calcul
 ## <span style="color:red">*THE PROBLEMS BELOW WILL BE CHANGED!!!*</span>
 
 
-{% include homeworktable.md  data=site.data.writtenhomework-s2021%}
+{% include homeworktable.md  data=site.data.writtenhomework-s2022%}
 
