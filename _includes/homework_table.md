@@ -6,7 +6,7 @@
 	<td>
 		<table class="inner">
 		  <tr>
-			    <td><a href="{{ data.home }}/{{ hw.problems }}">blank</a></td>
+			    <td><a href="{{ data.home }}/{{ hw.problems }}">problems</a></td>
 		  </tr>
 		</table>
 	</td>
