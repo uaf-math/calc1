@@ -1,0 +1,6 @@
+semester: Spring 2022
+home: assets/homework
+worksheets:
+- name: Section 2.1
+  problems: M251S21-WH-2-1-probs.pdf       # assets/worksheets/worksheetX.pdf
+  
