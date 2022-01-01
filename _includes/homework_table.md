@@ -1,8 +1,8 @@
 {% assign data = include.data %}
 <table class="asst-table">
-{% for ws in data.homework %}
+{% for hw in data.homework %}
 <tr>
-	<td>{{ ws.name }}</td>
+	<td>{{ hw.name }}</td>
 	<td>
 		<table class="inner">
 		  <tr>
