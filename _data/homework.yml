@@ -1,6 +1,7 @@
 semester: Spring 2022
 home: assets/homework
 homework:
+- name: ALEKS time/pie percent
 - name: Section 2.1
   problems: M251S21-WH-2-1-probs.pdf       # assets/homework/M251S21-WH-2-1-probs.pdf
   
