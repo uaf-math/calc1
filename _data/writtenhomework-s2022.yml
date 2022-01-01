@@ -1,0 +1,8 @@
+- name: "ALEKS Learning Mode"
+  problems:
+    - section: 
+      exercises: 35  
+     
+- name: "Section 2.1"
+  problems:
+      exercises: 6
