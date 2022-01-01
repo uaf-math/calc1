@@ -6,8 +6,8 @@
 	<td>
 		<table class="inner">
 		  <tr>
-			    <td><a href="{{ data.home }}/{{ ws.problems }}">blank</a></td>
-			</tr>
+			    <td><a href="{{ data.home }}/{{ hw.problems }}">blank</a></td>
+		  </tr>
 		</table>
 		<div style="padding-bottom: 10px"></div>
 	</td>
