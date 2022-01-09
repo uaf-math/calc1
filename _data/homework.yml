@@ -4,5 +4,7 @@ homework:
 - name: ALEKS time/pie percent
   problems: M251S21-ALEKS.pdf
 - name: Section 2.1
-  problems: M251S21-WH-2-1-probs.pdf       # assets/homework/M251S21-WH-2-1-probs.pdf
+  problems: M251S21-WH-2-1-probs.pdf   # assets/homework/M251S21-WH-2-1-probs.pdf
+- name: Section 2.2
+  problems: M251S21-WH-2-2-probs.pdf 
   
