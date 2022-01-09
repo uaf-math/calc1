@@ -6,8 +6,9 @@ title: Homework
 ## Written Homework 
 ### Spring 2022
 
-THIS PAGE IS UNDER CONSTRUCTION!
+Guidelines describing how to submit your homework, how it will be graded, and best practices can be found  
+[here](assets/materials/Spring2022/wrh-guidelines.pdf)
 
-("WH 2.1" is a dummy for now!!)
+Complete worked solutions to all homework problems can be found at in the Calculus I Canvas course under Modules.
 
 {% include homework_table.md  data=site.data.homework %}
