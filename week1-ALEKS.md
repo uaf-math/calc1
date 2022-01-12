@@ -17,7 +17,9 @@ Course Code: **H9KDU-EA6TX**
 
 Links to Schedule Quiz 1: 
 
-	- MORNING time-slots (require access to a laptop) [https://uafmath-morning.youcanbook.me/](https://uafmath-morning.youcanbook.me/)
+	- MORNING time-slots (require access to a laptop) 
+	
+	[https://uafmath-morning.youcanbook.me/](https://uafmath-morning.youcanbook.me/)
 	
 	- AFTERNOON time-slots (do not require access to a laptop) [https://uafmath-afternoon.youcanbook.me/](https://uafmath-afternoon.youcanbook.me/)
 
