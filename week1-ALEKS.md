@@ -17,11 +17,9 @@ Course Code: **H9KDU-EA6TX**
 
 Links to Schedule Quiz 1: 
 
-	- MORNING time-slots (require access to a laptop) 
+MORNING time-slots (require access to a laptop): [https://uafmath-morning.youcanbook.me/](https://uafmath-morning.youcanbook.me/)
 	
-	[https://uafmath-morning.youcanbook.me/](https://uafmath-morning.youcanbook.me/)
-	
-	- AFTERNOON time-slots (do not require access to a laptop) [https://uafmath-afternoon.youcanbook.me/](https://uafmath-afternoon.youcanbook.me/)
+AFTERNOON time-slots (do not require access to a laptop) [https://uafmath-afternoon.youcanbook.me/](https://uafmath-afternoon.youcanbook.me/)
 
 Link to Weekly Schedule: [https://uaf-math251.github.io/assets/general/Spring2022/M251_weekly_schedule.pdf](https://uaf-math251.github.io/assets/general/Spring2022/M251_weekly_schedule.pdf)
 
@@ -69,9 +67,9 @@ You'll need to either spend at least 5 hours using the learning module, or compl
 
 Go to the YouCanBookMe scheduler to choose a two-hour block. The assessment will be in Chapman Hall (Room 106 or Room 103 depending on the session).
 
-	- MORNING time-slots (require access to a laptop) [https://uafmath-morning.youcanbook.me/](https://uafmath-morning.youcanbook.me/)
+MORNING time-slots (require access to a laptop) [https://uafmath-morning.youcanbook.me/](https://uafmath-morning.youcanbook.me/)
 	
-	- AFTERNOON time-slots (do not require access to a laptop) [https://uafmath-afternoon.youcanbook.me/](https://uafmath-afternoon.youcanbook.me/)
+AFTERNOON time-slots (do not require access to a laptop) [https://uafmath-afternoon.youcanbook.me/](https://uafmath-afternoon.youcanbook.me/)
 
 
 
