@@ -15,11 +15,11 @@ Link to access ALEKS PPL: [https://www.aleks.com/sign_up](https://www.aleks.com/
 
 Course Code: **H9KDU-EA6TX**
 
-Links to Schedule Quiz 1: 
+Links to schedule your proctored ALEKS assessment / Quiz 1: 
 
-MORNING time-slots (require access to a laptop): [https://uafmath-morning.youcanbook.me/](https://uafmath-morning.youcanbook.me/)
+MORNING time-slots (**requires access to a laptop**): [https://uafmath-morning.youcanbook.me/](https://uafmath-morning.youcanbook.me/)
 	
-AFTERNOON time-slots (do not require access to a laptop) [https://uafmath-afternoon.youcanbook.me/](https://uafmath-afternoon.youcanbook.me/)
+AFTERNOON time-slots (does not require access to a laptop) [https://uafmath-afternoon.youcanbook.me/](https://uafmath-afternoon.youcanbook.me/)
 
 Link to Weekly Schedule: [https://uaf-math251.github.io/assets/general/Spring2022/M251_weekly_schedule.pdf](https://uaf-math251.github.io/assets/general/Spring2022/M251_weekly_schedule.pdf)
 
