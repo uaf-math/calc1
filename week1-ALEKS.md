@@ -15,7 +15,9 @@ Link to access ALEKS PPL: [https://www.aleks.com/sign_up](https://www.aleks.com/
 
 Course Code: **H9KDU-EA6TX**
 
-Link to Schedule Quiz 1: [https://uafmath.youcanbook.me/](https://uafmath.youcanbook.me/)
+Links to Schedule Quiz 1: 
+	- MORNING time-slots (require access to a laptop) [https://uafmath-morning.youcanbook.me/](https://uafmath-morning.youcanbook.me/)
+	- AFTERNOON time-slots (do not require access to a laptop) [https://uafmath-afternoon.youcanbook.me/](https://uafmath-afternoon.youcanbook.me/)
 
 Link to Weekly Schedule: [https://uaf-math251.github.io/assets/general/Spring2022/M251_weekly_schedule.pdf](https://uaf-math251.github.io/assets/general/Spring2022/M251_weekly_schedule.pdf)
 
@@ -61,5 +63,9 @@ You'll need to either spend at least 5 hours using the learning module, or compl
 
 ## Sign up
 
-Go to the [youcanbook.me site](https://uafmath.youcanbook.me) to choose a two-hour block in Rasmuson Library Room 301 during which you will take a proctored ALEKS PPL placement test that will be your Quiz 1 grade.
+Go to the YouCanBookMe scheduler to choose a two-hour block. The assessment will be in Chapman Hall (Room 106 or Room 103 depending on the session).
+	- MORNING time-slots (require access to a laptop) [https://uafmath-morning.youcanbook.me/](https://uafmath-morning.youcanbook.me/)
+	- AFTERNOON time-slots (do not require access to a laptop) [https://uafmath-afternoon.youcanbook.me/](https://uafmath-afternoon.youcanbook.me/)
+
+
 
