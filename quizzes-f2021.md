@@ -5,7 +5,7 @@ title: Quizzes
 
 ## Quizzes Fall 2021
 
-{% include quiz_table.md  data=site.data.quizzes-f2021%}
+{% include quiz_table.md  data=site.data.quizzes-f2021 %}
 
 #### Past Semesters:
 
