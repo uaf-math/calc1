@@ -7,4 +7,5 @@ homework:
   problems: M251S21-WH-2-1-probs.pdf   # assets/homework/M251S21-WH-2-1-probs.pdf
 - name: Section 2.2
   problems: M251S21-WH-2-2-probs.pdf 
-  
+- name: Section 2.3
+  problems: M251S21-WH-2-3-probs.pdf
