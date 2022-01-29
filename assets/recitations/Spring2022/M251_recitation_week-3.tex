@@ -1,0 +1,133 @@
+
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx, pgfplots,xfrac} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+%\usepackage{pdfsync} %% I don't know why this messes up tabular column widths
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array,tikz}
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=black,only marks,mark=*}} \pgfplotsset{holdot/.style={color=black,fill=white,only marks,mark=*}}
+
+
+\pagestyle{fancy} 
+\lfoot{}
+\rfoot{2-3 \& 2-4 prep}
+
+\begin{document}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\renewcommand{\d}{\displaystyle}
+
+\vspace*{-0.7in}
+
+%%%%%%%%%intro page
+\begin{center}
+  \large
+  \sc{Recitation: Week 3}\\
+\end{center}
+ 
+ \noindent\textbf{Quick Skill Check}\\
+ The skills below are ones that we have used recently and you should be able to complete them \emph{quickly}. If something is confusing to you, ASK!\\
+ 
+ \begin{enumerate}
+ \item Given $H(x)=8-x^2$, find the slope of the secant line between the points $P(1,H(1))$ and $Q(4,H(4)).$\\
+ \vfill
+ \item Find an equation for the line through the point $P(\sqrt{2}, 2 \sqrt{2})$ with a slope of $1/\pi$. 
+ \vfill
+ \end{enumerate}
+ \noindent\textbf{The weekly Exponential-Log Minute}\\
+ Exponential functions and logarithmic functions arise so frequently that it's useful to have lots of practice!
+ \begin{enumerate}
+ \item Graph and label $f(x)=e^x$ and $g(x)=e^x +1.$ Determine the domain and range of both function. Label any intercepts and asymptotes.
+ \vfill
+ \item Graph and label $f(x)=\ln(x)$ and $g(x)=\ln(x+1).$ Determine the domain and range of both function. Label any intercepts and asymptotes.
+ \vfill
+ \end{enumerate}
+ \newpage
+ \noindent\textbf{Homework Help: Section 2.3, 2.4, 3.1 and 3.2}
+ All of the skills on this page are used in the homework problems due this week. Note that the problem (or problems) using this skill are identified in parentheses) next to the problems. \\
+
+\begin{enumerate}
+\item (all 2.3, 2.4 problems) When being asked to evaluate a limit, what is \emph{always} your first step? What do you expect to learn from this first step?\\
+\vfill
+\item (all limit problems) When being asked to evaluate a limit, you are expected to \emph{write} the mathematics correctly. Work the problem below with the goal of writing your answer perfectly. \\
+
+\begin{quote} Evaluate the limit $\d \lim_{x \to 3} \frac{2x^2-6x}{x^2-9}.$ Show your work to receive full credit. \end{quote}
+\vfill
+
+
+\item In the previous problem, you should have factored $x^2-9$ as $(x-3)(x+3).$ This is called \emph{factoring a difference of squares}. Complete the difference of squares rule below and use it to answer the following questions.
+	\begin{enumerate}
+	\item \textbf{difference of squares} $a^2-b^2=$\\
+	\item Factor $x^2-11.$
+	\vfill
+	\item (2.3 \# 97) Assuming $t$ is positive, factor $t-16.$
+	\vfill
+	\item (2.3 \#102) Rationalize the numerator of the expression $\d \frac{\sqrt{x+1} +7}{x-48} .$
+	\vfill 
+	\end{enumerate}
+	\newpage
+
+\item Simplify each expression below as much as possible.			                  \begin{enumerate}
+		\item $\frac{x^3+xz}{zx-2x}$\\
+		\vfill
+		
+		\item $\frac{h^2-xh+2}{h(x+2)}$\\
+		\vfill
+		
+		\item $\frac{\sqrt{x^2+h^2}}{x+h}$\\
+		\vfill
+		
+		\item $\frac{h}{a^2+h^2}$\\
+		\vfill
+		
+		\item $\frac{h^2+xh}{2h+hx}$\\
+		\vfill
+		
+      \end{enumerate}
+		\vfill
+	
+\item For each expression below, write the simplification rule:
+	\begin{enumerate}
+	\begin{multicols}{3}
+	\item[i)]  $\d \frac{\left(\frac{a}{b}\right)}{\left(\frac{c}{d}\right)}=$\\
+	
+	\item[ii)]  $\d \frac{\left(\frac{a}{b}\right)}{c}=$\\
+
+	\item[iii)]  $\d \frac{a}{\left(\frac{c}{d}\right)}=$\\
+	\end{multicols}
+	\end{enumerate}
+\vfill	
+	\newpage
+	\item Simply each fraction below.
+	\begin{enumerate}
+	\item (2.3 \# 98) $\frac{\left(\frac{c}{c+d}\right)}{d}$
+	\vfill
+	\item (2.3 \# 99)  $\frac{\cos \theta}{\cot \theta}$
+	\vfill	
+	\end{enumerate}
+		
+\item For each of the following expressions, write them as a single fraction and simply.
+
+	\begin{enumerate}
+	\item $\frac{a}{b}+\frac{c}{d}=$\\
+	\vfill
+	\item (2.3 \#98) \scalebox{1.5}{$\frac{1}{c+d}-\frac{1}{c}$}
+	\vfill
+	\item (2.3 \#98)\scalebox{1.5}{$\dfrac{\frac{1}{2c+d}-\frac{1}{2c}}{d}$}
+	\vfill
+	\end{enumerate}
+\end{enumerate}
+\end{document}
+
