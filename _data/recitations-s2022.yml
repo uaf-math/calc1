@@ -15,16 +15,16 @@
 - Week: Week 3
   sections:
     - date: Jan 25
-      topic: Algebra for Section 2.3
+      topic: Algebra for Limits
       blank: M251_recitation_week-3.pdf
-      filled: M251_recitation_week-3-s.pdf
-      video: https://media.uaf.edu/media/t/1_n6f001pt
+      filled: M251_recitation_week-3-soln.pdf
+      video: none
 - Week: Week 4
   sections:
     - date: Feb 1
-      topic: Algebra for Section 3.3
+      topic: Algebra for Derivatives
       blank: M251_recitation_week-4.pdf
-      filled: M251_recitation_week-4-s.pdf
+      filled: M251_recitation_week-4-soln.pdf
       video: 
 - Week: Week 5
   sections:
