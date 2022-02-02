@@ -7,7 +7,7 @@ title: Quizzes
 
 Links to this semester's quizzes, and solutions, will appear here as they are completed. 
 
-{% include quiz_table.md  data=site.data.quizzes-s202s%}
+{% include quiz_table.md  data=site.data.quizzes-s2022s%}
 
 #### Past Semesters:
 
