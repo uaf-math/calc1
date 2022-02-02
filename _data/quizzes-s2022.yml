@@ -9,8 +9,8 @@ quizzes:
 - name: Quiz 3
   versions:
   - name: Quiz 3
-    blank: M251F22_Q3.pdf
-    solutions: M251F21_Q3-s.pdf
+    blank: M251S22_Q3.pdf
+    solutions: M251S22_Q3-soln.pdf
 - name: Quiz 4
   versions:
   - name: Quiz 4
