@@ -14,8 +14,8 @@ quizzes:
 - name: Quiz 4
   versions:
   - name: Quiz 4
-    blank: M251F21_Q4.pdf
-    solutions: M251F21_Q4-s.pdf
+    blank: M251S22_Q4.pdf
+    solutions: M251S22_Q4-soln.pdf
 - name: Quiz 5
   versions:
   - name: Quiz 5
