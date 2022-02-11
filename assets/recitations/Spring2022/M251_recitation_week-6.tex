@@ -1,0 +1,119 @@
+
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx, pgfplots,xfrac} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+%\usepackage{pdfsync} %% I don't know why this messes up tabular column widths
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array,tikz}
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=black,only marks,mark=*}} \pgfplotsset{holdot/.style={color=black,fill=white,only marks,mark=*}}
+
+
+\pagestyle{fancy} 
+\lfoot{}
+\rfoot{ R6: inverse functions}
+
+\begin{document}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\renewcommand{\d}{\displaystyle}
+
+
+
+%%%%%%%%%intro page
+\begin{center}
+  \large
+  \sc{Recitation: Week 6}
+\end{center}
+ This worksheet is a refresher on inverse functions which is important to understanding Section 3.7. \\ 
+\fbox{Exponential and Logarithm Review}  
+ \begin{enumerate}
+ 	\item For each expression below, write its alternate form (or algebraic rule) or state that there is none. The first two have been done for you. Note that for each rule and non-rule, you want to ask, ``\emph{How} do I know this and how will I \emph{remember} this?"
+	\begin{multicols}{2}
+		\begin{enumerate}
+		 \item $(e^{a})^b=\underline{e^{ab}}$\\
+		 \item $e^a+e^b=\underline{\text{no obvious rule}}$ \\ Though you could try factoring out: \\$e^a(1+e^{b-a})$ \\
+		 \item $e^xe^a=$\\
+		 \item $3^x9^x=$\\
+		 \item $\ln(ab)=$\\
+		 \item $\ln(a+b)=$\\
+		 \item $\ln(a^b)=$\\
+		 \item $\ln(\frac{a}{b})=$\\
+		 \item $\ln(2e+e^2)$\\
+		 \item $\ln(1)=$\\
+		 \item $\ln(0)=$\\
+		 \item $\ln(e)=$\\
+		 \item $\log_{10}(100\sqrt[3]{x})=$\\
+		\item $3\log_{10}(x+1)-\log_{10}(2)=$\\
+		\item $e^{5\ln(x)}=$\\
+		\item $\ln(4e^x+1)=$\\
+		\item $\ln(3e^{4x})=$\\
+		 \end{enumerate}
+	\end{multicols}
+\noindent \fbox{Inverse Function Review}
+ \item In your own words/pictures/examples, explain what it means for the functions $f(x)$ and $g(x)$ to be \textbf{inverses} of each other. Think of as many different ways to explain this as possible.\\
+ \vfill
+ \newpage
+ \item If $f(x)=\frac{1}{x-2}$, find $f^{-1}(x).$ Sketch $f$ and $f^{-1}$ on the same set of axes. Check that your formula for $f^{-1}$ is correct using two methods: (1) use a particular value, say $x=4$ and (2) by composition, say $f(f^{-1}(x).$
+ \vfill
+ 	\item Several points on the graph of $y=f(x)$ are listed in the table below. Use this table to answer the questions below, \emph{if possible.}
+\begin{multicols}{2} 
+ \begin{tabular}{c || c| c|c|c|c|c|c}
+ $x$ &-3& -2&-1&0&1&2\\
+ \hline
+ $f(x)$ &8& 4&2&1&0.5&0.25 \\
+ \end{tabular}
+ \begin{enumerate}
+ \item $f^{-1}(1)=$\\
+  \item $f^{-1}(2)=$\\
+   \item $f^{-1}(4)=$\\
+    \item $f^{-1}(0)=$\\
+     \item domain of $f^{-1}(x)$?\\
+      \item range of $f^{-1}(x)$?\\
+  \end{enumerate}
+ \end{multicols} 
+\item \textbf{The notation for inverse functions is confusing!!} In each case below, explain why the two functions (i) and (ii) are different.
+	\begin{enumerate}
+	\item $f(x)=x^3$: (i) $f^{-1}(x)$ and (ii) $(f(x))^{-1}$
+	\vspace{.5in}
+ 	\item (i) $g(x)=\sin^{-1}(x)$ and (ii) $h(x)=(\sin (x))^{-1}$
+	\vspace{.5in}
+ 	\end{enumerate}
+\newpage
+\item Explain why the $-1$'s (or $-3$'s mean different things in the expressions below and explain \textbf{how you can tell the difference}:\\
+$$ x^{-1} \hspace{.3in}  f^{-1}(x) \hspace{.3in} 2x^{-3} \hspace{.3in}  \tan^{-3}(x) \hspace{.3in}  \tan^{-1}(x) \hspace{.3in}  (\tan(x))^{-1} \hspace{.3in} (2x)^{-3}$$
+\vspace{1in}
+
+\item If $f(x)=e^x,$ what is $f^{-1}(x)$? Write out the two identities obtained from $f(f^{-1}(x))=x$ and $f^{-1}(f(x))=x.$ Use your calculator to confirm these identities using $x=2.$
+\vfill
+\item If $f(x)=\sin(x),$ what is $f^{-1}(x)$? Write out the two identities obtained from $f(f^{-1}(x))=x$ and $f^{-1}(f(x))=x.$ Use your calculator to confirm these identities using $x=2\pi/3.$
+\vfill
+
+\item What went wrong in the last part of \#8? What $x$-values will work and which won't? Why?
+\vfill
+
+\item Are the functions $f(x) =x^2$ and $g(x)=\sqrt{2}$ inverses of each other or not? Why?
+\vfill
+\vfill
+\newpage
+
+\item Graph $f(x)=\sin (x)$ and $f^{-1}= \sin^{-1} (x)$ on the same set of axes.
+\vfill
+\item Graph $f(x)=\cos (x)$ and $f^{-1}= \cos^{-1} (x)$ on the same set of axes.
+\vfill
+\item Graph $f(x)=\tan (x)$ and $f^{-1}= \tan^{-1} (x)$ on the same set of axes.
+\vfill
+\end{enumerate}
+\end{document}
+
