@@ -21,6 +21,11 @@ quizzes:
   - name: Quiz 5
     blank: M251F21_Q5.pdf
     solutions: M251F21_Q5-s.pdf
+- name: Quiz 6
+  versions:
+  - name: Quiz 6
+    blank: M251F21_Q6.pdf
+    solutions: M251F21_Q6-s.pdf
 - name: Quiz 7
   versions:
   - name: Quiz 7
