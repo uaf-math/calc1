@@ -3,12 +3,15 @@ home: assets/proficiencies/Spring2022
 derivative:
   versions:
     - name: V1
-      blank: Derivative-v1.pdf
-      solutions: Derivative-v1-Sols.pdf
-    - name: Retake 1
+      blank: M251s22-Derivative-v1.pdf
+      solutions: M251s22-Derivative-v1-soln.pdf
+    - name: V2
+      blank: M251s22-Derivative-v2.pdf
+      solutions: M251s22-Derivative-v2-soln.pdf
+    - name: Retake 1 (V3)
       blank: Derivative-v2.pdf
       solutions: Derivative-v2-Sols.pdf
-    - name: Retake 2
+    - name: Retake 1 (V4)
       blank: Derivative-v3.pdf
       solutions: Derivative-v3-Sols.pdf
 integral:
