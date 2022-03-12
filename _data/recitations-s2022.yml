@@ -57,23 +57,23 @@
 - Week: Week 9
   sections:
     - date: Mar 8
-      topic: D. Prof. Targeted Practice
-      blank: M251f21-Derivative-recap-key.pdf
-      filled: M251f21-Derivative-recap-s.pdf
-      video: 
-- Week: Week 9
-  sections:
-    - date: Mar 15
-      topic: Algebra for 4.5 and 4.6
-      blank: M251f21_Recitation_Week_9_4-5_4-6_prep.pdf
-      filled: M251f21_Recitation_Week_9_4-5_4-6_prep-s.pdf
+      topic: Spring Break
+      blank: 
+      filled: 
       video: 
 - Week: Week 10
   sections:
-    - date: Mar 22
-      topic: Set up Optimization Problems
-      blank: M251f21_Recitation_Week_10-Optimization_prep.pdf
-      filled: M251f21_Recitation_Week_10-Optimization_prep-s.pdf
+    - date: Mar 15
+      topic: Derivative Proficiency Recap
+      blank: M251S22-Recitation_Week_9_Derivative-recap.pdf
+      filled: M251S22-Recitation_Week_9_Derivative-recap-s.pdf
+      video: 
+- Week: Week 10
+  sections:
+    - date: Mar 15
+      topic: Section 4.5 and 4.6 Homework Help
+      blank: M251s22_Recitation_Week_9_Section-4-5_4-6_prep.pdf
+      filled: M251s22_Recitation_Week_9_Section-4-5_4-6_prep-filled.pdf
       video: 
 - Week: Week 11
   sections:
