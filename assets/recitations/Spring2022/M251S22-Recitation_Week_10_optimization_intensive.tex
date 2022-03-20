@@ -1,0 +1,123 @@
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{\baselineskip 30pt
+\emph{\@doctitle\hfill\@docdate}
+\ifnum \value{page} > 1\relax\else\\
+\emph{Name: \rule{3.5in}{1pt}\ \hfill
+%Class (circle): \ \  Sync. \hfill Online%\@docscoring
+}
+\fi}
+\rfoot{\emph{\@docversion}}
+\lfoot{\emph{\@doccourse}}
+\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} to
+% start a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+
+
+\doctitle{Math 251: Section 4.7 Optimization Prep}
+\docdate{Recitation Week 10}
+\doccourse{UAF Calculus I}
+\docversion{optimization practice}
+%\docscoring{\blank{0.8in} / 12}
+
+\begin{document}
+\addtolength\itemsep{-1mm}
+All of the problems below are homework problems. The goal in Recitation is to get all of these problems \emph{set up.} For each problem you want to (a) draw and label a picture and pick notation, (b) identify what you want to maximize or minimize, (c) write the thing from part (b) as a function of \emph{one} variable. 
+\begin{enumerate}
+\item[Problem A] You are going to construct an open-topped box with a square base. You need the box to have a volume of $10 \: m^3.$ The material for the base costs $ \$ 5 / m^2$ and the material for the sides costs $\$ 2 / m^2.$ Find the dimensions of the box that minimize the cost.
+\vfill
+\item[\S 4.7 \# 332.] A pizzeria sells pizzas for a revenue of $R(x)=ax$ and costs $C(x)=b+cx+dx^2,$ with $x$ represents the number of pizzas and $R$ and $C$ are given in dollars. Suppose that $a,b,$ and $d$ are all positive.\\
+Find the profit function for the number of pizzas. How many pizzas will maximize the profit?\\
+Find the function for profit per pizza. How many pizzas will maximize the profit per pizza?\\
+\vfill
+\item[\S 4.7 \# 348.] Graph the function $y=5-2x.$ Where is the line $y=5-2x$ closest to the point $(1,1).$\\
+\vfill
+\newpage
+\item[\S 4.7 \# 343.] Find the area of the largest rectangle that fits into the triangle with sides $x=0$, $y=0$, and $\frac{x}{4}+\frac{y}{6}=1.$
+\vfill
+\item[\S 4.7 \# 319.] You have 400 ft of fencing to construct a rectangular pen for cattle. What are the dimension of the pen that maximize the area?
+\vfill
+\item[\S 4.7 \# 320.] You have 800 ft of fencing to make a pen for hogs. If you have a river on one sider of your property, what is the dimension of the regangular pen that maximizes the area?
+\vfill
+\item[\S 4.7 \# 324.] A patient's pulse measures 70 bpm, 80 bpm, and 120 bpm. To determine an accurate measurement ofpulse, the doctor want to know what value minimizes the expression $(x-70)^2+(x-80)^2+(x-120)^2.$ Why would a doctor want to minimize this? What value minimizes it?
+\vspace{0.3in}
+\end{enumerate}
+
+\end{document}
