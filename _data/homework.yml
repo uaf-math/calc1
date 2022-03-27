@@ -45,4 +45,9 @@ homework:
   problems: M251S22-WH-4-7-probs.pdf
 - name: Section 4.8
   problems: M251S22-WH-4-8-probs.pdf
-
+- name: Section 4.10
+  problems: M251S22-WH-4-10-probs.pdf
+- name: Section 5.1
+  problems: M251S22-WH-5-1-probs.pdf
+- name: Section 5-2
+  problems: M251S22-WH-5-2-probs.pdf
