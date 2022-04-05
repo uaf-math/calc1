@@ -34,13 +34,13 @@ quizzes:
 - name: Quiz 8
   versions:
   - name: Quiz 8
-    blank: M251F21_Q8.pdf
-    solutions: M251F21_Q8-s.pdf
+    blank: M251S22-Q8.pdf
+    solutions: M251S22-Q8-sln.pdf
 - name: Quiz 9
   versions:
   - name: Quiz 9
-    blank: M251F21_Q9.pdf
-    solutions: M251F21_Q9-sol.pdf
+    blank: M251S22-Q9.pdf
+    solutions: M251S22-Q9-ss.pdf
 - name: Quiz 10
   versions:
   - name: Quiz 10
