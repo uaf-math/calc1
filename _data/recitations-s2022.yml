@@ -113,7 +113,14 @@
 - Week: Week 15
   sections:
     - date: Apr 26
-      topic: Integral Proficiency Prep
+      topic: Integral Proficiency Warm up
+      blank: M251s22_Recitation_IP_warmup.pdf
+      filled: Recitation-week-14-IP-practice-s.pdf
+      video: 
+- Week: Week 15
+  sections:
+    - date: Apr 26
+      topic: Practice Integral Proficiency
       blank: Recitation-week-14-IP-practice.pdf
       filled: Recitation-week-14-IP-practice-s.pdf
       video: 
