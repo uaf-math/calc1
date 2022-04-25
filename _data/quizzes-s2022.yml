@@ -44,5 +44,5 @@ quizzes:
 - name: Quiz 10
   versions:
   - name: Quiz 10
-    blank: M251F21_Q10.pdf
-    solutions: M251F21_Q10-s.pdf
+    blank: M251S22-Q10.pdf
+    solutions: M251S22-Q10-s.pdf
