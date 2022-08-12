@@ -14,12 +14,16 @@ title: Week 1 Logistics
 Link to access ALEKS PPL: [https://www.aleks.com/sign_up](https://www.aleks.com/sign_up)
 
 Course Code: 
-	*(in person): **ERD3E-L6JKM **, 
+
+	* (in person): **ERD3E-L6JKM **
+	
 	* (distance): **VX3AW-T9LNW **
 
 To schedule your proctored ALEKS:
-	* (in person) [youcanbook.me page](https://aleks-testing-new.youcanbook.me/)
-	* (distance) [eLearning proctoring page](https://ecampus.uaf.edu/exam-services/)
+
+	*  (in person) [youcanbook.me page](https://aleks-testing-new.youcanbook.me/)
+	
+	*  (distance) [eLearning proctoring page](https://ecampus.uaf.edu/exam-services/)
 
 ## Week 1 Logistics
 
