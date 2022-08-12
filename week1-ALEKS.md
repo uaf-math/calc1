@@ -13,16 +13,12 @@ title: Week 1 Logistics
 
 Link to access ALEKS PPL: [https://www.aleks.com/sign_up](https://www.aleks.com/sign_up)
 
-Course Code: 
-
+Course Code:
 	* in person: **ERD3E-L6JKM**
-	
 	* distance: **VX3AW-T9LNW**
 
 To schedule your proctored ALEKS:
-
 	*  [in person](https://aleks-testing-new.youcanbook.me/)
-	
 	*  [distance](https://ecampus.uaf.edu/exam-services/)
 
 ## Week 1 Logistics
@@ -35,7 +31,7 @@ The first week of class is a little different from the rest of the semester. We 
 	* [in person](https://aleks-testing-new.youcanbook.me/) 
 	* [distance](https://ecampus.uaf.edu/exam-services/)
 
-3. By Monday, September 5, complete 90% of your ALEKS pie **or** spend at least 5 hours in the ALEKS Learning Mode. Completion of the ALEKS pie / Learning Mode requirement will count as the first homework of the semester.
+3. By Monday, September 5, complete 90% of your ALEKS pie **OR** spend at least 5 hours in the ALEKS Learning Mode. Completion of the ALEKS pie / Learning Mode requirement will count as the first homework of the semester.
 
 4. Take a proctored ALEKS assessment that will count as Quiz 1 by
 	* Tuesday 6 September (in person)
@@ -68,12 +64,12 @@ You'll need to either spend at least 5 hours using the learning module, or compl
 
 Go to the link for your class.
 
-**in person classes** 
+**in person classes**
 	* [youcanbook.me page](https://aleks-testing-new.youcanbook.me/)
 	* location: Rasmuson Room 301
 	* date: Tuesday September 6
 	
-**distance class** 
+**distance class**
 	* [eLearning proctoring page](https://ecampus.uaf.edu/exam-services/)
 
 
