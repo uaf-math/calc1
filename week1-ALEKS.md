@@ -45,9 +45,9 @@ The first week of class is a little different from the rest of the semester. We 
  
 2. Enter your class code:
 
-	* (In-person sections) Class Code **ERD3E-L6JKM** ; Cohort Name: **MATH 151, 152, 251, Fall 2022**
+	* (In-person sections) Class Code **ERD3E-L6JKM**; Cohort Name: **MATH 151, 152, 251, Fall 2022**
 
-	* (Distance section) Class Code **VX3AW-T9LNW** ;Cohort Name:  **MATH F251X Calculus I DISTANCE, Fall 2022** 
+	* (Distance section) Class Code **VX3AW-T9LNW**; Cohort Name:  **MATH F251X Calculus I DISTANCE, Fall 2022** 
 	
 	
 4. ALEKS will then direct you through the registration process. 
