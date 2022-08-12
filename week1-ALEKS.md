@@ -45,9 +45,9 @@ The first week of class is a little different from the rest of the semester. We 
  
 2. Enter your class code:
 
-	* (In-person sections) Class Code **ERD3E-L6JKM ** ; Cohort Name: MATH 151, 152, 251, Fall 2022
+	* (In-person sections) Class Code **ERD3E-L6JKM** ; Cohort Name: **MATH 151, 152, 251, Fall 2022**
 
-	* (Distance section) Class Code **VX3AW-T9LNW ** ;Cohort Name:  MATH F251X Calculus I DISTANCE, Fall 2022 for the distance section.
+	* (Distance section) Class Code **VX3AW-T9LNW** ;Cohort Name:  **MATH F251X Calculus I DISTANCE, Fall 2022** 
 	
 	
 4. ALEKS will then direct you through the registration process. 
@@ -65,12 +65,12 @@ You'll need to either spend at least 5 hours using the learning module, or compl
 Go to the link for your class.
 
 **in person classes**
-	* [youcanbook.me page](https://aleks-testing-new.youcanbook.me/)
-	* location: Rasmuson Room 301
-	* date: Tuesday September 6
+* [youcanbook.me page](https://aleks-testing-new.youcanbook.me/)
+* location: Rasmuson Room 301
+* date: Tuesday September 6
 	
 **distance class**
-	* [eLearning proctoring page](https://ecampus.uaf.edu/exam-services/)
+* [eLearning proctoring page](https://ecampus.uaf.edu/exam-services/)
 
 
 
