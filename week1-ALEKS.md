@@ -7,34 +7,35 @@ title: Week 1 Logistics
 * [Week 1 Logistics](#week-1-logistics)
 * [How to first log into ALEKS PPL](#how-to-first-log-into-aleks-ppl)
 * [Working with ALEKS PPL](#working-with-aleks-ppl)
-* [Sign up for proctored ALEKS PPL](#sign-up)
+* [Sign up for proctored ALEKS PPL](#sign-up-to-take-your-proctored-assessment)
 
 ## Important Links
 
 Link to access ALEKS PPL: [https://www.aleks.com/sign_up](https://www.aleks.com/sign_up)
 
-Course Code: **H9KDU-EA6TX**
+Course Code: 
+	*(in person): **ERD3E-L6JKM **, 
+	* (distance): **VX3AW-T9LNW **
 
-Links to schedule your proctored ALEKS assessment / Quiz 1: 
-
-MORNING time-slots (**requires access to a laptop**): [https://uafmath-morning.youcanbook.me/](https://uafmath-morning.youcanbook.me/)
-	
-AFTERNOON time-slots (does not require access to a laptop) [https://uafmath-afternoon.youcanbook.me/](https://uafmath-afternoon.youcanbook.me/)
-
-Link to Weekly Schedule: [https://uaf-math251.github.io/assets/general/Spring2022/M251_weekly_schedule.pdf](https://uaf-math251.github.io/assets/general/Spring2022/M251_weekly_schedule.pdf)
+To schedule your proctored ALEKS:
+	* (in person) [youcanbook.me page](https://aleks-testing-new.youcanbook.me/)
+	* (distance) [eLearning proctoring page](https://ecampus.uaf.edu/exam-services/)
 
 ## Week 1 Logistics
 
 The first week of class is a little different from the rest of the semester. We spend time at the beginning reviewing some prerequisite skills using the online software tool called ALEKS PPL. Both the first homework and the first quiz of the class will use ALEKS.  Here is the timeline which can also be viewed in calendar form at the [weekly schedule](https://uaf-math251.github.io/assets/general/Spring2022/M251_weekly_schedule.pdf).
 
-1. By Tuesday, January 11, complete an initial assessment in ALEKS.  This is a different process from the 
-   UAF ALEKS placement test you may have used in the past. Completing this assessment on time earns you 10 points added to your Quiz 1 score.
+1. By Tuesday, August 30, complete an initial assessment in ALEKS. Note that in-person students will get do this in Recitation. Completing this assessment on time earns you 10 points added to your Quiz 1 score.
  
-2. By Friday, January 14, schedule a two-hour timeslot on Tuesday, January 18 to take your proctored ALEKS assessment. You can schedule your time by going to [this](https://uafmath.youcanbook.me/) scheduling site.
+2. By Friday, September 2, schedule a two-hour timeslot to take your proctored ALEKS assessment. In-person students will take their proctored assessment on Tuesday September 6. Online students must complete the assessment by Friday September 9. You can schedule your time by going to the link for your class. 
+	* [in person](https://aleks-testing-new.youcanbook.me/) 
+	* [distance](https://ecampus.uaf.edu/exam-services/)
 
-3. By Monday, January 17, complete 90% of your ALEKS pie **or** spend at least 5 hours in the ALEKS Learning Mode. Completion of the ALEKS pie / Learning Mode requirement will count as the first homework of the semester.
+3. By Monday, September 5, complete 90% of your ALEKS pie **or** spend at least 5 hours in the ALEKS Learning Mode. Completion of the ALEKS pie / Learning Mode requirement will count as the first homework of the semester.
 
-4. On Tuesday, January 18, take a proctored ALEKS assessment that will count as Quiz 1.  
+4. Take a proctored ALEKS assessment that will count as Quiz 1 by
+	* Tuesday 6 September (in person)
+	* Friday 9 September (distance)  
 
 
 
@@ -42,18 +43,14 @@ The first week of class is a little different from the rest of the semester. We 
 
 1. Go to the [ALEKS sign up page](https://www.aleks.com/sign_up) 
  
-2. Click **Sign-up, New Student** in top right corner.
- 
-3. Enter the class code **H9KDU-EA6TX**.
+2. Enter your class code:
 
-	* The name of our cohort is: UAF Math Courses, Spring 2022.
+	* (In-person sections) Class Code **ERD3E-L6JKM ** ; Cohort Name: MATH 151, 152, 251, Fall 2022
+
+	* (Distance section) Class Code **VX3AW-T9LNW ** ;Cohort Name:  MATH F251X Calculus I DISTANCE, Fall 2022 for the distance section.
 	
 	
 4. ALEKS will then direct you through the registration process. 
-
-
-<span style="color:red">**Note:**</span> if you took a proctored ALEKS PPL at the end of your Fall 2021 math course, let your instructor know and accomodations can be made.
-
 
 ## Working with ALEKS PPL
 
@@ -63,13 +60,15 @@ After your assessment is complete, you'll want to start working with the Prep an
 
 You'll need to either spend at least 5 hours using the learning module, or complete 90% of your pie.  You can see your progress by clicking on Reports in the menu at the upper left-hand corner of the learning module screen.
 
-## Sign up
+## Sign up to take your proctored assessment
 
-Go to the YouCanBookMe scheduler to choose a two-hour block. The assessment will be in Chapman Hall (Room 106 or Room 103 depending on the session).
+Go to the link for your class.
 
-MORNING time-slots (require access to a laptop) [https://uafmath-morning.youcanbook.me/](https://uafmath-morning.youcanbook.me/)
+**in person classes** [youcanbook.me page](https://aleks-testing-new.youcanbook.me/)
+	* location: Rasmuson Room 301
+	* date: Tuesday September 6
 	
-AFTERNOON time-slots (do not require access to a laptop) [https://uafmath-afternoon.youcanbook.me/](https://uafmath-afternoon.youcanbook.me/)
+**distance class** [eLearning proctoring page](https://ecampus.uaf.edu/exam-services/)
 
 
 
