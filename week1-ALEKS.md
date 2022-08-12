@@ -50,7 +50,7 @@ The first week of class is a little different from the rest of the semester. We 
 	* (Distance section) Class Code **VX3AW-T9LNW**; Cohort Name:  **MATH F251X Calculus I DISTANCE, Fall 2022** 
 	
 	
-4. ALEKS will then direct you through the registration process. 
+4. ALEKS will then direct you through the registration process. Make sure to write down your login name and password as you will need them for the proctored assessment which will use a different computer.
 
 ## Working with ALEKS PPL
 
