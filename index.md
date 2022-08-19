@@ -9,7 +9,7 @@ This is the central website for all in-person sections of Calculus I
 taught by the [Department of Mathematics and Statistics](http://www.uaf.edu/dms)
 at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
-### Instructor and Section Information for Spring 2022
+### Instructor and Section Information for Fall 2022
 
 | Section | Instructor                  |    | Time             | Location |
 | :-------|:----------------------------|----| :----------------| :--------|
@@ -19,6 +19,7 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 | 002     | Ryan Bridges                |    | MWF 11:45-12:45  | Chap 106 |
 |         | rlbridges "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
 | 005     | Leah Berman                 |    | asynchronous     | N/A      |
+|         | lwberman "at" alaska.edu.   |    |                  |          |
 
 ### Resources
 
