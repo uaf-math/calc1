@@ -15,7 +15,7 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 | :-------|:----------------------------|----| :----------------| :--------|
 | 001     | Jill Faudree                |    | MWF 9:15-10:15   | Chap 106 |
 |         | jrfaudree "at" alaska.edu   |    | T Th  9:45-11:15 | Chap 106 |
-| :-------|:----------------------------|----|------------------| :--------|
+||||||
 | 002     | Ryan Bridges                |    | MWF 11:45-12:45  | Chap 106 |
 |         | rlbridges "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
 | 005     | Leah Berman                 |    | asynchronous     | N/A      |
