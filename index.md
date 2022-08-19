@@ -18,6 +18,7 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 ||||||
 | 002     | Ryan Bridges                |    | MWF 11:45-12:45  | Chap 106 |
 |         | rlbridges "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
+||||||
 | 005     | Leah Berman                 |    | asynchronous     | N/A      |
 |         | lwberman "at" alaska.edu.   |    |                  |          |
 
