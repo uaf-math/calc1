@@ -3,7 +3,7 @@ layout: course-page
 title: Written Homework
 ---
 
-## Written Homework for Spring 2022
+## Written Homework
 
 Guidelines describing how to submit your homework, how it will be graded, and best practices can be found  
 [here](assets/materials/Spring2022/wrh-guidelines.pdf)
