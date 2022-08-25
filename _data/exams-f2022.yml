@@ -1,1 +1,21 @@
-
+semester: Fall 2022
+home: assets/exams/Fall2022
+midterm1:
+  versions:
+    - name: V1 
+      blank: M251-f22-M1-a.pdf
+      solutions: M251-f22-M1-a-s.pdf
+    - name: V2
+      blank: M251-f22-M1-b.pdf
+      solutions: M251-f22-M1-b-s.pdf
+midterm2:
+  versions:
+    - name: V1 
+      blank: M251-f22-M2-a.pdf
+      solutions: M251-f22-M2-a-s.pdf
+    - name: V2
+      blank: M251-f22-M2-b.pdf
+      solutions: M251-f22-M2-b-s.pdf
+final:
+  blank: Final.pdf
+  solutions: Final-s.pdf
