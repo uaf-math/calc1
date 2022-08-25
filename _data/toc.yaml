@@ -28,6 +28,9 @@ docs:
 
 - title: Exams
   url: exams.html
+  
+- title: Textbook
+  url: https://openstax.org/details/books/calculus-volume-1
 
 - title: Other Materials
   url: materials.html
