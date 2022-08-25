@@ -1,1 +1,24 @@
-
+semester: Fall 2022
+home: assets/proficiencies/Fall2022
+derivative:
+  versions:
+    - name: V1
+      blank: M251f22-Derivative-v1.pdf
+      solutions: M251f22-Derivative-v1-soln.pdf
+    - name: V2
+      blank: M251f22-Derivative-v2.pdf
+      solutions: M251f22-Derivative-v2-soln.pdf
+    - name: Retake 1 (V3)
+      blank: M251f22-Derivative-v3.pdf
+      solutions: M251f22-Derivative-v3-s.pdf
+    - name: Retake 1 (V4)
+      blank: Derivative-v3.pdf
+      solutions: Derivative-v3-Sols.pdf
+integral:
+  versions:
+    - name: V1
+      blank: M251-F22-Integral-v1.pdf
+      solutions: M251-F22-Integral-v1-s.pdf
+    - name: Retake 1
+      blank: M251-F22-Integral-v2.pdf
+      solutions: M251-F22-Integral-v2-s.pdf
