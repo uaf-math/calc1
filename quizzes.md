@@ -3,14 +3,15 @@ layout: course-page
 title: Quizzes
 ---
 
-## Quizzes for Fall 2021
+## Quizzes for Fall 2022
 
 Links to this semester's quizzes, and solutions, will appear here as they are completed. 
 
-{% include quiz_table.md  data=site.data.quizzes-s2022%}
+{% include quiz_table.md  data=site.data.quizzes-f2022%}
 
 #### Past Semesters:
 
+  * [Spring 2022](quizzes-s2022)
   * [Fall 2021](quizzes-f2021)
   * [Spring 2021](quizzes-s2021)
   * [Fall 2020](quizzes-f2020)
