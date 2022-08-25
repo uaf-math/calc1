@@ -2,11 +2,17 @@ sidenav_title: 'Math 251'
 
 docs:
 
-- title: Syllabus
-  url: assets/general/Spring2022/M251_s2022_syllabus.pdf
+- title: Syllabus (in person sections)
+  url: assets/general/Fall2022/M251_f2022_syllabus.pdf
+  
+- title: Syllabus (asynchronous section)
+  url: assets/general/Fall2022/M251_f2022_syllabus-asynch.pdf
 
-- title: Schedule
+- title: Schedule (in person sections)
   url: https://docs.google.com/spreadsheets/d/e/2PACX-1vTKVfgDIe6KWOCaT8SinPKB_7tMBN_MtvWBX2TGoXow5YpOnftkhO6mWLrtZLpElthEKqgA5QVeiw2f/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false
+  
+- title: Schedule (asynchronous section)
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vR1jQfLj4vqM_JdgqI6GEhBx_6KHwRRfvfHLL7oCHY_V_xKlNOvP3x7bOT8jx1f6Ge6sDfKTi4mMOQ1/pubhtml
   
 - title: Recitations
   url: recitations.html
