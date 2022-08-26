@@ -4,7 +4,7 @@ title: Homework
 ---
 
 ## Written Homework 
-### Spring 2022
+
 
 Guidelines describing how to submit your homework, how it will be graded, and best practices can be found  
 [here](assets/homework/wrh-guidelines.pdf)
