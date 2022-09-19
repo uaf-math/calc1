@@ -10,7 +10,7 @@ quizzes:
   versions:
   - name: Quiz 3
     blank: M251F22_Q3.pdf
-    solutions: M251F22_Q3-soln.pdf
+    solutions: M251F22_Q3-ss.pdf
 - name: Quiz 4
   versions:
   - name: Quiz 4
