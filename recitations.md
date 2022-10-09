@@ -25,7 +25,7 @@ title: Math F251 Calculus I at UAF
  </td>
   <td>
     {% for s in c.sections %}
-      <a href="assets/recitations/Spring2022/{{s.blank}}">{{s.blank}}</a><br>
+      <a href="assets/recitations/Spring2022/{{s.blank}}">blank</a><br>
     {% endfor %}
  </td>
   <td>
