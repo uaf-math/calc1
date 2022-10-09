@@ -1,104 +1,104 @@
 - Week: Week 1
   sections:
-    - date: Jan 11
+    - date: Aug 30
       topic: ALEKS Practice
       blank: none
       filled: none
       video: none
 - Week: Week 2
   sections:
-    - date: Jan 18
+    - date: Sept 6
       topic: Quiz 1 Proctored ALEKS
       blank: none
       filled: none
       video: none
 - Week: Week 3
   sections:
-    - date: Jan 25
+    - date: Sept 13
       topic: Algebra for Limits
       blank: M251_recitation_week-3.pdf
       filled: M251_recitation_week-3-solns.pdf
       video: https://drive.google.com/file/d/1cCtCSRom-XjBROuUPuJSf66WQeEfEBbg/view?usp=sharing
 - Week: Week 4
   sections:
-    - date: Feb 1
+    - date: Sept 20
       topic: Algebra for Derivatives
       blank: M251_recitation_week-4.pdf
       filled: M251_recitation_week-4-soln.pdf
       video: 
 - Week: Week 5
   sections:
-    - date: Feb 8
+    - date: Sept 27
       topic: Midterm I Prep
       blank: M251_recitation_week-5.pdf
       filled: M251_recitation_week-5-spaced-out-s.pdf
       video: 
 - Week: Week 6
   sections:
-    - date: Feb 15
+    - date: Oct 4
       topic: Inverse Functions
       blank: M251_recitation_week-6.pdf
       filled: M251_recitation_week-6-solns.pdf
       video: 
 - Week: Week 7
   sections:
-    - date: Feb 22
+    - date: Oct 11
       topic: Start on 3.9 and 4.1 Homework
       blank: M251_recitation_week-7.pdf
       filled: M251_recitation_week-7-solns.pdf
       video: 
 - Week: Week 8
   sections:
-    - date: Mar 1
+    - date: Oct 18
       topic: Derivative Proficiency Prep
       blank: M251f21-week-8-derivative-proficiency-practice.pdf
       filled: M251f21-week-8-derivative-proficiency-practice-s.pdf
       video: 
 - Week: Week 9
   sections:
-    - date: Mar 8
-      topic: Spring Break
-      blank: 
-      filled: 
-      video: 
-- Week: Week 10
-  sections:
-    - date: Mar 15
+    - date: Oct 25
       topic: Derivative Proficiency Recap
       blank: M251S22-Recitation_Week_9_Derivative-recap.pdf
       filled: M251S22-Recitation_Week_9_Derivative-recap-s.pdf
       video: 
 - Week: Week 10
   sections:
-    - date: Mar 15
+    - date: Nov 1
+      topic: 
+      blank: 
+      filled: 
+      video: 
+- Week: Week 10
+  sections:
+    - date: Nov 8
       topic: Section 4.5 and 4.6 Homework Help
       blank: M251s22_Recitation_Week_9_Section-4-5_4-6_prep.pdf
       filled: M251s22_Recitation_Week_9_Section-4-5_4-6_prep-filled.pdf
       video: 
 - Week: Week 11
   sections:
-    - date: Mar 22
+    - date: Nov 15
       topic: Optimization Intensive
       blank: M251S22-Recitation_Week_10_optimization_intensive.pdf
       filled: M251S22-Recitation_Week_10_s.pdf
       video: 
 - Week: Week 12
   sections:
-    - date: Mar 29
+    - date: Nov 22
       topic: Homework Help 4.8, 4.10, 5.1
       blank: M251f21_Recitation_Week_11-ch-4-s-8-10.pdf
       filled: M251f21_Recitation_Week_11-s.pdf
       video: 
 - Week: Week 13
   sections:
-    - date: Apr 5
+    - date: Nov 29
       topic: Midterm 2 Prep
       blank: M251s22_Recitation_Week_12-Mid-2-prep-copy-copy.pdf
       filled: M251s22_Recitation_Week_12-Mid-2-prep-s.pdf
       video: 
 - Week: Week 13
   sections:
-    - date: Apr 12
+    - date: Dec 7
       topic: Integration Extra
       blank: M251f21_Recitation_Week_13.pdf
       filled: M251f21_Recitation_Week_13-s.pdf
