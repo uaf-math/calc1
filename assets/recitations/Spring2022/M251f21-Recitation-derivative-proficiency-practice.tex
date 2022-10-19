@@ -1,3 +1,4 @@
+% !TEX TS-program = pdflatexmk
 \documentclass[12pt]{article}
 
 % Layout.
@@ -43,10 +44,7 @@ middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
 \lhead{\baselineskip 30pt
 \emph{\@doctitle\hfill\@docdate}
 \ifnum \value{page} > 1\relax\else\\
-\emph{Name: \rule{3.5in}{1pt}\ \hfill
-%Class (circle): \ \  Sync. \hfill Online%\@docscoring
-}
-\fi}
+\emph{Name: \rule{3.5in}{1pt}\hfill \@docscoring}\fi}
 \rfoot{\emph{\@docversion}}
 \lfoot{\emph{\@doccourse}}
 \cfoot{\emph{\thepage}}
@@ -91,78 +89,56 @@ middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
 \def\ec{\end{center}}
 
 
-\doctitle{Math 251: Derivative Proficiency Post-Try 1 Extra Practice}
-\docdate{Recitation Week 9}
+\doctitle{Math 251: Derivative Proficiency}
+\docdate{PRACTICE}
 \doccourse{UAF Calculus I}
-\docversion{v-practice}
-%\docscoring{\blank{0.8in} / 12}
-
+\docversion{}
+\docscoring{\blank{0.8in} / 12}
 \begin{document}
-\addtolength\itemsep{-1mm}
+\begin{itemize}
+\item 
+There are 12 points possible on this proficiency: one point per problem with
+no partial credit. 
+
+\item You have 30 minutes to complete this proficiency.
+
+\item No aids (book, calculator, etc.) are permitted.  
+
+\item You do \textbf{not} need to simplify your expressions.
+
+\item Your final answers should start with $f'(x)=$, $dy/dx=$ or
+something similar.
+
+\end{itemize}
 
 \problem{12}  Compute the derivatives of the following functions.
 \begin{subproblems}
-% e and chain
-\item  $\ds f(x)=e^{(\sin(x))}$
+\item $\ds f(x) = \frac{x^{e}}{5} + 7 e^x +\sqrt{5}$
 \vfill
-
-%simple prod / quotient 
-%sine
-\item   $\ds f(x)=\frac{x^2-x}{\cos(x)}$
+\item $\ds f(t) = \frac{t^3-t^\frac{3}{2}+1}{t}$
 \vfill
-
-%log and chain
-%tan
-%sec
-\item   $\ds f(x)=\ln(x^2-e^x)$; $\ds f(x)=(\sec(x) +x)^2$; $\ds f(x)=\tan (x^3)$; 
+\item $\ds f(x) = (x^4-2x)\tan(x)$
 \vfill
-
-
-%fractions
-%fractional powers
-%understanding of constants
-\item   $\ds f(x)=\frac{x^{1/2}}{2} + \frac{2}{\sqrt[3]{x}} + \frac{1}{\sqrt{5}}$
-\vfill
-
-%base other than e
-%product rule inside of chain rule
-\item   $\ds f(x)=\ln(x^b\cos x)$ (where $b > 1$);
-\vfill
-
-%double chain
-%cosine
-\item   $\ds f(x) = \left(e^{x/7} + \cos(x)\right)^{3/4}$
-\vfill
-
 \newpage
-%No triple product rule problems were assigned.
-%chain rule
-%understanding of constants 
-\item   $\ds y=8\left( \frac{\pi-x}{2} \right)^8$
-%$\ds f(x) = x^2\sin x \ln x$
+\item $\ds f(x) = \frac{1+e^{-3x}}{\cos(3x)}$
 \vfill
-%arc tric
-%chain rule
-\item   $\ds f(x) = \arctan(3x)$; $\ds f(x) = \arcsin(3x)$
+\item $\ds f(x) = \frac{1}{\sqrt{x}}+\left(\frac{2}{3x} \right)^{2}+\sec(x)$
 \vfill
-%understanding of constants
-%thoughtful algebra
-%quotient/product
-\item   $\ds f(x) = \frac{e^{-x}}{x\sin(4)}$
+\item $\ds f(t) =\tan^{-1}(2t)+ t\ln(at+b)$ where $a$ and $b$ are a fixed constants
 \vfill
-
-%chain inside of product
-%decimal exponent
-\item   $\ds f(x) = (\ln(4+x+x^2))^3$
+\newpage
+\item $\ds f(x)=\frac{\ln(x^2+1)^4}{\csc(x)}$
 \vfill
-
-\item  $\ds f(x) = e^{-3x} + e^2 + x^{\pi}$
+\item $ \ds f(z) = \ds \sin^{-1}(\sqrt{z})$
 \vfill
-
-\item  Find $\ds \frac{dy}{dx}$ for $\ds x^3+e^y=25+y\sin(x)$. You must solve for $\ds \frac{dy}{dx}$.
+\item $\ds f(t) = \ds \ln(\tan(1+t^2))$
 \vfill
-
-
-
+\newpage
+\item $\ds f(x) = \ds \sin^5(e^{-x} +x)$
+\vfill
+\item $\ds f(x) = \frac{1}{4x^2}+\left(\frac{3-x}{2}\right)^2$
+\vfill
+\item Compute $dy/dx$ if\quad $\ds e^y+x^2=1-xy$. You must solve for $dy/dx$.
+\vfill
 \end{subproblems}
 \end{document}
