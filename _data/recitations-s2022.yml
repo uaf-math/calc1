@@ -54,73 +54,59 @@
       blank: M251f21-week-8-derivative-proficiency-practice.pdf
       filled: M251f21-week-8-derivative-proficiency-practice-s.pdf
       video: 
-- Week: Week 9
+- Week: Week 9 (option 1)
   sections:
     - date: Oct 25
       topic: Derivative Proficiency Recap
       blank: M251S22-Recitation_Week_9_Derivative-recap.pdf
       filled: M251S22-Recitation_Week_9_Derivative-recap-s.pdf
       video: 
-- Week: Week 10
+- Week: Week 9 (option 2)
   sections:
-    - date: Nov 1
-      topic: 
-      blank: 
-      filled: 
-      video: 
-- Week: Week 10
-  sections:
-    - date: Nov 8
-      topic: Section 4.5 and 4.6 Homework Help
+    - date: Oct 25
+      topic: Algebra for 4.5 and 4.6
       blank: M251s22_Recitation_Week_9_Section-4-5_4-6_prep.pdf
       filled: M251s22_Recitation_Week_9_Section-4-5_4-6_prep-filled.pdf
       video: 
-- Week: Week 11
+- Week: Week 10
   sections:
-    - date: Nov 15
+    - date: Nov 1
       topic: Optimization Intensive
       blank: M251S22-Recitation_Week_10_optimization_intensive.pdf
       filled: M251S22-Recitation_Week_10_s.pdf
       video: 
-- Week: Week 12
+- Week: Week 11
   sections:
-    - date: Nov 22
+    - date: Nov 8
       topic: Homework Help 4.8, 4.10, 5.1
       blank: M251f21_Recitation_Week_11-ch-4-s-8-10.pdf
       filled: M251f21_Recitation_Week_11-s.pdf
       video: 
-- Week: Week 13
+- Week: Week 12
   sections:
-    - date: Nov 29
+    - date: Nov 15
       topic: Midterm 2 Prep
       blank: M251s22_Recitation_Week_12-Mid-2-prep-copy-copy.pdf
       filled: M251s22_Recitation_Week_12-Mid-2-prep-s.pdf
       video: 
 - Week: Week 13
   sections:
-    - date: Dec 7
+    - date: Nov 22
+      topic: ALEKS PPL (Take 2)
+      blank: 
+      filled: 
+      video: 
+- Week: Week 14
+  sections:
+    - date: Nov 29
       topic: Integration Extra
       blank: M251f21_Recitation_Week_13.pdf
       filled: M251f21_Recitation_Week_13-s.pdf
       video: 
-- Week: Week 14
-  sections:
-    - date: Apr 19
-      topic: ALEKS PPL Retakes
-      blank: 
-      filled: 
-      video:
 - Week: Week 15
   sections:
     - date: Apr 26
       topic: Integral Proficiency Warm up
       blank: M251s22_Recitation_IP_warmup.pdf
       filled: M251s22_Recitation_IP_warmup-s.pdf
-      video: 
-- Week: Week 15
-  sections:
-    - date: Apr 26
-      topic: Practice Integral Proficiency
-      blank: Recitation-week-14-IP-practice.pdf
-      filled: Recitation-week-14-IP-practice-s.pdf
       video: 
