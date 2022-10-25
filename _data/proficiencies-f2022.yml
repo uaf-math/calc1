@@ -4,10 +4,10 @@ derivative:
   versions:
     - name: V1
       blank: M251f22-Derivative-v1.pdf
-      solutions: M251f22-Derivative-v1-soln.pdf
+      solutions: M251f22-Derivative-v1-s.pdf
     - name: V2
       blank: M251f22-Derivative-v2.pdf
-      solutions: M251f22-Derivative-v2-soln.pdf
+      solutions: M251f22-Derivative-v2-s.pdf
     - name: Retake 1 (V3)
       blank: M251f22-Derivative-v3.pdf
       solutions: M251f22-Derivative-v3-s.pdf
