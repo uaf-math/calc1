@@ -29,8 +29,8 @@ quizzes:
 - name: Quiz 7
   versions:
   - name: Quiz 7
-    blank: M251F22-Q7.pdf
-    solutions: M251F22-Q7-s.pdf
+    blank: M251F22_Q7.pdf
+    solutions: M251F22_Q7-s.pdf
 - name: Quiz 8
   versions:
   - name: Quiz 8
