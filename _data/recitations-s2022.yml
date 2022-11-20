@@ -100,13 +100,20 @@
   sections:
     - date: Nov 29
       topic: Integration Extra
-      blank: M251f21_Recitation_Week_13.pdf
-      filled: M251f21_Recitation_Week_13-s.pdf
+      blank: M251f21_Recitation_Integration-Extra.pdf
+      filled: M251f21_Recitation_Integration-Extra-s.pdf
       video: 
-- Week: Week 15
+- Week: Week 15 (First)
   sections:
-    - date: Apr 26
+    - date: Dec 6
       topic: Integral Proficiency Warm up
       blank: M251s22_Recitation_IP_warmup.pdf
       filled: M251s22_Recitation_IP_warmup-s.pdf
+      video: 
+ - Week: Week 15 (Second)
+  sections:
+    - date: Dec 6
+      topic: Practice Integral Proficiency
+      blank: Recitation-week-14-IP-practice.pdf
+      filled: Recitation-week-14-IP-practice-s.pdf
       video: 
