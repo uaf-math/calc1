@@ -11,11 +11,11 @@ midterm1:
 midterm2:
   versions:
     - name: V1 
-      blank: M251-f22-M2-a.pdf
+      blank: M251-f22-M2-a-inperson.pdf
       solutions: M251-f22-M2-a-s.pdf
     - name: V2
-      blank: M251-f22-M2-b.pdf
-      solutions: M251-f22-M2-b-s.pdf
+      blank: M251-f22-M2-b-inperson.pdf
+      solutions: M251-f22-M2-b-inperson-s.pdf
 final:
   blank: Final.pdf
   solutions: Final-s.pdf
