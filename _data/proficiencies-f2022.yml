@@ -11,9 +11,9 @@ derivative:
     - name: Retake 1 (V3)
       blank: M251f22-Derivative-v3.pdf
       solutions: M251f22-Derivative-v3-s.pdf
-    - name: Retake 1 (V4)
-      blank: Derivative-v3.pdf
-      solutions: Derivative-v3-Sols.pdf
+    - name: Retake 2 (V4)
+      blank: M251f22-Derivative-v4.pdf
+      solutions: M251f22-Derivative-v4-s.pdf
 integral:
   versions:
     - name: V1
