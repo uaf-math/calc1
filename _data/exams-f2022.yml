@@ -17,5 +17,11 @@ midterm2:
       blank: M251-f22-M2-b-inperson.pdf
       solutions: M251-f22-M2-b-inperson-s.pdf
 final:
-  blank: Final.pdf
-  solutions: Final-s.pdf
+  versions:
+    - name: V1 
+      blank: M251-f22-FE.pdf
+      solutions: M251-f22-FE-s.pdf
+    - name: V2
+      blank: M251-f22-FE-v2.pdf
+      solutions: M251-f22-FE-v2-s.pdf
+  
