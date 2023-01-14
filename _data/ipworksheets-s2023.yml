@@ -1,7 +1,7 @@
 - name: Syllabus Quiz
   topic: 
   urlblank: http://jrfaudree.github.io/M251f2022/week1/Syllabus-quiz.pdf
-  urlfilled: 
+  urlfilled: http://jrfaudree.github.io/M251f2022/week1/Syllabus-quiz-s.pdf
 - name: Review of Functions
   topic: 
   urlblank: http://jrfaudree.github.io/M251f2022/week1/Week_1_functions.pdf
