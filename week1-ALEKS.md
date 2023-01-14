@@ -14,51 +14,46 @@ title: Week 1 Logistics
 Link to access ALEKS PPL: [https://www.aleks.com/sign_up](https://www.aleks.com/sign_up)
 
 Course Code:
-- in person: **ERD3E-L6JKM**
-- distance: **VX3AW-T9LNW**
+- in person: **AGPA6-44CGV**
+- distance: **J4FEJ-XAQTK**
 
 To schedule your proctored ALEKS:
-* [in person](https://aleks-testing-new.youcanbook.me/)
-* [distance](https://ecampus.uaf.edu/exam-services/)
+* [in person](https://aleks-testing.youcanbook.me/)
+* [distance/asynchronous](https://ecampus.uaf.edu/exam-services/)
 
 ## Week 1 Logistics
 
-The first week of class is a little different from the rest of the semester. We spend time at the beginning reviewing some prerequisite skills using the online software tool called ALEKS PPL. Both the first homework and the first quiz of the class will use ALEKS.  Here is the timeline which can also be viewed in calendar form at the [weekly schedule](https://uaf-math251.github.io/assets/general/Spring2022/M251_weekly_schedule.pdf).
+In the first week of class a little different because we spend time reviewing precalculus material. Unlike later quizzes, the first quiz of the class will use an online program called ALEKS.  Here are the steps you need to take to complete Quiz 1.
 
-1. By Tuesday, August 30, complete an initial assessment in ALEKS. Note that in-person students will get do this in Recitation. Completing this assessment on time earns you 10 points added to your Quiz 1 score.
- 
-2. By Friday, September 2, schedule a two-hour timeslot to take your proctored ALEKS assessment. In-person students will take their proctored assessment on Tuesday September 6. Online students must complete the assessment by Friday September 9. You can schedule your time by going to the link for your class. 
+1. By Friday, January 20, **schedule** a two-hour timeslot to take your proctored ALEKS assessment. In-person students will take their proctored assessment on Tuesday January 24. Online students must complete the assessment by Friday January 27. You can schedule your time by going to the link for your class. 
 	* [in person](https://aleks-testing-new.youcanbook.me/) 
-	* [distance](https://ecampus.uaf.edu/exam-services/)
+	* [distance/asynchronous](https://ecampus.uaf.edu/exam-services/)
 
-3. By Monday, September 5, complete 90% of your ALEKS pie **OR** spend at least 5 hours in the ALEKS Learning Mode. Completion of the ALEKS pie / Learning Mode requirement will count as the first homework of the semester.
-
-4. Take a proctored ALEKS assessment that will count as Quiz 1 by
-	* Tuesday 6 September (in person)
-	* Friday 9 September (distance)  
+2. Take a proctored ALEKS assessment that will count as Quiz 1:
+	* on Tuesday January 24 (in person)
+	* by Friday January 27 (distance/asynchronous)  
 
 
 
 ## How to first log into ALEKS PPL.
 
+If you want to login to ALEKS in advance of your proctored ALEKS, the directions are below. The advantage of logging into ALEKS in advance is to make things faster on the day of the assessment or to fix any login issues (like forgetting your password). It is not mandatory that you login ahead of time.
+
 1. Go to the [ALEKS sign up page](https://www.aleks.com/sign_up) 
  
 2. Enter your class code:
 
-	* (In-person sections) Class Code **ERD3E-L6JKM**; Cohort Name: **MATH 151, 152, 251, Fall 2022**
+	* (In-person sections) Class Code **AGPA6-44CGV**; Cohort Name: **MATH 251 Calculus I - in person, Spring 2023**
 
-	* (Distance section) Class Code **VX3AW-T9LNW**; Cohort Name:  **MATH F251X Calculus I DISTANCE, Fall 2022** 
+	* (Distance section) Class Code **J4FEJ-XAQTK**; Cohort Name:  **MATH 251 Calculus I - asynchronous, Spring 2023** 
 	
 	
-4. ALEKS will then direct you through the registration process. Make sure to write down your login name and password as you will need them for the proctored assessment which will use a different computer.
+3. ALEKS will then direct you through the registration process. **Write down your login name and password** as you will need them for the proctored assessment which will use a different computer.
 
-## Working with ALEKS PPL
+4. Now that you have logged in to ALEKS PPL, it will give you a tutorial on how to use the interface and you are done with the set up.
 
-Now that you have logged in to ALEKS PPL, it will give you a tutorial on how to use the interface.  When you are done with that tutorial, you will start your initial assessment.  This can take up to two hours, and is used to determine your skills and select appropriate problems for you to work on in the Learning Mode.  When your assessment is done, you'll receive a score between 0 and 100.
 
-After your assessment is complete, you'll want to start working with the Prep and Learning Module.
-
-You'll need to either spend at least 5 hours using the learning module, or complete 90% of your pie.  You can see your progress by clicking on Reports in the menu at the upper left-hand corner of the learning module screen.
+NOTE: You will not be able to start your assessment without a password.
 
 ## Sign up to take your proctored assessment
 
@@ -67,7 +62,7 @@ Go to the link for your class.
 **in person classes**
 * [youcanbook.me page](https://aleks-testing-new.youcanbook.me/)
 * location: Rasmuson Room 301
-* date: Tuesday September 6
+* date: Tuesday January 24
 	
 **distance class**
 * [eLearning proctoring page](https://ecampus.uaf.edu/exam-services/)
