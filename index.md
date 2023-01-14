@@ -9,18 +9,18 @@ This is the central website for all in-person sections of Calculus I
 taught by the [Department of Mathematics and Statistics](http://www.uaf.edu/dms)
 at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
-### Instructor and Section Information for Fall 2022
+### Instructor and Section Information for Spring 2023
 
 | Section | Instructor                  |    | Time             | Location |
 | :-------|:----------------------------|----| :----------------| :--------|
-| 001     | Jill Faudree                |    | MWF 9:15-10:15   | Chap 106 |
-|         | jrfaudree "at" alaska.edu   |    | T Th  9:45-11:15 | Chap 106 |
+| 901     | Julie McIntyre                |    | MWF 9:15-10:15   | Chap 106 |
+|         | jpmcintyre "at" alaska.edu   |    | T Th  9:45-11:15 | Chap 106 |
 ||||||
-| 002     | Ryan Bridges                |    | MWF 11:45-12:45  | Chap 106 |
-|         | rlbridges "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
+| 902, 903     | Jill Faudree                |    | MWF 11:45-12:45  | Chap 106 |
+|         | jrfaudree "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
 ||||||
-| 005     | Leah Berman                 |    | asynchronous     | N/A      |
-|         | lwberman "at" alaska.edu.   |    |                  |          |
+| 005     | Stefano Fochesatto                 |    | asynchronous     | N/A      |
+|         | gsfochesatto "at" alaska.edu.   |    |                  |          |
 
 ### Resources
 
