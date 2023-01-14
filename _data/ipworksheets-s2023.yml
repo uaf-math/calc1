@@ -2,55 +2,67 @@
   topic: 
   urlblank: http://jrfaudree.github.io/M251f2022/week1/Syllabus-quiz.pdf
   urlfilled: 
-- name: Functions Review
+- name: Review of Functions
   topic: 
   urlblank: http://jrfaudree.github.io/M251f2022/week1/Week_1_functions.pdf
   urlfilled: http://jrfaudree.github.io/M251f2022/week1/Week_1_functions-sol.pdf
-- name: 
+- name: Review of Trigonometry
+  topic: 
+  urlblank: http://jrfaudree.github.io/M251f2022/week1/Week_1_trig.pdf
+  urlfilled: http://jrfaudree.github.io/M251f2022/week1/Week_1_trig-s.pdf
+- name: Section 2.1
+  topic: Intro to Calc: tangent lines, velocity
+  urlblank: http://jrfaudree.github.io/M251f2022/ch2/S_2-1_Preview_Calculus.pdf
+  urlfilled: http://jrfaudree.github.io/M251f2022/ch2/S_2-1_Preview_Calculus-sol.pdf
+- name: Section 2.2
+  topic: Intro to Limits
+  urlblank: http://jrfaudree.github.io/M251f2022/ch2/2-2-The-Limit-of-a-Function.pdf
+  urlfilled: http://jrfaudree.github.io/M251f2022/ch2/2-2-The-Limit-of-a-Function-ss.pdf
+- name: Section 2.3
+  topic: Limit Laws, Squeeze Theorem
+  urlblank: http://jrfaudree.github.io/M251f2022/ch2/2-3-Limit-Laws.pdf
+  urlfilled: http://jrfaudree.github.io/M251f2022/ch2/2-3-Limit-Laws-sols.pdf
+- name: Section 2.4
+  topic: Continuity
+  urlblank: http://jrfaudree.github.io/M251f2022/ch2/2-4-Continuity.pdf
+  urlfilled: http://jrfaudree.github.io/M251f2022/ch2/2-4-Continuity-ss.pdf
+- name: Section 3.1
+  topic: Defining the Derivative
+  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-1-def-derivative.pdf
+  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-1-def-derivative-ss.pdf
+- name: Section 3.2
+  topic: The Derivative as a Function
+  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-2_derivative_as-function.pdf
+  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-2_derivative_as-function-s.pdf
+- name: Section 3.3
+  topic: Derivative Rules (including Product and Quotient)
+  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-3_derivative_rules-a.pdf
+  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-3_derivative_rules-a-ss.pdf
+- name: Section 3.4
+  topic: Derivative as a Rate of Change
+  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-4-Derivatives-as-Rates-of-Change-day2.pdf
+  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-4-Derivatives-as-Rates-of-Change-day2-ss.pdf
+- name: Section 3.5
+  topic: Derivatives of Trig Functions
+  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-5-derivatives-trig.pdf
+  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-5-derivatives-trig-ss.pdf
+- name: Section 3.6 (day 1)
+  topic: The Chain Rule (first glimpse)
+  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-6-Chain-Rule-a.pdf
+  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-6-Chain-Rule-a-s.pdf
+- name: Section 3.6 (day 2)
+  topic: The Chain Rule (more practice)
+  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-6-Chain-Rule-b.pdf
+  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-6-Chain-Rule-b-s.pdf
+- name: Section 3.8
   topic: 
   urlblank: 
   urlfilled: 
-- name: 
+- name: Section 3.7
   topic: 
   urlblank: 
   urlfilled: 
-- name: 
-  topic: 
-  urlblank: 
-  urlfilled: 
-- name: 
-  topic: 
-  urlblank: 
-  urlfilled: 
-- name: 
-  topic: 
-  urlblank: 
-  urlfilled: 
-- name: 
-  topic: 
-  urlblank: 
-  urlfilled: 
-- name: 
-  topic: 
-  urlblank: 
-  urlfilled: 
-- name: 
-  topic: 
-  urlblank: 
-  urlfilled: 
-- name: 
-  topic: 
-  urlblank: 
-  urlfilled: 
-- name: 
-  topic: 
-  urlblank: 
-  urlfilled: 
-- name: 
-  topic: 
-  urlblank: 
-  urlfilled: 
-- name: 
+- name: Section 3.9
   topic: 
   urlblank: 
   urlfilled: 
