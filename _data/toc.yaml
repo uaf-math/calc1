@@ -3,10 +3,10 @@ sidenav_title: 'Math 251'
 docs:
 
 - title: Syllabus (in person sections)
-  url: assets/general/Fall2022/M251_f2022_syllabus.pdf
+  url: assets/general/Spring2023/M251_s2023_syllabus-in-person.pdf
   
 - title: Syllabus (asynchronous section)
-  url: assets/general/Fall2022/M251_f2022_syllabus-asynch.pdf
+  url: assets/general/Spring2023/M251_s2023_syllabus-asynch.pdf
 
 - title: Schedule (in person sections)
   url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQGc6J1T0q0ik53Vks8LatvLNG9OMWIlA9mkIOz6BWO9KZecpv0yYPTKDhgKxS-UxQ809bjz4kUVgbk/pubhtml?gid=0&single=true
@@ -37,6 +37,9 @@ docs:
   
 - title: Textbook
   url: https://openstax.org/details/books/calculus-volume-1
+ 
+- title: In-Person Worksheets
+  url: worksheets.html
 
 - title: Other Materials
   url: materials.html
