@@ -7,27 +7,25 @@ title: Math F251 Calculus I at UAF
 
 <div class="x-scroll">
 <table class="asst-table">
-<tr><th>Section</th><th>Topic</th><th>Blank Sheets</th><th>Filled Sheets</th>
+<tr><th>Name</th><th>Topic</th><th>Sheets</th></tr>
 {% for c in site.data.ipworksheets-s2023 %}
 <tr valign="top">
   <td>
-    {{ c.Section }}
- </td>
+    {{ c.name }}
+  </td>
   <td>
-    {% for s in c.sections %}
-      {{ s.topic }}
-    {% endfor %}
- </td>
+    {{ c.topic }}
+  </td>
   <td>
-    {% for s in c.sections %}
-      <a href="assets/ipworksheets/s2023/{{s.blank}}">blank</a><br>
-    {% endfor %}
- </td>
-  <td>
-    {% for s in c.sections %}
-      <a href="assets/ipworksheets/s2023/{{s.filled}}">filled</a><br>
-    {% endfor %}
- </td>
+    <table class="inner">
+      <tr>
+         <td> <a href="{{ c.urlblank }}">blank</a> </td>
+      </tr>
+      <tr>
+         <td> <a href="{{ c.urlfilled }}">filled</a> </td>
+      </tr>
+    </table>
+  </td>
 </tr>
 {% endfor %}
 </table>

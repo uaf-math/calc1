@@ -4,16 +4,16 @@ docs:
 
 - title: Syllabus (in person sections)
   url: assets/general/Spring2023/M251_s2023_syllabus-in-person.pdf
-  
+
 - title: Syllabus (asynchronous section)
   url: assets/general/Spring2023/M251_s2023_syllabus-asynch.pdf
 
 - title: Schedule (in person sections)
   url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQGc6J1T0q0ik53Vks8LatvLNG9OMWIlA9mkIOz6BWO9KZecpv0yYPTKDhgKxS-UxQ809bjz4kUVgbk/pubhtml?gid=0&single=true
-  
+
 - title: Schedule (asynchronous section)
   url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRItLK-cGDMPCaQrIaB0sH4ybNUOSB5kmHbCHU5vqSmW_70GGrUtqazkMqiRGxa51-_rO-rIQUwUZWx/pubhtml?gid=0&single=true
-  
+
 - title: Recitations
   url: recitations.html
 
@@ -34,16 +34,15 @@ docs:
 
 - title: Exams
   url: exams.html
-  
+
 - title: Textbook
   url: https://openstax.org/details/books/calculus-volume-1
- 
+
 - title: In-Person Worksheets
-  url: worksheets.html
+  url: ipworksheets.html
 
 - title: Other Materials
   url: materials.html
-  
-- title: Technology Help
-  url: techHelp.html  
 
+- title: Technology Help
+  url: techHelp.html
