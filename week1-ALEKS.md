@@ -60,7 +60,7 @@ NOTE: You will not be able to start your assessment without a password.
 Go to the link for your class.
 
 **in person classes**
-* [youcanbook.me page](https://aleks-testing-new.youcanbook.me/)
+* [youcanbook.me page](https://aleks-testing.youcanbook.me/)
 * location: Rasmuson Room 301
 * date: Tuesday January 24
 	
