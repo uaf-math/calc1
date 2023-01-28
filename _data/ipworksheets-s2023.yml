@@ -28,8 +28,8 @@
   urlfilled: http://jrfaudree.github.io/M251f2022/ch2/2-4-Continuity-ss.pdf
 - name: Section 3.1
   topic: Defining the Derivative
-  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-1-def-derivative.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-1-def-derivative-ss.pdf
+  urlblank: http://jrfaudree.github.io/M251s23/3-1-def-derivative.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/3-1-def-derivative-s.pdf
 - name: Section 3.2
   topic: The Derivative as a Function
   urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-2_derivative_as-function.pdf
