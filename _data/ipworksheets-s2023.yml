@@ -32,12 +32,12 @@
   urlfilled: http://jrfaudree.github.io/M251s23/3-1-def-derivative-s.pdf
 - name: Section 3.2
   topic: The Derivative as a Function
-  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-2_derivative_as-function.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-2_derivative_as-function-s.pdf
+  urlblank: http://jrfaudree.github.io/M251s23/3-2_derivative_as-function.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/3-2_derivative_as-function-s.pdf
 - name: Section 3.3
   topic: Derivative Rules (including Product and Quotient)
-  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-3_derivative_rules-a.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-3_derivative_rules-a-ss.pdf
+  urlblank: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-a.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-a-ss.pdf
 - name: Section 3.4
   topic: Derivative as a Rate of Change
   urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-4-Derivatives-as-Rates-of-Change-day2.pdf
