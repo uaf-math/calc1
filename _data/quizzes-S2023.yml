@@ -1,0 +1,48 @@
+semester: Spring 2023
+home: assets/quizzes/Spring2023
+quizzes:
+- name: Quiz 2
+  versions:
+  - name: Quiz 2
+    blank: M251S23-Quiz-2.pdf
+    solutions: M251S23-Quiz-2-s.pdf
+- name: Quiz 3
+  versions:
+  - name: Quiz 3
+    blank: M251S23-Quiz-3.pdf
+    solutions: M251S23-Quiz-3s.pdf
+- name: Quiz 4
+  versions:
+  - name: Quiz 4
+    blank: 
+    solutions: 
+- name: Quiz 5
+  versions:
+  - name: Quiz 5
+    blank: 
+    solutions: 
+- name: Quiz 6
+  versions:
+  - name: Quiz 6
+    blank: 
+    solutions: 
+- name: Quiz 7
+  versions:
+  - name: Quiz 7
+    blank: 
+    solutions: 
+- name: Quiz 8
+  versions:
+  - name: Quiz 8
+    blank: 
+    solutions: 
+- name: Quiz 9
+  versions:
+  - name: Quiz 9
+    blank: 
+    solutions: 
+- name: Quiz 10
+  versions:
+  - name: Quiz 10
+    blank: 
+    solutions: 
