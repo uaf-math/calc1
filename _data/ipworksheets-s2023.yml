@@ -34,18 +34,22 @@
   topic: The Derivative as a Function
   urlblank: http://jrfaudree.github.io/M251s23/3-2_derivative_as-function.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-2_derivative_as-function-s.pdf
-- name: Section 3.3
+- name: Section 3.3 (day 1)
   topic: Derivative Rules (including Product and Quotient)
   urlblank: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-a.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-a-ss.pdf
+- name: Section 3.3 (day 2)
+  topic: Practice and Application of Derivative Rules
+  urlblank: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-b.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-bs.pdf
 - name: Section 3.4
   topic: Derivative as a Rate of Change
-  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-4-Derivatives-as-Rates-of-Change-day2.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-4-Derivatives-as-Rates-of-Change-day2-ss.pdf
+  urlblank: http://jrfaudree.github.io/M251s23/3-4-Derivatives-as-Rates-of-Change-day2.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/3-4-Derivatives-as-Rates-of-Change-day2-ss.pdf
 - name: Section 3.5
   topic: Derivatives of Trig Functions
-  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-5-derivatives-trig.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-5-derivatives-trig-ss.pdf
+  urlblank: http://jrfaudree.github.io/M251s23/3-5-derivatives-trig.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/3-5-derivatives-trig-ss.pdf
 - name: Section 3.6 (day 1)
   topic: The Chain Rule (first glimpse)
   urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-6-Chain-Rule-a.pdf
