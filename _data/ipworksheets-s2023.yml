@@ -60,28 +60,28 @@
   urlfilled: http://jrfaudree.github.io/M251s23/3-5-derivatives-trig-extra-s.pdf
 - name: Section 3.6 (day 1)
   topic: The Chain Rule (first glimpse)
-  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-6-Chain-Rule-a.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-6-Chain-Rule-a-s.pdf
+  urlblank: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-a.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-a-s.pdf
 - name: Section 3.6 (day 2)
   topic: The Chain Rule (more practice)
-  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-6-Chain-Rule-b.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-6-Chain-Rule-b-s.pdf
+  urlblank: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-b.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-b-ss.pdf
 - name: Section 3.8
   topic: Implicit Differentiation
-  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-8-implicit-differentiation.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-8-implicit-differentiation-solns.pdf
+  urlblank: http://jrfaudree.github.io/M251s23/3-8-implicit-differentiation.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/3-8-implicit-differentiation-solns.pdf
 - name: Section 3.7
   topic: Derivatives of Inverse Functions
-  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-7-derivatives-of-inverse-functions.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-7-derivatives-of-inverse-function-filled.pdf
+  urlblank: http://jrfaudree.github.io/M251s23/3-7-derivatives-of-inverse-functions.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/3-7-derivatives-of-inverse-function-filled.pdf
 - name: Section 3.9(day 1)
   topic: Derivatives of Exponentials and Logs
-  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-9-derivatives-of-exponentials-and-logs.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-9-exponentials-and-logs-ss.pdf
+  urlblank: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/3-9-exponentials-and-logs-s.pdf
 - name: Section 3.9 (day 2)
   topic: Derivatives of Exponentials and Logs
-  urlblank: http://jrfaudree.github.io/M251f2022/ch3/3-9-derivatives-of-exponentials-and-logs-b.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/ch3/3-9-derivatives-of-exponentials-and-logs-b-s.pdf
+  urlblank: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs-b.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs-b-s.pdf
 - name: Midterm I Review
   topic: Midterm I Review
   urlblank: http://jrfaudree.github.io/M251s23/Midterm-I-Review.pdf
