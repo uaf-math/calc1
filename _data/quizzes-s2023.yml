@@ -14,8 +14,8 @@ quizzes:
 - name: Quiz 4
   versions:
   - name: Quiz 4
-    blank: 
-    solutions: 
+    blank: M251S23-Quiz-4.pdf
+    solutions: M251S23-Quiz-4-s.pdf
 - name: Quiz 5
   versions:
   - name: Quiz 5
