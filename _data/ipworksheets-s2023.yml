@@ -82,6 +82,18 @@
   topic: Derivatives of Exponentials and Logs
   urlblank: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs-b.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs-b-s.pdf
+- name: Section 4.1 (intro)
+  topic: Related Rates
+  urlblank: http://jrfaudree.github.io/M251s23/4-1-Related-Rates-intro.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/4-1-Related-Rates-intro-s.pdf
+- name: Section 4.1 (practice)
+  topic: Related Rates
+  urlblank: http://jrfaudree.github.io/M251s23/4-1-Related-Rates.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/4-1-Related-Rates-s.pdf
+ - name: Section 4.2
+  topic: Linearization and Differentials
+  urlblank: http://jrfaudree.github.io/M251s23/4-2-Linear-Approximations-and-Differentials.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/4-2-Linear-Approximations-and-Differentials-s.pdf
 - name: Midterm I Review
   topic: Midterm I Review
   urlblank: http://jrfaudree.github.io/M251s23/Midterm-I-Review.pdf
