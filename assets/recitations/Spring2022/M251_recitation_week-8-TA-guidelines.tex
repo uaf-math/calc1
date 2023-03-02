@@ -1,0 +1,63 @@
+
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx, pgfplots,xfrac} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+%\usepackage{pdfsync} %% I don't know why this messes up tabular column widths
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array,tikz}
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=black,only marks,mark=*}} \pgfplotsset{holdot/.style={color=black,fill=white,only marks,mark=*}}
+
+
+\pagestyle{fancy} 
+\lfoot{}
+\rfoot{}
+
+\begin{document}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\renewcommand{\d}{\displaystyle}
+
+\vspace*{-0.7in}
+
+%%%%%%%%%intro page
+\begin{center}
+  \large
+  \sc{Recitation: Week 8}\\
+  Derivative Proficiency Practice Guidelines for TA's
+\end{center}
+
+\begin{enumerate}
+\item Remind students that they will take a Derivative Proficiency on Thursday. Ask them if they have questions. The facts are listed below.
+	\begin{itemize}
+	\item You have 1 hour to complete it.
+	\item No notes or other aids.
+	\item No simplification is needed.
+	\item No partial credit. 
+	\item Answers will be read as written. So $(x+1)\sin(x) \not = x+1 \: \cdot \: \sin(x)$.
+	\item You have a total of three opportunities to take a Derivative Proficiency. Your high score will count in your grade.
+	\item Graded proficiencies will be returned in class on Friday. The retake will be on Thursday (outside of class) after Spring Break.
+	\end{itemize} 
+\item Ask students what sort of things they will need to know and what to expect. Here are things that should be mentioned.
+	\begin{itemize}
+	\item You must know how to take the derivative of sine, cosine, tangent and secant. Typically cotangent OR cosecant appear, but you can always convert to sines and cosines.
+	\item You must know how to take the derivative of $e^x$ and $\ln(x)$. Alternate bases will not appear (like $2^x$ and $\log_2(x)$).
+	\item There are multiple problems that require the chain rule and at least two double chain rules always appear.
+	\item The product rule always appears. There is always a problem for which the quotient rule is probably easier then rewriting and doing a product rule.
+	\item The last problem is always an implicit differentiation problem.
+	\item There are problems for which simplification or some algebraic preprocessing is either required or will make the problem much easier. 
+	\end{itemize}
+\end{enumerate}
+\end{document}
+
