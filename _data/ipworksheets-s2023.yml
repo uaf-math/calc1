@@ -102,6 +102,14 @@
   topic: Maximums and Minimums (day 2)
   urlblank: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins-b.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins-b-s.pdf
+- name: Section 4.5
+  topic: Derivatives and Shape of Graphs (day 1)
+  urlblank: http://jrfaudree.github.io/M251s23/4-5-derivatives-and-shape-of-graph.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/4-5-derivatives-and-shape-of-graph-s.pdf
+- name: Section 4.5
+  topic: Derivatives and Shape of Graphs (day 2)
+  urlblank: http://jrfaudree.github.io/M251s23/4-5-derivatives-and-shape-of-graph-day2.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/4-5-derivatives-and-shape-of-graph-day2-slns.pdf
 - name: Midterm I Review
   topic: Midterm I Review
   urlblank: http://jrfaudree.github.io/M251s23/Midterm-I-Review.pdf
