@@ -110,6 +110,22 @@
   topic: Derivatives and Shape of Graphs (day 2)
   urlblank: http://jrfaudree.github.io/M251s23/4-5-derivatives-and-shape-of-graph-day2.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-5-derivatives-and-shape-of-graph-day2-slns.pdf
+- name: Section 4.6
+  topic: Limits at Infinity (day 1)
+  urlblank: http://jrfaudree.github.io/M251s23/4-6-limits-infinity-asymptotes.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/4-6-limits-infinity-asymptotes-s.pdf
+- name: Section 4.6
+  topic: Sophisticated Graphing (day 2)
+  urlblank: http://jrfaudree.github.io/M251s23/4-6-limits-infinity-asymptotes-b.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/4-6-limits-infinity-asymptotes-b-s.pdf
+- name: Section 4.7
+  topic: Optimization (day 1)
+  urlblank: http://jrfaudree.github.io/M251s23/4-7-optimization-day1.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/4-7-optimization-day1-s.pdf
+- name: Section 4.7
+  topic: Optimization (day 2)
+  urlblank: http://jrfaudree.github.io/M251s23/4-7-optimization-day2.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/4-7-optimization-day2-soln.pdf
 - name: Midterm I Review
   topic: Midterm I Review
   urlblank: http://jrfaudree.github.io/M251s23/Midterm-I-Review.pdf
