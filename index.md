@@ -24,14 +24,16 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 ### Office Hours
 
+| Instructor| Location | Day/Time |
+| :---------| :------------| :----------|
 | Jill Faudree | Math Lab, Chap 305 | Wed 1:00-2:00|
 |               | Office, Chap 306 | Mon 2:00-3:00|
 |||Wed 4:30-5:30|
 |||Thur 10:00-11:00|
-| :---------| :------------| :----------|
+||||
 | Julie McIntyre | Math Lab, Chap 305 | Mon 2:00-3:00|
 || Office, Chap 203| Wed, Thur, Fri 2:30-3:30|
-| :---------| :------------| :----------|
+||||
 |Glen Woodworth | Math Lab, Chap 305 | Mon 1:00-2:00|
 |||Tue 1:30-3:30|
 ||| Thur 11:15-12:30, 1:00-2:00|
