@@ -1,0 +1,24 @@
+semester: Spring 2023
+home: assets/proficiencies/Spring2023
+derivative:
+  versions:
+    - name: V1
+      blank: M251s23-Derivative-v1.pdf
+      solutions: M251s23-Derivative-v1-s.pdf
+    - name: V2
+      blank: M251s23-Derivative-v2.pdf
+      solutions: M251s23-Derivative-v2-s.pdf
+    - name: Retake 1 (V3)
+      blank: M251s23-Derivative-v3a.pdf
+      solutions: M251s23-Derivative-v3-s.pdf
+    - name: Retake 1 (V4)
+      blank: M251s23-Derivative-v4a.pdf
+      solutions: M251s23-Derivative-v4a-s.pdf
+integral:
+  versions:
+    - name: V1
+      blank: M251-F22-Integral-v1.pdf
+      solutions: M251-F22-Integral-v1-s.pdf
+    - name: Retake 1
+      blank: M251-F22-Integral-v2.pdf
+      solutions: M251-F22-Integral-v2-s.pdf
