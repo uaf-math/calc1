@@ -1,0 +1,197 @@
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{\baselineskip 30pt
+\emph{\@doctitle\hfill\@docdate}
+\ifnum \value{page} > 1\relax\else\\
+\emph{Name: \rule{3.5in}{1pt}\ \hfill
+%Class (circle): \ \  Sync. \hfill Online%\@docscoring
+}
+\fi}
+\rfoot{\emph{\@docversion}}
+\lfoot{\emph{\@doccourse}}
+\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} to
+% start a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+
+
+\doctitle{Math 251: Section 4.5 \& 4.6 Homework Help}
+\docdate{Recitation Week 9}
+\doccourse{UAF Calculus I}
+%\docversion{v-practice}
+%\docscoring{\blank{0.8in} / 12}
+
+\begin{document}
+\addtolength\itemsep{-1mm}
+
+Solve the following equations for $x$ or state that none exist.\\
+\begin{multicols}{2}
+\begin{enumerate}
+\item $5e^x-2=0$\\
+
+\item $5e^x+4=0$\\
+
+\item $5 \ln(x)-6=0$\\
+
+\item $5 \ln(x)+7=0$\\
+\end{enumerate}
+\end{multicols}
+
+This page contains information and techniques you will need for Sections 4.5 and 4.6.
+\begin{enumerate}
+\item Write in your own words how to find the critical numbers of a function $f(x)$ and why they are important.
+\vspace{1in}
+\item Draw a graph of a function $f(x)$ with domain $(-\infty, \infty)$  such that \\
+(i) $f'(a)=f'(b)=0$ and $f'(c)$ is undefined,\\
+and\\
+(i) $f$ has a local minimum at $x=a$, a local maximum at $x=c$ and neither at $x=b.$
+\vfill
+\item Draw a graph of a function $f(x)$with domain $(-\infty, \infty)$ such that \\
+\begin{multicols}{2}
+\begin{enumerate}
+\item $f(x)<0$ and $f'(x) >0.$
+\item $f'(x)<0$ and $f''(x) >0.$
+\end{enumerate}
+\end{multicols}
+\vfill
+\newpage
+\item For each function below, find (a) its domain and (b) all its critical points.
+	\begin{enumerate}
+	\item $f(x)=x^3-2x^2$
+	\vfill
+	\item $f(x)=x^{1/5}$
+	\vfill
+	\item $f(x)=\arctan(x)$
+	\vfill
+	\item $f(x)=\frac{x^2}{x^2-4}$ (Note: $f'(x)=\frac{-8x}{x^2-4}.$)
+	\vfill
+	\item $f(x)=e^{(1-x)^2}$
+	\vfill
+	\item $f(x)=\sqrt{x^2-4}$
+	\vfill
+	\end{enumerate}
+\newpage
+\item For each derivative below, determine the intervals for which that derivative is positive and negative.
+\begin{enumerate}
+\item $f'(x)=x^{-4/5}$
+\vfill
+\item $y''=\frac{8(3x^2+4)}{(x^2-4)^3}$
+\vfill
+\item $g'(x)=3x^2e^{2x}+2x^3e^{2x}$
+\vfill
+\end{enumerate}
+\newpage
+\item Write a formula for a function $f(x)$ such that $f(x)$ has asymptotes $x=1$, $x=4$ and $y=0.$
+\vspace{1in}
+
+\item Give an example of a graph with two different horizontal asymptotes.
+\vfill
+\item Evaluate each limit below. \\
+\begin{multicols}{2}
+
+	\begin{enumerate}
+	\item $\displaystyle \lim_{x \to 2^+} \frac{5}{x-2}$\\ 
+	
+	\vfill
+	\item $\displaystyle \lim_{x \to 2^-} \frac{5}{x-2}$\\ 
+	
+	\vfill
+	\item $\displaystyle \lim_{x \to 2} \frac{5}{x-2}$\\ 
+	
+	\vfill
+	
+	\columnbreak
+	
+	\item $\displaystyle \lim_{x \to \infty} \frac{5}{x-2}$\\ 
+	
+	\vfill
+	\item $\displaystyle \lim_{x \to -\infty} \frac{5}{x-2}$\\ 
+	
+	\vfill
+	\item $\displaystyle \lim_{x \to \infty} \left(8+\frac{5}{x-2}\right)$\\ 
+	
+	\vfill
+	\item $\displaystyle \lim_{x \to \infty} \left(x+\frac{5}{x-2}\right)$\\
+	
+	 \vfill
+	\end{enumerate}
+\end{multicols}	
+\end{enumerate}
+\end{document}
+
