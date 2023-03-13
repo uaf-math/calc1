@@ -19,13 +19,13 @@ quizzes:
 - name: Quiz 5
   versions:
   - name: Quiz 5
-    blank: 
-    solutions: 
+    blank: M251S23-Quiz-5.pdf
+    solutions: M251S23-Quiz-5-s.pdf
 - name: Quiz 6
   versions:
   - name: Quiz 6
-    blank: 
-    solutions: 
+    blank: M251S23-Quiz-6.pdf
+    solutions: M251S23-Quiz-6-s.pdf
 - name: Quiz 7
   versions:
   - name: Quiz 7
