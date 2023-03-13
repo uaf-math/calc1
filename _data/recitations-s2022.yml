@@ -61,19 +61,12 @@
       blank: none
       filled: none
       video: none
-- Week: Week 10 (option 1)
-  sections:
-    - date: Mar 21
-      topic: Derivative Recap
-      blank: M251S22-Recitation_Week_9_Derivative-recap.pdf
-      filled: M251S22-Recitation_Week_9_Derivative-recap-s.pdf
-      video: 
-- Week: Week 10 (option 2)
+- Week: Week 10 
   sections:
     - date: Mar 21
       topic: Algebra for 4.5 and 4.6
-      blank: M251s22_Recitation_Week_9_Section-4-5_4-6_prep.pdf
-      filled: M251s22_Recitation_Week_9_Section-4-5_4-6_prep-filled.pdf
+      blank: M251S23-Recitation_Week_10_4-5_4-6-prep.pdf
+      filled: M251S23-Recitation_Week_10_4-5_4-6-prep-s.pdf
       video: https://drive.google.com/file/d/18nsvn6DPxhkcp8igvUntkjt9QYnChs_2/view?usp=sharing
 - Week: Week 11
   sections:
