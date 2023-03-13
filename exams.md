@@ -10,7 +10,7 @@ Exams and solutions from this semester will be available here as they are comple
 <div class="x-scroll">
 <table class="asst-table">
 <tr><th>Semester</th><th>Midterm I</th><th>Midterm II</th><th>Final</th></tr>
-	{% include exam-row.md data=site.data.exams-f2022 %}
+	{% include exam-row.md data=site.data.exams-s2023 %}
 	</table>
 </div>
 
@@ -19,6 +19,7 @@ Exams and solutions from this semester will be available here as they are comple
 <div class="x-scroll">
 <table class="asst-table">
 <tr><th>Semester</th><th>Midterm I</th><th>Midterm II</th><th>Final</th></tr>
+	{% include exam-row.md data=site.data.exams-f2022 %}
 	{% include exam-row.md data=site.data.exams-s2022 %}
 	{% include exam-row.md data=site.data.exams-f2021 %}
 	{% include exam-row.md data=site.data.exams-s2021 %}
