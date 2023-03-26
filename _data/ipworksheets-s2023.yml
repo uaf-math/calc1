@@ -126,6 +126,18 @@
   topic: Optimization (day 2)
   urlblank: http://jrfaudree.github.io/M251s23/4-7-optimization-day2.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-7-optimization-day2-soln.pdf
+name: Section 4.8
+  topic: L'Hopital's Rule (day 1)
+  urlblank: http://jrfaudree.github.io/M251s23/4-8-l-hospital.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/4-8-l-hospital-s.pdf
+name: Section 4.8
+  topic: L'Hopital's Rule (extra)
+  urlblank: http://jrfaudree.github.io/M251s23/4-8-and-4-10-half-day.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/4-8-and-4-10-half-day-s.pdf
+name: Section 4.10
+  topic: Antiderivatives 
+  urlblank: http://jrfaudree.github.io/M251s23/4-10-Antiderivatives.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/4-10-Antiderivatives-s.pdf
 - name: Midterm I Review
   topic: Midterm I Review
   urlblank: http://jrfaudree.github.io/M251s23/Midterm-I-Review.pdf
