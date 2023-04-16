@@ -158,6 +158,18 @@
   topic: Net Change Theorem
   urlblank: http://jrfaudree.github.io/M251s23/5-4-Net-Change-thm.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-4-Net-Change-thm-s.pdf
+- name: Section 5.5 
+  topic: Substitution
+  urlblank: http://jrfaudree.github.io/M251s23/5-5-Substitution.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/5-5-Substitution-ss.pdf
+- name: Section 5.6 
+  topic: Exponential and Logarithmic Integration
+  urlblank: http://jrfaudree.github.io/M251s23/5-6-Exponential-Logs-integration.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/5-6-Exponential-Logs-integration-s.pdf
+- name: Section 5.7 
+  topic: Integrals and Inverse Trigonometric Functions
+  urlblank: http://jrfaudree.github.io/M251s23/5-7-integrals-and-inverse-trig-functions.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/5-7-integrals-and-inverse-trig-functions-s.pdf
 - name: Midterm I Review
   topic: Midterm I Review
   urlblank: http://jrfaudree.github.io/M251s23/Midterm-I-Review.pdf
