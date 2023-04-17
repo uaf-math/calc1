@@ -17,8 +17,14 @@ derivative:
 integral:
   versions:
     - name: V1
-      blank: M251-F22-Integral-v1.pdf
-      solutions: M251-F22-Integral-v1-s.pdf
-    - name: Retake 1
-      blank: M251-F22-Integral-v2.pdf
-      solutions: M251-F22-Integral-v2-s.pdf
+      blank: M251f22-Integral-v1.pdf
+      solutions: M251f22-Integral-v1-as.pdf
+    - name: V2
+      blank: M251f22-Integral-v2.pdf
+      solutions: M251f22-Integral-v2-as.pdf
+    - name: V3
+      blank: M251f22-Integral-v3.pdf
+      solutions: M251f22-Integral-v3-s.pdf
+    - name: V4
+      blank: M251f22-Integral-v4.pdf
+      solutions: M251f22-Integral-v4-s.pdf
