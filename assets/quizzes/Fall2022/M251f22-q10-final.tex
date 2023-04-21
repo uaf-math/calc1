@@ -1,0 +1,169 @@
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+\pgfplotsset{compat = newest}
+ 
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal
+}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol,vwcol}
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{\baselineskip 30pt
+%\emph{\@doctitle\hfill\@docdate}
+\emph{\@docdate\hfill\@doctitle}
+\ifnum \value{page} > 1\relax\else\\
+\emph{Name: \rule{3.5in}{1pt}\hfill \@docscoring}\fi}
+\rfoot{\emph{\@docversion}}
+\lfoot{\emph{\@doccourse}}
+\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} to
+% start a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+\def\be{\begin{enumerate}}
+\def\ee{\end{enumerate}}
+
+
+\doctitle{Math 251: Quiz 10}
+\docdate{Dec 1, 2022}
+\doccourse{UAF Calculus I}
+\docversion{v-1}
+\docscoring{\blank{0.8in} / 25}
+\begin{document}
+
+There are 25 points possible on this quiz. No aids (book, calculator, etc.)
+are permitted.  {\bf Show all work for full credit.}
+
+\problem{4} Define $G(x)=\int_0^x f(t) \: dt$ where the graph of $f(t)$ is drawn below.\\
+
+%\begin{center}
+\begin{multicols}{2}
+\begin{tikzpicture}[scale=.6]
+\draw[thick, ->] (0,-2.5) -- (0,4.5);
+\draw[thick, ->] (-2.5,0) -- (8.5,0);
+\foreach \i in {-2,-1,1,2,3,4}{
+	\draw[dashed] (-2.5,\i) -- (8.5,\i);
+	\draw[dashed] (\i,-2.5) -- (\i,4.5);
+	\node at (\i, -0.5){$\i$};
+	\node at (-0.5,\i){$\i$};
+	}
+\foreach \i in {5,6,7,8}{
+		\draw[dashed] (\i,-2.5) -- (\i,4.5);
+	\node at (\i, -0.5){$\i$};
+	}
+\draw[ultra thick] (-1,0)--(2,3) -- (4,3) -- (8,-1);
+\node at (3,4){$f(t)$};
+\end{tikzpicture}
+%\end{center}
+\columnbreak
+	\begin{subproblems}
+	\item Determine $G(3).$
+	\vspace{0.5in}
+	
+	\item Determine $G'(3).$
+	
+	\vspace{1in}
+	
+	\item On the interval $[-1,8],$ does $G(x)$ have a maximum? If so, what is that maximum value? If not, explain why not.
+	
+	\vspace{1in}
+	\end{subproblems}
+\end{multicols}
+%FTC part 1
+\quad
+\vspace{1in}
+\problem{6} Use the Fundamental Theorem of Calculus (Part 1) to find each derivative.
+	\begin{subproblems}
+	\item $\displaystyle \frac{d}{dx} \left( \int_2^x (t^2-5) \: dt \right)$
+	\vfill
+	\item $\displaystyle \frac{d}{dx} \left( \int_{x^2}^9 \frac{1}{\cos(t)} \: dt \right)$
+	\vfill
+	\end{subproblems}
+\newpage
+%FTC part 2
+\problem{8} Evaluate each definite integral using the Fundamental Theorem of Calculus Part 2. Simplify your numerical answers here.
+	\begin{subproblems}
+	\item $\displaystyle \int_1^{2} (2x-e^x) \: dx$
+	\vfill
+	\item $\displaystyle \int_{0}^{\pi/2} (1-\sin(x)) \: dx$
+	\vfill
+	\end{subproblems}
+\problem{6} The function $f(t)$ measures the rate of water usage in a household over a 24 hour period where $f$ is measured in gallons per hour and $t$ is measured in hours starting at 12:00 am. (So, at 12 midnight, $t=0$). Write a complete sentence, including units, interpreting each quantity below.
+\begin{subproblems}
+	\item $f(8)=2$\\
+	\vfill
+	\item $\displaystyle{\int_8^{10} f(t) \: dt = 28}$
+	\vfill
+\end{subproblems}
+\end{document}
+
