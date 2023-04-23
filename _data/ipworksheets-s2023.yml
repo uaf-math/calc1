@@ -170,6 +170,14 @@
   topic: Integrals and Inverse Trigonometric Functions
   urlblank: http://jrfaudree.github.io/M251s23/5-7-integrals-and-inverse-trig-functions.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-7-integrals-and-inverse-trig-functions-s.pdf
+- name: Section 5.7 extra
+  topic: Integral Palooza
+  urlblank: http://jrfaudree.github.io/M251s23/5-7-integration-palooza.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/5-7-integration-palooza-s.pdf
+- name: Section 4.9 
+  topic: Newton's Method
+  urlblank: http://jrfaudree.github.io/M251s23/4-9-Newtons-Method.pdf
+  urlfilled: http://jrfaudree.github.io/M251s23/4-9-Newtons-Method-s.pdf
 - name: Midterm I Review
   topic: Midterm I Review
   urlblank: http://jrfaudree.github.io/M251s23/Midterm-I-Review.pdf
