@@ -9,34 +9,35 @@ This is the central website for all in-person sections of Calculus I
 taught by the [Department of Mathematics and Statistics](http://www.uaf.edu/dms)
 at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
-### Instructor and Section Information for Spring 2023
+### Instructor and Section Information for Fall 2023
 
 | Section | Instructor                  |    | Time             | Location |
 | :-------|:----------------------------|----| :----------------| :--------|
-| 901     | Julie McIntyre                |    | MWF 9:15-10:15   | Chap 106 |
-|         | jpmcintyre "at" alaska.edu   |    | T Th  9:45-11:15 | Chap 106 |
+| 901     | STAFF                |    | MWF 9:15-10:15   | Chap 106 |
+|         | TBA "at" alaska.edu   |    | T Th  9:45-11:15 | Chap 106 |
 ||||||
-| 902, 903     | Jill Faudree                |    | MWF 11:45-12:45  | Chap 106 |
-|         | jrfaudree "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
+| 902, 903     | James Gossell                |    | MWF 11:45-12:45  | Chap 106 |
+|         | jegossell "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
 ||||||
-| 005     | Stefano Fochesatto                 |    | asynchronous     | N/A      |
-|         | gsfochesatto "at" alaska.edu.   |    |                  |          |
+| 001     | Leah Berman                |    | asynchronous     | N/A      |
+|         | lwberman "at" alaska.edu.   |    |                  |          |
 
 ### Office Hours
 
 | Instructor| Location | Day/Time |
 | :---------| :------------| :----------|
-| Jill Faudree | Math Lab, Chap 305 | Wed 1:00-2:00|
-|               | Office, Chap 306 | Mon 2:00-3:00|
-|||Wed 4:30-5:30|
-|||Thur 10:00-11:00|
+| STAFF | Math Lab, Chap 305 | TBA|
+|               | Office, TBA | TBA|
 ||||
-| Julie McIntyre | Math Lab, Chap 305 | Mon 2:00-3:00|
-|| Office, Chap 203| Wed, Thur, Fri 2:30-3:30|
+| James Gossell | Math Lab, Chap 305 | TBA|
+|| Office, Chap 203| TBA|
 ||||
-|Glen Woodworth | Math Lab, Chap 305 | Mon 1:00-2:00|
-|||Tue 1:30-3:30|
-||| Thur 11:15-12:30, 1:00-2:00|
+| Leah Berman | Math Lab, Chap 305 | TBA|
+|| Office, Chap 102| TBA|
+||||
+|Glen Woodworth | Math Lab, Chap 305 | TBA|
+|||TBA|
+
 
 ### Resources
 
@@ -51,4 +52,4 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
     - ISBN-13: 978-1938168024
     - ISBN-10: 193816802X
 - Free student resources online: [Student Resources](https://openstax.org/details/books/calculus-volume-1?Student%20resources)
-- Your grades and complete solutions to homework is available on [Canvas](https://www.uaf.edu/uaf/current/canvas.php)
+- Your grades and complete solutions to homework are available on [Canvas](https://www.uaf.edu/uaf/current/canvas.php)
