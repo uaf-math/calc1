@@ -11,16 +11,13 @@ midterm1:
 midterm2:
   versions:
     - name: V1 
-      blank: M251-s22-M2-a.pdf
-      solutions: M251-s22-M2-a-s.pdf
+      blank: M251-s23-M2-a.pdf
+      solutions: M251-s23-M2-a-s.pdf
     - name: V2
-      blank: M251-s22-M2-b.pdf
-      solutions: M251-s22-M2-b-s.pdf
+      blank: M251-s23-M2-b.pdf
+      solutions: M251-s23-M2-b-s.pdf
 final:
   versions:
     - name: V1 
-      blank: M251-S22-Final-v1.pdf
-      solutions: M251-S22-Final-v1-s.pdf
-    - name: V2
-      blank: M251-S22-Final-v2.pdf
-      solutions: M251-S22-Final-v2-s.pdf 
+      blank: M251-s23-FE.pdf
+      solutions: M251-s23-FE-s.pdf
