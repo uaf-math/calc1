@@ -1,0 +1,112 @@
+- Week: Week 1
+  sections:
+    - date: Aug 29
+      topic: Intro + Review
+      blank: M251-review-recitation-1.pdf
+      filled: M251-review-recitation-1-s.pdf
+      video: none
+- Week: Week 2
+  sections:
+    - date: Sept 5
+      topic: Quiz 1 Proctored ALEKS
+      blank: none
+      filled: none
+      video: none
+- Week: Week 3
+  sections:
+    - date: Sept 12
+      topic: Algebra for Limits
+      blank: M251_recitation_week-3.pdf
+      filled: M251_recitation_week-3-solns.pdf
+      video: https://drive.google.com/file/d/1cCtCSRom-XjBROuUPuJSf66WQeEfEBbg/view?usp=sharing
+- Week: Week 4
+  sections:
+    - date: Sept 19
+      topic: Algebra for Derivatives
+      blank: M251_recitation_week-4.pdf
+      filled: M251_recitation_week-4-soln.pdf
+      video: https://drive.google.com/file/d/1p46eOjmXkeuCgt01C7rC8fCwMrcNp-zd/view?usp=sharing
+- Week: Week 5
+  sections:
+    - date: Sept 26
+      topic: Midterm I Prep
+      blank: M251_recitation_week-5.pdf
+      filled: M251_recitation_week-5-spaced-out-s.pdf
+      video: https://drive.google.com/file/d/1p46eOjmXkeuCgt01C7rC8fCwMrcNp-zd/view?usp=sharing
+- Week: Week 6
+  sections:
+    - date: Oct 3
+      topic: Inverse Functions
+      blank: M251_recitation_week-6.pdf
+      filled: M251_recitation_week-6-solns.pdf
+      video: https://drive.google.com/file/d/1El2QN3PNEGQwpYgI6I0O-894BYuQyTbF/view?usp=sharing
+- Week: Week 7
+  sections:
+    - date: Oct 10
+      topic: Start on 3.9 and 4.1 Homework
+      blank: M251_recitation_week-7.pdf
+      filled: M251_recitation_week-7-solns.pdf
+      video: https://drive.google.com/file/d/1ozPbZXOZssaUWksWGTKegBx_Vcz-3tmd/view?usp=sharing
+- Week: Week 8
+  sections:
+    - date: Oct 17
+      topic: Derivative Proficiency Prep
+      blank: M251-week-8-derivative-proficiency-practice.pdf
+      filled: M251-week-8-derivative-proficiency-practice-s.pdf
+      video: https://drive.google.com/file/d/1rRNvi0gjy6okt6qyHOJDh8f8r9EqC4j9/view?usp=sharing
+- Week: Week 9
+  sections:
+    - date: Oct 24
+      topic: Spring Break
+      blank: none
+      filled: none
+      video: none
+- Week: Week 10 
+  sections:
+    - date: Oct 31
+      topic: Algebra for 4.5 and 4.6
+      blank: M251S23-Recitation_Week_10_4-5_4-6-prep.pdf
+      filled: M251S23-Recitation_Week_10_4-5_4-6-prep-s.pdf
+      video: https://drive.google.com/file/d/18nsvn6DPxhkcp8igvUntkjt9QYnChs_2/view?usp=sharing
+- Week: Week 11
+  sections:
+    - date: Nov 7
+      topic: Optimization Intensive
+      blank: M251S22-Recitation_Week_10_optimization_intensive.pdf
+      filled: M251S22-Recitation_Week_10_s.pdf
+      video: https://drive.google.com/file/d/1Ep_n9-gD76RGnm9xchRYb6SrVmC_YC3c/view?usp=sharing
+- Week: Week 12
+  sections:
+    - date: Nov 14
+      topic: Homework Help 4.8, 4.10, 5.1
+      blank: M251f21_Recitation_Week_11-ch-4-s-8-10.pdf
+      filled: M251f21_Recitation_Week_11-s.pdf
+      video: https://drive.google.com/file/d/1j8PBCOx8MPJ5KMh385U9JOvlQigEnXFj/view?usp=sharing
+- Week: Week 13
+  sections:
+    - date: Nov 21
+      topic: Midterm 2 Prep
+      blank: M251s22_Recitation_Week_12-Mid-2-prep.pdf
+      filled: M251s22_Recitation_Mid-2-prep-s.pdf
+      video: https://drive.google.com/file/d/13Ul6pl2dItP6DgEtYxGzbS74MeyWlZ4E/view?usp=sharing
+- Week: Week 14
+  sections:
+    - date: Nov 28
+      topic: ALEKS PPL (Take 2)
+      blank: 
+      filled: 
+      video: 
+- Week: Week 15 (First)
+  sections:
+    - date: Dec 5
+      topic: Integral Proficiency Warm up
+      blank: M251s22_Recitation_IP_warmup.pdf
+      filled: M251s22_Recitation_IP_warmup-s.pdf
+      video: https://drive.google.com/file/d/1tLIPyRcwwWioesrshzuJP9lgcn-3afcg/view?usp=sharing
+- Week: Week 15 (Second)
+  sections:
+    - date: Apr 25
+      topic: Practice Integral Proficiency
+      blank: Recitation-week-14-IP-practice.pdf
+      filled: Recitation-week-14-IP-practice-s.pdf
+      video: https://drive.google.com/file/d/1Bw4CquhObOHUGI35aKX2TMPYFeF3ubux/view?usp=sharing
