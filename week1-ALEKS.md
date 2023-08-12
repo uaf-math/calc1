@@ -13,25 +13,23 @@ title: Week 1 Logistics
 
 Link to access ALEKS PPL: [https://www.aleks.com/sign_up](https://www.aleks.com/sign_up)
 
-Course Code:
-- in person: **AGPA6-44CGV**
-- distance: **J4FEJ-XAQTK**
+Course Code: **TJRQX-WJ49R**
 
 To schedule your proctored ALEKS:
-* [in person](https://aleks-testing.youcanbook.me/)
+* [in person](https://aleks-testing.youcanbook.me/](https://uafmath-aleks-sign-up.youcanbook.me/)
 * [distance/asynchronous](https://ecampus.uaf.edu/exam-services/)
 
 ## Week 1 Logistics
 
 In the first week of class a little different because we spend time reviewing precalculus material. Unlike later quizzes, the first quiz of the class will use an online program called ALEKS.  Here are the steps you need to take to complete Quiz 1.
 
-1. By Friday, January 20, **schedule** a two-hour timeslot to take your proctored ALEKS assessment. In-person students will take their proctored assessment on Tuesday January 24. Online students must complete the assessment by Friday January 27. You can schedule your time by going to the link for your class. 
+1. By Friday, September 1, **schedule** a two-hour timeslot to take your proctored ALEKS assessment. In-person students will take their proctored assessment on Tuesday September 5. Online students must complete the assessment by Friday September 8. You can schedule your time by going to the link for your class. 
 	* [in person](https://aleks-testing-new.youcanbook.me/) 
 	* [distance/asynchronous](https://ecampus.uaf.edu/exam-services/)
 
 2. Take a proctored ALEKS assessment that will count as Quiz 1:
-	* on Tuesday January 24 (in person)
-	* by Friday January 27 (distance/asynchronous)  
+	* on Tuesday September 5 (in person)
+	* by Friday September 8 (distance/asynchronous)  
 
 
 
@@ -41,17 +39,11 @@ If you want to login to ALEKS in advance of your proctored ALEKS, the directions
 
 1. Go to the [ALEKS sign up page](https://www.aleks.com/sign_up) 
  
-2. Enter your class code:
-
-	* (In-person sections) Class Code **AGPA6-44CGV**; Cohort Name: **MATH 251 Calculus I - in person, Spring 2023**
-
-	* (Distance section) Class Code **J4FEJ-XAQTK**; Cohort Name:  **MATH 251 Calculus I - asynchronous, Spring 2023** 
-	
-	
+2. Enter our class code: **TJRQX-WJ49R**
+		
 3. ALEKS will then direct you through the registration process. **Write down your login name and password** as you will need them for the proctored assessment which will use a different computer.
 
 4. Now that you have logged in to ALEKS PPL, it will give you a tutorial on how to use the interface and you are done with the set up.
-
 
 NOTE: You will not be able to start your assessment without a password.
 
@@ -61,8 +53,8 @@ Go to the link for your class.
 
 **in person classes**
 * [youcanbook.me page](https://aleks-testing.youcanbook.me/)
-* location: Rasmuson Room 301
-* date: Tuesday January 24
+* location: Chapman Hall room 103 (computer lab)
+* date: Tuesday September 5
 	
 **distance class**
 * [eLearning proctoring page](https://ecampus.uaf.edu/exam-services/)
