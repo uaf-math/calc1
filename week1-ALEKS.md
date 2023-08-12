@@ -25,7 +25,7 @@ In the first week of class a little different because we spend time reviewing pr
 
 1. By Friday, September 1, **schedule** a two-hour timeslot to take your proctored ALEKS assessment. In-person students will take their proctored assessment on Tuesday September 5. Online students must complete the assessment by Friday September 8. You can schedule your time by going to the link for your class. 
 	* [in person](https://aleks-testing-new.youcanbook.me/) 
-	* [distance/asynchronous](https://ecampus.uaf.edu/exam-services/)
+	* [distance/asynchronous](https://ecampus.uaf.edu/student-support/exam-info-students/)
 
 2. Take a proctored ALEKS assessment that will count as Quiz 1:
 	* on Tuesday September 5 (in person)
@@ -57,7 +57,7 @@ Go to the link for your class.
 * date: Tuesday September 5
 	
 **distance class**
-* [eLearning proctoring page](https://ecampus.uaf.edu/exam-services/)
+* [eLearning proctoring page](https://ecampus.uaf.edu/student-support/exam-info-students/)
 
 
 
