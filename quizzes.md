@@ -7,10 +7,11 @@ title: Quizzes
 
 Links to this semester's quizzes, and solutions, will appear here as they are completed. 
 
-{% include quiz_table.md  data=site.data.quizzes-s2023%}
+{% include quiz_table.md  data=site.data.quizzes-f2023%}
 
 #### Past Semesters:
 
+  * [Spring 2023](quizzes-s2023)
   * [Fall 2022](quizzes-f2022)
   * [Spring 2022](quizzes-s2022)
   * [Fall 2021](quizzes-f2021)
