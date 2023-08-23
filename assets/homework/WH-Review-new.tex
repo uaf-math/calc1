@@ -1,0 +1,93 @@
+\documentclass[11pt]{report}
+
+\usepackage{geometry,amsmath,amssymb,amsthm,tikz}
+
+\geometry{margin=1.in}
+
+\theoremstyle{plain}
+\newtheorem{thm}{Theorem}
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem{cor}[thm]{Corollary}
+
+
+\begin{document}
+\hfill Math 251 Calculus I
+\begin{center}
+\Large{\textbf{Written Homework Chapter 1 Review}} \\
+30 problems for 60 points\\
+\end{center}
+\begin{enumerate}
+\item Read Section 1.1. Use example problems as practice.
+
+\item{\S 1.1}
+	\begin{enumerate}
+	\item For the following functions, find the domain, range, any zeros, and any intercepts.
+		\begin{enumerate}
+		\item \#14 $f(x) = \frac{x}{x^2-16}$\\
+		\item \#15 $f(x)=\sqrt{8x-1}$\\
+		\item \#20 $f(x)=4 \vert x+5 \vert$
+		\end{enumerate}
+	\item \#40 Find $f+g$, $f-g$, $f \cdot g$ and $f/g$ for $f(x)=\sqrt{x}$ and $g(x)=x-2$ and determine the domain of each new function.
+	\item \#44 Find $f \circ g$ and $g \circ f$ for $f(x)=2x+4$ and $g(x)=x^2-2$ and determine the domain of each new function.
+	\item \#51 The volume of a cube depends on the length of the sides $s$. Write a function for the volume of a cube, $V(s)$.
+	\end{enumerate}
+	
+\item Read Section 1.2. Use example problems as practice.
+
+\item{\S 1.2} 
+	\begin{enumerate} 
+	\item For each pair of points, write the equation of the line, identify the slope of the line and whether the line is increasing, decreasing, vertical or horizontal.
+		\begin{enumerate}
+		\item \#61 $(3,5)$ and $(-1,2)$
+		\item \#65 $(2,4)$ and $(1,4)$
+		\end{enumerate}
+	\item \#69 Write the equation of the line with slope equal to $1/3$ through the point $(0,4)$ and slope-intercept form (i.e. $y=mx+b$).
+	\item \#82 Determine the slope, $m$, and $y$-intercept, $b$, for the line $6x-5y+15=0$ and sketch its graph.
+	\item \#84 For the polynomial $f(x)=-3x^2+6x$, determine its degree, any zeros, any $y$-intercepts, and use the leading coefficient to determinant the end behavoir.
+	\item \#89 Use the graph of $f(x)=x^2$ to sketch the graph of $g(x)=(x+3)^2+1.$
+	\item \#91 Use the graph of $f(x)=\sqrt{x}$ to sketch the graph of $g(x)=-\sqrt{x}-1.$
+	\item \#95 For the piecewise defined function $f(x)= \begin{cases} x^2-3 & x<0 \\ 4x-3 & x\geq 0, \end{cases}$ find $f(-4)$, $f(0)$, $f(2)$, and sketch the graph.\\
+	\end{enumerate}
+\item Read Section 1.3. Use example problems as practice.
+\item{\S 1.3} 
+	\begin{enumerate}
+	\item \#115 Convert $-225^o$ to radians.
+	\item \#118 Convert $\pi/2$ to degrees.
+	\item \#123 Evaluate $\cos(4 \pi/3)$ without the aid of a calculator.
+	\item \#130 In the right triangle below, $a=4$ and $c=7.$ Determine the length of $b$ and determine the value of the six trigonometric functions at angle $A.$ 
+	
+	\begin{tikzpicture}
+	\draw (0,0) node[anchor=north]{$A$}
+  -- (4,0) node[anchor=north]{$C$}
+  -- (4,4) node[anchor=south]{$B$}
+  -- cycle;
+  	\node at (2,-0.5){$b$}; \node at (4.5,2){$a$}; \node at (1.5,2.3){$c$};
+	\end{tikzpicture}
+	\item \#155 Solve the equation $2 \sin (\theta) -1=0$ on the interval $0 \leq \theta < 2 \pi$.
+	\item \#169 Determine the amplitude and the period of the function $y=\frac{-1}{2}\sin(\frac{1}{4}x).$ Sketch.\\
+	\end{enumerate}
+\item Read Section 1.4. Use example problems as practice.
+\item{\S 1.4} 
+	\begin{enumerate}
+	\item \#190 Find the inverse of the function $f(x)=\sqrt[3]{x-4}$ and determine the domain and range of the inverse. 
+	\item \#200 Use composition to determine whether or not $f(x)=8x+3$ and $g(x)=\frac{x-3}{8}$ are inverses.
+	\item \#208 Evaluate $\cos^{-1}(\frac{-\sqrt{2}}{2})$ without the aid of a calculator.
+	\item \#212 Evaluate $\cos(\tan^{-1}(\sqrt{3}))$ without the aid of a calculator.\\
+	\end{enumerate}
+\item Read Section 1.5. Use example problems as practice.
+\item{\S 1.5} 
+	\begin{enumerate}
+	\item \#239 Sketch the graph of $g(x)=e^x+2.$ State the domain, range, and any asymptotes.
+	\item \#247 Write the equation $\log_8 2 =\frac{1}{3}$ in equivalent exponential form.
+	\item \#260 Write the eequation $y=e^x$ in equivalent logarithmic form.
+	\item \#265 Sketch the graph of $f(x)=\ln(x-1)$. State the domain, range, and any asymptotes. 
+	\item \#275 Use properties of logarithms to write $\ln \left( \frac{6}{\sqrt{e^6}}\right)$ as a sum, difference, and/or product of logarithms.
+	\item \#280 Solve the equation $3^{x/14}=\frac{1}{10}$. Give an exact answer. 
+	\item \#288 Solve the equation $\ln ( \sqrt{x+3})=2$ exactly.\\
+	\end{enumerate}
+
+\end{enumerate}
+
+
+\end{document}
