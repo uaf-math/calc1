@@ -15,7 +15,7 @@ Link to access ALEKS PPL: [https://www.aleks.com/sign_up](https://www.aleks.com/
 Course Code: **TJRQX-WJ49R**
 
 To schedule your proctored ALEKS:
-* [in person](https://aleks-testing.youcanbook.me/](https://uafmath-aleks-sign-up.youcanbook.me/)
+* [in person](https://aleks-testing.youcanbook.me/)
 * [distance/asynchronous](https://ecampus.uaf.edu/exam-services/)
 
 ## Week 1 and 2 Logistics
