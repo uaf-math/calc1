@@ -1,10 +1,10 @@
 ---
 layout: course-page
-title: Week 1 Logistics
+title: Week 1 and 2 Logistics
 ---
 
 * [Important Links](#important-links)
-* [Week 1 Logistics](#week-1-logistics)
+* [Week 1 and 2 Logistics](#week-1-logistics)
 * [How to first log into ALEKS PPL](#how-to-first-log-into-aleks-ppl)
 * [Working with ALEKS PPL](#working-with-aleks-ppl)
 * [Sign up for proctored ALEKS PPL](#sign-up-to-take-your-proctored-assessment)
