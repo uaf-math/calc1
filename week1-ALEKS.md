@@ -19,9 +19,9 @@ To schedule your proctored ALEKS:
 * [in person](https://aleks-testing.youcanbook.me/](https://uafmath-aleks-sign-up.youcanbook.me/)
 * [distance/asynchronous](https://ecampus.uaf.edu/exam-services/)
 
-## Week 1 Logistics
+## Week 1 and 2 Logistics
 
-In the first week of class a little different because we spend time reviewing precalculus material. Unlike later quizzes, the first quiz of the class will use an online program called ALEKS.  Here are the steps you need to take to complete Quiz 1.
+The first week of class is a little different because we spend time reviewing precalculus material. Unlike later quizzes, the first two quizzes of the class will cover precalculus material. In the second week, you will take a quiz using a program called ALEKS.  Here are the steps you need to take to complete your ALEKS Quiz.
 
 1. By Friday, September 1, **schedule** a two-hour timeslot to take your proctored ALEKS assessment. In-person students will take their proctored assessment on Tuesday September 5. Online students must complete the assessment by Friday September 8. You can schedule your time by going to the link for your class. 
 	* [in person](https://aleks-testing-new.youcanbook.me/) 
