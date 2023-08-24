@@ -25,10 +25,10 @@ title: Math F251 Calculus I at UAF
          <td> <a href="{{ c.urlfilled }}">filled</a> </td>
       </tr>
       <tr>
-         <td> <a href="{{s.urlvideo1}}">video 1 </a><br></td>         
+         <td> <a href="{{c.urlvideo1}}">video 1 </a><br></td>         
       </tr>
        <tr>
-         <td> <a href="{{s.urlvideo2}}">video 2 </a><br></td>         
+         <td> <a href="{{c.urlvideo2}}">video 2 </a><br></td>         
       </tr>
     </table>
   </td>
