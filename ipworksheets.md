@@ -27,7 +27,7 @@ title: Math F251 Calculus I at UAF
       <tr>
          <td>
           {% for s in c.sections %}
-          <a href="{{s.url}}">{{s.title}}</a><br>
+          <a href="{{s.urlvideo}}">{{s.title}}</a><br>
           {% endfor %}
          </td>
       </tr>
