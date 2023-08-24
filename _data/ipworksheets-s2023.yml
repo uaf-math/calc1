@@ -2,122 +2,122 @@
   topic:
   urlblank: http://jrfaudree.github.io/M251f2022/week1/Syllabus-quiz.pdf
   urlfilled: http://jrfaudree.github.io/M251f2022/week1/Syllabus-quiz-s.pdf
-- name: Review of Functions
+- name: Ch1: Functions
   topic:
   urlblank: http://jrfaudree.github.io/M251f2022/week1/Week_1_functions.pdf
   urlfilled: http://jrfaudree.github.io/M251f2022/week1/Week_1_functions-sol.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_ptg7od4y
   urlvideo2: https://media.uaf.edu/media/t/1_lody9wnc
-- name: Review of Trigonometry
+- name: Ch 1: Trig
   topic:
   urlblank: http://jrfaudree.github.io/M251f2022/week1/Week_1_trig.pdf
   urlfilled: http://jrfaudree.github.io/M251f2022/week1/Week_1_trig-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_bgwm8ua1
-- name: Section 2.1
+- name: S 2.1
   topic: Intro to Calc, tangent lines, velocity
   urlblank: http://jrfaudree.github.io/M251f2022/ch2/S_2-1_Preview_Calculus.pdf
   urlfilled: http://jrfaudree.github.io/M251f2022/ch2/S_2-1_Preview_Calculus-sol.pdf
-- name: Section 2.2
+- name: S 2.2
   topic: Intro to Limits
   urlblank: http://jrfaudree.github.io/M251f2022/ch2/2-2-Limit-of-a-Function.pdf
   urlfilled: http://jrfaudree.github.io/M251f2022/ch2/2-2-Limit-of-a-Function-s.pdf
-- name: Section 2.3
+- name: S 2.3
   topic: Limit Laws, Squeeze Theorem
   urlblank: http://jrfaudree.github.io/M251s23/2-3-Limit-Laws.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/2-3-Limit-Laws-s.pdf
-- name: Section 2.4
+- name: S 2.4
   topic: Continuity
   urlblank: http://jrfaudree.github.io/M251f2022/ch2/2-4-Continuity.pdf
   urlfilled: http://jrfaudree.github.io/M251f2022/ch2/2-4-Continuity-ss.pdf
-- name: Section 3.1
+- name: S 3.1
   topic: Defining the Derivative
   urlblank: http://jrfaudree.github.io/M251s23/3-1-def-derivative.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-1-def-derivative-s.pdf
-- name: Section 3.2
+- name: S 3.2
   topic: The Derivative as a Function
   urlblank: http://jrfaudree.github.io/M251s23/3-2_derivative_as-function.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-2_derivative_as-function-s.pdf
-- name: Section 3.3 (day 1)
+- name: S 3.3 (day 1)
   topic: Derivative Rules (including Product and Quotient)
   urlblank: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-a.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-a-ss.pdf
-- name: Section 3.3 (day 2)
+- name: S 3.3 (day 2)
   topic: Practice and Application of Derivative Rules
   urlblank: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-b.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-bs.pdf
-- name: Section 3.4
+- name: S 3.4
   topic: Derivative as a Rate of Change
   urlblank: http://jrfaudree.github.io/M251s23/3-4-Derivatives-as-Rates-of-Change-day2.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-4-Derivatives-as-Rates-of-Change-day2-ss.pdf
-- name: Section 3.3 and 3.4 Extra
-  topic: Additional 3.3 and 3.4 Problems
+- name: S 3.3, 3.4 Extra
+  topic: More 3.3,3.4 
   urlblank: http://jrfaudree.github.io/M251s23/3-3-and-3-4-clean-up.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-3-and-3-4-clean-up-s.pdf
-- name: Section 3.5
+- name: S 3.5
   topic: Derivatives of Trig Functions
   urlblank: http://jrfaudree.github.io/M251s23/3-5-derivatives-trig.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-5-derivatives-trig-ss.pdf
-- name: Section 3.5 extra
+- name: S 3.5 extra
   topic: Derivatives of Trig Functions Extra
   urlblank: http://jrfaudree.github.io/M251s23/3-5-derivatives-trig-extra.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-5-derivatives-trig-extra-s.pdf
-- name: Section 3.6 (day 1)
+- name: S 3.6 (day 1)
   topic: The Chain Rule (first glimpse)
   urlblank: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-a.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-a-s.pdf
-- name: Section 3.6 (day 2)
+- name: S 3.6 (day 2)
   topic: The Chain Rule (more practice)
   urlblank: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-b.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-b-ss.pdf
-- name: Section 3.8
+- name: S 3.8
   topic: Implicit Differentiation
   urlblank: http://jrfaudree.github.io/M251s23/3-8-implicit-differentiation.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-8-implicit-differentiation-solns.pdf
-- name: Section 3.7
+- name: S 3.7
   topic: Derivatives of Inverse Functions
   urlblank: http://jrfaudree.github.io/M251s23/3-7-derivatives-of-inverse-functions.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-7-derivatives-of-inverse-function-filled.pdf
-- name: Section 3.9 (day 1)
+- name: S 3.9 (day 1)
   topic: Derivatives of Exponentials and Logs
   urlblank: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-9-exponentials-and-logs-s.pdf
-- name: Section 3.9 (day 2)
+- name: S 3.9 (day 2)
   topic: Derivatives of Exponentials and Logs
   urlblank: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs-b.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs-b-s.pdf
-- name: Section 4.1 (intro)
+- name: S 4.1 (intro)
   topic: Related Rates
   urlblank: http://jrfaudree.github.io/M251s23/4-1-Related-Rates-intro.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-1-Related-Rates-intro-s.pdf
-- name: Section 4.1 (practice)
+- name: S 4.1 (practice)
   topic: Related Rates
   urlblank: http://jrfaudree.github.io/M251s23/4-1-Related-Rates.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-1-Related-Rates-s.pdf
-- name: Section 4.2
+- name: S 4.2
   topic: Linearization and Differentials
   urlblank: http://jrfaudree.github.io/M251s23/4-2-Linear-Approximations-and-Differentials.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-2-Linear-Approximations-and-Differentials-s.pdf
-- name: Section 4.3
+- name: S 4.3
   topic: Maximums and Minimums (day 1)
   urlblank: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins-s.pdf
-- name: Section 4.3
+- name: S 4.3
   topic: Maximums and Minimums (day 2)
   urlblank: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins-b.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins-b-s.pdf
-- name: Section 4.5
+- name: S 4.5
   topic: Derivatives and Shape of Graphs (day 1)
   urlblank: http://jrfaudree.github.io/M251s23/4-5-derivatives-and-shape-of-graph.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-5-derivatives-and-shape-of-graph-s.pdf
-- name: Section 4.5
+- name: S 4.5
   topic: Derivatives and Shape of Graphs (day 2)
   urlblank: http://jrfaudree.github.io/M251s23/4-5-derivatives-and-shape-of-graph-day2.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-5-derivatives-and-shape-of-graph-day2-slns.pdf
-- name: Section 4.6
+- name: S 4.6
   topic: Limits at Infinity (day 1)
   urlblank: http://jrfaudree.github.io/M251s23/4-6-limits-infinity-asymptotes.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-6-limits-infinity-asymptotes-s.pdf
-- name: Section 4.6
+- name: S 4.6
   topic: Sophisticated Graphing (day 2)
   urlblank: http://jrfaudree.github.io/M251s23/4-6-limits-infinity-asymptotes-b.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-6-limits-infinity-asymptotes-b-s.pdf
@@ -125,75 +125,75 @@
   topic: Optimization (day 1)
   urlblank: http://jrfaudree.github.io/M251s23/4-7-optimization-day1.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-7-optimization-day1-ss.pdf
-- name: Section 4.7
+- name: S 4.7
   topic: Optimization (day 2)
   urlblank: http://jrfaudree.github.io/M251s23/4-7-optimization-day2.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-7-optimization-day2-soln.pdf
-- name: Section 4.8
+- name: S 4.8
   topic: L'Hopital's Rule (day 1)
   urlblank: http://jrfaudree.github.io/M251s23/4-8-l-hospital.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-8-l-hospital-s.pdf
-- name: Section 4.8
+- name: S 4.8
   topic: L'Hopital's Rule (extra)
   urlblank: http://jrfaudree.github.io/M251s23/4-8-and-4-10-half-day.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-8-and-4-10-half-day-s.pdf
-- name: Section 4.10
+- name: S 4.10
   topic: Antiderivatives 
   urlblank: http://jrfaudree.github.io/M251s23/4-10-Antiderivatives.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-10-Antiderivatives-s.pdf
-- name: Section 5.1
+- name: S 5.1
   topic: Area under a curve 
   urlblank: http://jrfaudree.github.io/M251s23/5-1-Approx-Areas.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-1-Approx-Areas-s.pdf
-- name: Section 5.2
+- name: S 5.2
   topic: Definite Integral 
   urlblank: http://jrfaudree.github.io/M251s23/5-2-the-definite-integral.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-2-the-definite-integral-s.pdf
-- name: Section 5.3 (day 1)
+- name: S 5.3 (day 1)
   topic: Fundamental Theorem of Calculus
   urlblank: http://jrfaudree.github.io/M251s23/5-3-FTC-parts-1-and-2.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-3-FTC-parts-1-and-2-s.pdf
-- name: Section 5.3 (day 2)
+- name: S 5.3 (day 2)
   topic: Fundamental Theorem of Calculus 
   urlblank: http://jrfaudree.github.io/M251s23/5-3-FTC-parts-1-and-2-day2.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-3-FTC-parts-1-and-2-day2-s.pdf
-- name: Section 5.4 
+- name: S 5.4 
   topic: Net Change Theorem
   urlblank: http://jrfaudree.github.io/M251s23/5-4-Net-Change-thm.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-4-Net-Change-thm-s.pdf
-- name: Section 5.5 
+- name: S 5.5 
   topic: Substitution
   urlblank: http://jrfaudree.github.io/M251s23/5-5-Substitution.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-5-Substitution-ss.pdf
-- name: Section 5.6 
+- name: S 5.6 
   topic: Exponential and Logarithmic Integration
   urlblank: http://jrfaudree.github.io/M251s23/5-6-Exponential-Logs-integration.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-6-Exponential-Logs-integration-s.pdf
-- name: Section 5.7 
+- name: S 5.7 
   topic: Integrals and Inverse Trigonometric Functions
   urlblank: http://jrfaudree.github.io/M251s23/5-7-integrals-and-inverse-trig-functions.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-7-integrals-and-inverse-trig-functions-s.pdf
-- name: Section 5.7 extra
+- name: S 5.7 extra
   topic: Integral Palooza
   urlblank: http://jrfaudree.github.io/M251s23/5-7-integration-palooza.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-7-integration-palooza-s.pdf
-- name: Section 4.9 
+- name: S 4.9 
   topic: Newton's Method
   urlblank: http://jrfaudree.github.io/M251s23/4-9-Newtons-Method.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-9-Newtons-Method-s.pdf
-- name: Midterm I Review
+- name: 
   topic: Midterm I Review
   urlblank: http://jrfaudree.github.io/M251s23/Midterm-I-Review.pdf
   urlfilled:
-- name: Midterm II Review
+- name: 
   topic: Midterm II Review
   urlblank: http://jrfaudree.github.io/M251s23/Midterm-II-Review.pdf
   urlfilled:
-- name: Final Exam Review
+- name: 
   topic: Final Exam Review
   urlblank: http://jrfaudree.github.io/M251s23/Final-Exam-Review.pdf
   urlfilled: 
-- name: Final Exam Practice Problems
+- name: 
   topic: Final Exam Practice Problems
   urlblank: http://jrfaudree.github.io/M251s23/Review-for-Final-problems.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/Review-for-Final-problems-s.pdf
