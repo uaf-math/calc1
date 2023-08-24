@@ -26,7 +26,7 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 | Instructor| Location | Day/Time |
 | :---------| :------------| :----------|
-| STAFF | Math Lab, Chap 305 | TBA|
+| Mahomed Nouh | Math Lab, Chap 305 | TBA|
 |               | Office, TBA | TBA|
 ||||
 | James Gossell | Math Lab, Chap 305 | TBA|
