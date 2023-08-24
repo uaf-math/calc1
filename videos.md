@@ -1,6 +1,6 @@
 ---
 layout: course-page
-title: Daily Log
+title: Videos
 ---
 
 ### Introductory Videos
