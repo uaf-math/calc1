@@ -7,7 +7,7 @@ title: Math F251 Calculus I at UAF
 
 <div class="x-scroll">
 <table class="asst-table">
-<tr><th>Name</th><th>Topic</th><th>Sheets</th></tr>
+<tr><th>Name</th><th>Topic</th><th>Materials</th></tr>
 {% for c in site.data.ipworksheets-s2023 %}
 <tr valign="top">
   <td>
@@ -25,11 +25,10 @@ title: Math F251 Calculus I at UAF
          <td> <a href="{{ c.urlfilled }}">filled</a> </td>
       </tr>
       <tr>
-         <td>
-          {% for s in c.sections %}
-          <a href="{{s.urlvideo}}">video </a><br>
-          {% endfor %}
-         </td>
+         <td> <a href="{{s.urlvideo1}}">video 1 </a><br></td>         
+      </tr>
+       <tr>
+         <td> <a href="{{s.urlvideo2}}">video 2 </a><br></td>         
       </tr>
     </table>
   </td>
