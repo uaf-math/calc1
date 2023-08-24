@@ -1,15 +1,15 @@
-- name: Syllabus Quiz
-  topic:
+- name: 
+  topic: Syllabus Quiz
   urlblank: http://jrfaudree.github.io/M251f2022/week1/Syllabus-quiz.pdf
   urlfilled: http://jrfaudree.github.io/M251f2022/week1/Syllabus-quiz-s.pdf
-- name: Ch1: Functions
-  topic:
+- name: 
+  topic: Review of Functions
   urlblank: http://jrfaudree.github.io/M251f2022/week1/Week_1_functions.pdf
   urlfilled: http://jrfaudree.github.io/M251f2022/week1/Week_1_functions-sol.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_ptg7od4y
   urlvideo2: https://media.uaf.edu/media/t/1_lody9wnc
-- name: Ch 1: Trig
-  topic:
+- name: 
+  topic: Review of Trig
   urlblank: http://jrfaudree.github.io/M251f2022/week1/Week_1_trig.pdf
   urlfilled: http://jrfaudree.github.io/M251f2022/week1/Week_1_trig-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_bgwm8ua1
