@@ -7,7 +7,7 @@ title: Math F251 Calculus I at UAF
 
 <div class="x-scroll">
 <table class="asst-table">
-<tr><th>Name</th><th>Topic</th><th>Materials</th></tr>
+<tr><th>Section</th><th>Topic</th><th>Materials</th></tr>
 {% for c in site.data.ipworksheets-s2023 %}
 <tr valign="top">
   <td>
