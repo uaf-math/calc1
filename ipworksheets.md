@@ -24,12 +24,16 @@ title: Worksheets
       <tr>
          <td> <a href="{{ c.urlfilled }}">filled</a> </td>
       </tr>
+      {% if c.urlvideo1 %}
       <tr>
          <td> <a href="{{ c.urlvideo1 }}">video 1 </a><br></td>         
       </tr>
+      {% endif %}
+      {% if c.urlvideo2 %}
        <tr>
          <td> <a href="{{ c.urlvideo2 }}">video 2 </a><br></td>         
       </tr>
+      {% endif %}
     </table>
   </td>
 </tr>
