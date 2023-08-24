@@ -6,11 +6,13 @@
   topic:
   urlblank: http://jrfaudree.github.io/M251f2022/week1/Week_1_functions.pdf
   urlfilled: http://jrfaudree.github.io/M251f2022/week1/Week_1_functions-sol.pdf
-  urlvideo: https://media.uaf.edu/media/t/1_ptg7od4y
+  urlvideo1: https://media.uaf.edu/media/t/1_ptg7od4y
+  urlvideo2: https://media.uaf.edu/media/t/1_lody9wnc
 - name: Review of Trigonometry
   topic:
   urlblank: http://jrfaudree.github.io/M251f2022/week1/Week_1_trig.pdf
   urlfilled: http://jrfaudree.github.io/M251f2022/week1/Week_1_trig-s.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_bgwm8ua1
 - name: Section 2.1
   topic: Intro to Calc, tangent lines, velocity
   urlblank: http://jrfaudree.github.io/M251f2022/ch2/S_2-1_Preview_Calculus.pdf
