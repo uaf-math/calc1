@@ -1,10 +1,10 @@
-e- Week: Week 1
+- Week: Week 1
   sections:
     - date: Aug 29
       topic: Review of Functions
-      blank: M251-review-recitation-1.pdf
-      filled: M251-review-recitation-1-s.pdf
-      video: none
+      blank: Week_1_functions.pdf
+      filled: Week_1_functions-sol.pdf
+      video: https://media.uaf.edu/media/t/1_ptg7od4y
 - Week: Week 2
   sections:
     - date: Sept 5
