@@ -15,7 +15,7 @@ Link to access ALEKS PPL: [https://www.aleks.com/sign_up](https://www.aleks.com/
 Course Code: **TJRQX-WJ49R**
 
 To schedule your proctored ALEKS:
-* [in person](https://aleks-testing.youcanbook.me/)
+* [in person](https://uafmath-aleks-sign-up.youcanbook.me)
 * [distance/asynchronous](https://ecampus.uaf.edu/exam-services/)
 
 ## Week 1 and 2 Logistics
@@ -23,7 +23,7 @@ To schedule your proctored ALEKS:
 The first week of class is a little different because we spend time reviewing precalculus material. Unlike later quizzes, the first two quizzes of the class will cover precalculus material. In the second week, you will take a quiz using a program called ALEKS.  Here are the steps you need to take to complete your ALEKS Quiz.
 
 1. By Friday, September 1, **schedule** a two-hour timeslot to take your proctored ALEKS assessment. In-person students will take their proctored assessment on Tuesday September 5. Online students must complete the assessment by Friday September 8. You can schedule your time by going to the link for your class. 
-	* [in person](https://aleks-testing-new.youcanbook.me/) 
+	* [in person](https://uafmath-aleks-sign-up.youcanbook.me) 
 	* [distance/asynchronous](https://ecampus.uaf.edu/student-support/exam-info-students/)
 
 2. Take a proctored ALEKS assessment that will count as Quiz 1:
@@ -51,7 +51,7 @@ NOTE: You will not be able to start your assessment without a password.
 Go to the link for your class.
 
 **in person classes**
-* [youcanbook.me page](https://aleks-testing.youcanbook.me/)
+* [youcanbook.me page](https://uafmath-aleks-sign-up.youcanbook.me)
 * location: Chapman Hall room 103 (computer lab)
 * date: Tuesday September 5
 	
