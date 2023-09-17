@@ -37,42 +37,42 @@
   topic: Defining the Derivative
   urlblank: http://jrfaudree.github.io/M251s23/3-1-def-derivative.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-1-def-derivative-s.pdf
-  urlvideo: https://media.uaf.edu/media/t/1_qoh7dv5j
+  urlvideo1: https://media.uaf.edu/media/t/1_qoh7dv5j
 - name: S 3.2
   topic: The Derivative as a Function
   urlblank: http://jrfaudree.github.io/M251s23/3-2_derivative_as-function.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-2_derivative_as-function-s.pdf
-  urlvideo: https://media.uaf.edu/media/t/1_4m1qx86q
+  urlvideo1: https://media.uaf.edu/media/t/1_4m1qx86q
 - name: S 3.3 (day 1)
   topic: Derivative Rules (including Product and Quotient)
   urlblank: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-a.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-a-ss.pdf
-  urlvideo: https://media.uaf.edu/media/t/1_pmq5mz58
+  urlvideo1: https://media.uaf.edu/media/t/1_pmq5mz58
 - name: S 3.3 (day 2)
   topic: Practice and Application of Derivative Rules
   urlblank: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-b.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-bs.pdf
-  urlvideo: https://media.uaf.edu/media/t/1_vkwyhfwf
+  urlvideo1: https://media.uaf.edu/media/t/1_vkwyhfwf
 - name: S 3.4
   topic: Derivative as a Rate of Change
   urlblank: http://jrfaudree.github.io/M251s23/3-4-Derivatives-as-Rates-of-Change-day2.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-4-Derivatives-as-Rates-of-Change-day2-ss.pdf
-  urlvideo: https://media.uaf.edu/media/t/1_b1lmk4fd
+  urlvideo1: https://media.uaf.edu/media/t/1_b1lmk4fd
 - name: S 3.3, 3.4 Extra
   topic: More 3.3,3.4 
   urlblank: http://jrfaudree.github.io/M251s23/3-3-and-3-4-clean-up.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-3-and-3-4-clean-up-s.pdf
-  urlvideo: https://media.uaf.edu/media/t/1_3jd33ier
+  urlvideo1: https://media.uaf.edu/media/t/1_3jd33ier
 - name: S 3.5
   topic: Derivatives of Trig Functions
   urlblank: http://jrfaudree.github.io/M251s23/3-5-derivatives-trig.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-5-derivatives-trig-ss.pdf
-  urlvideo: https://media.uaf.edu/media/t/1_ansea1s8
+  urlvideo1: https://media.uaf.edu/media/t/1_ansea1s8
 - name: S 3.5 extra
   topic: Derivatives of Trig Functions Extra
   urlblank: http://jrfaudree.github.io/M251s23/3-5-derivatives-trig-extra.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-5-derivatives-trig-extra-s.pdf
-  urlvideo: https://media.uaf.edu/media/t/1_e8taqs8i
+  urlvideo1: https://media.uaf.edu/media/t/1_e8taqs8i
 - name: S 3.6 (day 1)
   topic: The Chain Rule (first glimpse)
   urlblank: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-a.pdf
