@@ -57,17 +57,17 @@
 - Week: Week 9
   sections:
     - date: Oct 24
-      topic: Spring Break
-      blank: none
-      filled: none
-      video: none
-- Week: Week 10 
-  sections:
-    - date: Oct 31
       topic: Algebra for 4.5 and 4.6
       blank: M251S23-Recitation_Week_10_4-5_4-6-prep.pdf
       filled: M251S23-Recitation_Week_10_4-5_4-6-prep-s.pdf
-      video: https://drive.google.com/file/d/18nsvn6DPxhkcp8igvUntkjt9QYnChs_2/view?usp=sharing
+      video:  https://drive.google.com/file/d/18nsvn6DPxhkcp8igvUntkjt9QYnChs_2/view?usp=sharing
+- Week: Week 10 
+  sections:
+    - date: Oct 31
+      topic: 
+      blank: 
+      filled:
+      video: 
 - Week: Week 11
   sections:
     - date: Nov 7
