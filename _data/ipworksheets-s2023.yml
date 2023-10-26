@@ -92,74 +92,92 @@
   topic: Derivatives of Inverse Functions
   urlblank: http://jrfaudree.github.io/M251s23/3-7-derivatives-of-inverse-functions.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-7-derivatives-of-inverse-function-filled.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_46j71qco/174165092
 - name: S 3.9 (day 1)
   topic: Derivatives of Exponentials and Logs
   urlblank: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-9-exponentials-and-logs-s.pdf
+  urlvideo1: 
 - name: S 3.9 (day 2)
   topic: Derivatives of Exponentials and Logs
   urlblank: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs-b.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs-b-s.pdf
+  urlvideo1:
 - name: S 4.1 (intro)
   topic: Related Rates
   urlblank: http://jrfaudree.github.io/M251s23/4-1-Related-Rates-intro.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-1-Related-Rates-intro-s.pdf
+  urlvideo1:
 - name: S 4.1 (practice)
   topic: Related Rates
   urlblank: http://jrfaudree.github.io/M251s23/4-1-Related-Rates.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-1-Related-Rates-s.pdf
+  urlvideo1:
 - name: S 4.2
   topic: Linearization and Differentials
   urlblank: http://jrfaudree.github.io/M251s23/4-2-Linear-Approximations-and-Differentials.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-2-Linear-Approximations-and-Differentials-s.pdf
+  urlvideo1:
 - name: S 4.3
   topic: Maximums and Minimums (day 1)
   urlblank: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins-s.pdf
+  urlvideo1:
 - name: S 4.3
   topic: Maximums and Minimums (day 2)
   urlblank: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins-b.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins-b-s.pdf
+  urlvideo1:
 - name: S 4.5
   topic: Derivatives and Shape of Graphs (day 1)
   urlblank: http://jrfaudree.github.io/M251s23/4-5-derivatives-and-shape-of-graph.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-5-derivatives-and-shape-of-graph-s.pdf
+  urlvideo1:
 - name: S 4.5
   topic: Derivatives and Shape of Graphs (day 2)
   urlblank: http://jrfaudree.github.io/M251s23/4-5-derivatives-and-shape-of-graph-day2.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-5-derivatives-and-shape-of-graph-day2-slns.pdf
+  urlvideo1: 
 - name: S 4.6
   topic: Limits at Infinity (day 1)
   urlblank: http://jrfaudree.github.io/M251s23/4-6-limits-infinity-asymptotes.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-6-limits-infinity-asymptotes-s.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_dm4of60p/174165092
 - name: S 4.6
   topic: Sophisticated Graphing (day 2)
   urlblank: http://jrfaudree.github.io/M251s23/4-6-limits-infinity-asymptotes-b.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-6-limits-infinity-asymptotes-b-s.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_4kl64bzn/174165092
 - name: Section 4.7
   topic: Optimization (day 1)
   urlblank: http://jrfaudree.github.io/M251s23/4-7-optimization-day1.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-7-optimization-day1-ss.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_7sdpvqkh/174165092
 - name: S 4.7
   topic: Optimization (day 2)
   urlblank: http://jrfaudree.github.io/M251s23/4-7-optimization-day2.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-7-optimization-day2-soln.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_4pstje4x/174165092
 - name: S 4.8
   topic: L'Hopital's Rule (day 1)
   urlblank: http://jrfaudree.github.io/M251s23/4-8-l-hospital.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-8-l-hospital-s.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_zbi77uf3/174165092
 - name: S 4.8
   topic: L'Hopital's Rule (extra)
   urlblank: http://jrfaudree.github.io/M251s23/4-8-and-4-10-half-day.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-8-and-4-10-half-day-s.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_otv0lfv6/174165092
 - name: S 4.10
   topic: Antiderivatives 
   urlblank: http://jrfaudree.github.io/M251s23/4-10-Antiderivatives.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/4-10-Antiderivatives-s.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_xxe6y5z7/174165092
 - name: S 5.1
   topic: Area under a curve 
   urlblank: http://jrfaudree.github.io/M251s23/5-1-Approx-Areas.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-1-Approx-Areas-s.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_3fquuxjy/174165092
 - name: S 5.2
   topic: Definite Integral 
   urlblank: http://jrfaudree.github.io/M251s23/5-2-the-definite-integral.pdf
