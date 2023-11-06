@@ -63,6 +63,9 @@
     - title: Derivatives of Trig Functions
       pdf: "Section 3.3.pdf"
       url: https://media.uaf.edu/media/t/1_y7dcta5o
+    - title: Derivatives involving logarithmic and exponential functions
+      pdf: IntroVideo-IntegralsExpLogs.pdf
+      url: https://media.uaf.edu/media/t/1_l65yuds2/174165092
     - title: The Chain Rule
       pdf: "Section 3.4.pdf"
       url: https://media.uaf.edu/media/t/1_0u8x7277
@@ -140,3 +143,6 @@
     - title: Integration by Substitution (part 2)
       pdf: "Section 5.5 day 2.pdf"
       url: https://media.uaf.edu/media/t/1_21i5pd8r
+    - title: Integrals resulting in inverse trig functions
+      pdf: IntroVideo-integralsWithInverseTrig.pdf
+      url: https://media.uaf.edu/media/t/1_173ka086/174165092
