@@ -183,34 +183,43 @@
   topic: Definite Integral 
   urlblank: http://jrfaudree.github.io/M251s23/5-2-the-definite-integral.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-2-the-definite-integral-s.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_o2g6nl1j/174165092
 - name: S 5.3 (day 1)
   topic: Fundamental Theorem of Calculus
   urlblank: http://jrfaudree.github.io/M251s23/5-3-FTC-parts-1-and-2.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-3-FTC-parts-1-and-2-s.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_umk8vpu1/174165092
 - name: S 5.3 (day 2)
   topic: Fundamental Theorem of Calculus 
   urlblank: http://jrfaudree.github.io/M251s23/5-3-FTC-parts-1-and-2-day2.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-3-FTC-parts-1-and-2-day2-s.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_7i4t2mfg/174165092
 - name: S 5.4 
   topic: Net Change Theorem
   urlblank: http://jrfaudree.github.io/M251s23/5-4-Net-Change-thm.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-4-Net-Change-thm-s.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_rb956ybu/174165092
 - name: S 5.5 
   topic: Substitution
   urlblank: http://jrfaudree.github.io/M251s23/5-5-Substitution.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-5-Substitution-ss.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_vse39sg4/174165092
+  urlvideo2: https://media.uaf.edu/media/t/1_rglvin4n/174165092
 - name: S 5.6 
   topic: Exponential and Logarithmic Integration
   urlblank: http://jrfaudree.github.io/M251s23/5-6-Exponential-Logs-integration.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-6-Exponential-Logs-integration-s.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_2p6bijqj/174165092
 - name: S 5.7 
   topic: Integrals and Inverse Trigonometric Functions
   urlblank: http://jrfaudree.github.io/M251s23/5-7-integrals-and-inverse-trig-functions.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-7-integrals-and-inverse-trig-functions-s.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_tbewxho2/174165092
 - name: S 5.7 extra
   topic: Integral Palooza
   urlblank: http://jrfaudree.github.io/M251s23/5-7-integration-palooza.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/5-7-integration-palooza-s.pdf
+  urlvideo1: https://media.uaf.edu/media/t/1_w5in3x0k/174165092
 - name: S 4.9 
   topic: Newton's Method
   urlblank: http://jrfaudree.github.io/M251s23/4-9-Newtons-Method.pdf
