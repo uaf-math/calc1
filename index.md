@@ -13,7 +13,7 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 | Section | Instructor                  |    | Time             | Location |
 | :-------|:----------------------------|----| :----------------| :--------|
-| 901     | Mahomed Nouh                |    | MWF 9:15-10:15   | Chap 106 |
+| 901     | Mohamed Nouh                |    | MWF 9:15-10:15   | Chap 106 |
 |         | manouh "at" alaska.edu   |    | T Th  9:45-11:15 | Chap 106 |
 ||||||
 | 902, 903     | James Gossell                |    | MWF 11:45-12:45  | Chap 106 |
