@@ -8,10 +8,10 @@ derivative:
     - name: V2
       blank: M251s23-Derivative-v2.pdf
       solutions: M251s23-Derivative-v2-s.pdf
-    - name: V3
+    - name: V3 (Retake 1)
       blank: M251s23-Derivative-v3a.pdf
       solutions: M251s23-Derivative-v3-s.pdf
-    - name: V4
+    - name: V4 (Retak 2)
       blank: M251s23-Derivative-v4a.pdf
       solutions: M251s23-Derivative-v4a-s.pdf
 integral:
