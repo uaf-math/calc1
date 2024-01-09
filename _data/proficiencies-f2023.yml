@@ -3,25 +3,25 @@ home: assets/proficiencies/Fall2023
 derivative:
   versions:
     - name: V1
-      blank: .pdf
-      solutions: .pdf
+      blank: 
+      solutions: 
     - name: V2
-      blank: .pdf
-      solutions: .pdf
+      blank: 
+      solutions: 
     - name: V3 (Retake 1)
-      blank: .pdf
-      solutions: .pdf
+      blank: 
+      solutions: 
     - name: V4 (Retake 2)
-      blank: .pdf
-      solutions: .pdf
+      blank: 
+      solutions: 
 integral:
   versions:
     - name: V1
-      blank: .pdf
-      solutions: .pdf
+      blank: 
+      solutions: 
     - name: V2
-      blank: .pdf
-      solutions: .pdf
+      blank: 
+      solutions: 
     - name: Retake
-      blank: .pdf
-      solutions: .pdf
+      blank: 
+      solutions: 
