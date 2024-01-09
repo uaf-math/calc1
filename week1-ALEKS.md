@@ -34,7 +34,7 @@ The first week of class is a little different because we spend time reviewing pr
 
 ## How to first log into ALEKS PPL.
 
-If you want to login to ALEKS in advance of your proctored ALEKS, the directions are below. The advantage of logging into ALEKS in advance is to make things faster on the day of the assessment or to fix any login issues (like forgetting your password). It is not mandatory that you login ahead of time.
+If you want to login to ALEKS in advance of your proctored ALEKS, the directions are below. The advantage of logging into ALEKS in advance is to make things faster on the day of the assessment or to fix any login issues (like forgetting your password). It is not mandatory that you login ahead of time, but it is strongly recommended!
 
 1. Go to the [ALEKS sign up page](https://www.aleks.com/sign_up) 
  
