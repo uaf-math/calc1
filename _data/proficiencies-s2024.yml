@@ -1,15 +1,15 @@
-semester: Fall 2023
-home: assets/proficiencies/Fall2023
+semester: Spring 2024
+home: assets/proficiencies/Spring2024
 derivative:
   versions:
     - name: V1
-      blank: M251f23-Derivative-v1.pdf
-      solutions: M251f23-Derivative-v1-s.pdf
+      blank: 
+      solutions: xxx.pdf
     - name: V2 (Retake 1)
-      blank: M251f23-Derivative-v2.pdf
+      blank: 
       solutions: 
     - name: V3 (Retake 2)
-      blank: M251f23-Derivative-v3.pdf
+      blank: 
       solutions: 
 integral:
   versions:
