@@ -1,0 +1,20 @@
+semester: Fall 2023
+home: assets/exams/Fall2023
+midterm1:
+  versions:
+    - name: V1 
+      blank: M251-F23-M1-V1.pdf
+      solutions: M251-F23-M1-V1 Solutions.pdf
+    - name: V2
+      blank: M251-F23-M1-V2.pdf
+      solutions: 
+midterm2:
+  versions:
+    - name: V1 
+      blank: M251-F23-MT2-V1.pdf
+      solutions: M251-F23-MT2-V1-solutions.pdf
+final:
+  versions:
+    - name: V1 
+      blank: M251-F23-Final-V1.pdf
+      solutions: 

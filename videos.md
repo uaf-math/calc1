@@ -5,7 +5,6 @@ title: Videos
 
 ### Introductory Videos
 
-The chapter and section numbers for these videos are aligned with a previous text and should be ignored. The *topics* are the same as our text.
 
 
 <div class="x-scroll">
