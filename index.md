@@ -9,15 +9,15 @@ This is the central website for all in-person sections of Calculus I
 taught by the [Department of Mathematics and Statistics](http://www.uaf.edu/dms)
 at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
-### Instructor and Section Information for Fall 2023
+### Instructor and Section Information for Spring 2024
 
 | Section | Instructor                  |    | Time             | Location |
 | :-------|:----------------------------|----| :----------------| :--------|
-| 901     | Mohamed Nouh                |    | MWF 9:15-10:15   | Chap 106 |
-|         | manouh "at" alaska.edu   |    | T Th  9:45-11:15 | Chap 106 |
+| 901, 903     | James Gossell                |    | MWF 9:15-10:15   | Murie 103/105 |
+|         | jegossell "at" alaska.edu   |    | T Th  9:45-11:15 | Murie 103/105 |
 ||||||
-| 902, 903     | James Gossell                |    | MWF 11:45-12:45  | Chap 106 |
-|         | jegossell "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
+| 902     | Mohamed Nouh                |    | MWF 11:45-12:45  | Chap 106 |
+|         | manouh "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
 ||||||
 | 001     | Leah Berman                |    | asynchronous     | N/A      |
 |         | lwberman "at" alaska.edu.   |    |                  |          |
@@ -27,15 +27,15 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 | Instructor| Location | Day/Time |
 | :---------| :------------| :----------|
 | Mahomed Nouh | Math Lab, Chap 305 | TBA|
-|               | Office, TBA | TBA|
+|               | Office, 301C | TBA|
 ||||
 | James Gossell | Math Lab, Chap 305 | TBA|
-|| Office, Chap 203| TBA|
+|| Office, Chap 301D| TBA|
 ||||
 | Leah Berman | Math Lab, Chap 305 | TBA|
 || Office, Chap 102| TBA|
 ||||
-|Glen Woodworth | Math Lab, Chap 305 | TBA|
+|Levi McClurg | Math Lab, Chap 305 | TBA|
 |||TBA|
 
 
