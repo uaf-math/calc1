@@ -12,10 +12,10 @@ title: Week 1 and 2 Logistics
 
 Link to access ALEKS PPL: [https://www.aleks.com/sign_up](https://www.aleks.com/sign_up)
 
-Course Code: **TJRQX-WJ49R**
+Course Code: **9A49K-R64C9**
 
 To schedule your proctored ALEKS:
-* [in person](https://uafmath-aleks-sign-up.youcanbook.me)
+* [in person](https://uafmath-aleks-sign-up-5.youcanbook.me)
 * [distance/asynchronous](https://ecampus.uaf.edu/exam-services/)
 
 ## Week 1 and 2 Logistics
@@ -27,8 +27,8 @@ The first week of class is a little different because we spend time reviewing pr
 	* [distance/asynchronous](https://ecampus.uaf.edu/student-support/exam-info-students/)
 
 2. Take a proctored ALEKS assessment that will count as Quiz 1:
-	* on Tuesday September 5 (in person)
-	* by Friday September 8 (distance/asynchronous)  
+	* on Tuesday January 23 (in person)
+	* by Friday January 26 (distance/asynchronous)  
 
 
 
@@ -38,11 +38,11 @@ If you want to login to ALEKS in advance of your proctored ALEKS, the directions
 
 1. Go to the [ALEKS sign up page](https://www.aleks.com/sign_up) 
  
-2. Enter our class code: **TJRQX-WJ49R**
+2. Enter our class code: **9A49K-R64C9**
 		
 3. ALEKS will then direct you through the registration process. **Write down your login name and password** as you will need them for the proctored assessment which will use a different computer.
 
-4. Now that you have logged in to ALEKS PPL, it will give you a tutorial on how to use the interface and you are done with the set up.
+4. Now that you have logged in to ALEKS PPL, it will give you a tutorial on how to use the interface and you are done with the setup.
 
 NOTE: You will not be able to start your assessment without a password.
 
@@ -50,10 +50,10 @@ NOTE: You will not be able to start your assessment without a password.
 
 Go to the link for your class.
 
-**in person classes**
-* [youcanbook.me page](https://uafmath-aleks-sign-up.youcanbook.me)
+**in-person classes**
+* [youcanbook.me page](https://uafmath-aleks-sign-up-5.youcanbook.me)
 * location: Chapman Hall room 103 (computer lab)
-* date: Tuesday September 5
+* date: Tuesday January 23
 	
 **distance class**
 * [eLearning proctoring page](https://ecampus.uaf.edu/student-support/exam-info-students/)
