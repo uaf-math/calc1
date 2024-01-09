@@ -5,14 +5,11 @@ derivative:
     - name: V1
       blank: M251f23-Derivative-v1.pdf
       solutions: M251f23-Derivative-v1-s.pdf
-    - name: V2
-      blank: 
+    - name: V2 (Retake 1)
+      blank: M251f23-Derivative-v2.pdf
       solutions: 
-    - name: V3 (Retake 1)
-      blank: 
-      solutions: 
-    - name: V4 (Retake 2)
-      blank: 
+    - name: V3 (Retake 2)
+      blank: M251f23-Derivative-v3.pdf
       solutions: 
 integral:
   versions:
