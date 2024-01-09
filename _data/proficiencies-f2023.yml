@@ -3,8 +3,8 @@ home: assets/proficiencies/Fall2023
 derivative:
   versions:
     - name: V1
-      blank: 
-      solutions: 
+      blank: M251f23-Derivative-v1.pdf
+      solutions: M251f23-Derivative-v1-s.pdf
     - name: V2
       blank: 
       solutions: 
