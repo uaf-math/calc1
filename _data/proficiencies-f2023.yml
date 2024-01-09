@@ -1,0 +1,27 @@
+semester: Fall 2023
+home: assets/proficiencies/Fall2023
+derivative:
+  versions:
+    - name: V1
+      blank: .pdf
+      solutions: .pdf
+    - name: V2
+      blank: .pdf
+      solutions: .pdf
+    - name: V3 (Retake 1)
+      blank: .pdf
+      solutions: .pdf
+    - name: V4 (Retake 2)
+      blank: .pdf
+      solutions: .pdf
+integral:
+  versions:
+    - name: V1
+      blank: .pdf
+      solutions: .pdf
+    - name: V2
+      blank: .pdf
+      solutions: .pdf
+    - name: Retake
+      blank: .pdf
+      solutions: .pdf
