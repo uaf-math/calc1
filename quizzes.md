@@ -5,7 +5,7 @@ title: Quizzes
 
 ## Quizzes for <span style="color:blue">Spring 2024</span>
 
-Links to this semester's quizzes, and solutions, will appear here as they are completed. Scroll down to access materials from previous semesters. 
+Links to this semester's quizzes, and solutions, will appear here as they are completed. Scroll down to access materials from previous semesters! 
 
 {% include quiz_table.md  data=site.data.quizzes-s2024%}
 
