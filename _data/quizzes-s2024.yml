@@ -15,7 +15,7 @@ quizzes:
 - name: Quiz 3
   versions:
   - name: Quiz 3
-    blank:
+    blank: blahblha.pdf
     solutions: 
 - name: Quiz 4
   versions:
