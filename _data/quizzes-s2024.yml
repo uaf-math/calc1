@@ -16,7 +16,7 @@ quizzes:
   versions:
   - name: Quiz 3
     blank:.pdf
-    solutions: .pdf
+    solutions: blah blah.pdf
 - name: Quiz 4
   versions:
   - name: Quiz 4
