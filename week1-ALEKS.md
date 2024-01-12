@@ -15,7 +15,7 @@ Link to access ALEKS PPL: [https://www.aleks.com/sign_up](https://www.aleks.com/
 Course Code: **9A49K-R64C9**
 
 To schedule your proctored ALEKS:
-* [in person](https://uafmath-aleks-sign-up-5.youcanbook.me)
+* [in-person](https://uafmath-aleks-sign-up-5.youcanbook.me)
 * [distance/asynchronous](https://ecampus.uaf.edu/exam-services/)
 
 ## Week 1 and 2 Logistics
