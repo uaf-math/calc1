@@ -4,8 +4,8 @@ quizzes:
 - name: Quiz 1
   versions:
   - name: Quiz 1
-    blank: .pdf
-    solutions: .pdf
+    blank: blahblha.pdf
+    solutions: blahblha.pdf
 - name: ALEKS Quiz 
 - name: Quiz 2
   versions:
@@ -15,8 +15,8 @@ quizzes:
 - name: Quiz 3
   versions:
   - name: Quiz 3
-    blank:.pdf
-    solutions: blah blah.pdf
+    blank: blahblha.pdf
+    solutions: 
 - name: Quiz 4
   versions:
   - name: Quiz 4
