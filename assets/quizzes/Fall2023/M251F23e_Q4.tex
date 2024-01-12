@@ -1,0 +1,140 @@
+
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+\pgfplotsset{compat = newest}
+ 
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal
+}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{\baselineskip 30pt
+%\emph{\@doctitle\hfill\@docdate}
+\emph{\@docdate\hfill\@doctitle}
+\ifnum \value{page} > 1\relax\else\\
+\emph{Name: \rule{3.5in}{1pt}\hfill \@docscoring}\fi}
+\rfoot{\emph{\@docversion}}
+\lfoot{\emph{\@doccourse}}
+\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} to
+% start a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+\def\be{\begin{enumerate}}
+\def\ee{\end{enumerate}}
+
+
+\doctitle{Math 251: Quiz 4}
+\docdate{September 22, 2023}
+\doccourse{UAF Calculus I}
+\docversion{v-1 async}
+\docscoring{\blank{0.8in} / 25}
+\begin{document}
+%\textbf{Please circle your instructor's name:} \hfill Leah Berman  \hfill   Jill Faudree\\
+
+There are 25 points possible on this quiz.  {\it You should be able to complete it without using your notes or textbook -- this is practice for your exams!} If you needed to look something up, you should to me about questions you might have.  {\bf Show all work for full credit} and use some words or sentences to help communicate your answers. {\bf Do not use a calculator.}
+
+\problem{8} Use the \emph{limit definition} of the derivative to find the derivative of $g(x)=x+\frac{3}{x}$. \emph{No credit will be awarded a solution that does not use the definition below.} Show all your work clearly, step by step, using correct notation.\\
+$$g'(x) := \lim_{h \to 0} \frac{g(x+h) - g(x)}{h}$$
+\vfill
+\problem{6} A ball is thrown upwards into the air. Its height, in feet, after $t$ seconds is given by the function $s(t) = 40t - 16 t^{2}$
+\begin{subproblems}
+\item Find the average velocity of the ball over the time interval from $t=1$ to $t=2.$ Include units with your answer.\\
+\vspace{0.8in}
+\item Find the instantaneous velocity of the ball when $t=2.$ Include units with your answer.\\
+\vspace{0.8in}
+\end{subproblems}
+
+\newpage
+\problem{5} The graph of $f(x)$ is below. On the same set of axes, make a rough sketch of the graph of $f'(x)$. If they exist, indicate any asymptotes with dashed lines. Use open circles to show points where the derivative is not defined, if any. {\it Make sure you are writing darkly enough that I can see your graph clearly! (Double-check your scan before you submit.)}
+\begin{center}
+\begin{tikzpicture}
+%cubic
+\begin{axis}[xscale=1.2, thick, my style, xtick={-4,-3,-2,...,3,4,5, 6, 7}, ytick={-4,-3,...,5},xmin=-4, xmax=7, ymin=-4, ymax=5, minor y tick num=1, minor x tick num=1, 
+mark size=3.0pt, grid = major]
+\addplot[ultra thick, -,domain=-2:1, samples=100]{1+2*x};
+\addplot[ultra thick,domain=-4:-2, samples=100, <-]{-3};
+\addplot[ultra thick, ->,domain=1:7, samples=100]{-(2.1*(x-1)^(1/2)+2)+5};
+\end{axis}
+\end{tikzpicture}\end{center}
+
+\problem{6} Use the derivative rules to find the derivative for each function below. \emph{Do not simplify your answer.}
+\begin{subproblems}
+\item $f(x)=(\sin{x})(3x^{2} - 5x + 6)$ 
+\vfill
+\item $g(x)=4x^{1/5}+\frac{9}{x^3} +\sqrt{3}+10x$
+\vfill
+\end{subproblems}
+
+\end{document}
