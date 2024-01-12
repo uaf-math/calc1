@@ -5,12 +5,10 @@ title: Math F251 Calculus I at UAF
 
 # Technology Help
 
-Because everything is offered by distance, we are using *a lot* of technology. 
-
 * [Homework](#homework)
 * [Scanning](#scanning)
 * [Printing](#printing)
-* [CircleIn](#circlein)
+* [Discord](#discord)
 
 - - - 
 		
@@ -39,9 +37,19 @@ Because everything is offered by distance, we are using *a lot* of technology.
 In addition, there is a student-accessible printer in the Chapman Computer Lab (CHAP 103). You will need to swipe your PolarExpress card at the Student Printer in order to print, and there will be a charge (you will use your Bear Bucks to pay for printing).
 
 
-## CircleIn
+## Discord
 
-UAF is piloting an online forum for class discussion called [CircleIn](https://circleinapp.com/). It has a variety of incentives to encourage participation. Access is easy. When you log in, CircleIn will know your classes. Note that instructors do *not* have access to CircleIn and will not see any posts or participate in any discussions.
+The UAF CS students have graciously agreed to set up course discords for all Math, CS, Statistics, and chemistry classes.
+
+Sign up by clicking [here](https://nookbot.uaf.edu/) then click the blue box that says SIGN IN, then look for our class. We are Math F251X-1. 
+
+You can ask calculus questions, chat with your classmates, ask questions, etc. on the Discord! I'll try to respond quickly so we can have real-time synchronous communication (unless I'm in a meeting or in another class or asleep or whatever. But during those times perhaps your classmates can respond!) 
+
+To access Discord, you can use a web browser, but you can also use a stand-alone app on your computer and there's also apps for iPhone and Android! See [here for more info](https://discord.com/download).
+
+There are discord clients for Windows, Mac, Linux, iOS, Android. 
+
+
 
 
 
