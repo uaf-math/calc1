@@ -29,14 +29,14 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 | Mahomed Nouh | Math Lab, Chap 305 | TBA|
 |               | Office, 301C | TBA|
 ||||
-| James Gossell | Math Lab, Chap 305 | TBA|
-|| Office, Chap 301D| TBA|
+| James Gossell | Math Lab, Chap 305 | F 10:30 - 11:30|
+|| Office, Chap 301D| MW 2 - 3|
 ||||
-| Leah Berman | Math Lab, Chap 305 | TBA|
-|| Office, Chap 102| TBA|
+| Leah Berman | Math Lab, Chap 305 | W 10 - 11|
+|| Office/Zoom, Chap 102| M 9 - 10, W 1 - 2, F 11 - 12|
 ||||
-|Levi McClurg | Math Lab, Chap 305 | TBA|
-|||TBA|
+|Levi McClurg | Math Lab, Chap 305 | W 12:30 - 1:30|
+|||  |
 
 
 ### Resources
