@@ -4,13 +4,13 @@ quizzes:
 - name: Quiz 1
   versions:
   - name: Quiz 1
-    blank: blahblha.pdf
-    solutions: blahblha.pdf
+    blank:M251S24-Quiz-1.pdf
+    solutions: M251S24-Quiz-1-solutions-detailed.pdf
 - name: ALEKS Quiz 
 - name: Quiz 2
   versions:
   - name: Quiz 2
-    blank: 
+    blank: M251S24_Q2.pdf
     solutions: 
 - name: Quiz 3
   versions:
