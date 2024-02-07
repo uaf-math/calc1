@@ -12,11 +12,11 @@ quizzes:
   - name: Quiz 2
     blank: M251S24_Q2.pdf
     solutions: M251S24_Q2-solutions.pdf
-#- name: Quiz 3
-#  versions:
-#  - name: Quiz 3
-#    blank: blahblha.pdf
-#    solutions: 
+- name: Quiz 3
+  versions:
+  - name: Quiz 3
+    blank: M251S24_Q3.pdf
+    solutions: M251S24_Q3-solutions.pdf
 #- name: Quiz 4
 #  versions:
 #  - name: Quiz 4
