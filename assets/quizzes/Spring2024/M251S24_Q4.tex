@@ -1,0 +1,169 @@
+
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+\pgfplotsset{compat = newest}
+ 
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal
+}}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{\baselineskip 30pt
+%\emph{\@doctitle\hfill\@docdate}
+\emph{\@docdate\hfill\@doctitle}
+\ifnum \value{page} > 1\relax\else\\
+\emph{Name: \rule{3.5in}{1pt}\hfill \@docscoring}\fi}
+\rfoot{\emph{\@docversion}}
+\lfoot{\emph{\@doccourse}}
+\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} to
+% start a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+\def\be{\begin{enumerate}}
+\def\ee{\end{enumerate}}
+
+
+\doctitle{Math 251: Quiz 4}
+\docdate{February 8, 2024}
+\doccourse{UAF Calculus I}
+\docversion{v-1}
+\docscoring{\blank{0.8in} / 25}
+\begin{document}
+%\textbf{Please circle your instructor's name:} \hfill Leah Berman  \hfill   Jill Faudree\\
+
+There are 25 points possible on this quiz. No aids (book, calculator, etc.)
+are permitted.  {\bf Show all work for full credit.}
+
+\problem{8} Use the \emph{limit definition} (given below) of the derivative to find the derivative of $\displaystyle f(x)=\frac{2}{x^{2}}$. \emph{No credit will be awarded for a solution that does not use the definition below.} Show all your work clearly, step by step, using correct notation.\\
+$$f'(x) := \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
+\vfill
+
+\vfill
+
+\vfill
+
+\vfill
+
+
+\problem{5} The graph of $f(x)$ is shown below. On the \emph{other set of axes}, sketch the graph of $f'(x)$. If there are any asymptotes, draw them with dashed lines. Use open circles to show points where the derivative is not defined, if any. (You are not given values on the $y$-axis; I am interested in the correct shape/holes/asymptotes of the derivative, not the specific values.)
+\begin{center}
+\begin{tikzpicture}
+%cubic
+\begin{axis}[xscale=1.1, thick, my style, xtick={-4,-3,-2,...,3,4,5, 6, 7}, ytick={-4,-3,...,5},xmin=-4, xmax=7, ymin=-4, ymax=5, minor y tick num=1, minor x tick num=1, 
+mark size=3.0pt, grid = major]
+\addplot[ultra thick, ->,domain=-4:-1, samples=100]coordinates{(-1,4)(-4,2)};
+\addplot[ultra thick,domain=-1:2, samples=100, -]{4};
+\addplot[ultra thick, ->,domain=2:7, samples=100]{-(2.6*(x-2)^(1/2))+4};
+\end{axis}
+\end{tikzpicture}%
+\hfill
+\begin{tikzpicture}
+\begin{axis}[xscale=1.1, thick, my style, xtick={-4,-3,-2,...,3,4,5, 6, 7}, ytick={0},
+xmin=-4, xmax=7, ymin=-4, ymax=5, minor y tick num=0, minor x tick num=1, 
+mark size=3.0pt, grid = none]
+\end{axis}
+\end{tikzpicture}
+
+\end{center}
+
+\newpage
+
+\problem{6} Use the derivative rules to find the derivative for each function below. \emph{Do not simplify your answer.} Show work so someone else can follow your thinking.
+\begin{subproblems}
+\item $f(x)=(\cos{x})(\sqrt{x} - 2x)$\\
+
+\vspace{.2in}
+$f'(x)=$\\
+\vfill
+\item $\displaystyle g(x)=\frac{x^3-2x+1}{x}$\\
+
+\vspace{.2in}
+$g'(x)=$\\
+\vfill
+\end{subproblems}
+
+\problem{6} For the function $F(x)=x^3-\sin x$, find $F'(x)$, $F''(x)$, and $F'''(x)$.\\
+	
+	$F'(x)=$\\
+	
+	\vspace{.5in}
+	$F''(x)=$\\
+	
+	\vspace{.5in}
+	$F'''(x)=$\\
+	
+	\vspace{.7in}
+
+\end{document}
