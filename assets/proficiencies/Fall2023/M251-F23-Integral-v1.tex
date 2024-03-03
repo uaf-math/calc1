@@ -1,0 +1,181 @@
+
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{nicefrac}
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{
+\ifnum \value{page} > 1\relax\else \vskip 25pt\fi
+\baselineskip 25pt
+\emph{\@doctitle\hfill\@docdate}
+\ifnum \value{page} > 1\relax\else\\
+\emph{Name: \rule{2.5in}{1pt}\ \hfill
+	%Instructor (circle):\quad Maxwell\quad Jurkowski\quad Sus%\@docscoring
+}
+\\
+\vskip -10pt
+\fi}
+\rfoot{\emph{\@docversion}}
+\lfoot{\emph{\@doccourse}}
+\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} to
+% start a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+
+
+\doctitle{Math F251X: Integral Proficiency}
+\docdate{December 6, 2023}
+\doccourse{UAF Calculus I}
+\docversion{v-1}
+\docscoring{\blank{0.8in} / 12}
+\begin{document}
+\begin{itemize}
+\item 
+There are 12 points possible on this proficiency: one point per problem with
+no partial credit. 
+
+\item You have 30 minutes to complete this proficiency.
+
+\item No aids (book, calculator, etc.) are permitted.  
+
+\item You do \textbf{not} need to simplify your expressions.
+
+\item For at least one problem you must indicate correct
+use of a constant of integration.
+
+\item Circle or box your final answer.
+
+\item You must use parentheses correctly. A mis-parenthesized answer is incorrect. Do not write $8x \cdot -x^{2}$ to indicate $8x(-x^{2})$, and definitely do not write $8x\cdot -x^{2}+2$ if you mean $8x(-x^{2}+2)$.
+\end{itemize}
+
+\problem{12}  Compute the following definite/indefinite integrals.
+\begin{subproblems}
+
+\item $\ds \int (-2x^5+\sin(x)) \; dx$
+\vfill
+%easy u-sub 
+%inside sine
+
+\item $\ds \int \cos(6x)\; dx$
+\vfill
+
+%Def integral + substitution
+%v. similar to second one of Fall 2021
+\item $\ds \int_1^{2} xe^{x^2}\; dx$
+\vfill
+
+
+\newpage
+%basic rules: power, ln, contants
+\item $\ds \int \left( \frac{x}{2}+\frac{4}{x} +\frac{6}{5}\right)\; dx$
+\vfill
+%easy u-sub for ln
+\item $\ds \int \frac{1-2\sin(2x)}{x+\cos(2x)}\; dx$
+\vfill
+%thoughtful u-sub, power rule, 
+%exact homework problems
+\item $\ds \int \frac{7}{3x(\ln x)^2}\; dx$
+\vfill
+
+\newpage
+%arc sine
+\item $\ds \int  \frac{1}{\sqrt{1-x^2}}\; dx$
+\vfill
+
+%process of elimination u-sub 
+%exact homreowrk problems
+\item $\ds \int \frac{\arctan(x)}{1+x^2}\; dx$ $\quad$ (recall $ \arctan(x)=\tan^{-1}(x) $)
+\vfill
+
+%no sub + u-sub
+%e and trig
+\item $\ds \int (e^{-2x}+\sec(x)\tan(x)) \; dx$
+\vfill
+
+\newpage
+%nonproduct rule
+\item $\ds \int_{-2}^1 x(3-x)\; dx$
+\vfill
+%sqrt in denominator, u-sub
+\item $\ds \int \frac{x^4}{\sqrt{6-x^5}} \; dx$
+\vfill
+%sophisticated substitution \# 283
+\item $\ds \int \frac{x}{x+2} \: dx$
+\vfill
+
+\end{subproblems}
+\end{document}

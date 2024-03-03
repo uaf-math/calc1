@@ -3,22 +3,22 @@ home: assets/proficiencies/Fall2023
 derivative:
   versions:
     - name: V1
-      blank: M251f23-Derivative-v1.pdf
-      solutions: M251f23-Derivative-v1-s.pdf
+      blank: M251F23e-Derivative-Try1.pdf
+      solutions: M251F23e-Derivative-solutions.pdf
     - name: V2 (Retake 1)
-      blank: M251f23-Derivative-v2.pdf
-      solutions: 
+      blank: M251F23e-Derivative-Try2.pdf
+      solutions: M251F23e-Derivative-Try2-solutions.pdf
     - name: V3 (Retake 2)
-      blank: M251f23-Derivative-v3.pdf
-      solutions: 
+      blank: M251f23-Derivative-Round3.pdf
+      solutions: M251f23-Derivative-Round3-solutions.pdf
 integral:
   versions:
     - name: V1
-      blank: 
-      solutions: 
-    - name: V2
-      blank: 
-      solutions: 
+      blank: M251-F23-Integral-v1.pdf
+      solutions: M251-F23-Integral-v1-solutions.pdf
+#    - name: V2
+#      blank: M251-F23-Integral-v2.pdf
+#      solutions: M251-F23-Integral-v2-solutions.pdf
     - name: Retake
-      blank: 
-      solutions: 
+      blank: M251-F23-Integral-v2.pdf
+      solutions:  M251-F23-Integral-v2-solutions.pdf

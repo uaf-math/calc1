@@ -2,9 +2,9 @@ semester: Spring 2024
 home: assets/exams/Spring2024
 midterm1:
   versions:
-#    - name: V1 
-#      blank: blahblah.pdf
-#      solutions: blahblah-solutions.pdf
+    - name: V1 
+      blank: M251-S24-M1-V1.pdf
+      solutions: M251-S24-M1-V1-solutions.pdf
 #    - name: V2
 #      blank: 
 #      solutions: 
