@@ -1,24 +1,24 @@
 semester: Spring 2024
 home: assets/proficiencies/Spring2024
 derivative:
-  versions:
-    - name: V1
-      blank: 
-      solutions: xxx.pdf
-    - name: V2 (Retake 1)
-      blank: 
-      solutions: 
-    - name: V3 (Retake 2)
-      blank: 
-      solutions: 
+#  versions:
+#    - name: V1
+#      blank: 
+#      solutions: xxx.pdf
+#    - name: V2 (Retake 1)
+#      blank: 
+#      solutions: 
+#    - name: V3 (Retake 2)
+#      blank: 
+#      solutions: 
 integral:
-  versions:
-    - name: V1
-      blank: 
-      solutions: 
-    - name: V2
-      blank: 
-      solutions: 
-    - name: Retake
-      blank: 
-      solutions: 
+#  versions:
+#    - name: V1
+#      blank: 
+#      solutions: 
+#    - name: V2
+#      blank: 
+#      solutions: 
+#    - name: Retake
+#      blank: 
+#      solutions: 
