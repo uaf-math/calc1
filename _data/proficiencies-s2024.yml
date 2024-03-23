@@ -1,10 +1,13 @@
 semester: Spring 2024
 home: assets/proficiencies/Spring2024
 derivative:
-#  versions:
-#    - name: V1
-#      blank: 
-#      solutions: xxx.pdf
+  versions:
+    - name: V1
+      blank: M251s24-Derivative-v2a.pdf
+      solutions: M251S24-Derivative-v2a Solutions.pdf
+    - name: V2
+      blank: M251s24-Derivative-v2b.pdf
+      solutions: M251s24-Derivative-v2b Solutions.pdf 
 #    - name: V2 (Retake 1)
 #      blank: 
 #      solutions: 
