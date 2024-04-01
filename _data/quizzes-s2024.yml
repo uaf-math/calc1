@@ -36,7 +36,7 @@ quizzes:
   versions:
   - name: Quiz 7
     blank: M251S24_Q7.pdf
-    solutions: 
+    solutions: M251S24_Q7-solutions.pdf
 - name: Quiz 8
   versions:
   - name: Quiz 8
