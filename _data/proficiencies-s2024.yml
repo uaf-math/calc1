@@ -8,9 +8,9 @@ derivative:
     - name: V2
       blank: M251s24-Derivative-v2b.pdf
       solutions: M251s24-Derivative-v2b Solutions.pdf 
-#    - name: V2 (Retake 1)
-#      blank: 
-#      solutions: 
+    - name: V2 (Retake 1)
+      blank: M251s24-Derivative-v3.pdf
+      solutions: M251S24-Derivative-v3 Solutions.pdf
 #    - name: V3 (Retake 2)
 #      blank: 
 #      solutions: 

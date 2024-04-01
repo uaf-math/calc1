@@ -32,16 +32,16 @@ quizzes:
   - name: Quiz 6
     blank: M251S24_Q6.pdf
     solutions: M251S24_Q6-solutions.pdf
-#- name: Quiz 7
-#  versions:
-#  - name: Quiz 7
-#    blank: 
-#    solutions: 
-#- name: Quiz 8
-#  versions:
-#  - name: Quiz 8
-#    blank:  
-#    solutions: 
+- name: Quiz 7
+  versions:
+  - name: Quiz 7
+    blank: M251S24_Q7.pdf
+    solutions: 
+- name: Quiz 8
+  versions:
+  - name: Quiz 8
+    blank:  M251S24_Q8.pdf
+    solutions: M251S24_Q8-solutions.pdf
 #- name: Quiz 9
 #  versions:
 #  - name: Quiz 9
