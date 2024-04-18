@@ -8,11 +8,11 @@ midterm1:
 #    - name: V2
 #      blank: 
 #      solutions: 
-#midterm2:
-#  versions:
-#    - name: V1 
-#      blank: 
-#      solutions: 
+midterm2:
+  versions:
+    - name: V1 
+      blank: M251-S24-M2-V1.pdf
+      solutions: M251-S24-M2-V1-solutions.pdf
 final:
 #  versions:
 #    - name: V1 
