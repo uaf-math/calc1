@@ -13,7 +13,7 @@ midterm2:
     - name: V1 
       blank: M251-S24-M2-V1.pdf
       solutions: M251-S24-M2-V1-solutions.pdf
-final:
+#final:
 #  versions:
 #    - name: V1 
 #      blank: 
