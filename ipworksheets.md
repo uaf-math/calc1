@@ -21,6 +21,7 @@ title: Worksheets
       <tr>
          <td> <a href="{{ c.urlblank }}">blank</a> </td>
       </tr>
+      {% if c.urlfilled %}
       <tr>
          <td> <a href="{{ c.urlfilled }}">filled</a> </td>
       </tr>
