@@ -228,17 +228,14 @@
 - name: 
   topic: Midterm I Review
   urlblank: http://jrfaudree.github.io/M251s23/Midterm-I-Review.pdf
-  urlfilled:
 - name: 
   topic: Midterm II Review
   urlblank: http://jrfaudree.github.io/M251s23/Midterm-II-Review.pdf
-  urlfilled:
 - name: 
   topic: Final Exam Review
   urlblank: http://jrfaudree.github.io/M251s23/Final-Exam-Review.pdf
-  urlfilled: 
+  urlvideo1: https://media.uaf.edu/media/t/1_jq4h3beh
 - name: 
   topic: Final Exam Practice Problems
   urlblank: http://jrfaudree.github.io/M251s23/Review-for-Final-problems.pdf
   urlfilled: http://jrfaudree.github.io/M251s23/Review-for-Final-problems-s.pdf
-  urlvideo1: https://media.uaf.edu/media/t/1_jq4h3beh
