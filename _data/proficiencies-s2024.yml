@@ -15,13 +15,13 @@ derivative:
 #      blank: 
 #      solutions: 
 integral:
-#  versions:
-#    - name: V1
-#      blank: 
-#      solutions: 
-#    - name: V2
-#      blank: 
-#      solutions: 
-#    - name: Retake
-#      blank: 
-#      solutions: 
+  versions:
+    - name: V1
+      blank: M251s24-Integral-v1.pdf
+      solutions: M251s24-Integral-v1-solutions.pdf
+    - name: V2
+      blank: M251s24-Integral-v2.pdf
+      solutions: M251s24-Integral-v2-solutions.pdf
+    - name: V3
+      blank: M251-F24-Integral-v3.pdf
+      solutions: M251-F24-Integral-v3-solutions.pdf
