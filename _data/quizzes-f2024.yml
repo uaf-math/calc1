@@ -1,0 +1,54 @@
+semester: Fall 2024
+home: assets/quizzes/Fall2024
+quizzes:
+- name: Quiz 1
+  versions:
+  - name: Quiz 1
+    blank: M251F24-Quiz-1.pdf
+    solutions: M251F24-Quiz-1-solutions.pdf
+- name: ALEKS Quiz 
+- name: Quiz 2
+  versions:
+  - name: Quiz 2
+    blank: M251F24_Q2.pdf
+    solutions: M251F24_Q2-solutions.pdf
+- name: Quiz 3
+  versions:
+  - name: Quiz 3
+    blank: M251F24_Q3.pdf
+    solutions: M251F24_Q3-solutions.pdf
+- name: Quiz 4
+  versions:
+  - name: Quiz 4
+    blank: M251F24_Q4.pdf
+    solutions: M251F24_Q4-solutions.pdf
+- name: Quiz 5
+  versions:
+  - name: Quiz 5
+    blank: M251F24_Q5.pdf
+    solutions: M251F24_Q5-solutions.pdf
+- name: Quiz 6
+  versions:
+  - name: Quiz 6
+    blank: M251F24_Q6.pdf
+    solutions: M251F24_Q6-solutions.pdf
+- name: Quiz 7
+  versions:
+  - name: Quiz 7
+    blank: M251F24_Q7.pdf
+    solutions: M251F24_Q7-solutions.pdf
+- name: Quiz 8
+  versions:
+  - name: Quiz 8
+    blank:  M251F24_Q8.pdf
+    solutions: M251F24_Q8-solutions.pdf
+#- name: Quiz 9
+#  versions:
+#  - name: Quiz 9
+#    blank: 
+#    solutions: 
+#- name: Quiz 10
+#  versions:
+#  - name: Quiz 10
+#    blank: 
+#    solutions: 
