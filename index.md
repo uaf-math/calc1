@@ -13,14 +13,14 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 | Section | Instructor                  |    | Time             | Location |
 | :-------|:----------------------------|----| :----------------| :--------|
-| 901, 903     | James Gossell                |    | MWF 9:15-10:15   | Murie 103/105 |
+| 901     | James Gossell               |    | MWF 9:15-10:15   | Murie 103/105 |
 |         | jegossell "at" alaska.edu   |    | T Th  9:45-11:15 | Murie 103/105 |
 ||||||
-| 902     | Mohamed Nouh                |    | MWF 11:45-12:45  | Chap 106 |
-|         | manouh "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
+| 902     | Jill Faudree                |    | MWF 11:45-12:45  | Chap 106 |
+|         | jrfaudree "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
 ||||||
-| 001     | Leah Berman                |    | asynchronous     | N/A      |
-|         | lwberman "at" alaska.edu.   |    |                  |          |
+| 904     | Leah Berman                 |    | MWF 11:45-12:45    | Grue 409      |
+|         | lwberman "at" alaska.edu.   |    | T Th  11:30-1:00            | Grue 408         |
 
 ### Office Hours
 
