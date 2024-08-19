@@ -8,7 +8,7 @@ title: Worksheets
 <div class="x-scroll">
 <table class="asst-table">
 <tr><th>Section</th><th>Topic</th><th>Materials</th></tr>
-{% for c in site.data.ipworksheets-s2023 %}
+{% for c in site.data.ipworksheets-f2024 %}
 <tr valign="top">
   <td>
     {{ c.name }}
