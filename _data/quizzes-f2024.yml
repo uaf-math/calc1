@@ -5,7 +5,7 @@ quizzes:
   versions:
   - name: Quiz 1
     blank: holder.pdf
-    solutions: holder_s.pdf
+    solutions: holder.pdf
 - name: ALEKS Quiz 
 - name: Quiz 2
   versions:
