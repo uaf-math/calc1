@@ -20,23 +20,21 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 |         | jrfaudree "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
 ||||||
 | 904     | Leah Berman                 |    | MWF 11:45-12:45    | Grue 409      |
-|         | lwberman "at" alaska.edu.   |    | T Th  11:30-1:00            | Grue 408         |
+|         | lwberman "at" alaska.edu.   |    | T Th  11:30-1:00   | Grue 408      |
 
 ### Office Hours
 
 | Instructor| Location | Day/Time |
 | :---------| :------------| :----------|
-| Mahomed Nouh | Math Lab, Chap 305 | R    10:30-11:30 am|
-|               | Office, 301C | MW 3:30 - 4:30 |
+| James Gossell | Math Lab, Chap 305 | TBD|
+|| Office, Chap 301D| TBD|
 ||||
-| James Gossell | Math Lab, Chap 305 | F 10:30 - 11:30|
-|| Office, Chap 301D| MW 2 - 3|
+| Jill Faudree | Math Lab, Chap 305 | TBD|
+|| Office, Chap 306B| TBD|
 ||||
-| Leah Berman | Math Lab, Chap 305 | W 10 - 11|
-|| Office/Zoom, Chap 102| M 9 - 10, W 1 - 2, F 11 - 12|
+| Leah Berman | Math Lab, Chap 305 | TBD|
+|| Office/Zoom, Chap 102| TBD|
 ||||
-|Levi McClurg | Math Lab, Chap 305 | W 12:30 - 1:30|
-|||  |
 
 
 ### Resources
