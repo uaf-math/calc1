@@ -4,14 +4,14 @@
   urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/Syllabus-quiz-s.pdf
 - name: 
   topic: Review of Functions
-  urlblank: http://jrfaudree.github.io/M251f2022/week1/Week_1_functions.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/week1/Week_1_functions-sol.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/Week_1_functions.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/Week_1_functions-sol.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_ptg7od4y
   urlvideo2: https://media.uaf.edu/media/t/1_lody9wnc
 - name: 
   topic: Review of Trig
-  urlblank: http://jrfaudree.github.io/M251f2022/week1/Week_1_trig.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/week1/Week_1_trig-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/Week_1_trig.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/Week_1_trig_s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_bgwm8ua1
 - name: S 2.1
   topic: Intro to Calc, tangent lines, velocity
