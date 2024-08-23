@@ -3,16 +3,16 @@ sidenav_title: 'Math 251'
 docs:
 
 - title: Syllabus (in person sections)
-  url: assets/general/Spring2024/M251_s2024_syllabus-in-person.pdf
+  url: assets/general/Fall2024/M251_f2024_syllabus-in-person.pdf
 
 - title: Syllabus (asynchronous section)
-  url: assets/general/Spring2024/M251_Sp2024_syllabus-async.pdf
+  url: assets/general/Fall2024/M251_f2024_syllabus-async.pdf
 
 - title: Schedule (in person sections)
   url: https://docs.google.com/spreadsheets/d/19m53Vqy9_NXmBcacHW1oa04ha7qE3qRHbOfUcNvLmRE/edit#gid=0
 
 - title: Schedule (asynchronous section)
-  url: https://docs.google.com/spreadsheets/d/15MrWG_sPzimbRQ-E-QWJLmnjJx4DVSDUd_OCI07L7s8/edit?usp=sharing
+  url: https://docs.google.com/spreadsheets/d/1ysJXOmiR5ZQX8CcmiK9J5uPa4XemRZKAgZnFU28WL6Y/pubhtml?gid=0&single=true
 
 - title: Recitations
   url: recitations.html
