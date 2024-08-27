@@ -4,7 +4,7 @@
   urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/Syllabus-quiz-s.pdf
 - name: 
   topic: Review of Functions
-  blank: assets/materials/Fall2024/Week_1_functions.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/Week_1_functions.pdf
   urlfilled: assets/materials/Fall2024/Week_1_functions-sol.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_ptg7od4y
   urlvideo2: https://media.uaf.edu/media/t/1_lody9wnc
@@ -15,8 +15,8 @@
   urlvideo1: https://media.uaf.edu/media/t/1_bgwm8ua1
 - name: S 2.1
   topic: Intro to Calc, tangent lines, velocity
-  blank: assets/materials/Fall2024/S_2-1_Preview_Calculus.pdf
-  filled: assets/materials/Fall2024/S_2-1_Preview_Calculus-sol.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/S_2-1_Preview_Calculus.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/S_2-1_Preview_Calculus-sol.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_jwz9nvcn/174165092
 - name: S 2.2
   topic: Intro to Limits
