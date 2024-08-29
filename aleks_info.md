@@ -3,10 +3,7 @@ layout: course-page
 title: ALEKS Quiz Information
 ---
 
-##  <span style="color:blue">Background</span>
-
- <span style="color:blue">for In-Person Students</span>
-
+##  <span style="color:blue">ALEKS Quiz Info for In-Person Students</span>
 
 You are going to ALEKS PPL assessment which will consist of about 30 questions. You will have 2 hours to complete it. 
 
