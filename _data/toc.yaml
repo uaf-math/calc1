@@ -17,8 +17,8 @@ docs:
 - title: Recitations
   url: recitations.html
 
-#- title: Week 1 Details #Week One
-#  url: week1-ALEKS.html
+- title: ALEKS #Week One
+  url: aleks_info.html
 
 - title: Videos
   url: videos.html
