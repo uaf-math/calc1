@@ -19,10 +19,10 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 | 902     | Jill Faudree                |    | MWF 11:45-12:45  | Chap 106 |
 |         | jrfaudree "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
 ||||||
-| 904     | Leah Berman                 |    | MWF 11:45-12:45    | Grue 409      |
+| 904     | Leah Berman                 |    | MWF 11:45-12:45    | Grue 408      |
 |         | lwberman "at" alaska.edu.   |    | T Th  11:30-1:00   | Grue 408      |
 
-### Office Hours
+### Office Hours (Drop in, no appointment needed!)
 
 | Instructor| Location | Day/Time |
 | :---------| :------------| :----------|
@@ -32,8 +32,8 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 | Jill Faudree | Math Lab, Chap 305 | TBD|
 || Office, Chap 306B| TBD|
 ||||
-| Leah Berman | Math Lab, Chap 305 | TBD|
-|| Office/Zoom, Chap 102| TBD|
+| Leah Berman | Math Lab, Student Success Center | Monday, 10:30AM - 11:30AM|
+|| Office, Chap 102| Tuesday 2:15 - 3:15, Friday 9AM - 10AM|
 ||||
 
 
@@ -41,7 +41,7 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 * Note that because Calculus I is coordinated at UAF, the course does not change much from one semester to the next. So you can see now what typical quizzes, tests and the final will look like using the menu on the left.
 
-* The [Math & Stat Tutoring Lab](https://www.uaf.edu/dms/mathlab/index.php) is **OPEN** for in-person tutoring and online tutoring!  You can [sign up for online tutoring](https://fairbanks.go-redrock.com/).
+* The [Math & Stat Tutoring Lab](https://www.uaf.edu/dms/mathlab/index.php) is **OPEN** for in-person tutoring and online tutoring!  You can [sign up for online tutoring](https://fairbanks.go-redrock.com/). Visit the Student Success Center (6th floor, Rasmuson Library) for drop-in math tutoring.
 
 ### Textbook and Canvas
 
