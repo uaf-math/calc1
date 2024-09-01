@@ -20,8 +20,8 @@
   urlvideo1: https://media.uaf.edu/media/t/1_jwz9nvcn/174165092
 - name: S 2.2
   topic: Intro to Limits
-  urlblank: http://jrfaudree.github.io/M251f2022/ch2/2-2-Limit-of-a-Function.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/ch2/2-2-Limit-of-a-Function-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/2-2-Limit-of-a-Function.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/2-2-Limit-of-a-Function-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_dmxdhjdv/174165092
 - name: S 2.3
   topic: Limit Laws, Squeeze Theorem
