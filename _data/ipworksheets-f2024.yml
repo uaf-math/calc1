@@ -30,8 +30,8 @@
   urlvideo1: https://media.uaf.edu/media/t/1_auki8xj3/174165092
 - name: S 2.4
   topic: Continuity
-  urlblank: http://jrfaudree.github.io/M251f2022/ch2/2-4-Continuity.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/ch2/2-4-Continuity-ss.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/2-4-Continuity.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/2-4-Continuity-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_wvmvdv2y/174165092
 - name: S 3.1
   topic: Defining the Derivative
