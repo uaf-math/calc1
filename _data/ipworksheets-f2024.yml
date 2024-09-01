@@ -25,8 +25,8 @@
   urlvideo1: https://media.uaf.edu/media/t/1_dmxdhjdv/174165092
 - name: S 2.3
   topic: Limit Laws, Squeeze Theorem
-  urlblank: http://jrfaudree.github.io/M251s23/2-3-Limit-Laws.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/2-3-Limit-Laws-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/2-3-Limit-Laws.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/2-3-Limit-Laws-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_auki8xj3/174165092
 - name: S 2.4
   topic: Continuity
