@@ -26,8 +26,8 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 | Instructor| Location | Day/Time |
 | :---------| :------------| :----------|
-| James Gossell | Math Lab, Chap 305 | TBD|
-|| Office, Chap 301D| TBD|
+| James Gossell | Math Lab, Student Success Center | Friday, 10:30 - 11:30AM|
+|| Murie 103/105| Monday, Wednesday, Friday 8:30 - 9:00AM|
 ||||
 | Jill Faudree | Math Lab, Chap 305 | TBD|
 || Office, Chap 306B| TBD|
