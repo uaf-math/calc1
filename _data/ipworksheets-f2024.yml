@@ -35,8 +35,8 @@
   urlvideo1: https://media.uaf.edu/media/t/1_wvmvdv2y/174165092
 - name: S 3.1
   topic: Defining the Derivative
-  urlblank: http://jrfaudree.github.io/M251s23/3-1-def-derivative.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-1-def-derivative-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-1-def-derivative.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-1-def-derivative-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_qoh7dv5j
 - name: S 3.2
   topic: The Derivative as a Function
