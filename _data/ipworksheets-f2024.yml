@@ -40,8 +40,8 @@
   urlvideo1: https://media.uaf.edu/media/t/1_qoh7dv5j
 - name: S 3.2
   topic: The Derivative as a Function
-  urlblank: http://jrfaudree.github.io/M251s23/3-2_derivative_as-function.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-2_derivative_as-function-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-2_derivative_as-function.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-2_derivative_as-function-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_4m1qx86q
 - name: S 3.3 (day 1)
   topic: Derivative Rules (including Product and Quotient)
