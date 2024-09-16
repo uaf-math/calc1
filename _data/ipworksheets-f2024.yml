@@ -50,8 +50,8 @@
   urlvideo1: https://media.uaf.edu/media/t/1_pmq5mz58
 - name: S 3.3 (day 2)
   topic: Practice and Application of Derivative Rules
-  urlblank: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-b.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-bs.pdf
+  urlblank: hhttp://uaf-math251.github.io/assets/materials/Fall2024/3-3_derivative_rules-b.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-3_derivative_rules-bs.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_vkwyhfwf
 - name: S 3.4
   topic: Derivative as a Rate of Change
