@@ -24,6 +24,8 @@ middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
 \usepackage{xcolor}
 \usepackage{multicol}
 
+\usepackage{enumerate}
+
 % Commands to set various header/footer components.
 \makeatletter
 \def\doctitle#1{\gdef\@doctitle{#1}}
@@ -105,13 +107,10 @@ middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
 There are 25 points possible on this quiz. No aids (book, calculator, etc.)
 are permitted.  {\bf Show all work for full credit.}
 
+%\begin{enumerate}
 \problem{11} Let $P(2,2)$ be a point on the graph of $f(x)=\displaystyle{\frac{6-x}{x}}.$
 \begin{subproblems}
 \item Find the slope of the secant line passing through $P$ and the point $Q(1,f(1)).$ 
-\vfill
-
-\item Find the slope of the secant line passing through $P$ and the point $Q(3,f(3)).$
-
 \vfill
 
 \item The table below lists the slope of the secant line passing through the point $P$ and the point $Q(x, f(x))$ for several values of $x.$ \\
@@ -132,7 +131,10 @@ Use the information in the table to estimate the slope of the tangent line to $f
 
 \vfill
 
-\item Below is a sketch of the graph of $f(x)=\frac{6-x}{x}.$ Sketch the tangent line to the graph at the point $P(2,2).$
+\item Below is a sketch of the graph of $f(x)=\frac{6-x}{x}.$
+\begin{enumerate}
+	\item Sketch the \textbf{tangent line} to the graph at the point $P(2,2).$ \\Label it with the word {\sf TANGENT}. 
+	\item Sketch the \textbf{secant line} passing through $P(2,2)$ and $Q(1,f(1))$. \\Label it with the word {\sf SECANT}.
 
 \begin{tikzpicture}
  \begin{axis}[
@@ -146,48 +148,83 @@ Use the information in the table to estimate the slope of the tangent line to $f
 \end{axis}
 \end{tikzpicture}
 
+\end{enumerate}
+
 \end{subproblems}
-
-
 
 \newpage
+\problem{8} The height, $h,$ of an object is given by the expression $h(t)=10-\sqrt{t}$ where $h$ is measured in meters and $t$ is measured in seconds.
+	\begin{subproblems}
+	\item Compute the \textbf{average velocity} of the object over the time intervals. Include units with your answers.	
+		\begin{enumerate}[(i)]
+		\item $[0,1]$\\
+		\vfill
+		\item $[1,4]$\\
+		\vfill
+		\end{enumerate}
+	\item \textbf{Using the calculations you did in part (a) above,} estimate the \textbf{instantaneous velocity} of the object when $t=1.$ Include units with your answer.
+	\vfill
+	\item \textbf{What do your calculations in part (b) above} indicate about whether the object appears to be rising (gaining height) or dropping (losing height)?
+	\vfill
+	\end{subproblems}
+%\item (2 points) Solve the expression for $x$:  $19=4\cdot(13^x)-1$ 
+%\vfill
+%\item (2 points) Sketch a graph of $y=\ln(x+1).$ \\
+%\begin{multicols}{2}
+%\begin{tikzpicture}[scale=0.7]
+%\draw[->](-4,0)--(4,0);\draw[->](0,-4)--(0,3.5);
+%\end{tikzpicture}
 
-\problem{14}
-A spring is stretched out and released. Its length in inches at time $t$ seconds is given by the function: $$L(t)=4\cos(\pi t) + 6$$.
-\begin{subproblems}
-\item Sketch a graph of $L(t)$ below. (Hint: Find $L(0), L(1), L(2), L(3),$ and $L(4)$.)
+%\columnbreak
 
-\begin{tikzpicture}
- \begin{axis}[
-    xmin = 0, xmax = 5, xscale=2,
-    ymin = 0, ymax = 12, xtick={0,1,...,5}, ytick={0,1,...,12},
-    grid=both, grid style={ thin, black!60, dashed}];
+%$x$ intercepts:  \underline{\hspace{2in}}\\
+
+%$y$-intercepts:  \underline{\hspace{2in}}\\
+
+%asymptote(s):  \underline{\hspace{2in}}\\
+
+%\end{multicols}
+%\end{enumerate}
+%\newpage
+
+\problem{6}
+An object is attached to a spring suspended from above. The height of the object above the ground is given by $h(t)=4\cos( \pi t) +6$ where $h$ is in inches and $t$ is in seconds.
+
+
+%\begin{tikzpicture}
+% \begin{axis}[
+%    xmin = 0, xmax = 5,
+%    ymin = 0, ymax = 12, xtick={0,1,...,5}, ytick={0,1,...,12},
+%    grid=both, grid style={ thin, black!60, dashed}]
+%    \addplot[samples=100,
+%        domain = 0:6,
+%    ] {4*cos(deg(x*pi))+6};
     %\addplot[thick,->] coordinates {(-1,0) (6,0)};
-\end{axis}
-\end{tikzpicture}
+%\end{axis}
+%\end{tikzpicture}
 
-\item Calculate the length of the spring at $t=\displaystyle \frac{1}{3}$ seconds and $t=\displaystyle \frac{2}{3}$ seconds. Include units in your final answer.\\
+\begin{subproblems}
 
-\vspace{.3in}
+\item Calculate the length of the spring at $t=\frac{1}{3}$ seconds and $t=\frac{2}{3}$ seconds. Include units in your final answers.\\
 
-$L\left(\frac{1}{3}\right)=$
+\vspace{.1in}
 
-\vspace{.2in}
+$h\left(\frac{1}{3}\right)=$
 
-$L\left(\frac{2}{3}\right)=$
+\vspace{.1in}
 
-\vspace{.2in}
+$h\left(\frac{2}{3}\right)=$
 
-\item Calculate the \textbf{average rate of change} of the length of the spring from $t=\displaystyle \frac{1}{3}$ seconds to $t=\displaystyle \frac{2}{3}$ seconds. Show your work and include units in your final answer.
+\vspace{.1in}
+
+\item Find the \textbf{average velocity} of the object over the time interval $\left[ \frac{1}{3}, \frac{2}{3}\right]$. Show your work and include units in your final answer.
 
 \vfill
-
-\item Based on your graph in part (a) from above, estimate the \textbf{instantanous rate of change} of the length of the spring at $t=2$ seconds. Unclude units in your final answer.
-
 \vfill
 
 
 \end{subproblems}
 
+%\end{enumerate}
 
 \end{document}
