@@ -75,13 +75,13 @@
   urlvideo1: https://media.uaf.edu/media/t/1_e8taqs8i
 - name: S 3.6 (day 1)
   topic: The Chain Rule (first glimpse)
-  urlblank: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-a.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-a-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-6-Chain-Rule-a.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-6-Chain-Rule-a-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_1ieto7ts/174165092
 - name: S 3.6 (day 2)
   topic: The Chain Rule (more practice)
-  urlblank: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-b.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-b-ss.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-6-Chain-Rule-b.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-6-Chain-Rule-b-ss.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_mzskijwt/174165092
 - name: S 3.8
   topic: Implicit Differentiation
