@@ -50,18 +50,18 @@
   urlvideo1: https://media.uaf.edu/media/t/1_pmq5mz58
 - name: S 3.3 (day 2)
   topic: Practice and Application of Derivative Rules
-  urlblank: hhttp://uaf-math251.github.io/assets/materials/Fall2024/3-3_derivative_rules-b.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-3_derivative_rules-b.pdf
   urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-3_derivative_rules-bs.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_vkwyhfwf
 - name: S 3.4
   topic: Derivative as a Rate of Change
-  urlblank: http://jrfaudree.github.io/M251s23/3-4-Derivatives-as-Rates-of-Change-day2.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-4-Derivatives-as-Rates-of-Change-day2-ss.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-4-Derivatives-as-Rates-of-Change-day2.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-4-Derivatives-as-Rates-of-Change-day2-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_b1lmk4fd
 - name: S 3.3, 3.4 Extra
   topic: More 3.3,3.4 
-  urlblank: http://jrfaudree.github.io/M251s23/3-3-and-3-4-clean-up.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-3-and-3-4-clean-up-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-3-and-3-4-clean-up.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-3-and-3-4-clean-up-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_3jd33ier
 - name: S 3.5
   topic: Derivatives of Trig Functions
