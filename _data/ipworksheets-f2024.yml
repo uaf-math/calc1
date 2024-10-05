@@ -85,33 +85,33 @@
   urlvideo1: https://media.uaf.edu/media/t/1_mzskijwt/174165092
 - name: S 3.8
   topic: Implicit Differentiation
-  urlblank: http://jrfaudree.github.io/M251s23/3-8-implicit-differentiation.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-8-implicit-differentiation-solns.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-8-implicit-differentiation.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-8-implicit-differentiation-solns.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_0qx4zp25/174165092
 - name: S 3.7
   topic: Derivatives of Inverse Functions
-  urlblank: http://jrfaudree.github.io/M251s23/3-7-derivatives-of-inverse-functions.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-7-derivatives-of-inverse-function-filled.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-7-derivatives-of-inverse-functions.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-7-derivatives-of-inverse-function-filled.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_46j71qco/174165092
 - name: S 3.9 (day 1)
   topic: Derivatives of Exponentials and Logs
-  urlblank: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-9-exponentials-and-logs-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-9-derivatives-of-exponentials-and-logs.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-9-exponentials-and-logs-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_pigpdty4/174165092
 - name: S 3.9 (day 2)
   topic: Derivatives of Exponentials and Logs
-  urlblank: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs-b.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs-b-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-9-derivatives-of-exponentials-and-logs-b.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-9-derivatives-of-exponentials-and-logs-b-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_ab9sh4mk/174165092
 - name: S 4.1 (intro)
   topic: Related Rates
-  urlblank: http://jrfaudree.github.io/M251s23/4-1-Related-Rates-intro.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/4-1-Related-Rates-intro-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/4-1-Related-Rates-intro.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/4-1-Related-Rates-intro-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_9z286tod/174165092
 - name: S 4.1 (practice)
   topic: Related Rates
-  urlblank: http://jrfaudree.github.io/M251s23/4-1-Related-Rates.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/4-1-Related-Rates-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/M251s23/4-1-Related-Rates.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/4-1-Related-Rates-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_23ch244u/174165092
   urlvideo2: https://media.uaf.edu/media/t/1_64kd2b2d/174165092
 - name: S 4.2
