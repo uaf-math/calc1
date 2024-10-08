@@ -26,7 +26,7 @@ quizzes:
   versions:
   - name: Quiz 5
     blank: M251-F24-Quiz-5.pdf
-    solutions: M251_F24-Quiz-5-s.pdf
+    solutions: M251-F24-Quiz-5-s.pdf
 - name: Quiz 6
   versions:
   - name: Quiz 6
