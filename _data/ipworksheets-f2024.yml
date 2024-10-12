@@ -116,18 +116,18 @@
   urlvideo2: https://media.uaf.edu/media/t/1_64kd2b2d/174165092
 - name: S 4.2
   topic: Linearization and Differentials
-  urlblank: http://jrfaudree.github.io/M251s23/4-2-Linear-Approximations-and-Differentials.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/4-2-Linear-Approximations-and-Differentials-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/4-2-Linear-Approximations-and-Differentials.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/4-2-Linear-Approximations-and-Differentials-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_nn3ct7ir/174165092
 - name: S 4.3
   topic: Maximums and Minimums (day 1)
-  urlblank: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/4-3-Max-and-Mins.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/4-3-Max-and-Mins-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_19hg6zp8/174165092
 - name: S 4.3
   topic: Maximums and Minimums (day 2)
-  urlblank: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins-b.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins-b-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/4-3-Max-and-Mins-b.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/4-3-Max-and-Mins-b-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_h8mat2hl/174165092
 - name: S 4.5
   topic: Derivatives and Shape of Graphs (day 1)
