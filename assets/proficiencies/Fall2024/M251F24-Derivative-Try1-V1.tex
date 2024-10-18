@@ -1,0 +1,219 @@
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{\baselineskip 30pt
+\emph{\@doctitle\hfill\@docdate}
+\ifnum \value{page} > 1\relax\else\\
+\emph{Name: \rule{3.5in}{1pt}\ \hfill
+%Class (circle): \ \  Sync. \hfill Online%\@docscoring
+}
+\fi}
+\rfoot{\emph{\@docversion}}
+\lfoot{\emph{\@doccourse}}
+\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} to
+% start a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+
+
+\doctitle{Math F251X: Derivative Proficiency}
+\docdate{October 17, 2024}
+\doccourse{UAF Calculus I}
+\docversion{v-1 try 1}
+\docscoring{\blank{0.8in} / 12}
+
+\begin{document}
+\begin{itemize}
+\addtolength\itemsep{-1mm}
+\item There are 12 points possible on this proficiency, one point per problem. {\bf No partial credit will be given.}
+
+\item You have one hour to complete this proficiency.
+
+\item No aids (book, calculator, etc.) are permitted.  
+
+\item You do \textbf{not} need to simplify your expressions.
+
+\item You must show sufficient work to justify your final expression. A correct answer for a nontrivial computation with no supporting work will be marked as incorrect.
+
+
+\item Your final answers \textbf{must start with} $f'(x)=$, $\frac{dy}{dx}=$, or similar.
+
+\item {\bf \fbox{Draw a box around your final answer.}}
+\end{itemize}
+
+\problem{12}  Compute the derivatives of the following functions.
+\begin{subproblems}
+
+%%% page 2
+
+\item $\ds f(t) = 4t^{9} + \frac{5}{t} + \sqrt{\frac{3}{7}}$
+
+\vfill
+
+\item $\ds g(x) =  \ln( 7x^{2}) + \cot(x)$\\  \\
+
+%\textcolor{red}{BEFORE:} $\ds g(x) =  \log_{5}( 7x^{2}) + \sin(x)$\\
+%\textcolor{blue}{I changed the base from 5 to e. Make the problems on page 1 easier. Include non-standard logarithm in part (i)}
+\vfill
+
+\item   $\ds y = e^{2x^{3}-4}\cos(6x-8)$
+\vfill
+
+%\item   $\ds f(\theta)=\ln(\tan \theta + \csc \theta)$
+%\vfill
+
+\newpage
+
+\item   $\ds h(x) = \frac{5\csc(3x)}{11e^{x} +  \sqrt{2}}$
+\vfill
+
+
+
+\item   $\ds j(\theta) = \ln( \tan(\theta) + \sin(4\theta) )$\\
+
+
+
+\vfill
+
+
+\item   $\ds f(x) = 3^{x}(Ax+B)^{-1/2}, $ where $A$ and $B$ are fixed constants \\
+
+
+%\textcolor{red}{BEFORE:} $\ds f(x) = 3^{x}\cos(5x^{2} - \ln(2)) $\\
+%\textcolor{blue}{I changed the second function from cosine to a function that includes parameters and uses the chain rule where the outside function is a power. I moved the $\ln(2)$ constant to the next problem.}
+
+\vfill
+
+
+
+\newpage
+
+%%%page 3
+\item   $\ds y =  {\pi}\;{\sec(x)}+\ln(2)$\\
+
+
+%\textcolor{red}{BEFORE:} $\ds y =  \frac{\pi}{\sec(x)} $\\
+%\textcolor{blue}{I moved secant to the numerator so students have to know its derivative and added the $\ln(2)$ constant to the previous problem.}
+
+\vfill
+
+\item   $\ds k(t) = \frac{t^{2} - 5t + 6}{t^{3/2}} $
+\vfill
+
+\item   $\ds f(h) = \frac{h+\log_{5}(h^2)}{8}$\\
+
+%\textcolor{red}{BEFORE:} $\ds f(h) = \ln(\sqrt[3]{4x^{5}+3}) $\\
+%\textcolor{blue}{I moved the nonstandard logarithm here and added a modest intelligent use of constants aspect. It is also simplified so that the chain rule is not needed if log rules are applied.}
+
+\vfill
+
+
+
+\newpage
+%%%% page 4
+
+
+\item   $\ds y = \sqrt[3]{e^2+e^{\sin(x)}}$\\
+
+%\textcolor{red}{BEFORE:} $\ds y = \sqrt{\frac{2^{x}}{x^{2}}} $\\
+%\textcolor{blue}{I just changed this problem. It allowed me to add a second double-chain rule problem. Also,  I was thinking that non-standard bases should appear exactly twice: once as an exponential and once as a logarithm. Since it appeared earlier, I ditched it here. }
+
+\vfill
+\vfill
+
+\item  $\ds f(x)= \arctan{(6x)}$ $\quad$ (this is the same as writing $\ds f(x)=\tan^{-1}{(6x)}$)
+\vfill
+
+\item  Find $\ds \frac{dy}{dx}$ for $\ds 
+y^{4} + \cos(x + y^{2}) = x^{3} - 7
+.$ {\it [You must solve for $\ds \frac{dy}{dx}$.]}\\
+
+%\textcolor{red}{BEFORE:} $\ds \frac{dy}{dx}$ for $\ds 
+%y^{4} + \cot(x + y^{2}) = x^{3} - 7x
+%.$\\
+%\textcolor{blue}{I made it easier by changing the cotangent to cosine and I changed the 7x to 7.}
+
+
+
+\vfill
+\vfill
+
+
+
+\end{subproblems}
+\end{document}
