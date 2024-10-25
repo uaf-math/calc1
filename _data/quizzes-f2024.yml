@@ -30,8 +30,8 @@ quizzes:
 - name: Quiz 6
   versions:
   - name: Quiz 6
-    blank: M251F24_Q6.pdf
-    solutions: M251F24_Q6-solutions.pdf
+    blank: M251-F24-Quiz-6.pdf
+    solutions: M251-F24-Quiz-6-s.pdf
 - name: Quiz 7
   versions:
   - name: Quiz 7
