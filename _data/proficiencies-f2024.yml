@@ -7,7 +7,10 @@ derivative:
       solutions: M251F24-Derivative-Try1-V1-s-corrected.pdf
     - name: V2 (try 1)
       blank: M251F24-Derivative-Try1-V2.pdf
-      solutions: M251F24-Derivative-Try1-V2-s.pdf   
+      solutions: M251F24-Derivative-Try1-V2-s.pdf  
+    - name: V3 (try 2)
+      blank: M251F24-Derivative-Try2-V1.pdf
+      solutions: M251F24-Derivative-Try2-V1-s.pdf  
 integral:
   versions:
     - name: V1
