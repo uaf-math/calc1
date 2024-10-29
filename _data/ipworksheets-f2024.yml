@@ -5,7 +5,7 @@
 - name: 
   topic: Review of Functions
   urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/Week_1_functions.pdf
-  urlfilled: assets/materials/Fall2024/Week_1_functions-sol.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/Week_1_functions-sol.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_ptg7od4y
   urlvideo2: https://media.uaf.edu/media/t/1_lody9wnc
 - name: 
@@ -20,114 +20,114 @@
   urlvideo1: https://media.uaf.edu/media/t/1_jwz9nvcn/174165092
 - name: S 2.2
   topic: Intro to Limits
-  urlblank: http://jrfaudree.github.io/M251f2022/ch2/2-2-Limit-of-a-Function.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/ch2/2-2-Limit-of-a-Function-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/2-2-Limit-of-a-Function.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/2-2-Limit-of-a-Function-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_dmxdhjdv/174165092
 - name: S 2.3
   topic: Limit Laws, Squeeze Theorem
-  urlblank: http://jrfaudree.github.io/M251s23/2-3-Limit-Laws.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/2-3-Limit-Laws-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/2-3-Limit-Laws.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/2-3-Limit-Laws-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_auki8xj3/174165092
 - name: S 2.4
   topic: Continuity
-  urlblank: http://jrfaudree.github.io/M251f2022/ch2/2-4-Continuity.pdf
-  urlfilled: http://jrfaudree.github.io/M251f2022/ch2/2-4-Continuity-ss.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/2-4-Continuity.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/2-4-Continuity-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_wvmvdv2y/174165092
 - name: S 3.1
   topic: Defining the Derivative
-  urlblank: http://jrfaudree.github.io/M251s23/3-1-def-derivative.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-1-def-derivative-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-1-def-derivative.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-1-def-derivative-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_qoh7dv5j
 - name: S 3.2
   topic: The Derivative as a Function
-  urlblank: http://jrfaudree.github.io/M251s23/3-2_derivative_as-function.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-2_derivative_as-function-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-2_derivative_as-function.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-2_derivative_as-function-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_4m1qx86q
 - name: S 3.3 (day 1)
   topic: Derivative Rules (including Product and Quotient)
-  urlblank: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-a.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-a-ss.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-3_derivative_rules-a.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-3_derivative_rules-a-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_pmq5mz58
 - name: S 3.3 (day 2)
   topic: Practice and Application of Derivative Rules
-  urlblank: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-b.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-3_derivative_rules-bs.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-3_derivative_rules-b.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-3_derivative_rules-bs.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_vkwyhfwf
 - name: S 3.4
   topic: Derivative as a Rate of Change
-  urlblank: http://jrfaudree.github.io/M251s23/3-4-Derivatives-as-Rates-of-Change-day2.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-4-Derivatives-as-Rates-of-Change-day2-ss.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-4-Derivatives-as-Rates-of-Change-day2.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-4-Derivatives-as-Rates-of-Change-day2-ss.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_b1lmk4fd
 - name: S 3.3, 3.4 Extra
   topic: More 3.3,3.4 
-  urlblank: http://jrfaudree.github.io/M251s23/3-3-and-3-4-clean-up.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-3-and-3-4-clean-up-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-3-and-3-4-clean-up.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-3-and-3-4-clean-up-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_3jd33ier
 - name: S 3.5
   topic: Derivatives of Trig Functions
-  urlblank: http://jrfaudree.github.io/M251s23/3-5-derivatives-trig.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-5-derivatives-trig-ss.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-5-derivatives-trig.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-5-derivatives-trig-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_ansea1s8
 - name: S 3.5 extra
   topic: Derivatives of Trig Functions Extra
-  urlblank: http://jrfaudree.github.io/M251s23/3-5-derivatives-trig-extra.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-5-derivatives-trig-extra-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-5-derivatives-trig-extra.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-5-derivatives-trig-extra-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_e8taqs8i
 - name: S 3.6 (day 1)
   topic: The Chain Rule (first glimpse)
-  urlblank: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-a.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-a-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-6-Chain-Rule-a.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-6-Chain-Rule-a-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_1ieto7ts/174165092
 - name: S 3.6 (day 2)
   topic: The Chain Rule (more practice)
-  urlblank: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-b.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-6-Chain-Rule-b-ss.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-6-Chain-Rule-b.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-6-Chain-Rule-b-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_mzskijwt/174165092
 - name: S 3.8
   topic: Implicit Differentiation
-  urlblank: http://jrfaudree.github.io/M251s23/3-8-implicit-differentiation.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-8-implicit-differentiation-solns.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-8-implicit-differentiation.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-8-implicit-differentiation-solns.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_0qx4zp25/174165092
 - name: S 3.7
   topic: Derivatives of Inverse Functions
-  urlblank: http://jrfaudree.github.io/M251s23/3-7-derivatives-of-inverse-functions.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-7-derivatives-of-inverse-function-filled.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-7-derivatives-of-inverse-functions.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-7-derivatives-of-inverse-function-filled.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_46j71qco/174165092
 - name: S 3.9 (day 1)
   topic: Derivatives of Exponentials and Logs
-  urlblank: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-9-exponentials-and-logs-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-9-derivatives-of-exponentials-and-logs.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-9-derivatives-of-exponentials-and-logs-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_pigpdty4/174165092
 - name: S 3.9 (day 2)
   topic: Derivatives of Exponentials and Logs
-  urlblank: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs-b.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/3-9-derivatives-of-exponentials-and-logs-b-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/3-9-derivatives-of-exponentials-and-logs-b.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/3-9-derivatives-of-exponentials-and-logs-b-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_ab9sh4mk/174165092
 - name: S 4.1 (intro)
   topic: Related Rates
-  urlblank: http://jrfaudree.github.io/M251s23/4-1-Related-Rates-intro.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/4-1-Related-Rates-intro-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/4-1-Related-Rates-intro.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/4-1-Related-Rates-intro-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_9z286tod/174165092
 - name: S 4.1 (practice)
   topic: Related Rates
-  urlblank: http://jrfaudree.github.io/M251s23/4-1-Related-Rates.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/4-1-Related-Rates-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/4-1-Related-Rates.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/4-1-Related-Rates-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_23ch244u/174165092
   urlvideo2: https://media.uaf.edu/media/t/1_64kd2b2d/174165092
 - name: S 4.2
   topic: Linearization and Differentials
-  urlblank: http://jrfaudree.github.io/M251s23/4-2-Linear-Approximations-and-Differentials.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/4-2-Linear-Approximations-and-Differentials-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/4-2-Linear-Approximations-and-Differentials.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/4-2-Linear-Approximations-and-Differentials-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_nn3ct7ir/174165092
 - name: S 4.3
   topic: Maximums and Minimums (day 1)
-  urlblank: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/4-3-Max-and-Mins.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/4-3-Max-and-Mins-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_19hg6zp8/174165092
 - name: S 4.3
   topic: Maximums and Minimums (day 2)
-  urlblank: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins-b.pdf
-  urlfilled: http://jrfaudree.github.io/M251s23/4-3-Max-and-Mins-b-s.pdf
+  urlblank: http://uaf-math251.github.io/assets/materials/Fall2024/4-3-Max-and-Mins-b.pdf
+  urlfilled: http://uaf-math251.github.io/assets/materials/Fall2024/4-3-Max-and-Mins-b-s.pdf
   urlvideo1: https://media.uaf.edu/media/t/1_h8mat2hl/174165092
 - name: S 4.5
   topic: Derivatives and Shape of Graphs (day 1)
@@ -227,7 +227,7 @@
   urlvideo1: https://media.uaf.edu/media/t/1_bsdxk232
 - name: 
   topic: Midterm I Review
-  urlblank: http://jrfaudree.github.io/M251s23/Midterm-I-Review.pdf
+  urlblank:  http://uaf-math251.github.io/assets/materials/Fall2024/Midterm-I-Review.pdf
 - name: 
   topic: Midterm II Review
   urlblank: http://jrfaudree.github.io/M251s23/Midterm-II-Review.pdf

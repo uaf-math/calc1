@@ -4,14 +4,14 @@ quizzes:
 - name: Quiz 1
   versions:
   - name: Quiz 1
-    blank: holder.pdf
-    solutions: holder.pdf
+    blank: M251F24-Quiz-1.pdf
+    solutions: M251F24-Quiz-1-s.pdf
 - name: ALEKS Quiz 
 - name: Quiz 2
   versions:
   - name: Quiz 2
     blank: M251F24_Q2.pdf
-    solutions: M251F24_Q2-solutions.pdf
+    solutions: M251F24_Q2-s.pdf
 - name: Quiz 3
   versions:
   - name: Quiz 3
@@ -20,23 +20,23 @@ quizzes:
 - name: Quiz 4
   versions:
   - name: Quiz 4
-    blank: M251F24_Q4.pdf
-    solutions: M251F24_Q4-solutions.pdf
+    blank: M251-F24-Quiz-4.pdf
+    solutions: M251-F24-Quiz-4-s.pdf
 - name: Quiz 5
   versions:
   - name: Quiz 5
-    blank: M251F24_Q5.pdf
-    solutions: M251F24_Q5-solutions.pdf
+    blank: M251-F24-Quiz-5.pdf
+    solutions: M251-F24-Quiz-5-s.pdf
 - name: Quiz 6
   versions:
   - name: Quiz 6
-    blank: M251F24_Q6.pdf
-    solutions: M251F24_Q6-solutions.pdf
+    blank: M251-F24-Quiz-6.pdf
+    solutions: M251-F24-Quiz-6-s.pdf
 - name: Quiz 7
   versions:
   - name: Quiz 7
-    blank: M251F24_Q7.pdf
-    solutions: M251F24_Q7-solutions.pdf
+    blank: M251-F24-Quiz-7.pdf
+    solutions: M251-F24-Quiz-7-s.pdf
 - name: Quiz 8
   versions:
   - name: Quiz 8
