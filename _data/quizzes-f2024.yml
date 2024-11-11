@@ -40,13 +40,13 @@ quizzes:
 - name: Quiz 8
   versions:
   - name: Quiz 8
-    blank:  M251F24_Q8.pdf
-    solutions: M251-F24-Quiz-8-s.pdf
-#- name: Quiz 9
-#  versions:
-#  - name: Quiz 9
-#    blank: 
-#    solutions: 
+    blank:  M251-F24-Quiz-8.pdf
+    solutions: M251-F24-Quiz-8-solutions.pdf
+- name: Quiz 9
+  versions:
+  - name: Quiz 9
+    blank: blah.pdf
+    solutions: blah.pdf
 #- name: Quiz 10
 #  versions:
 #  - name: Quiz 10
