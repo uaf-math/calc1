@@ -45,8 +45,8 @@ quizzes:
 - name: Quiz 9
   versions:
   - name: Quiz 9
-    blank: blah.pdf
-    solutions: blah.pdf
+    blank: M251-F24-Quiz-9.pdf
+    solutions: MM251-F24-Quiz-9-s.pdf
 #- name: Quiz 10
 #  versions:
 #  - name: Quiz 10
