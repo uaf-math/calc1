@@ -8,12 +8,16 @@ midterm1:
     - name: V2
       blank: M251-F24-M1-V2.pdf
       solutions: M251-F24-M1-V1-solutions.pdf
-#midterm2:
- # versions:
-  #  - name: V1 
-   #   blank: M251-S24-M2-V1.pdf
-    #  solutions: M251-S24-M2-V1-solutions.pdf
-     # video: https://media.uaf.edu/media/t/1_w9a4m1tr
+midterm2:
+  versions:
+    - name: V1 
+      blank: M251-F24-M2-V1-alt.pdf
+      solutions: M251-F24-M2-V1-alt-s.pdf
+      #video: https://media.uaf.edu/media/t/1_w9a4m1tr
+    - name: V1 
+      blank: M251-F24-M2-V2-alt.pdf
+      solutions: M251-F24-M2-V2-alt-s.pdf
+      #video: https://media.uaf.edu/media/t/1_w9a4m1tr
 #final:
  # versions:
   #  - name: V1 
