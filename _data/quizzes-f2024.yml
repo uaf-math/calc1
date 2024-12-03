@@ -47,8 +47,8 @@ quizzes:
   - name: Quiz 9
     blank: M251-F24-Quiz-9.pdf
     solutions: M251-F24-Quiz-9-s.pdf
-#- name: Quiz 10
-#  versions:
-#  - name: Quiz 10
-#    blank: 
-#    solutions: 
+- name: Quiz 10
+  versions:
+  - name: Quiz 10
+    blank: M251-F24-Quiz-10-Final.pdf
+    solutions: M251-F24-Quiz-10-Final-s.pdf 
