@@ -2,23 +2,23 @@ semester: Fall 2024
 home: assets/proficiencies/Fall2024
 derivative:
   versions:
-    - name: V1 (try 1)
+    - name: Try 1 (version 1)
       blank: M251F24-Derivative-Try1-V1.pdf
       solutions: M251F24-Derivative-Try1-V1-s-corrected.pdf
-    - name: V2 (try 1)
+    - name: Try 1 (version 2)
       blank: M251F24-Derivative-Try1-V2.pdf
       solutions: M251F24-Derivative-Try1-V2-s.pdf  
-    - name: V3 (try 2)
+    - name: Try 2 (version 1)
       blank: M251F24-Derivative-Try2-V1.pdf
       solutions: M251F24-Derivative-Try2-V1-s.pdf  
 integral:
   versions:
-    - name: V1
-      blank: M251-F23-Integral-v1.pdf
-      solutions: M251-F23-Integral-v1-solutions.pdf
-#    - name: V2
-#      blank: M251-F23-Integral-v2.pdf
-#      solutions: M251-F23-Integral-v2-solutions.pdf
-    - name: Retake
+    - name: Try 1 (version 1)
+      blank: M251F24-Integral-Try1-V1.pdf
+      solutions: M251F24-Integral-Try1-V1-s.pdf
+    - name: Try 1 (version 2)
+      blank: M251F24-Integral-Try1-V2.pdf
+      solutions: M251F24-Integral-Try1-V2-s.pdf
+    - name: Try 2 (version 1)
       blank: M251-F23-Integral-v2.pdf
       solutions:  M251-F23-Integral-v2-solutions.pdf
