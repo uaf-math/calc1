@@ -1,0 +1,178 @@
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{\baselineskip 30pt
+\emph{\@doctitle\hfill\@docdate}
+\ifnum \value{page} > 1\relax\else\\
+\emph{Name: \rule{3.5in}{1pt}\ \hfill
+%Class (circle): \ \  Sync. \hfill Online%\@docscoring
+}
+\fi}
+\rfoot{\emph{\@docversion}}
+\lfoot{\emph{\@doccourse}}
+\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} to
+% start a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+
+
+\doctitle{Math F251X: Integral Proficiency}
+\docdate{December 3, 2024}
+\doccourse{UAF Calculus I}
+\docversion{v-2 try 1}
+\docscoring{\blank{0.8in} / 12}
+
+\begin{document}
+\begin{itemize}
+\addtolength\itemsep{-1mm}
+\item There are 12 points possible on this proficiency, one point per problem. {\bf No partial credit will be given.}
+
+\item You have one hour to complete this proficiency.
+
+\item No aids (book, calculator, etc.) are permitted.  
+
+\item You do \textbf{not} need to simplify your expressions.
+
+\item Correct parenthesization is required.
+
+\item Do not put a $+C$ where it does not belong, and you must include $+C$ where it is needed.
+
+\item You must show sufficient work to justify your final expression. A correct answer for a nontrivial computation with no supporting work will be marked as incorrect.
+\end{itemize}
+
+\problem{12}  Compute the following integrals.
+
+\begin{subproblems}
+
+
+\item   $\ds \int (x^{-3}  - e^x + 2x^5) \: dx$\\
+%power rule with negative exponent, e^x, a super simple beginning problem
+\vfill
+
+\item   $\ds \int  \frac{3}{5x-1} \: dx$
+%u is the denominator
+\vfill
+
+\item   $\ds \int \left(\sin \theta + \sec \theta \tan \theta  + \csc(\pi/4)\right) \: d\theta$\\
+% cos, sec*tan, constant
+\vfill
+
+\newpage
+
+\item   $\ds \int e^x\cos(e^x+1) \: dx$ \\
+%SUPER EASY u-sub: sin(u),sin(x)
+\vfill
+
+\item   $\ds \int \pi\left(\frac{x-5}{2}\right) \: dx$\\
+%managing simple constants
+\vfill
+
+\item   $\ds \int \frac{1+\ln(x)}{2x} \: dx$
+%u-sub using deductive reasoning
+\vfill
+
+\newpage
+
+\item   $\ds \int \left(\frac{1}{x} + e^{3x} + \sec^2(2x) \right) \: dx$ \\
+%u-sub: e^u,sec^2(u),1/x
+\vfill
+
+\item   $\ds \int_0^{\pi/2} \frac{3 \sin(x)}{\sqrt{1+5\cos(x)}}\: dx$
+%definite integral requiring a substitution,u-sub: 1/sqrt(u)
+\vfill
+
+\item   $\ds \int \frac{e^3}{1+x^2} \: dx$\\
+% arctan
+\vfill
+
+\newpage
+
+\item $\ds \int_1^4 \frac{x^2 - 2\sqrt{x}}{x} \: dx$\\
+%quotient requiring simplification,definite integral without substitution,power rule with fractional exponent
+\vfill
+
+\item   $\ds \int bx^p \: dx$ \hspace{.1in}   where $b$ and $p$ are positive constants
+%parameters
+\vfill
+
+\item   $\ds \int x(x+2)^{9}\: dx$\\
+%sophisticated u-sub
+\vfill
+
+\end{subproblems}
+\end{document}
