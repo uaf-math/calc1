@@ -18,11 +18,11 @@ midterm2:
       blank: M251-F24-M2-V2-alt.pdf
       solutions: M251-F24-M2-V2-alt-s.pdf
       #video: https://media.uaf.edu/media/t/1_w9a4m1tr
-#final:
- # versions:
-  #  - name: V1 
-   #   blank: M251-S24-Final-V1.pdf
-    #  solutions: M251-S24-Final-V1-solutions.pdf
-    # - name: V2 
-     # blank: M251-S24-Final-V2.pdf
-      #solutions:
+final:
+  versions:
+    - name: V1 
+      blank: M251-F24-Final-V1.pdf
+      solutions: M251-F24-Final-V1-s.pdf
+    - name: V2 
+      blank: M251-F24-Final-V2.pdf
+      solutions: M251-F24-Final-V2-s.pdf
