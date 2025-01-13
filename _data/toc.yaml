@@ -17,8 +17,8 @@ docs:
 - title: Schedule (asynchronous section)
   url: assets/general/Spring2025/M251-async-Spring2025_Weekly_Schedule.xlsx
 
-# - title: Schedule (asynchronous section)
-#   url: https://docs.google.com/spreadsheets/d/1ysJXOmiR5ZQX8CcmiK9J5uPa4XemRZKAgZnFU28WL6Y/pubhtml?gid=0&single=true
+- title: Schedule (asynchronous section)
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vS24A40lSKt4ocBdfveu2KQkBlyJvLu-S04X4DT3hhRyD2QUvocfQRvgvzaqhRE6auUUCBJxdSA3NXT/pubhtml
 
 - title: Recitations
   url: recitations.html
