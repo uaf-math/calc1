@@ -9,7 +9,10 @@ docs:
   url: assets/general/Spring2025/M251_s2025_syllabus-async.pdf
 
 - title: Schedule (in person sections)
-  url: https://docs.google.com/spreadsheets/d/1VwEMMoKAHmOmqFwuJAieo1n_GaDg2xno8EuO7Nv7kLs/pubhtml?gid=1103770719&single=true
+  url: assets/general/Spring2025/M251-InPerson-Spring2025_Weekly_Schedule.xlsx
+
+# - title: Schedule (in person sections)
+#   url: https://docs.google.com/spreadsheets/d/1VwEMMoKAHmOmqFwuJAieo1n_GaDg2xno8EuO7Nv7kLs/pubhtml?gid=1103770719&single=true
 
 - title: Schedule (asynchronous section)
   url: https://docs.google.com/spreadsheets/d/1ysJXOmiR5ZQX8CcmiK9J5uPa4XemRZKAgZnFU28WL6Y/pubhtml?gid=0&single=true
