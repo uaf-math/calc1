@@ -26,14 +26,14 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 | Instructor| Location | Day/Time |
 | :---------| :------------| :----------|
-| James Gossell | Math Lab, Student Success Center | Friday, 10:30 - 11:30AM|
-|| Murie 103/105| Monday, Wednesday, Friday 8:30 - 9:00AM|
+| James Gossell | Chapman 301D | Monday, Wednesday 2:15 - 3:00AM|
+|| Math Lab, Student Success Center | Friday 11:00AM - 12:00PM|
 ||||
-| Kevin Meek | Office, Chapman 301C | MF 1:30PM-2:30PM|
-|| Math and Stats Lab | W 1:30PM-2:30PM |
+| Kevin Meek | Office, Chapman 301C | MF 1:30 - 2:30PM|
+|| Math and Stats Lab | W 1:30 - 2:30PM |
 ||||
-| Deven Barnett | Online via Zoom | Monday, 10:30AM - 11:30AM|
-|| Link in Canvas | Tuesday 2:15 - 3:15, Friday 9AM - 10AM|
+| Deven Barnett | Online via Zoom | Wednesday 6:00 - 7:00PM|
+|| Link in Canvas | Tuesday 2:15 - 3:15, Friday 3:00 - 4:00PM|
 ||||
 
 
