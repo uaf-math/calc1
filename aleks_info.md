@@ -17,7 +17,7 @@ Taking the ALEKS assessment **replaces** the Tuesday, 21 January Recitation.
 
 ## Dates and Locations
 
-* Complete your ALEKS PPL assessment by Wednesday September 4.
+* Complete your ALEKS PPL assessment on Tuesday, 21 January.
 * Location: Chapman Hall 103
 * What to bring: some ID
 
