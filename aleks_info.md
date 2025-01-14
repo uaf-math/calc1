@@ -13,7 +13,7 @@ The reason you are taking this assessment is to help you have a better sense of 
 
 The score on your ALEKS quiz will be averaged with your score on the paper-and-pencil Quiz 1. This average will be the first quiz score in your Quiz Average.
 
-Taking the ALEKS assessment **replaces** the Tuesday September 3 Recitation.
+Taking the ALEKS assessment **replaces** the Tuesday, 21 January Recitation.
 
 ## Dates and Locations
 
