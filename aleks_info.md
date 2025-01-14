@@ -18,18 +18,9 @@ Taking the ALEKS assessment **replaces** the Tuesday September 3 Recitation.
 ## Dates and Locations
 
 * Complete your ALEKS PPL assessment by Wednesday September 4.
-* Location: eCampus Testing Services Bunnell Room 131
+* Location: Chapman Hall 103
 * What to bring: some ID
 
 ## Sign-up Procedures
 
-You will take this assessment through eCampus.
-
-* Go to eCampus [Register Blast](https://www.registerblast.com/uaf/Exam/List) page
-* In Step 1 "Choose exam group", select **ALEKS Placement (UAF)**.
-* In Step 2 "Choose an exam", select **MATH F251X (In Person: Section 901, 902, 904)**
-  The page will fill in Step 3 with an "Exam Description"
-* In Step 4 "Choose a Date", select a date that works for you.
-* In Step 5 "Chose a Time", select a time that works for you.
-* The remainder of the form asks for basic information such as your name, email, and phone. Once completed, you will get a confirmation screen and you will get an email confirmation. 
-
+Info coming soon.
