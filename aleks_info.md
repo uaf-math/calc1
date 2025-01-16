@@ -31,19 +31,6 @@ proctored assessment on Tuesday January 21.
 **Schedule** a two-hour time slot with eCampus. Students must complete
 the assessment by Friday, 24 January.
 
-## How to first log into ALEKS PPL
-James Gossell
-	
-17:41 (4 hours ago)
-	
-to me
-Kevin,
-
-Actually, when you get a chance, could you go update our ALEKS info page on the Math F251 website by replacing "Info coming soon" with something like the following:
-
-
-By Friday, January 17, **schedule** a two-hour time slot to take your proctored ALEKS assessment. In-person students will take their proctored assessment on Tuesday January 21. Online students must complete the assessment by Friday January 24.
-
 ## How to first log into ALEKS PPL.
 
 If you want to login to ALEKS in advance of your proctored ALEKS, the directions are below. The advantage of logging into ALEKS in advance is to make things faster on the day of the assessment or to fix any login issues (like forgetting your password). It is not mandatory that you login ahead of time, but it is strongly recommended!
