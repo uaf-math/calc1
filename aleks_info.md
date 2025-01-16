@@ -21,10 +21,10 @@ For in-person sections, taking the ALEKS assessment **replaces** the Tuesday, 21
 
 ## Sign-up Procedures for in-person sections
 
-By Friday, January 17, **schedule** a two-hour time slot to take your
+By Friday, 17 January, **schedule** a two-hour time slot to take your
 proctored ALEKS assessment (link in course announcement and on
 Canvas). Students will take their
-proctored assessment on Tuesday January 21.
+proctored assessment on Tuesday, 21 January.
 
 ## Dates and sign-up for online sections
 
