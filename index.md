@@ -29,8 +29,8 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 | James Gossell | Chapman 301D | MW 2:15 - 3:00PM|
 || Math Lab, Student Success Center | F 11:00AM - 12:00PM|
 ||||
-| Kevin Meek | Office, Chapman 301C | MF 1:30 - 2:30PM|
-|| Math and Stats Lab | W 1:30 - 2:30PM |
+| Kevin Meek | Office, Chapman 301C | WF 1:30 - 2:30PM|
+|| Math and Stats Lab | M 1:30 - 2:30PM |
 ||||
 | Deven Barnett | Online via Zoom | W 6:00 - 7:00PM|
 || Link in Canvas | F 3:00 - 4:00PM|
