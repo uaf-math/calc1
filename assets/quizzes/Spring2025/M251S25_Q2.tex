@@ -1,0 +1,207 @@
+
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc}
+\pgfplotsset{compat = newest}
+ 
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{\baselineskip 30pt
+%\emph{\@doctitle\hfill\@docdate}
+\emph{\@docdate\hfill\@doctitle}
+\ifnum \value{page} > 1\relax\else\\
+\emph{Name: \rule{3.5in}{1pt}\hfill \@docscoring}\fi}
+\rfoot{\emph{\@docversion}}
+\lfoot{\emph{\@doccourse}}
+\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} to
+% start a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+\def\be{\begin{enumerate}}
+\def\ee{\end{enumerate}}
+
+
+\doctitle{Math 251: Quiz 2}
+\docdate{Jan 23, 2025}
+\doccourse{UAF Calculus I}
+\docversion{v-1}
+\docscoring{\blank{0.8in} / 25}
+\begin{document}
+%\textbf{Please circle your instructor's name:} \hfill Leah Berman  \hfill   Jill Faudree\\
+
+There are 25 points possible on this quiz. No aids (book, calculator, etc.)
+are permitted.  {\bf Show all work for full credit.}
+
+\problem{10} Let $P(0,1)$ be a point on the graph of $f(x)=\displaystyle{\sqrt{x+1}}.$
+\begin{subproblems}
+%\item Find the \textbf{slope of the secant line} passing through $P$ and the point $Q(8,f(8)).$ 
+%\vfill
+
+\item Find the \textbf{slope of the secant line} passing through $P$ and the point $Q(3,f(3)).$
+
+\vfill
+
+\item The table below lists the slope ($m_{sec}$) of the secant line passing through the point $P$ and the point $Q(x, f(x))$ for several values of $x.$ \\
+
+\begin{tabular}{l || c|c|c|c|c|c}
+x&-1&-0.1&-0.01&0.01&0.1&1 \\
+\hline
+f(x)&0&0.9487&0.9950&1.0050&1.0488&1.4142 \\
+\hline
+$m_{sec}$&1.0&0.5132&0.5013&0.4988&0.4881&0.4142 \\
+\end{tabular}
+
+\vskip 0.5cm
+Use the information in the table to estimate the \textbf{slope of the tangent line} to $f(x)$ at the point $P(0,1).$
+\vfill
+
+
+\item Use the slope from part (b) above to write an \textbf{equation of the tangent line} at point $P(0,1).$
+
+\vfill
+
+\item \quad 
+
+\begin{multicols}{2}
+\begin{tikzpicture}
+ \begin{axis}[
+    xmin = -1.5, xmax = 6,
+    ymin = -1.5, ymax = 4, xtick={-1,0,...,5}, ytick={-1,0,...,5},
+    grid=both, grid style={ thin, black!60, dashed},axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}]
+    \addplot[ultra thick, ->,samples=100,
+        domain = -1:6,
+    ] {(x+1)^(1/2)};
+    %\addplot[thick,->] coordinates {(-1,0) (6,0)};
+\end{axis}
+\end{tikzpicture}
+
+Left is a sketch of the graph of $\displaystyle{f(x)=\sqrt{x+1}}$. \\
+
+\textbf{Sketch and label the tangent line} to the graph at the point $P(0,1).$\\
+
+\textbf{Sketch and label the secant line} between $P(0,1)$ and $Q(3,f(3)).$
+\end{multicols}
+\end{subproblems}
+\newpage
+
+\problem{5} A professional cyclist is riding along a straight road. For the first minute, the distance in feet that the cyclist has traveled after $t$ seconds is given by the function $\displaystyle p(t)=\frac{1}{2} t^2+t$. Find the \textbf{average velocity} of the cyclist between $t=2$ and $t=4$ seconds. Include units with your answer.
+\vfill
+
+\problem{8} Evaluate the expressions below. Assume all angles are measured in radians.\\
+
+
+\begin{subproblems}
+\begin{multicols}{2}
+	\item $\displaystyle \cos ( \pi /4)= $
+	\item $\displaystyle \sin(7 \pi /6)=$
+\end{multicols}
+\vspace{1in}	
+\begin{multicols}{2}
+	\item $\displaystyle \tan (\pi /3)= $
+	\item $\displaystyle \sin (- \pi /2) =$
+\end{multicols}
+\vspace{1in}
+\end{subproblems}
+
+
+\problem{2} Use the right triangle below, with side lengths 12, 5, and 13,  to evaluate the expressions.\\
+
+\vspace{.1in}
+
+\begin{multicols}{2}
+\begin{tikzpicture}[scale=0.3]
+\draw[ultra thick] (0,0) -- (12,0) -- (12,5) -- (0,0);
+\node at (6,-1){12}; 
+\node at (13,2.5){5}; \node at (6,4){13};
+\draw [ultra thick,domain=0:25] plot ({3*cos(\x)}, {3*sin(\x)});
+\node at (4,.9){$\theta$};
+\draw (11,0) -- (11,1) -- (12,1);
+\end{tikzpicture}
+\begin{subproblems}
+\item $\displaystyle \cot (\theta) =$
+\item $\displaystyle \sec (\theta) =$
+\end{subproblems}
+\end{multicols}
+\vspace{.5in}
+
+
+	
+\end{document}
+%%% Local Variables:
+%%% mode: LaTeX
+%%% TeX-master: t
+%%% End:
