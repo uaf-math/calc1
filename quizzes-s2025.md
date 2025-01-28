@@ -3,9 +3,9 @@ layout: course-page
 title: Quizzes
 ---
 
-## Quizzes Spring 2024
+## Quizzes Spring 2025
 
-{% include quiz_table.md  data=site.data.quizzes-s2024%}
+{% include quiz_table.md  data=site.data.quizzes-s2025%}
 
 #### Past Semesters:
   * [Fall 2024](quizzes-f2024)
