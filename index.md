@@ -37,6 +37,13 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 ||||
 
 
+### TA Information for Spring 2025
+
+| Section | Instructor                  |
+| :-------|:----------------------------|
+| All sections  | Torin Hooge           |
+|               | trhooge "at" alaska.edu   |
+
 ### Resources
 
 * Note that because Calculus I is coordinated at UAF, the course does not change much from one semester to the next. So you can see now what typical quizzes, tests and the final will look like using the menu on the left.
