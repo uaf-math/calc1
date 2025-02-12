@@ -17,3 +17,8 @@ quizzes:
   - name: Quiz 3
     blank: M251S25_Q3.pdf
     solutions: M251S25_Q3-solutions.pdf
+- name: Quiz 3
+  versions:
+  - name: Quiz 4
+    blank: M251S25_Q4.pdf
+    solutions: M251S25_Q4-solutions.pdf
