@@ -7,7 +7,7 @@ midterm1:
       solutions: M251-F24-M1-V1-solutions.pdf
     - name: V2
       blank: M251-F24-M1-V2.pdf
-      solutions: M251-F24-M1-V1-solutions.pdf
+      solutions: M251-F24-M1-V2-solutions.pdf
 midterm2:
   versions:
     - name: V1 
