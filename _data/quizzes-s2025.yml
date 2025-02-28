@@ -22,3 +22,8 @@ quizzes:
   - name: Quiz 4
     blank: M251S25_Q4.pdf
     solutions: M251S25_Q4-solutions.pdf
+- name: Quiz 5
+  versions:
+  - name: Quiz 5
+    blank: M251S25_Q5.pdf
+    solutions: M251S25_Q5-solutions.pdf
