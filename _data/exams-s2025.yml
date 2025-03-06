@@ -3,5 +3,5 @@ home: assets/exams/Spring2025
 midterm1:
   versions:
     - name: V1 
-      blank: M251-S24-M1-V1.pdf
-      solutions: M251-S25-M1-V1-solutions.pdf
+      blank: M251-S25-M1-V1.pdf
+      solutions: M251-S25-M1-V1-Solutions.pdf
