@@ -1,6 +1,6 @@
 <div class="x-scroll">
 <table class="asst-table">
-<tr><th>Sectiont</th><th>Problems</th></tr>
+<tr><th>Section</th><th>Problems</th></tr>
 {% for asst in include.data %}
 <tr style="">
 <td>{{asst.name}}</td>
