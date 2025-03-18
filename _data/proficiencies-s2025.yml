@@ -1,0 +1,27 @@
+semester: Spring 2025
+home: assets/proficiencies/Spring2025
+derivative:
+  versions:
+    - name: V1
+      blank: M251S25-Derivative-Try1-V1.pdf
+      solutions: M251S25-Derivative-Try1-V1-solutions.pdf
+#     - name: V2
+#       blank: M251s24-Derivative-v2b.pdf
+#       solutions: M251s24-Derivative-v2b Solutions.pdf 
+#     - name: V2 (Retake 1)
+#       blank: M251s24-Derivative-v3.pdf
+#       solutions: M251S24-Derivative-v3 Solutions.pdf
+#    - name: V3 (Retake 2)
+#      blank: 
+#      solutions: 
+# integral:
+#   versions:
+#     - name: V1
+#       blank: M251s24-Integral-v1.pdf
+#       solutions: M251s24-Integral-v1-solutions.pdf
+#     - name: V2
+#       blank: M251s24-Integral-v2.pdf
+#       solutions: M251s24-Integral-v2-solutions.pdf
+#     - name: V3
+#       blank: M251-F24-Integral-v3.pdf
+#       solutions: M251-F24-Integral-v3-solutions.pdf
