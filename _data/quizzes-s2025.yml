@@ -37,12 +37,12 @@ quizzes:
   - name: Quiz 7
     blank: M251S25_Q7.pdf
     solutions: M251S25_Q7-solutions.pdf
-- name: Quiz 6
+- name: Quiz 8
   versions:
   - name: Quiz 8
     blank: M251S25_Q8.pdf
     solutions: M251S25_Q8-solutions.pdf
-- name: Quiz 6
+- name: Quiz 9
   versions:
   - name: Quiz 9
     blank: M251S25_Q9.pdf
