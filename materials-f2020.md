@@ -111,7 +111,7 @@ Solutions will be posted after class at some point. Remind Leah if they are not 
 
 <!-- ## Fall 2019
 
-All the materials from both in-person sections of Calculus I can be found [HERE.](https://uaf-math251.github.io/inclass-stuff-fall-2019.html)
+All the materials from both in-person sections of Calculus I can be found [HERE.](https://uaf-math.github.io/calc1/inclass-stuff-fall-2019.html)
 
 ## Spring 2019
 

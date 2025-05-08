@@ -59,4 +59,4 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 - Free student resources online: [Student Resources](https://openstax.org/details/books/calculus-volume-1?Student%20resources)
 - Your grades and complete solutions to homework are available on [Canvas](https://www.uaf.edu/uaf/current/canvas.php)
 
-  [<img src="GitHub-Mark-32px.png" align="right">](https://github.com/uaf-math251/uaf-math251.github.io "github repository for this site")
+  [<img src="GitHub-Mark-32px.png" align="right">](https://github.com/uaf-math/calc1 "github repository for this site")
