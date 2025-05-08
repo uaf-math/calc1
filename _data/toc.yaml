@@ -1,5 +1,4 @@
 sidenav_title: 'Math 251'
-
 docs:
 
 - title: Syllabus (in person sections)
@@ -8,12 +7,11 @@ docs:
 - title: Syllabus (asynchronous section)
   url: assets/general/Spring2025/M251_s2025_syllabus-async.pdf
 
-
 - title: Schedule (in person sections)
-  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vT-7gB87JMGXsx8L1DfFKSmFtO2bOBTennLAaopg9D7x5POkT_D3KhW6oTd7ueJhRD633VKTCMmYQNU/pubhtml
+  link: https://docs.google.com/spreadsheets/d/e/2PACX-1vT-7gB87JMGXsx8L1DfFKSmFtO2bOBTennLAaopg9D7x5POkT_D3KhW6oTd7ueJhRD633VKTCMmYQNU/pubhtml
 
 - title: Schedule (asynchronous section)
-  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vS24A40lSKt4ocBdfveu2KQkBlyJvLu-S04X4DT3hhRyD2QUvocfQRvgvzaqhRE6auUUCBJxdSA3NXT/pubhtml
+  link: https://docs.google.com/spreadsheets/d/e/2PACX-1vS24A40lSKt4ocBdfveu2KQkBlyJvLu-S04X4DT3hhRyD2QUvocfQRvgvzaqhRE6auUUCBJxdSA3NXT/pubhtml
 
 - title: Recitations
   url: recitations.html
@@ -37,7 +35,7 @@ docs:
   url: exams.html
 
 - title: Textbook
-  url: https://openstax.org/details/books/calculus-volume-1
+  link: https://openstax.org/details/books/calculus-volume-1
 
 - title: Worksheets
   url: ipworksheets.html
