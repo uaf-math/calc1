@@ -23,7 +23,7 @@
 <div class="header"><a href="index.html#top" onclick="closeNav()">Math F251</a></div>
   {% for item in site.data.toc.docs %}
   <div class="entry"><a onclick="closeNav()"
-    {% if item.url %} href="{{ site.baseurl }}/{{ item.url }}"
+    {% if item.url %} href="{{ item.url }}"
     {% elsif item.link %} href="{{ item.link }}"
     {% endif %}
     alt="{{ item.title }}">{{ item.title }}</a></div>
