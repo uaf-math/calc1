@@ -8,10 +8,10 @@ docs:
   url: assets/general/Spring2025/M251_s2025_syllabus-async.pdf
 
 - title: Schedule (in person sections)
-  link: https://docs.google.com/spreadsheets/d/e/2PACX-1vT-7gB87JMGXsx8L1DfFKSmFtO2bOBTennLAaopg9D7x5POkT_D3KhW6oTd7ueJhRD633VKTCMmYQNU/pubhtml
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vT-7gB87JMGXsx8L1DfFKSmFtO2bOBTennLAaopg9D7x5POkT_D3KhW6oTd7ueJhRD633VKTCMmYQNU/pubhtml
 
 - title: Schedule (asynchronous section)
-  link: https://docs.google.com/spreadsheets/d/e/2PACX-1vS24A40lSKt4ocBdfveu2KQkBlyJvLu-S04X4DT3hhRyD2QUvocfQRvgvzaqhRE6auUUCBJxdSA3NXT/pubhtml
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vS24A40lSKt4ocBdfveu2KQkBlyJvLu-S04X4DT3hhRyD2QUvocfQRvgvzaqhRE6auUUCBJxdSA3NXT/pubhtml
 
 - title: Recitations
   url: recitations.html
@@ -35,7 +35,7 @@ docs:
   url: exams.html
 
 - title: Textbook
-  link: https://openstax.org/details/books/calculus-volume-1
+  url: https://openstax.org/details/books/calculus-volume-1
 
 - title: Worksheets
   url: ipworksheets.html
