@@ -1,6 +1,6 @@
 ---
 layout: course-page
-title: Math F251 Calculus I at UAF
+title: Math F251X Calculus I at UAF
 ---
 
 ### Welcome!
