@@ -13,27 +13,30 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 | Section | Instructor                  |    | Time             | Location |
 | :-------|:----------------------------|----| :----------------| :--------|
-| 901     | James Gossell               |    | MWF 9:15-10:15   | Murie 103/105 |
-|         | jegossell "at" alaska.edu   |    | T Th  9:45-11:15 | Murie 103/105 |
+| 901     | Kevin Meek              |    | MWF 9:15-10:15   | Murie 103/105 |
+|         | krmeek2 "at" alaska.edu   |    | T Th  9:45-11:15 | Murie 103/105 |
 ||||||
-| 902     | Kevin Meek                |    | MWF 11:45-12:45  | Chap 106 |
-|         | krmeek2 "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
+| 902     | James Gossell                |    | MWF 11:45-12:45  | Chap 106 |
+|         | jegossell "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
 ||||||
-| 001     | Deven Barnett                 |    | Asynchronous    |       |
-|         | dcbarnett "at" alaska.edu.   |    |    |       |
+| 903     | Margaret Short                |    | MWF 11:45-12:45  | Gruening 408 |
+|         | mshort18 "at" alaska.edu   |    | T Th  11:30-1:00 | Gruening 408 |
+||||||
+| 001     | James Gossell                |    | Asynchronous  |  |
+|         | jegossell "at" alaska.edu   |    |  |  |
 
 ### Office Hours (Drop in, no appointment needed!)
 
 | Instructor| Location | Day/Time |
 | :---------| :------------| :----------|
+| Kevin Meek | Office, Chapman 301C | MWF 1-2PM|
+<!-- || Math and Stats Lab | M 1:30 - 2:30PM | -->
+||||
 | James Gossell | Chapman 301D | MW 2:15 - 3:00PM|
-|| Math Lab, Student Success Center | F 11:00AM - 12:00PM|
+<!-- || Math Lab, Student Success Center | F 11:00AM - 12:00PM| -->
 ||||
-| Kevin Meek | Office, Chapman 301C | WF 1:30 - 2:30PM|
-|| Math and Stats Lab | M 1:30 - 2:30PM |
-||||
-| Deven Barnett | Online via Zoom | W 6:00 - 7:00PM|
-|| Link in Canvas | F 3:00 - 4:00PM|
+| Margaret Short | Online via Zoom | MTuWTh 4:00 - 5:00PM|
+|| Link in Announcements | |
 ||||
 
 
@@ -41,8 +44,12 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 | Section | Instructor                  |
 | :-------|:----------------------------|
-| All sections  | Torin Hooge           |
-|               | trhooge "at" alaska.edu   |
+| 901,902  | Nicholas Harrison           |
+|               | nkharrison "at" alaska.edu   |
+||||
+| 903  | Francis Miwube           |
+|               | fkmiwube "at" alaska.edu   |
+
 
 ### Resources
 
