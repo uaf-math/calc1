@@ -29,7 +29,8 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 | Instructor| Location | Day/Time |
 | :---------| :------------| :----------|
-| Kevin Meek | Chapman 301C | MWF 1-2PM|
+| Kevin Meek | Chapman 301C | MW 1-2PM|
+| | Math and Stats Lab | F 1-2PM |
 ||||
 | James Gossell | Chapman 301D | MW 2:15 - 3:00PM|
 ||||
