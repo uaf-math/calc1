@@ -11,25 +11,25 @@ ALEKS is an online tool for assessing precalculus content knowledge. The ALEKS t
 
 The reason you are taking this assessment is to help you have a better sense of your strengths and areas for improvement. The assessment will also help the Calculus I teaching team (instructors and TA's) have a better understanding of how to provide extra support.
 
-For in-person sections, taking the ALEKS assessment **replaces** the Tuesday, 21 January Recitation.
+For in-person sections, taking the ALEKS assessment **replaces** the Tuesday, 2 September Recitation.
 
 ## Dates and Locations for in-person sections
 
-* Complete your ALEKS PPL assessment on Tuesday, 21 January.
+* Complete your ALEKS PPL assessment on Tuesday, 2 September.
 * Location: Chapman Hall 103
 * What to bring: some ID
 
 ## Sign-up Procedures for in-person sections
 
-By Friday, 17 January, **schedule** a two-hour time slot to take your
+By Friday, 30 August, **schedule** a two-hour time slot to take your
 proctored ALEKS assessment (link in course announcement and on
 Canvas). Students will take their
-proctored assessment on Tuesday, 21 January.
+proctored assessment on Tuesday, 2 September.
 
 ## Dates and sign-up for online sections
 
 **Schedule** a two-hour time slot with eCampus. Students must complete
-the assessment by Friday, 24 January.
+the assessment by Friday, 12 September.
 
 ## How to first log into ALEKS PPL.
 
@@ -37,7 +37,7 @@ If you want to login to ALEKS in advance of your proctored ALEKS, the directions
 
 1. Go to the [ALEKS sign up page](https://www.aleks.com/sign_up)
  
-2. Enter our class code: **QUJAE-HVHMA**
+2. Enter our class code: **DQQ6K-UNXFJ**
 
 3. ALEKS will then direct you through the registration process. **Write down your login name and password** as you will need them for the proctored assessment which will use a different computer.
 
