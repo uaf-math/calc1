@@ -1,0 +1,7 @@
+semester: Fall 2025
+home: assets/exams/Fall2025
+midterm1:
+  versions:
+    - name: V1 
+      blank: M251-F25-M1-V1.pdf
+      solutions: M251-F25-M1-V1-s.pdf
