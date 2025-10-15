@@ -16,22 +16,22 @@ quizzes:
   versions:
   - name: Quiz 3
     blank: M251F25_Q3.pdf
-#    solutions: M251F25_Q3-solutions.pdf
-# - name: Quiz 4
-#  versions:
-#  - name: Quiz 4
-#    blank: M251F25_Q4.pdf
-#     solutions: M251S25_Q4-solutions.pdf
-# - name: Quiz 5
-#   versions:
-#   - name: Quiz 5
-#     blank: M251S25_Q5.pdf
-#     solutions: M251S25_Q5-solutions.pdf
-# - name: Quiz 6
-#   versions:
-#   - name: Quiz 6
-#     blank: M251S25_Q6.pdf
-#     solutions: M251S25_Q6-solutions.pdf
+    solutions: M251F25_Q3-s.pdf
+ - name: Quiz 4
+  versions:
+  - name: Quiz 4
+    blank: M251F25-Q4.pdf
+     solutions: M251S25-Q4-solutions.pdf
+ - name: Quiz 5
+   versions:
+   - name: Quiz 5
+     blank: M251F25_Q5.pdf
+     solutions: M251S25_Q5-solutions.pdf
+ - name: Quiz 6
+   versions:
+   - name: Quiz 6
+     blank: M251F25_Q6.pdf
+     solutions: M251F25-Q6-s.pdf
 # - name: Quiz 7
 #   versions:
 #   - name: Quiz 7
