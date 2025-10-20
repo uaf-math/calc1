@@ -3,8 +3,8 @@ home: assets/proficiencies/Fall2025
 derivative:
   versions:
     - name: Try 1
-      blank: M251F25-Derivative-Try1-V1.pdf
-      solutions: M251F25-Derivative-Try1-V1-solutions.pdf
+      blank: M251F25-Derivative-Try1.pdf
+      solutions: M251F25-Derivative-Try1-s.pdf
     # - name: Try 2
     #   blank: M251S25-Derivative-Try2-V1.pdf
     #   solutions: M251S25-Derivative-Try2-V1-solutions.pdf
