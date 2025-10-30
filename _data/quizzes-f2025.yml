@@ -16,12 +16,12 @@ quizzes:
   versions:
   - name: Quiz 3
     blank: M251F25_Q3.pdf
-    solutions: M251F25_Q3-s.pdf
+    solutions: M251F25_Q3.pdf
  - name: Quiz 4
   versions:
   - name: Quiz 4
     blank: M251F25-Q4.pdf
-    solutions: M251S25-Q4-s.pdf
+    solutions: M251F25-Q4-s.pdf
  # - name: Quiz 5
  #   versions:
  #   - name: Quiz 5
