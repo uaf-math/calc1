@@ -5,3 +5,13 @@ midterm1:
     - name: V1 
       blank: M251-S25-M1-V1.pdf
       solutions: M251-S25-M1-V1-Solutions.pdf
+midterm2:
+  versions:
+    - name: V1 
+      blank: M251-S25-M2-V1.pdf
+      solutions: M251-S25-M2-V1-Solutions.pdf
+final:
+  versions:
+    - name: V1 
+      blank: M251-S25-Final-V1.pdf
+      solutions: M251-S25-Final-V1-Solutions.pdf
