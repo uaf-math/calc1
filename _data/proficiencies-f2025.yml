@@ -8,12 +8,9 @@ derivative:
     - name: Try 2
       blank: M251F25-Derivative-Try2.pdf
       solutions: M251F25-Derivative-Try2-s.pdf
-#     - name: V2 (Retake 1)
-#       blank: M251s24-Derivative-v3.pdf
-#       solutions: M251S24-Derivative-v3 Solutions.pdf
-#    - name: V3 (Retake 2)
-#      blank: 
-#      solutions: 
+    - name: Try 3
+      blank: M251F25-Derivative-Try3.pdf
+      solutions: M251F25-Derivative-Try3-s.pdf
 # integral:
 #   versions:
 #     - name: V1
