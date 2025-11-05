@@ -37,3 +37,8 @@ quizzes:
   - name: Quiz 7
     blank: M251F25_Q7.pdf
     solutions: M251F25_Q7-s.pdf
+- name: Quiz 8
+  versions:
+  - name: Quiz 8
+    blank: M251F25_Q8.pdf
+    solutions: M251F25_Q8-s.pdf
