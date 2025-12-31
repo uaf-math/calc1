@@ -13,41 +13,33 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 | Section | Instructor                  |    | Time             | Location |
 | :-------|:----------------------------|----| :----------------| :--------|
-| 901     | Kevin Meek              |    | MWF 9:15-10:15   | Murie 103/105 |
-|         | krmeek2 "at" alaska.edu   |    | T Th  9:45-11:15 | Murie 103/105 |
+| 901   | James Gossell |    | MWF 9:15-10:15   | Murie 103/105 |
+|         | jegossell@alaska.edu |    | T Th  9:45-11:15 | Murie 103/105 |
 ||||||
-| 902     | James Gossell                |    | MWF 11:45-12:45  | Chap 106 |
-|         | jegossell "at" alaska.edu   |    | T Th  11:30-1:00 | Chap 106 |
-||||||
-| 903     | Margaret Short                |    | MWF 11:45-12:45  | Gruening 408 |
-|         | mshort18 "at" alaska.edu   |    | T Th  11:30-1:00 | Gruening 408 |
+| 902     | Gordon Williams  |    | MWF 11:45-12:45  | Chap 106 |
+|         | giwilliams@alaska.edu |    | T Th  11:30-1:00 | Chap 106 |
 ||||||
 | 001     | James Gossell                |    | Asynchronous  |  |
-|         | jegossell "at" alaska.edu   |    |  |  |
+|         | jegossell@alaska.edu   |    |  |  |
 
 ### Office Hours (Drop in, no appointment needed!)
 
 | Instructor| Location | Day/Time |
 | :---------| :------------| :----------|
-| Kevin Meek | Chapman 301C | MW 1-2PM|
-| | Math and Stats Lab | F 1-2PM |
 ||||
-| James Gossell | Chapman 301D | MW 2:15 - 3:00PM|
+| James Gossell | Chapman 301D |  |
 ||||
-| Margaret Short | Online via Zoom | MTuWTh 4:00 - 5:00PM|
-|| Link in Announcements | |
-||||
+| Gordon Williams | Rasmusson Library 6th Floor |  |
+||  | |
 
 
-### TA Information for Spring 2025
+### TA Information for Spring 2026
 
 | Section | Instructor                  |
 | :-------|:----------------------------|
-| 901,902  | Nicholas Harrison           |
-|               | nkharrison "at" alaska.edu   |
-||||
-| 903  | Francis Miwube           |
-|               | fkmiwube "at" alaska.edu   |
+| 901,902  |            |
+|               |    |
+|||
 
 
 ### Resources
