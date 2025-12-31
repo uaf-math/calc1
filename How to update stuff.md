@@ -1,0 +1,1 @@
+- To update header on website, go to calc1/_data/general.yml
