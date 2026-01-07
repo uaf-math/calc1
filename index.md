@@ -28,19 +28,19 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 | :---------| :------------| :----------|
 ||||
 | James Gossell | Chapman 301D |  |
-||||
-| Gordon Williams | Rasmusson Library 6th Floor |  |
-||  | |
+||Rasmusson Library 6th Floor||
+| Gordon Williams | Chapman 306D |  |
+|| Rasmusson Library 6th Floor | |
 
 
 ### TA Information for Spring 2026
 
 | Section | Instructor                  |
 | :-------|:----------------------------|
-| 901,902  |            |
-|               |    |
-|||
+| 901, 902, 001 | Henry Agbi-Kaiser |
+|               | hoagbikaiser@alaska.edu |
 
+### Peer Mentor
 
 ### Resources
 

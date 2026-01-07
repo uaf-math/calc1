@@ -2,3 +2,4 @@
 - To update body of landing page, go to index.md
 - To update menu _data/toc.yaml
   - To share schedule, you need to "Publish" the sheet and copy the resulting URL into the menu.
+- 
