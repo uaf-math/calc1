@@ -2,4 +2,5 @@
 - To update body of landing page, go to index.md
 - To update menu _data/toc.yaml
   - To share schedule, you need to "Publish" the sheet and copy the resulting URL into the menu.
+- To update things like the recitations schedule, you must not only create the appropriate content file (e.g., _data/recitations_s2026.yml), you must update the file name reference in recitaitons.md
 - 
