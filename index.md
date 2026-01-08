@@ -27,10 +27,10 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 | Instructor| Location | Day/Time |
 | :---------| :------------| :----------|
 ||||
-| James Gossell | Chapman 301D |  |
-||Rasmusson Library 6th Floor||
-| Gordon Williams | Chapman 306D |  |
-|| Rasmusson Library 6th Floor | |
+| James Gossell | Chapman 301D | M 2:30-3:30, W 1-2:00 |
+||Rasmusson Library 6th Floor|T 2-3:00|
+| Gordon Williams | Chapman 306D | MTh 10-11:00 |
+|| Rasmusson Library 6th Floor | W 1-2:00 |
 
 
 ### TA Information for Spring 2026
