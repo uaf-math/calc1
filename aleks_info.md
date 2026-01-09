@@ -37,7 +37,7 @@ If you want to login to ALEKS in advance of your proctored ALEKS, the directions
 
 1. Go to the [ALEKS sign up page](https://www.aleks.com/sign_up)
 
-2. Enter our class code: **?????-?????**
+2. Enter our class code: **ERPLX-HPDH4**
 
 3. ALEKS will then direct you through the registration process. **Write down your login name and password** as you will need them for the proctored assessment which will use a different computer.
 
