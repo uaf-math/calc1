@@ -35,10 +35,11 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
 ### TA Information for Spring 2026
 
-| Section | Instructor                  |
-| :-------|:----------------------------|
-| 901, 902, 001 | Henry Agbi-Kaiser |
-|               | hoagbikaiser@alaska.edu |
+| Section | Instructor                  | Office Hours |
+| :-------|:----------------------------| --------|
+| 901, 902, 001 | Henry Agbi-Kaiser | 10-11 AM MWF |
+|               | hoagbikaiser@alaska.edu | Student Success Center |
+| |  | Rasmusson Library 6th Floor |
 
 ### Peer Mentor
 
