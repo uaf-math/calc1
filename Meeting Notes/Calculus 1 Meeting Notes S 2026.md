@@ -4,7 +4,7 @@
 
 ### Todos
 
-- [ ] Email/Announcement encouraging them to do (what?) tonight
+- [ ] Email/Announcement encouraging them to do (what?) tonight (Gordon)
 
   - [ ] Bring laptop to class tomorrow (both sections)
     - [ ]  no penalty for making a new accoutn if you have problems with old account
