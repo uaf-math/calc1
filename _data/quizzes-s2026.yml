@@ -1,0 +1,10 @@
+semester: Spring 2026
+home: assets/quizzes/Spring2025
+quizzes:
+- name: Quiz 1
+  versions:
+  - name: Quiz 1
+    blank: M251S25-Quiz-1.pdf
+    solutions: M251S25-Quiz-1-solutions.pdf
+- name: ALEKS Quiz 
+
