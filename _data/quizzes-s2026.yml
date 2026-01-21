@@ -4,8 +4,8 @@ quizzes:
 - name: Quiz 1
   versions:
   - name: Quiz 1
-    blank: M251S25-Quiz-1.pdf
-    solutions: M251S25-Quiz-1-solutions.pdf
+    blank: M251S26-Quiz-1.pdf
+    solutions: M251S26-Quiz-1-solutions.pdf
 - name: ALEKS Quiz 
 - name: Quiz 2
   versions:
