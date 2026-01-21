@@ -21,4 +21,9 @@
 
       The problem is apparently the : in the title on line 97.
   
-- 
+- To get quizzes to show current stuff:
+
+  - Edit quizzes.md in root folder to reflect current semester.
+  - Make sure you've archived a copy as the version for the previous semester.
+  - As semester progresses, add entries to quizzes-SEMESTER.yml in _data folder. Formatting of entries can be seen in prior .yml files.
+  - 
