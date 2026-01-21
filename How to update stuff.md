@@ -26,4 +26,5 @@
   - Edit quizzes.md in root folder to reflect current semester.
   - Make sure you've archived a copy as the version for the previous semester.
   - As semester progresses, add entries to quizzes-SEMESTER.yml in _data folder. Formatting of entries can be seen in prior .yml files.
-  - 
+  - This is in fact, the general scheme for most items that show up in the toc.yaml
+  - I think.
