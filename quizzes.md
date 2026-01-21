@@ -3,7 +3,7 @@ layout: course-page
 title: Quizzes
 ---
 
-## Quizzes for <span style="color:blue">Fall 2025</span>
+## Quizzes for <span style="color:blue">Spring 2026</span>
 
 Links to this semester's quizzes, and solutions, will appear here as they are completed. Scroll down to access materials from previous semesters! 
 
