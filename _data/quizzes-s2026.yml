@@ -10,5 +10,5 @@ quizzes:
 - name: Quiz 2
   versions:
   - name: Quiz 2
-    blank: 
-    solutions:
+    blank: M251S26-Quiz-2.pdf
+    solutions: M251S26-Quiz-2-solutions.pdf
