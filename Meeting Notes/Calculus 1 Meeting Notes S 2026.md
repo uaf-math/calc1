@@ -47,3 +47,51 @@ Need finalized by Wednesdays noon for James
 Will discuss question structure/look at old quizzes in weekly meetings
 
 ## January 16
+
+## Week 4 Meeting, 2/2
+
+Quiz covers 3.1-3.3
+
+3.1:
+
+Slopes of secants: 4,9,
+
+Slopes of tangents using DoD: 12,15,16,20,
+
+More DoD find f'(a): 23,25,
+
+Graphical derivatives: 39,
+
+Derivative doesn't exist:
+
+41,46,47
+
+§3.2: 
+
+Use the definition to find f'(x) 54,56,59,62,
+
+Use graph to sketch f'(x) 65,66,
+
+Use defin to show not diff 75,
+
+Continuity graphically 79,80,
+
+Meaning of symbols in definition 90,95,
+
+Physical interp. 97,99
+
+§3.3:
+
+Equation of tangent/velocity/acceleration/etc.: 141,142,144,146,147
+
+§3.3:
+
+find f' using rules: 109,110,113,114,115,117,
+
+equation of tangent line 120,
+
+abstractly apply derivative laws 123,125,127,129,
+
+Use figure to find derivatives using laws: 131,
+
+find f'(a), graph function and tangent: 136
