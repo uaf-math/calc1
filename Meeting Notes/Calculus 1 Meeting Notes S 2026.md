@@ -62,15 +62,13 @@ More DoD find f'(a): 23,25,
 
 Graphical derivatives: 39,
 
-Derivative doesn't exist:
-
-41,46,47
+Derivative doesn't exist: 41,46,47
 
 §3.2: 
 
-Use the definition to find f'(x) 54,56,59,62,
+X**Use the definition to find f'(x) 54,56,59,62,**
 
-Use graph to sketch f'(x) 65,66,
+X**Use graph to sketch f'(x) 65,66,**
 
 Use defin to show not diff 75,
 
@@ -82,11 +80,11 @@ Physical interp. 97,99
 
 §3.3:
 
-Equation of tangent/velocity/acceleration/etc.: 141,142,144,146,147
+X**Equation of tangent/velocity/acceleration/etc.: 141,142,144,146,147**
 
 §3.3:
 
-find f' using rules: 109,110,113,114,115,117,
+X**find f' using rules: 109,110,113,114,115,117,**
 
 equation of tangent line 120,
 
