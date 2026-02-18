@@ -21,7 +21,7 @@
 
       The problem is apparently the : in the title on line 97.
   
-- To get quizzes to show current stuff:
+- To get quizzes to show current stuff (process similar for Exams):
 
   - Edit quizzes.md in root folder to reflect current semester.
   - Make sure you've archived a copy as the version for the previous semester. You'll want to add an entry to the top of the list that points to the old semester of quizzes. Fortunately the format and file locations and naming conventions are pretty self explanatory.

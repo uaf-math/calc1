@@ -1,0 +1,7 @@
+semester: Spring 2026
+home: assets/exams/Spring2026
+midterm1:
+  versions:
+    - name: V1 
+      blank: M251-S26-M1-Fixed.pdf
+      solutions: M251-S26-M1-Fixed-solutions.pdf
