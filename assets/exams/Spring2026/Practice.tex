@@ -1,0 +1,398 @@
+% !TEX TS-program = pdflatexmk
+\documentclass[11pt]{amsart}
+
+%\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+%\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{amsmath,amssymb,amsthm, latexsym, mathrsfs, pdfsync, multicol,
+%setspace,
+%graphics, 
+fancybox, fancyhdr,
+graphicx, enumerate,
+subfig, tikz, pgfplots,array}
+
+\usetikzlibrary{calc}
+\usetikzlibrary{shapes}
+
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=middle, 
+xlabel=$x$,ylabel=$y$,
+every axis x label/.style={
+    at={(ticklabel* cs:1)},
+    anchor=west,
+},
+every axis y label/.style={
+    at={(ticklabel* cs:1)},
+    anchor=south,
+},}}
+
+
+
+\usepackage[dvipsnames,usenames]{xcolor}
+\usepackage[mathscr]{euscript}
+\usepackage[%final, 
+colorlinks=true, backref=page%,
+%linkbordercolor=red, pdfborderstyle={/S/U/W 1}
+]{hyperref}
+\usepackage[normalem]{ulem}
+\usepackage{lineno}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\usepackage{cleveref}
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\Crefname{definition}{Definition}{Definitions}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{axiom}{Axiom}
+
+\Crefname{exercise}{Exercise}{Exercises}
+\newtheorem{exercise}{Exercise}%[section]
+\theoremstyle{remark}
+\newtheorem{remark}{Remark}
+\newtheorem{example}[theorem]{Example}
+\newcommand\RR{\ensuremath{\mathbb R}}
+\newcommand\NN{\ensuremath{\mathbb N}}
+\newcommand\ZZ{\ensuremath{\mathbb Z}}
+\newcommand\QQ{\ensuremath{\mathbb Q}}
+\newcommand\CC{\ensuremath{\mathbb C}}
+\newcommand\EE{\ensuremath{\mathbb E}}
+\newcommand\bc{\begin{center}}
+\newcommand\ec{\end{center}}
+\newcommand\be{\begin{enumerate}}
+\newcommand\ee{\end{enumerate}}
+\newcommand\bi{\begin{itemize}}
+\newcommand\ei{\end{itemize}}
+\newcommand\bs{\begin{slide}}
+\newcommand\es{\end{slide}}
+\newcommand\bx{\begin{exercise}}
+\newcommand\ex{\end{exercise}}
+\newcommand{\ol}[1]{\overline{#1}}
+\newcommand{\oimp}[1]{\overset{#1}{\Longleftrightarrow}}
+\newcommand{\bv}[1]{\ensuremath{ \vec{\mathbf{#1}}} }
+\newcommand{\mc}[1]{\ensuremath{\mathcal{#1}}}
+\newcommand{\ARP}{\cite{McMSch02}}
+%\DeclareMathOperator{\Aut}{Aut} 
+\newcommand{\Aut}[1]{\ensuremath{{\mathscr Aut}(#1)}}
+\newcommand{\Con}[1]{\ensuremath{{\mathscr Con}(#1)}}
+\newcommand{\Mod}[1]{\ (\text{mod}\ #1)}
+\newcommand{\Mon}[1]{\ensuremath{{\mathscr Mon}(#1)}}
+\newcommand{\Pyr}[1]{\ensuremath \rm{ Pyr} (#1)}
+\newcommand{\mix}{\ensuremath{\diamondsuit}}
+\newcommand{\covers}{\ensuremath{\searrow}}
+\newcommand{\normale}{\vartrianglelefteq}
+\newcommand{\normal}{\vartriangleleft}
+\newcommand{\nin}{\not\in}
+
+\renewcommand{\d}{\displaystyle}
+
+\theoremstyle{comment}
+\newtheorem*{acomment}{\color{BrickRed}{Comment}}
+\newcommand{\acom}[2]{{\begin{acomment}[#1]\color{OliveGreen} #2 \color{black} \end{acomment}}}
+\newcommand{\red}[1]{{\color{BrickRed} #1}}
+\newcommand{\blue}[1]{{\color{MidnightBlue}#1}}
+\newcommand{\green}[1]{{\color{OliveGreen} #1 }}
+\newcommand{\mwrong}[1]{\red{\cancel{#1}}}
+\newcommand{\wrong}[2]{\red{\sout{#1} {#2}}}
+\definecolor{OliveGreen}{rgb}{.3,.5,.2}
+\definecolor{MidnightBlue}{rgb}{.3,.4,.6}
+
+\title{MT 1 Review Exercises}
+
+%\author{Gordon Williams}
+%\author{Course}
+\begin{document}
+\bc{\Large MT 1 Review Exercises}\ec
+This is a selection of exercises drawn from previous exams for you to practice on.
+\begin{enumerate}
+\item (10 points) The graphs of two functions $f(x)$, shown thick, and $g(x)$, shown dashed, are given below.  %whose domain is $(-6, 7
+Determine the following. If the value does not exist, write ``DNE''.
+%
+%\begin{figure}[ht]
+\begin{center}
+\begin{tikzpicture}[scale=.9]
+\draw[ultra thin] (-6.9,-3) grid (6.9,3.1);
+\draw[thick,<->] (-7.2,0) -- (7.2,0);
+\draw[thick,<->] (0,-3.1) -- (0,3.1);
+%\draw[dashed] (7,-2) -- (7,3);
+%\draw[dashed] (-6,-2)--(-6,3);
+
+%%%%% f(x) %%%%
+\draw [ultra thick] (-5, -1) parabola bend (-4,2)  (-3,0) to  (-2,-1) to (1,-1);
+\draw [ultra thick, ->] (1, -2)  parabola bend (2,-2) (3,-1)-- (4,1) -- (6,3);
+\draw[fill=white, thick] (4,1) circle  (1.2 mm);
+%\draw[fill=white] (6, 2) circle (1.2mm);
+\draw[fill=black] (1,-2) circle (1.2mm);
+\draw[fill=white] (1,-1) circle (1.2mm);
+\draw[fill=white] (-5,-1) circle (1.2mm);
+%\draw[fill=black] (6,3) circle (1.2mm);
+
+\draw (2.9, -1.5) node[right] {$f(x)$};
+\draw (3,2) node[above left] {$g(x)$};
+
+%%%%% g(x) %%%%%
+%\draw[ultra thick, dashed, <->](-6.8, -2.9)-- (-6, -2.9)  to[out = 5, in = 180+45](-3,-2) to[bend left = 30] (-1,0) to [out = 45, in = -90] (1.9,2.5)--(1.9,3);
+
+\draw[ultra thick, dashed, <->] plot [smooth] coordinates { (-6.8, -2.9) (-5, -2.8) (-4, -2.6) (-3,-2) (0, .2) %(.5,0) 
+(2.4,1) 
+(2.95,3)};
+
+\foreach \i in {-6, -5, ..., 6}
+{\draw (\i,0) node[below] {\i};
+%\draw (\i+.5, -.1) -- (\i+.5, .1);
+}
+\foreach \i in { -3, -2, -1,1,2, 3}
+{\draw (0,\i) node[left] {\i};}
+%\foreach \i in { -2, -1,0,1,2}{
+%\draw (-.1, \i+.5) -- (.1,\i+.5);}
+\end{tikzpicture}
+
+\end{center}
+%\end{figure}
+
+\newcommand{\ans}{\rule{1.5cm}{.5 pt}}
+
+
+\begin{enumerate}
+\begin{multicols}{2}
+
+\item $\d\lim_{x\to -5^{+}} f(x) = \ans$
+
+
+\item $ \d \lim_{x\to -3} f(x) = \ans$
+
+
+\item $\d \lim_{x \to \infty} f(x) = \ans$
+
+
+
+\item $\d \lim_{x\to 1} f(x) = \ans $
+
+
+\item $f'(-4) = \ans $
+
+
+\item $\d\lim_{x\to 3^{-}} g(x) = \ans$
+
+
+\item $\d \lim_{x \to -\infty} g(x) = \ans$
+
+
+
+
+
+
+\item $\d \lim_{x\to -3} f(g(x)) = \ans $
+
+
+
+\end{multicols}
+
+\item What is the domain of $f(x)$? Give your answer in interval form.\\
+
+
+
+\item Where in the domain of $f(x)$ is the function continuous? Give your answer in interval form.
+
+
+
+\end{enumerate}
+
+
+
+\item Evaluate the following limits. Justify your
+answers with words and/or any relevant algebra. Be sure to use proper
+notation, as points will be deducted for not doing so. 
+
+
+\be
+\item  $\d \lim_{x \to -5} \frac{x^2-25}{x^2+2x-15}$
+
+\item $\d \lim_{t \to -3} \frac{6+4t}{t^2+1}$
+% $\d \lim_{x \to 5^-} \frac{-\sqrt x}{(x-4)^3}$
+% $\d \lim_{x \to 4^+} \frac{-\sqrt x}{(4-x)^3}$
+
+% $\d \lim_{x \to 3} \frac{ \frac 1{x^2} - \frac 1 4}{x-2}$
+%  $\d \lim_{x \to 3} \frac{ \frac 1{x^2} - \frac 1 {16}}{x-4}$
+
+\item This is a two parter:
+\be[(i)] 
+\item $ \d \lim_{x \to -1^-} \sqrt{x^2-1}$
+\item Why do we not evaluate $ \d \lim_{x \to -1^+} \sqrt{x^2-1}$ ? Explain using a sentence.
+\ee
+%% $ \d \lim_{x \to - \infty} \frac{\sqrt{1 + 9x^8}}{5+ x^4}$
+%% $ \d \lim_{x \to - \infty} \frac{\sqrt{7 + 25x^6}}{2+x^3}$
+%%
+%\ee
+%
+\ee
+
+\newpage
+\item Use the graph of $f(x)$ (on top) to sketch the graph of $f'(x)$ (on bottom).\\
+
+\begin{tikzpicture}
+\begin{axis}[xscale=3/2,yscale=1.2, thick, my style, xtick={-4,-3,...,8}, ytick={-4,-3,...,5},
+xmin=-4.2, xmax=8.5, ymin=-4.2, ymax=5.5, minor y tick num=1,
+        minor x tick num=1, mark size=3.0pt]
+        \addplot[domain=-3:-1, smooth, ultra thick,<-] coordinates { (-3,4) (-1,0)};
+        \addplot[domain=-1:2, smooth, ultra thick] coordinates {  (-1,0) (2,3)};
+        \addplot[domain=2:8, ultra thick,->] {3/(x-1)};
+        \foreach \i in {-4,-3,...,8}{
+	\addplot[dotted, gray, domain=-4:8]{\i};}
+	\foreach \i in {-4,-3,...,8}{
+	\addplot[dotted, gray] coordinates {(\i,-4) (\i,5)};
+	}
+\end{axis}
+\node at (0,5){{\Large{$f(x)$}}};
+\end{tikzpicture}
+    
+   
+\begin{tikzpicture}
+\begin{axis}[xscale=3/2,yscale=1.2, thick, my style, xtick={-4,-3,...,8}, ytick={-4,-3,...,5},
+xmin=-4.2, xmax=8.5, ymin=-4.2, ymax=5.5, minor y tick num=1,
+        minor x tick num=1, mark size=3.0pt]
+        \foreach \i in {-4,-3,...,8}{
+	\addplot[dotted, gray, domain=-4:8]{\i};}
+	\foreach \i in {-4,-3,...,8}{
+	\addplot[dotted, gray] coordinates {(\i,-4) (\i,5)};
+	}
+\end{axis}
+\node at (0,5){{\Large{$f'(x)$}}};
+\end{tikzpicture}
+
+
+\item  An icicle is growing
+at the back of a house.  At time $t\ge 0$
+days the length of the icicle is
+$$
+\ell(t) = \frac{14 t + 4}{t+2}
+$$
+inches.  Answer the following questions about the
+function $\ell(t)$ and be sure to include \textbf{units}
+in your answers.
+\be
+\item Compute the average rate of change of
+the length of the icicle from time $t=0$ to time $t=2$
+days.  \textbf{Do not forget units!}
+
+
+\item  It is a known fact that $\d \ell'(t) = \frac{24}{(t+2)^2}$.
+Compute $\ell'(2)$ (\textbf{with units}) and explain what this quantity 
+means about the icicle.
+
+
+\item 
+Compute $\lim_{t\to\infty} \ell(t)$.
+Then explain what this quantity means in precise
+but everyday language that the general public would understand. 
+Do not forget units!
+\ee
+
+\newpage
+\item Is the following function continuous at $x=3$? Justify your answer. 
+
+$
+f(x) = \begin{cases}
+\frac{6-2x}{x-3} & \text{if } x \leq 3\\
+2  & \text{if } x =3\\
+x-5  & \text{if } x \geq 3
+\end{cases}
+$
+
+\item 
+Let $H(t)$ be the daily cost, in dollars, of heating a building when the outside temperature is $t$ degrees Fahrenheit.
+
+	\begin{enumerate}
+
+	\item What is the meaning of $H(0)=50$? Your answer should be a complete sentence and must include units.
+
+
+
+	\item What are the units of $H'(t)$?
+
+
+	\item Do you expect $H'(t)$ to be positive or negative? \textbf{Justify} your answer using complete sentences. 
+
+	\end{enumerate}
+\item 
+ Consider the function \[\displaystyle f(x)=\frac{1}{6-x}.\] 
+
+Find $f'(5)$ using the {\bf limit definition of the derivative} and show your work using all appropriate notation. 
+
+No credit will be awarded for using other methods. Begin by writing down the limit definition of the derivative.
+
+\item  For each of the following functions, compute the derivative. 
+
+{\bf You do not need to simplify your answers.}
+ 
+\be
+
+\item $y = 11x^{3} -\frac{4x}{3} + x^{2} + x^{5/3}$
+
+ 
+\item $\displaystyle{ a(\theta) = \theta ^3 \cos (\theta)}$ %% product rule
+  
+
+  
+\item $\displaystyle{ f(t) = t \sqrt{t} - \frac{1}{8t^4} + \sqrt{2} }$ %% quotient rule or cleverness
+  
+  
+
+%\item $\displaystyle{ y = \frac{\sin x}{\sin x - \cos x} }$ This is a great problem but we already tested -- twice -- if they know the derivative of sine
+
+%\item $\ds{ y = \frac{ 3 x^{2} - 7x^{3}}{4x^{5} - 6 }}$ %% obligatory quotient rule
+%
+%
+
+
+\ee
+
+%\item A company's profit in thousands of dollars when $x$ units are produced is given by $$P(x)=-0.001x^2+0.22x-42.$$
+%
+%	\begin{enumerate}
+%
+%	\item Observe that $P(1200) = 78$. Interpret this fact in the context of the problem. To earn full credit your answer should be a complete sentence and must include units.
+%
+%	
+%
+%	\item Observe that $P'(1200) = -0.02$. Interpret this fact in the context of the problem. To earn full credit your answer should be a complete sentence and must include units.
+%
+%	
+%
+%	\item Suppose the company is currently producing 1200 units. Should the company increase production if it wants to increase profits? \textbf{Justify} your answer.
+%
+%	\end{enumerate}
+
+\item The questions below reference the function $f(x)=(3-x)(x-7).$ 
+	\begin{enumerate}
+	\item Find the slope of the line tangent to at $x=4$. 
+	
+	
+	\item Sketch the tangent line to $f(x)$ at $x=4$ on the graph of $f(x)$ below.
+
+\begin{center}
+ \begin{tikzpicture}
+%quadratic
+\begin{axis}[scale=1,xscale=1, thick, my style, xtick={0,1,...,10}, ytick={-6,-5,...,5},xmin=-0.5, xmax=9.5, ymin=-6.5, ymax=5.5, 
+mark size=3.0pt, grid = major]
+\addplot[ultra thick, <->,domain=0:9, samples=100]{(3-x)*(x-7)};
+%\addplot[ultra thick, <-,domain=-6:0, samples=100]{-x};
+\node at (9,2){$f(x)$};
+\end{axis}
+\end{tikzpicture}\end{center}
+\end{enumerate}
+
+
+\end{enumerate}
+
+ \end{document}
+ \end
+
+  
