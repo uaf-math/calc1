@@ -1,0 +1,120 @@
+
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx, pgfplots,xfrac} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+%\usepackage{pdfsync} %% I don't know why this messes up tabular column widths
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array,tikz}
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=black,only marks,mark=*}} \pgfplotsset{holdot/.style={color=black,fill=white,only marks,mark=*}}
+
+
+\pagestyle{fancy} 
+\lfoot{}
+\rfoot{2-3 \& 2-4 prep}
+
+\begin{document}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\renewcommand{\d}{\displaystyle}
+
+\vspace*{-0.7in}
+
+%%%%%%%%%intro page
+\begin{center}
+  \large
+  \sc{Recitation: Week 3}\\
+\end{center}
+ Note that every simplification technique is explicitly tied to one or more homework problems due this week.\\
+\hrulefill
+
+\begin{enumerate}
+\item (difference of squares rule) How to factor \scalebox{1.5}{$a^2-b^2=$}
+	\begin{enumerate}
+	\item Explain how you know that $a^2+b^2$ \emph{cannot} be factored in a similar way.
+	\vfill
+		
+	\item Factor $x^2-11$
+	\vfill
+	\item (2.3 \# 97) Assuming $t$ is positive, use the rule above to factor $t-16.$
+	\vfill
+	\item Multiply out the expression below and explain what it has to do with the rule above:\\
+	
+	$ (\sqrt{x+1} +7)(\sqrt{x+1}-7) = $
+	\vfill 
+	\item (2.3 \# 102) Simplify the expression below by \emph{rationalizing the numerator}. This means multiplying numerator and denominator (why both?) by something that will get rid of the square root in the numerator.\\
+	
+	  \scalebox{1.5}{$\frac{\sqrt{x-2}+3}{x-11}$} 
+	\vspace{2in}
+	\end{enumerate}
+	\newpage
+
+\item Cancelling
+	\begin{enumerate}
+	\item Given a fraction, how do you know when you can cancel something from the numerator and denominator?\\
+	
+	
+	\vfill
+	\item For each of the following, decide if there is a term you can cancel.
+		\begin{enumerate}
+		\item $\frac{x^3-xy}{zx+2x}$\\
+		\vfill
+		
+		\item $\frac{x^3-xy}{zx+x+1}$\\
+		\vfill
+		
+		\item $\frac{a^2+ab}{ab+b^2}$\\
+		\vfill
+		
+		\item $\frac{h}{a^2+h^2}$\\
+		\vfill
+		
+		\item $\frac{-a-b}{a^2-b^2}$\\
+		\vfill
+		
+		\end{enumerate}
+		\vfill
+	\end{enumerate}
+
+\item How to simplify \scalebox{1.5}{$\dfrac{\left(\frac{a}{b}\right)}{\left(\frac{c}{d}\right)}=$}
+	\begin{enumerate}
+	\item Choose integer numerical values for $a, b, c$ and $d$ to demonstrate that the rule above is correct.
+	\vfill
+	\item Find numerical values for $a, b, c$ and $d$ that demonstrate that to following approach is WRONG:\\
+	(WRONG $\longrightarrow$) \scalebox{1.5}{$\dfrac{\left(\frac{a}{b}\right)}{\left(\frac{c}{d}\right)}=\dfrac{ac}{bd}$}
+	\vfill
+	\newpage
+	\item Use the rule above to simplify\\
+	\scalebox{1.5}{$\dfrac{\left(\frac{a}{b}\right)}{\left(c\right)}=$} \hspace{2in} and \scalebox{1.5}{$\dfrac{\left(a\right)}{\left(\frac{c}{d}\right)}=$}\hspace{1in}\\
+	
+	(hint: Use the fact that $r=\frac{r}{1}.$)
+	
+	\item (2.3 \# 98) Simplify $\frac{\left(\frac{c}{c+d}\right)}{d}$
+	\vfill
+	\item (2.3 \# 99) Simplify $\frac{\cos \theta}{\cot \theta}$
+	\vfill	
+	\end{enumerate}
+	
+\item How to add \scalebox{1.5}{$\frac{a}{b}+\frac{c}{d}=$}
+	\begin{enumerate}
+	\item (2.3 \#98) Write as a single fraction. Simplify. \\
+	
+	\scalebox{1.5}{$\frac{1}{c+d}-\frac{1}{c}$}
+	\vfill
+	\item (2.3 \#98) Simplify \scalebox{1.5}{$\dfrac{\frac{1}{2c+d}-\frac{1}{2c}}{d}$}
+	\vfill
+	\end{enumerate}
+\end{enumerate}
+\end{document}
+

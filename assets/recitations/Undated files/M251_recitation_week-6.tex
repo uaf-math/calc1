@@ -1,0 +1,115 @@
+
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx, pgfplots,xfrac} 
+\usepackage[all]{xy}
+\usepackage{polynom} 
+%\usepackage{pdfsync} %% I don't know why this messes up tabular column widths
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array,tikz}
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=black,only marks,mark=*}} \pgfplotsset{holdot/.style={color=black,fill=white,only marks,mark=*}}
+
+
+\pagestyle{fancy} 
+\lfoot{}
+\rfoot{ R6: 3-6 \& 3-7 prep}
+
+\begin{document}
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\renewcommand{\d}{\displaystyle}
+
+\vspace*{-0.7in}
+
+%%%%%%%%%intro page
+\begin{center}
+  \large
+  \sc{Recitation: Week 6}\\ \vfill
+\end{center}
+ This worksheet is a refresher on rules about solving equations for a particular variable and inverse functions. \\ \vfill
+ 
+ \begin{center} Solving Equations \end{center}
+% INSTRUCTORS: You will want to talk about this principle at the beginning of class. You may need to talk about \#2 at the beginning.\\
+
+ \begin{enumerate}
+ \item \fbox{The Zero Principle} If $A \cdot B \cdot C = 0$, then $A=0$ or $B = 0$ or $C=0.$
+ \item Use this principle to solve each of the equations below for $x.$
+ 	\begin{enumerate}
+ 	\item $15x^2(x^4+2)(2x^2-6)=0$
+	\vfill
+	\item $x^5+x^3-2x+1=1$
+	\vfill
+	\end{enumerate}
+\item Explain why the zero in the Zero Principle cannot be replaced by any other number. 
+\vfill
+\item \fbox{Zeros and Fractions} If $\frac{A}{B}=0,$ then $A=0.$
+\item Use the principle above to solve the equation $x+\frac{1}{x+2}=0.$
+\vfill
+\item (like 3.6 \# 243) For each function below, find $x$-values where tangent is horizontal.
+	\begin{enumerate}
+	\item $f(x)=(x^4+2x^2)^3$
+	\vfill
+	\item $f(x)=\sqrt{x^3+8}$
+	\vfill
+	\end{enumerate}
+ \end{enumerate}
+ \newpage
+ \begin{center} Inverse Functions \end{center}
+ \begin{enumerate}
+ \item Several points on the graph of $y=f(x)$ are listed below. Plot these points and sketch $f(x)$ assuming it is continuous.
+ 
+ \begin{tabular}{c || c| c|c|c|c|c|c}
+ $x$ &-3& -2&-1&0&1&2\\
+ \hline
+ $f(x)$ &8& 4&2&1&0.5&0.25 \\
+ \end{tabular}
+ \vfill
+ 
+Recall that a function and its inverse switch input and output values (or, alternatively) they switch $x$ and $y.$ Use this fact to plot points of $f^{-1}.$ Plot these on the same set of axes and use them to sketch $f^{-1}$ assuming it is also continuous.
+
+\item Let $f(x)=x^3$. Algebraically find its inverse $f^{-1}(x)$ and sketch them on the same set of axes.
+\vfill
+
+\item \textbf{The notation for inverse functions is confusing!!} In each case below, explain why the two functions (i) and (ii) are different.
+	\begin{enumerate}
+	\item $f(x)=x^3$: (i) $f^{-1}(x)$ and (ii) $(f(x))^{-1}$
+	\vspace{.5in}
+ 	\item (i) $g(x)=\sin^{-1}(x)$ and (ii) $h(x)=(\sin (x))^{-1}$
+	\vspace{.5in}
+ 	\end{enumerate}
+\newpage
+\item Explain why the $-1$'s (or $-3$'s mean different things in the expressions below and explain \textbf{how you can tell the difference}:\\
+$$ x^{-1} \hspace{.3in}  f^{-1}(x) \hspace{.3in} 2x^{-3} \hspace{.3in}  \tan^{-3}(x) \hspace{.3in}  \tan^{-1}(x) \hspace{.3in}  (\tan(x))^{-1} \hspace{.3in} (2x)^{-3}$$
+\vspace{1in}
+
+\item If $f(2)=7,$ what can you say about $f^{-1}$?
+\vspace{0.5in}
+
+\item What piece of information about $f(x)$ do you need in order to know $f^{-1}(8)$?
+\vspace{0.5in}
+
+\item Using the ideas from the previous two questions (5 and 6), explain why we cannot talk of the inverse of $f(x) =x^2$ unless we restrict the domain from the typical $(-\infty,\infty)$ to something like $[0,\infty).$
+\vfill
+
+\item Sketch the graphs of $f(x) = \sin (x)$ and $g(x)= \tan (x)$ below. (On separate axes.) Explain why it does not make sense to find inverses of these functions without some kind of modification? What should that modification be?
+\vfill
+\newpage
+\item Graph $f(x)=\sin (x)$ and $f^{-1}= \sin^{-1} (x)$ on the same set of axes.
+\vfill
+\item Graph $f(x)=\cos (x)$ and $f^{-1}= \cos^{-1} (x)$ on the same set of axes.
+\vfill
+\item Graph $f(x)=\tan (x)$ and $f^{-1}= \tan^{-1} (x)$ on the same set of axes.
+\vfill
+\end{enumerate}
+\end{document}
+
