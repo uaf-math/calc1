@@ -1,8 +1,7 @@
-{% for recitation in include.data %}
-### {{recitation.name}}
+{% assign data = include.data %}
 
 <table style="border-spacing:10px">
-{% for v in quiz.versions %}
+{% for c in data.recitations %}
 <tr valign="top">
   <td>
     {{ c.Week }}
@@ -19,12 +18,12 @@
  </td>
   <td>
     {% for s in c.sections %}
-      <a href="{{s.blank}}">blank</a><br>
+      <a href="{{ data.home }}/{{s.blank}}">blank</a><br>
     {% endfor %}
  </td>
   <td>
     {% for s in c.sections %}
-      <a href="{{s.filled}}">filled</a><br>
+      <a href="{{ data.home }}/{{s.filled}}">filled</a><br>
     {% endfor %}
  </td>
   <td>
@@ -35,4 +34,3 @@
 </tr>
 {% endfor %}
 </table>
-{% endfor %}

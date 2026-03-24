@@ -1,5 +1,5 @@
 home: assets/recitations
-
+recitations:
 - Week: Week 1
   sections:
     - date: Jan 13
