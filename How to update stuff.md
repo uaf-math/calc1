@@ -29,3 +29,5 @@
   - As semester progresses, add entries to quizzes-SEMESTER.yml in _data folder. Formatting of entries can be seen in prior .yml files.
   - This is in fact, the general scheme for most items that show up in the toc.yaml
   - I think.
+  
+- As a general rule, content should be in assets/kind/semester folders. In future, we should only keep 3 semester live.
