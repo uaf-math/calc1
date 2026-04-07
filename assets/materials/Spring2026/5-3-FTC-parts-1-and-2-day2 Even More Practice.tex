@@ -1,0 +1,84 @@
+\documentclass[11pt,fleqn]{article} 
+\usepackage[margin=0.8in, head=0.8in]{geometry} 
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{fancyhdr} 
+\usepackage{palatino, url, multicol}
+\usepackage{graphicx, pgfplots} 
+\usepackage[all]{xy}
+\usepackage{polynom,tabularx} 
+%\usepackage{pdfsync} %% I don't know why this messes up tabular column widths
+\usepackage{enumerate, adjustbox}
+\usepackage{framed}
+\usepackage{setspace}
+\usepackage{array}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+
+\usepackage[parfill]{parskip}
+\usetikzlibrary{arrows}
+
+\usetikzlibrary{calc}
+
+\pgfplotsset{compat=1.6}
+
+\pgfplotsset{soldot/.style={color=blue,only marks,mark=*}} \pgfplotsset{holdot/.style={color=blue,fill=white,only marks,mark=*}}
+
+\renewcommand{\headrulewidth}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+\def\ds{\displaystyle}
+
+\renewcommand{\d}{\displaystyle}
+
+\newcommand{\ans}[1][2]{ \ \rule{#1 in}{.5 pt} \ }
+
+
+\pagestyle{fancy} 
+\rfoot{5-3}
+
+\begin{document}
+
+\vspace*{-0.7in}
+
+\begin{center}
+  \Large\sc{Section 5.3: The Fundamental Theorem of Calculus (day 2ish)}\\
+  \sc{Even More Practice!}
+  \end{center}
+\begin{enumerate}
+\item Find the derivative of each function below.
+	\begin{multicols}{2}
+	\begin{enumerate}
+	\item $\d g(x)=\int_{-1}^x t^2e^t\: dt$
+	\item $\d h(x)=\int_0^{x^2+1} \sin(t) \: dt$
+	\item $\d k(x)=\int_{1}^{\sqrt{x}}\tan(t)\: dt$
+	\item $\d l(x)=\int_{\sqrt{x}}^{1}\tan(t)\: dt$
+	\item $\d m(\theta)=\int_{0}^{\tan\theta}\sec^{2}y\: dy$
+	\item $\d n(x)=\int_{-1}^{x}\frac{t^{2}}{t^{2}+4}\: dt -\int_{3}^{x^{2}}\frac{t^{2}}{t^{2}+{4}}\: dt$
+	\end{enumerate}
+	\end{multicols}
+\vfill
+\newpage
+\item Evaluate each definite integral below using the Fundamental Theorem of the Calculus, Part 2. 
+
+\begin{itemize} 
+\item Hint 1: \emph{You may need to do some rewriting to get it into the form of something you know how to take the antiderivative of.}
+\item Hint 2: \emph{How does the derivative of $f(5t)$ relate to the derivative of $f(t)$?}
+\end{itemize}
+	\begin{multicols}{2}
+	\begin{enumerate}
+	\item $\d \int_{0}^{2} x(x-3)\: dx$
+	\item $\d \int_{\pi/2}^{0}\frac{1+\cos (2t)}{2}\: dt$ 	\item $\d \int_{-\sqrt{3}}^{\sqrt{3}}(t+1)(t^{2}+4)\: dt$
+	\item $\d \int_{1}^{2}\left(\frac{1}{x}-e^{-x}\right)\: dx$
+	\item $\d \int_{2}^{4}x^{\pi-1}\: dx$
+	\item $\d \int_{-1}^{0}\pi^{x-1}\: dx$
+	\end{enumerate}
+	\end{multicols}
+
+
+
+\end{enumerate}
+\end{document}
