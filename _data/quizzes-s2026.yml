@@ -47,3 +47,8 @@ quizzes:
   - name: Quiz 9
     blank: M251S26-Quiz-9.pdf
     solutions: M251S26-Quiz-9-solutions.pdf 
+- name: Quiz 10
+  versions:
+  - name: Quiz 10
+    blank: M251S26-Quiz-10.pdf
+    solutions: M251S26-Quiz-10-solutions.pdf 
