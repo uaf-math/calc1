@@ -6,10 +6,10 @@ derivative:
       blank: M251s26-Derivative-try1.pdf
       solutions: M251s26-Derivative-try1-solutions.pdf
     - name: Try 2
-      blank: M251s25-Derivative-try2.pdf
+      blank: M251s26-Derivative-try2.pdf
       solutions: M251s26-Derivative-try2-solutions.pdf
  - name: Try 3
-      blank: M251s25-Derivative-try3.pdf
+      blank: M251s26-Derivative-try3.pdf
       solutions: M251s26-Derivative-try3-solutions.pdf
 integral:
   versions:
