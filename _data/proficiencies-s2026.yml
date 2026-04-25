@@ -14,8 +14,8 @@ derivative:
 integral:
   versions:
     - name: V1
-      blank: M251s26-Integral-Try1-V1.pdf
-      solutions: M251s26-Integral-Try1-V1-solutions.pdf
+      blank: M251S26-Integral-Try1-V1.pdf
+      solutions: M251S26-Integral-Try1-V1-solutions.pdf
 #     - name: V2
 #       blank: M251s24-Integral-v2.pdf
 #       solutions: M251s24-Integral-v2-solutions.pdf
