@@ -8,7 +8,7 @@ derivative:
     - name: Try 2
       blank: M251s26-Derivative-try2.pdf
       solutions: M251s26-Derivative-try2-solutions.pdf
- - name: Try 3
+    - name: Try 3
       blank: M251s26-Derivative-try3.pdf
       solutions: M251s26-Derivative-try3-solutions.pdf
 integral:
