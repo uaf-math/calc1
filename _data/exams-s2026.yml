@@ -10,3 +10,8 @@ midterm2:
     - name: V1 
       blank: M251-S26-M2.pdf
       solutions: M251-S26-M2-solutions.pdf
+final:
+  versions:
+    - name: V1 
+      blank: M251-S26-Final.pdf
+      solutions: M251-S26-Final-solutions.pdf
