@@ -37,7 +37,7 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 | Jennifer Hill | Online | by appointment |
 
 
-### TA Information for Spring 2026
+### TA Information for Fall 2026
 
 | Section | Instructor                  | Office Hours |
 | :-------|:----------------------------| --------|
