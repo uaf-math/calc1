@@ -16,10 +16,10 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 | 901     | James Gossell |    | MWF 9:15-10:15   | Murie 103/105 |
 |         | jegossell@alaska.edu |    | T Th  9:45-11:15 | Murie 103/105 |
 ||||||
-| 001     | James Gossell |    | MWF 11:45-12:45  | Chapman 106 |
+| 902     | James Gossell |    | MWF 11:45-12:45  | Chapman 106 |
 |         | jegossell@alaska.edu |    | T Th  11:30-1:00 | Chapman 106 |
 ||||||
-| 001     | Anthony Graves-McCleary |    | MWF 10:30-11:30 | Gruening 409 |
+| 903     | Anthony Graves-McCleary |    | MWF 10:30-11:30 | Gruening 409 |
 |         | jegossell@alaska.edu   |    | T Th 9:45-11:15 | Chapman 106 |
 ||||||
 | 001     | Jennifer Hill          |    | Asynchronous  |  |
