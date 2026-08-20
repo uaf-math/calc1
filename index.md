@@ -9,39 +9,44 @@ This is the central website for all sections of Calculus I
 taught by the [Department of Mathematics and Statistics](http://www.uaf.edu/dms)
 at the [University of Alaska Fairbanks](http://www.uaf.edu).
 
-### Instructor and Section Information for Spring 2025
+### Instructor and Section Information for Fall 2026
 
 | Section | Instructor                  |    | Time             | Location |
 | :-------|:----------------------------|----| :----------------| :--------|
-| 901   | James Gossell |    | MWF 9:15-10:15   | Murie 103/105 |
+| 901     | James Gossell |    | MWF 9:15-10:15   | Murie 103/105 |
 |         | jegossell@alaska.edu |    | T Th  9:45-11:15 | Murie 103/105 |
 ||||||
-| 902     | Gordon Williams  |    | MWF 11:45-12:45  | Chap 106 |
-|         | giwilliams@alaska.edu |    | T Th  11:30-1:00 | Chap 106 |
+| 001     | James Gossell |    | MWF 11:45-12:45  | Chapman 106 |
+|         | jegossell@alaska.edu |    | T Th  11:30-1:00 | Chapman 106 |
 ||||||
-| 001     | James Gossell                |    | Asynchronous  |  |
-|         | jegossell@alaska.edu   |    |  |  |
+| 001     | Anthony Graves-McCleary |    | MWF 10:30-11:30 | Gruening 409 |
+|         | jegossell@alaska.edu   |    | T Th 9:45-11:15 | Chapman 106 |
+||||||
+| 001     | Jennifer Hill          |    | Asynchronous  |  |
+|         | jahill9@alaska.edu   |    |  |  |
 
 ### Office Hours (Drop in, no appointment needed!)
 
 | Instructor| Location | Day/Time |
 | :---------| :------------| :----------|
 ||||
-| James Gossell | Chapman 301D | M 2:30-3:30, W 1-2:00 |
-||Rasmusson Library 6th Floor|T 2-3:00|
-| Gordon Williams | Chapman 306D | MTh 10-11:00 |
-|| Rasmusson Library 6th Floor | W 1-2:00 |
+| James Gossell | Chapman 301D | W F 2:00-3:00 |
+||Rasmusson Library 6th Floor| TBD|
+| Anthony Graves-McCleary | Gruening 508E | TBD |
+|| Rasmusson Library 6th Floor | TBD |
+| Jennifer Hill | Online | by appointment |
 
 
 ### TA Information for Spring 2026
 
 | Section | Instructor                  | Office Hours |
 | :-------|:----------------------------| --------|
-| 901, 902, 001 | Henry Agbi-Kaiser | 10-11 AM MWF |
-|               | hoagbikaiser@alaska.edu | Student Success Center |
-| |  | Rasmusson Library 6th Floor |
-
-### Peer Mentor
+| 901, 902,     | Anslem Amaonyeiro | TBD |
+|               | auamaonyeiro@alaska.edu | Student Success Center |
+|               |                         | Rasmusson Library 6th Floor |
+| 903, 001,     | Landrum Anderson | TBD |
+|               | ldanderson5@alaska.edu | Student Success Center |
+|               |                         | Rasmusson Library 6th Floor |
 
 ### Resources
 
@@ -56,6 +61,6 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
     - ISBN-13: 978-1938168024
     - ISBN-10: 193816802X
 - Free student resources online: [Student Resources](https://openstax.org/details/books/calculus-volume-1?Student%20resources)
-- Your grades and complete solutions to homework are available on [Canvas](https://www.uaf.edu/uaf/current/canvas.php)
+- Your grades and complete solutions to homework are available on Canvas.
 
   [<img src="GitHub-Mark-32px.png" align="right">](https://github.com/uaf-math/calc1 "github repository for this site")
