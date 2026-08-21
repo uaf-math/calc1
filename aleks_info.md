@@ -15,32 +15,24 @@ For in-person sections, taking the ALEKS assessment **replaces** the Tuesday, 20
 
 ## Dates and Locations for in-person sections
 
-* Complete your ALEKS PPL assessment on Tuesday, 20 January.
-* Location: Chapman Hall 103
-* What to bring: some ID
-
-## Sign-up Procedures for in-person sections
-
-By Friday, 16 January, **schedule** a two-hour time slot to take your
-proctored ALEKS assessment (link in course announcement and on
-Canvas). Students will take their
-proctored assessment on Tuesday, 20 January.
+* Complete your ALEKS PPL assessment on during the second week of the semester. (More instructions to follow.)
 
 ## Dates and sign-up for online sections
 
-**Schedule** a two-hour time slot with eCampus. Students must complete
-the assessment by Friday, 16 January.
+**Schedule** a two-hour time slot with eCampus. Students must complete the assessment by Friday, September 11.
 
 ## How to first log into ALEKS PPL.
 
-If you want to login to ALEKS in advance of your proctored ALEKS, the directions are below. The advantage of logging into ALEKS in advance is to make things faster on the day of the assessment or to fix any login issues (like forgetting your password). It is not mandatory that you login ahead of time, but it is strongly recommended!
+If you want to login to ALEKS in advance of your proctored ALEKS assessment, the directions are below. The advantage of logging into ALEKS in advance is to make things faster on the day of the assessment or to fix any login issues (like forgetting your password). It is not mandatory that you login ahead of time, but it is strongly recommended!
 
 1. Go to the [ALEKS sign up page](https://www.aleks.com/sign_up)
 
-2. Enter our class code: **ERPLX-HPDH4**
+2. Enter our class code: **WY6RP-XGW3K**
 
-3. ALEKS will then direct you through the registration process. **Write down your login name and password** as you will need them for the proctored assessment which will use a different computer.
+3. Confirm the class is correct. Our class cohort is called "Calculus I & Applied Engineering MATH, Fall 2026".
 
-4. Now that you have logged in to ALEKS PPL, it will give you a tutorial on how to use the interface and you are done with the setup.
+4. ALEKS will then direct you through the registration process. **Write down your login name and password** as you will need them for the proctored assessment which will use a different computer.
+
+5. Now that you have logged in to ALEKS PPL, it will give you a tutorial on how to use the interface and you are done with the setup.
 
 NOTE: You will not be able to start your assessment without a password.
