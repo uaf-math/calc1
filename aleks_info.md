@@ -11,7 +11,7 @@ ALEKS is an online tool for assessing precalculus content knowledge. The ALEKS t
 
 The reason you are taking this assessment is to help you have a better sense of your strengths and areas for improvement. The assessment will also help the Calculus I teaching team (instructors and TA's) have a better understanding of how to provide extra support.
 
-For in-person sections, taking the ALEKS assessment **replaces** the Tuesday, 20 January Recitation.
+For in-person sections, taking the ALEKS assessment **replaces** the Tuesday, September 1st Recitation.
 
 ## Dates and Locations for in-person sections
 
