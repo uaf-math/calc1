@@ -20,7 +20,7 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 |         | jegossell@alaska.edu |    | T Th  11:30-1:00 | Chapman 106 |
 ||||||
 | 903     | Anthony Graves-McCleary |    | MWF 10:30-11:30 | Gruening 409 |
-|         | jegossell@alaska.edu   |    | T Th 9:45-11:15 | Chapman 106 |
+|         | ajgravesmccleary.edu   |    | T Th 9:45-11:15 | Chapman 106 |
 ||||||
 | 001     | Jennifer Hill          |    | Asynchronous  |  |
 |         | jahill9@alaska.edu   |    |  |  |
