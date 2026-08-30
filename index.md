@@ -32,7 +32,7 @@ at the [University of Alaska Fairbanks](http://www.uaf.edu).
 ||||
 | James Gossell | Chapman 301D | W F 2:00-3:00 |
 ||Rasmusson Library 6th Floor| TBD|
-| Anthony Graves-McCleary | Gruening 508E | TBD |
+| Anthony Graves-McCleary | Gruening 508E | M F 1:00-2:00, R 2:00-3:00 |
 || Rasmusson Library 6th Floor | TBD |
 | Jennifer Hill | Online | by appointment |
 
