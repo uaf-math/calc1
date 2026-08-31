@@ -17,9 +17,12 @@ For in-person sections, taking the ALEKS assessment **replaces** the Tuesday, Se
 
 * Complete your ALEKS PPL assessment on during the second week of the semester. Each student will need to sign up for and take a 2-hour proctored ALEKS assessment in the testing center on the 6th floor of the Rasmuson Library. To sign up:
 
-1. In click "RegisterBlast Test Scheduling" in Canvas or go directly to the scheduling formLinks to an external site.. You will need to be logged in with your UAF credentials.
+1. In click "RegisterBlast Test Scheduling" in Canvas. You will need to be logged in with your UAF credentials.
+
 2. In Step 1 “Choose exam group”, select UAF Course Proctored Exams - Fall 2026.
+
 3. In Step 2 "Select your course", select Fall 2026 Math F251X 901 - Calculus I (CRN 73198). Note: Even if you are in section 902 or 903, you need to choose 901 because that is the generic in-person Calculus Canvas course. Do not choose 001 because that is for asynchronous students only!
+
 4. In Step 3 “Choose an exam”, select Proctored ALEKS assessment - J. Gossell. This is for all in-person students regardless of your instructor. The remainder of the form will ask you to choose a time and date for your assessment as well as some basic information about yourself. In-person students may take ALEKS any day this week (August 31 - September 4). Once completed, you will get a confirmation screen and an email confirmation.
 
 
