@@ -9,8 +9,13 @@ Links to this semester's quizzes, and solutions, will appear here as they are co
 
 {% include quiz_table.md  data=site.data.quizzes-f2026%}
 
+## Quizzes for <span style="color:blue">Spring 2026</span>
+
+{% include quiz_table.md  data=site.data.quizzes-s2026%}
+
 #### Past Semesters:
 
+  * [Spring 2026](quizzes-s2026)
   * [Fall 2025](quizzes-f2025)
   * [Spring 2025](quizzes-s2025)
   * [Fall 2024](quizzes-f2024)
