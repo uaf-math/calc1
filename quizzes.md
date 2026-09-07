@@ -3,14 +3,15 @@ layout: course-page
 title: Quizzes
 ---
 
-## Quizzes for <span style="color:blue">Spring 2026</span>
+## Quizzes for <span style="color:blue">Fall 2026</span>
 
 Links to this semester's quizzes, and solutions, will appear here as they are completed. Scroll down to access materials from previous semesters! 
 
-{% include quiz_table.md  data=site.data.quizzes-s2026%}
+{% include quiz_table.md  data=site.data.quizzes-f2026%}
 
 #### Past Semesters:
 
+  * [Spring 2026](quizzes-s2026)
   * [Fall 2025](quizzes-f2025)
   * [Spring 2025](quizzes-s2025)
   * [Fall 2024](quizzes-f2024)
