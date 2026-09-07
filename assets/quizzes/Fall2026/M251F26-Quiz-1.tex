@@ -1,0 +1,216 @@
+
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc,trees,positioning,arrows,fit,shapes,calc}
+\pgfplotsset{compat = newest}
+\tikzset{
+  jumpdot/.style={mark=*,solid},
+  excl/.append style={jumpdot,fill=white},
+  incl/.append style={jumpdot,fill=black},
+}
+ 
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{\baselineskip 30pt
+%\emph{\@doctitle\hfill\@docdate}
+\emph{\@docdate\hfill\@doctitle}
+\ifnum \value{page} > 1\relax\else\\
+\emph{Name: \rule{3.5in}{1pt}\hfill \@docscoring}\fi}
+\rfoot{\emph{\@docversion}}
+\lfoot{\emph{\@doccourse}}
+\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} to
+% start a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+%\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 \ifnum1=0#1\relax point\else points\fi]}\hskip1ex}
+%\textbf{(#1 \ifnum1=0#1\relax thing\else things\fi
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+\def\be{\begin{enumerate}}
+\def\ee{\end{enumerate}}
+
+\newcommand{\ans}{\rule{2 in}{.5pt}}
+\newcommand{\bigans}[1]{\rule{#1 in}{.5pt}}
+
+\doctitle{Math F251X: Quiz 1}
+\docdate{Fall 2026}
+\doccourse{UAF Calculus I}
+\docversion{v-1}
+\docscoring{\blank{0.8in} / 25}
+\begin{document}
+\textbf{Please circle your section:} \hfill 901 (Gossell)  \hfill 902 (Gossell) \hfill 903 (Graves-McCleary)\\
+
+There are 6 questions worth 25 points on this quiz. No aids (book,
+calculator, etc.)
+are permitted.  {\bf Show all work for full credit.}
+
+%Problem
+\problem{6} Given functions $f(x)=x^3-3x+1$ and $g(x)=2^x$, compute the following and \textbf{simplify} your answers:
+\begin{subproblems}
+\item $f(2)+g(2)$ \\
+  \vfill
+  \quad \hspace{4in} \underline{\hspace{2in}}
+\item $f(0)-g(0)$ \\
+  \vfill
+  \quad \hspace{4in} \underline{\hspace{2in}}
+\item $g(f(1))$ \\
+  \vfill
+  \quad \hspace{4in} \underline{\hspace{2in}}
+\end{subproblems}
+
+\problem{3} Write an equation of the line passing through the points $(1,2)$ and $(-1,5)$.\\
+
+\vspace{1.5in}
+
+\problem{3} Find all $x$-intercepts for the function $f(x)=2x^2-7x+5$.
+
+\vspace{1.8in}
+
+\newpage
+
+\problem{4} In the right triangle below, suppose $a=5$ and $c=\sqrt{34}$.
+
+\begin{multicols}{2}
+
+\begin{tikzpicture}
+  % Triangle
+  \draw (0,0) node[anchor=north]{$A$}
+    -- (4,0) node[anchor=north]{$C$}
+    -- (4,4.5) node[anchor=south]{$B$}
+    -- cycle;
+
+  % Side labels
+  \node at (2,-0.5){$b$};
+  \node at (4.4,2.3){$a$};
+  \node at (1.5,2.3){$c$};
+
+  % Angle markers 
+  \draw (0.65,0) arc[start angle=0,end angle=71,radius=0.45];
+  \draw (3.59,4.05) arc[start angle=200,end angle=270,radius=0.45];
+
+  % Right angle marker at C
+  \draw (4,0) ++(-0.4,0) -- ++(0,0.4) -- ++(0.4,0);
+
+\end{tikzpicture}
+
+\vspace{.1in}
+
+Calculate the following:\\
+
+$\sin(A)=$\\
+
+\vspace{.1in}
+
+$\cos(A)=$\\
+
+\vspace{.1in}
+
+$\tan(A)=$\\
+
+\end{multicols}
+
+\problem{3} Evaluate the following:
+
+\begin{multicols}{3}
+\begin{subproblems}
+\item $\displaystyle \sin\left(\frac{\pi}{4}\right)=$
+
+\item $\displaystyle \tan\left(\frac{5\pi}{6}\right)=$
+
+\item $\displaystyle \sec\left(\pi\right)=$
+
+\end{subproblems}
+\end{multicols}
+
+\vspace{.2in}
+
+\problem{6} State the domain and range of the following functions. Use interval notation.\\
+\begin{subproblems}
+\item $h(x) = \ln(x)$ \\
+  \vfill
+   domain:  \underline{\hspace{2in}} \hfill range:  \underline{\hspace{2in}}\\
+\item $\displaystyle{g(x) = 3\cos(x)}+1$ \\
+  \vfill
+   domain:  \underline{\hspace{2in}} \hfill range:  \underline{\hspace{2in}}\\
+\item $f(x) = -\sqrt{x+1}-5$ \\
+  \vfill
+   domain:  \underline{\hspace{2in}} \hfill range:  \underline{\hspace{2in}}\\
+\end{subproblems}
+
+
+\end{document}
+%%% Local Variables:
+%%% mode: LaTeX
+%%% TeX-master: t
+%%% End:
