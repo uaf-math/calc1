@@ -11,7 +11,7 @@ Links to this semester's quizzes, and solutions, will appear here as they are co
 
 #### Past Semesters:
 
-  * [Spring 2026](quizzes-s2026)
+  #* [Spring 2026](quizzes-s2026)
   * [Fall 2025](quizzes-f2025)
   * [Spring 2025](quizzes-s2025)
   * [Fall 2024](quizzes-f2024)
