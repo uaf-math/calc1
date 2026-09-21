@@ -6,3 +6,14 @@ quizzes:
   - name: Quiz 1
     blank: M251F26-Quiz-1.pdf
     solutions: M251F26-Quiz-1-s.pdf
+- name: Quiz 2
+  versions:
+  - name: Quiz 2
+    blank: M251F26-Quiz-2.pdf
+    solutions: M251F26-Quiz-2-s.pdf
+- name: Quiz 3
+  versions:
+  - name: Quiz 3
+    blank: M251F26-Quiz-3.pdf
+    solutions: M251F26-Quiz-3s.pdf
+    
