@@ -1,0 +1,199 @@
+
+\documentclass[12pt]{article}
+
+% Layout.
+\usepackage[top=1in, bottom=0.75in, left=1in, right=1in, headheight=1in, headsep=6pt]{geometry}
+
+% Fonts.
+\usepackage{mathptmx}
+\usepackage[scaled=0.86]{helvet}
+\renewcommand{\emph}[1]{\textsf{\textbf{#1}}}
+
+% TiKZ.
+\usepackage{tikz, pgfplots}
+\usetikzlibrary{calc,trees,positioning,arrows,fit,shapes,calc}
+\pgfplotsset{compat = newest}
+\tikzset{
+  jumpdot/.style={mark=*,solid},
+  excl/.append style={jumpdot,fill=white},
+  incl/.append style={jumpdot,fill=black},
+}
+ 
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+
+% Misc packages.
+\usepackage{amsmath,amssymb,latexsym,enumerate}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{multicol}
+
+% Commands to set various header/footer components.
+\makeatletter
+\def\doctitle#1{\gdef\@doctitle{#1}}
+\doctitle{Use {\tt\textbackslash doctitle\{MY LABEL\}}.}
+\def\docdate#1{\gdef\@docdate{#1}}
+\docdate{Use {\tt\textbackslash docdate\{MY DATE\}}.}
+\def\doccourse#1{\gdef\@doccourse{#1}}
+\let\@doccourse\@empty
+\def\docscoring#1{\gdef\@docscoring{#1}}
+\let\@docscoring\@empty
+\def\docversion#1{\gdef\@docversion{#1}}
+\let\@docversion\@empty
+\makeatother
+
+% Headers and footers layout.
+\makeatletter
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} % Clears all headers/footers.
+\lhead{\baselineskip 30pt
+%\emph{\@doctitle\hfill\@docdate}
+\emph{\@docdate\hfill\@doctitle}
+\ifnum \value{page} > 1\relax\else\\
+\emph{Name: \rule{3.5in}{1pt}\hfill \@docscoring}\fi}
+\rfoot{\emph{\@docversion}}
+\lfoot{\emph{\@doccourse}}
+\cfoot{\emph{\thepage}}
+\renewcommand{\headrulewidth}{0pt}%
+\makeatother
+
+% Paragraph spacing
+\parindent 0pt
+\parskip 6pt plus 1pt
+
+% A problem is a section-like command. Use \problem{5} to
+% start a problem worth 5 points.
+\newcounter{probcount}
+\newcounter{subprobcount}
+\setcounter{probcount}{0}
+\newcommand{\problem}[1]{%
+\par
+\addvspace{4pt}%
+\setcounter{subprobcount}{0}%
+\stepcounter{probcount}%
+%\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 points]}\hskip1ex}
+\makebox[0pt][r]{\emph{\arabic{probcount}.}\hskip1ex}\emph{[#1 \ifnum1=0#1\relax point\else points\fi]}\hskip1ex}
+%\textbf{(#1 \ifnum1=0#1\relax thing\else things\fi
+\newcommand{\thesubproblem}{\emph{\alph{subprobcount}.}}
+
+% Subproblems are an enumerate-like environment with a consistent
+% numbering scheme. 
+% Use \begin{subproblems}\item...\item...\end{subproblems}
+\newenvironment{subproblems}{%
+\begin{enumerate}%
+\setcounter{enumi}{\value{subprobcount}}%
+\renewcommand{\theenumi}{\emph{\alph{enumi}}}}%
+{\setcounter{subprobcount}{\value{enumi}}\end{enumerate}}
+
+% Blanks for answers in normal and math mode.
+\newcommand{\blank}[1]{\rule{#1}{0.75pt}}
+\newcommand{\mblank}[1]{\underline{\hspace{#1}}}
+\def\emptybox(#1,#2){\framebox{\parbox[c][#2]{#1}{\rule{0pt}{0pt}}}}
+
+% Misc.
+\renewcommand{\d}{\displaystyle}
+\newcommand{\ds}{\displaystyle}
+\def\bc{\begin{center}}
+\def\ec{\end{center}}
+\def\be{\begin{enumerate}}
+\def\ee{\end{enumerate}}
+
+\newcommand{\ans}{\rule{2 in}{.5pt}}
+\newcommand{\bigans}[1]{\rule{#1 in}{.5pt}}
+
+\doctitle{Math F251X: Quiz 6}
+\docdate{Fall 2026}
+\doccourse{UAF Calculus I}
+\docversion{v-1}
+\docscoring{\blank{0.8in} / 25}
+\begin{document}
+\textbf{Please circle your section:} \hfill 901 (Gossell)  \hfill 902 (Gossell) \hfill 903 (Graves-McCleary)\\
+
+No aids (book, calculator, etc.) are permitted.  {\bf Show all work for full credit.}
+
+%Problem
+\problem{12} Find the derivatives of each of the following functions. Use correct derivative notation. You do not need to simplify your answers.
+\begin{subproblems}
+	\item $f(x)=\displaystyle e^x+x^e+e^e$
+	\vfill
+	\vfill
+	\item $g(x)=\arctan(x^2)$
+	\vfill
+	\vfill
+	\item $h(x)=\log_3(x)\arccos(e^x)$
+	\vfill
+	\vfill
+	\vfill	
+	\item $r(\theta)=\displaystyle\ln\left(\frac{\cos(\theta)}{\sqrt{2\theta+3}}\right)$ \hspace{1cm} (Hint:  You may want use log properties to simplify first.)
+	\vfill
+	\vfill
+	\vfill
+	\vfill
+	\vfill
+	\vfill
+\end{subproblems}
+
+\newpage
+
+\problem{9} Part of the graph of $3^x-2\sin(y)=1$ is shown below.
+\begin{multicols}{2}
+
+\begin{subproblems}
+	\item Sketch the \textbf{tangent line} to this graph at the point $(0,0)$.
+	\vfill
+	\item Use implicit differentiation to find $\displaystyle \frac{dy}{dx}$.
+	\vfill
+	\vfill
+	\vfill
+	\begin{center}
+    \includegraphics[width=0.45\textwidth]{Q6Graph.png}
+	\end{center}
+\end{subproblems}
+\end{multicols}
+\vfill
+\hspace{.3cm} \textbf{c.}  Use your answer in (b) to find the {\bf slope} of the tangent line to $(0,0)$.
+
+
+
+\vfill
+
+\problem{4} Considter the function $y=(3x+1)^x$.
+
+\begin{subproblems}
+
+\item Write down \textbf{your first step} in finding $\displaystyle \frac{dy}{dx}$.
+
+\vfill
+
+\item Choose the correct expression for $\displaystyle\frac{dy}{dx}$. ({\bf Circle one}.)
+
+\begin{multicols}{2}
+\begin{enumerate}[(I)]
+
+\item $\displaystyle 3x(3x+1)^{x-1}$\\
+
+\item $\displaystyle 3x(3x+1)^{x-1}\left(\frac{\ln(3x+1)}{3x+1}\right)$\\
+
+\item $\displaystyle(3x+1)^x\left(\ln(3x+1)+\frac{x}{3x+1}\right)$\\
+
+\item $\displaystyle (3x+1)^x\ln(3x+1)$\\
+
+\item $\displaystyle(3x+1)^x\left(\ln(3x+1)+\frac{3x}{3x+1}\right)$\\
+
+\item $\displaystyle(3x+1)^x + \frac{\ln(3x+1)}{3x+1}$\\
+
+\end{enumerate}
+
+\end{multicols}
+\end{subproblems}
+
+
+
+
+\end{document}
+%%% Local Variables:
+%%% mode: LaTeX
+%%% TeX-master: t
+%%% End:
