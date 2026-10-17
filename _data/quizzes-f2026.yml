@@ -26,3 +26,8 @@ quizzes:
   - name: Quiz 5
     blank: M251F26-Quiz-5.pdf
     solutions: M251F26-Quiz-5s.pdf
+- name: Quiz 6
+  versions:
+  - name: Quiz 6
+    blank: M251F26-Quiz-6.pdf
+    solutions: M251F26-Quiz-6s.pdf
