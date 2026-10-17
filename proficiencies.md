@@ -19,6 +19,8 @@ The Derivative and Integral Proficiencies, and their solutions, will be availabl
 <table class="asst-table">
 <tr><th>Semester</th><th>Derivative</th><th>Integral</th></tr>
 	{% include proficiency-row.md data=site.data.proficiencies-f2026 %}
+	{% include proficiency-row.md data=site.data.proficiencies-s2026 %}
+	{% include proficiency-row.md data=site.data.proficiencies-f2025 %}
 	{% include proficiency-row.md data=site.data.proficiencies-s2025 %}
 	{% include proficiency-row.md data=site.data.proficiencies-f2024 %}
 	{% include proficiency-row.md data=site.data.proficiencies-s2024 %}
